@@ -14231,6 +14231,450 @@
 										"The Ox River is a mighty, charging force, thundering downhill with a never-ending roar. It is known to change course abruptly mid-season, sweeping away encampments in flash floods and ripping out trees that have dared to grow in its way. It calms as it enters the great expanse of the Slumbering Forest before continuing its downward plunge to the lightning-lashed sea at the foot of Mabros, capital city of the Sea Empire.",
 										"Edgegather. Jutting out over the lashing palm trees of the Venom Abyss, Edgegather is a permanent encampment on the inner edge of the world. A place of trade and ritual, festival and council, the stacked wooden huts of Edgegather pile and descend over the lip of the cliff. Open cages dangle where sentries keep vigil over the jungle and Blood Mountain (p. 157), watching for signs of deliverance or destruction. For those who meet in Edgegather, there is a spirit of merriment, of dancing on the edge of a volcano, and their venomwine and endless carnivals are legendary.",
 										{
+											"type": "entries",
+											"name": "Edgegather",
+											"entries": [
+												{
+													"type": "entries",
+													"name": "The Platform",
+													"entries": [
+														"Dangling out over the Venom Abyss, the Platform is the most famous area in all of Edgegather—and the most precarious. The Platform is built of mostly wood, mud, and vines lashed tightly to the Anchorhorns, and supported underneath by a lattice of beams, enchanted to remain secure even in dire emergencies.",
+														{
+															"type": "list",
+															"style": "list-hang-notitle",
+															"items": [
+																{
+																	"type": "item",
+																	"name": "1. Firstburn.",
+																	"entry": "The huts and small buildings at the very edge of the Platform are collectively called Firstburn, because if Blood Mountain ever wipes out the city, they'll burn first. These are mostly watchposts, drinking holes, and other houses of low repute."
+																},
+																{
+																	"type": "item",
+																	"name": "2. Wattle.",
+																	"entry": "Dangling below Firstburn is a network of rope bridges, bone cages, and swinging platforms called Wattle. These are inhabited by daredevils, youths, ascetics, and those who are charged with keeping watch on the Venom Abyss below, as well as criminals and drunkards stuffed in giant, dangling jars until they atone for their crimes or sober up."
+																},
+																{
+																	"type": "item",
+																	"name": "3. Goblincliff.",
+																	"entry": "It's a known fact that goblins live in large numbers behind the Unfall, although how many and what their exact purposes might be are unclear. Generally, they're not considered much of a threat, though the occasional drunkard or child are sometimes snatched if nobody's looking."
+																},
+																{
+																	"type": "item",
+																	"name": "4. Chattercrest Aviaries.",
+																	"entry": "Among its many wonders and menaces, Edgegather is famous as the training ground of chattercrests—tiny flying saurians that can be taught to mimic mortal words almost perfectly (p. 321). The chattercrests are native to the Venom Abyss, and skilled catchers net them at great risk to bring them into their sprawling aviaries. Once trained, these little winged omnivores are easy to maintain and can carry even long speeches or songs across great distances."
+																},
+																{
+																	"type": "item",
+																	"name": "5. The Eyes.",
+																	"entry": "A pile of beehive-shaped dwellings nestled close to the frill that look out over the Venom Abyss. Occupied by only the most powerful and prosperous."
+																},
+																{
+																	"type": "item",
+																	"name": "6. House of En.",
+																	"entry": "This structure is usually abandoned, but chitin-armored guards patrol its outer walls, and the aura of menace and darkness drives the curious away. When occupied, it is the dwelling-place of the En (p. 246), who sometimes come to Edgegather to recruit promising mortal to the Path."
+																},
+																{
+																	"type": "item",
+																	"name": "7. The Frill.",
+																	"entry": "A wall built to protect the Platform from the noise, mist, and monsters that travel up the Unfall."
+																},
+																{
+																	"type": "item",
+																	"name": "8. Anchorhorns.",
+																	"entry": "Six ancient stones from a long-forgotten temple that the Platform is lashed to, keeping it aloft above the Venom Abyss. Each anchorhorn has ladders or stairs leading to a watchpost on its top, to keep guard over the falls, the city, and the wilderness, respectively. The rear faces of the Anchorhorns are painted to resemble the emperors and empresses of the Giant Empires (p. 173) and are a regular target for derision and amateur marksmanship."
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Righthand",
+													"entries": [
+														"The two sides of the river, known as Righthand and Lefthand, have a long and uneasy history. Righthanders hold Lefthanders in contempt, and vice versa. Righthand is known for its fishers, crafters, and excellent cuisine, as well as—to hear the Righthanders tell it—not being filthy degenerates like those Lefthand dungholes.",
+														{
+															"type": "list",
+															"style": "list-hang-notitle",
+															"items": [
+																{
+																	"type": "item",
+																	"name": "9. Mistdoor.",
+																	"entry": "A known entry to Nod, perpetually hidden by mist."
+																},
+																{
+																	"type": "item",
+																	"name": "10. Drinking Hole",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "11. The Coffins.",
+																	"entry": "Subterranean drinking houses offer earwax and wine to those wishing to escape from the constant roar of the Unfall."
+																},
+																{
+																	"type": "item",
+																	"name": "12. Recluse Gate.",
+																	"entry": "A mysterious private residence."
+																},
+																{
+																	"type": "item",
+																	"name": "13. Execution Wall.",
+																	"entry": "A constantly reinforced wall of poles and daubed mud, lashed together with vines and ropes. The wall keeps out the noise of the Unfall and is decorated with the corpses of those executed for their crimes and trespasses."
+																},
+																{
+																	"type": "item",
+																	"name": "14. Flood Village",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "15. Saurian Statues",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "16. Righthand Burial Ground",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "17. Pulse Enclave.",
+																	"entry": "A hidden grove of druids just outside the city who revere the Unfall as blood from the Worldheart herself."
+																},
+																{
+																	"type": "item",
+																	"name": "18. Cellar Exchange.",
+																	"entry": "A private place to barter without prying eyes."
+																},
+																{
+																	"type": "item",
+																	"name": "19. Bloodknuckle Ring",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "20. Mistbeacon.",
+																	"entry": "Beacons scattered throughout the city to pierce the mist."
+																},
+																{
+																	"type": "item",
+																	"name": "21. Spellskin Tunnels.",
+																	"entry": "Underground passages famous for the hedge magic scrawled on the walls. Some of these tunnels lead down into the old temple."
+																},
+																{
+																	"type": "item",
+																	"name": "22. Cult Den",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "23. Nutmug",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "24. Shouting Stage.",
+																	"entry": "A renowned platform for boasting, chants, epics, and other performances."
+																},
+																{
+																	"type": "item",
+																	"name": "25. Har-Kla'a.",
+																	"entry": "A neighborhood long occupied by orcs, who enjoy good standing in town—though they often clash with the arrogant dragonborn."
+																},
+																{
+																	"type": "item",
+																	"name": "26. Sightstone Stall.",
+																	"entry": "A booth that offers stones that they swear can see all, for your protection. A common swindle for newcomers… but some stones do, in fact, see and remember."
+																},
+																{
+																	"type": "item",
+																	"name": "27. Big Bosta's Hut of Lies",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "28. Righthand Market",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "29. Craven Hideout.",
+																	"entry": "A hidden enclave of the Craven of the Kraken Coast (p. 224)."
+																},
+																{
+																	"type": "item",
+																	"name": "30. Templehole.",
+																	"entry": "A crevice that leads down to the old temple ruins that sit under Edgegather. The goblins know more about this place than other mortals, but they don't want to talk about it."
+																},
+																{
+																	"type": "item",
+																	"name": "31. Themlish's Pot.",
+																	"entry": "A criminal safehouse for those in the service of a green hag named Themlish, who has big plans for Edgegather."
+																},
+																{
+																	"type": "item",
+																	"name": "32. Idol Row.",
+																	"entry": "A series of imaginary gods set up to trick newcomers into giving offerings collected by enterprising tricksters."
+																},
+																{
+																	"type": "item",
+																	"name": "33. Shaman's Rest.",
+																	"entry": "A stately structure where shamans of Seerfall are welcomed when they safely arrive at Edgegather."
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Lefthand",
+													"entries": [
+														"It's said that the animosity between Righthanders and Lefthanders began when the first settlers of Edgegather broke into a family feud, and gathered sides which have been fighting ever since. Lefthanders are known for their skill in music, animal taming, and delicious wines—unlike the stupid and immoral louts you'll find in Righthand.",
+														{
+															"type": "list",
+															"style": "list-hang-notitle",
+															"items": [
+																{
+																	"type": "item",
+																	"name": "34. Goblinwrangler House.",
+																	"entry": "Certain citizens have the dubious status of “goblinwrangler,” meaning one who can speak Goblin and broker deals with them."
+																},
+																{
+																	"type": "item",
+																	"name": "35. Gnomegutter.",
+																	"entry": "An undesirable part of town where gnomes have eked out a place for themselves."
+																},
+																{
+																	"type": "item",
+																	"name": "36. Thunderwall.",
+																	"entry": "A constantly reinforced wall of poles and daubed mud, lashed together with vines and ropes. The Thunderwall keeps out the noise of the Unfall and is decorated with personal keepsakes of travelers who have passed through, as well as the skulls of mighty beasts who have been killed by the inhabitants of the city."
+																},
+																{
+																	"type": "item",
+																	"name": "37. Brawler's Corner",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "38. Ulu's Zoo of the Curious and New",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "39. Flooded Cellars.",
+																	"entry": "A low-lying area of the city often flooded by waters rushing around the end of the Thunderwall."
+																},
+																{
+																	"type": "item",
+																	"name": "40. Dragon Cultists",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "41. Firecamp.",
+																	"entry": "A large settlement of dragonborn who occupied this part of town just after coming up the Unfall."
+																},
+																{
+																	"type": "item",
+																	"name": "42. Cellarhouses",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "43. Drum-Stretchers",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "44. Bathhouses",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "45. Shell Hall.",
+																	"entry": "A giant shell with perfect acoustics. Here heartbreaking music is performed night and day by all manner of musicians."
+																},
+																{
+																	"type": "item",
+																	"name": "46. Rattlebones",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "47. Cult of the Lesser Gods",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "48. Lefthand Market",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "49. Glimmie the Honest",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "50. Barns & Butchery",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "51. Fair of the Dread Elves.",
+																	"entry": "A square full of unsettling fortune tellers from Nod, who rarely offer good omens to those who barter for their fortunes."
+																},
+																{
+																	"type": "item",
+																	"name": "52. Shrine of Twr",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "53. Brawling Cages",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "54. Reedcarvers",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "55. The Dome.",
+																	"entry": "A circular structure dedicated to sorcery. Some of the greatest sorcerers in Planegea can be found here."
+																},
+																{
+																	"type": "item",
+																	"name": "56. Caravanserai.",
+																	"entry": "A large yard to welcome weary clans and outfit those who are departing for their journeys… for a price, of course."
+																},
+																{
+																	"type": "item",
+																	"name": "57. Lefthand Burial Ground",
+																	"entry": ""
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "The River",
+													"entries": [
+														"The Ox River flows up the Unfalls, under Bridge Village, and out into Wintersouth.",
+														{
+															"type": "list",
+															"style": "list-hang-notitle",
+															"items": [
+																{
+																	"type": "item",
+																	"name": "58. Silent Bridge.",
+																	"entry": "A tunnel bridge that passes under the curve of the Unfall, enchanted with silencing magic, where nothing can be heard or spoken."
+																},
+																{
+																	"type": "item",
+																	"name": "59. The Spines.",
+																	"entry": "Sharp stakes and giant boneshards stuck into the river banks and bed as defenses to kill large predators and dangerous creatures that might swim up the Unfalls."
+																},
+																{
+																	"type": "item",
+																	"name": "60. Spinedocks.",
+																	"entry": "Launches for fishers and scavengers who pick carcasses and flotsam from the Spines. A floating marketplace here offers first pick to those with good barter."
+																},
+																{
+																	"type": "item",
+																	"name": "61. Downriver Docks.",
+																	"entry": "Those looking to travel along the Ox River would do well to hire passage with the crews on these docks—many of whom are part of the cult of Twr, whose protection will be vital further downriver."
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Bridge Village",
+													"entries": [
+														"Built over the water is a network of crisscrossing bridges and huts on stilts and platforms so heaped up that it's impossible to tell what's a bridge and what's just another building. As the center of the city, Bridge Village is the hub of commerce and exchange for Edgegather—and an easy place to drown a stranger who crosses you.",
+														{
+															"type": "list",
+															"style": "list-hang-notitle",
+															"items": [
+																{
+																	"type": "item",
+																	"name": "62. Fishmarket",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "63. Venomwine Stalls",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "64. Festival Walk.",
+																	"entry": "A long path stretches down the center of Bridge Village where processions and festivals of all kinds can be enjoyed year round."
+																},
+																{
+																	"type": "item",
+																	"name": "65. Champion's Circle.",
+																	"entry": "An arena where public fights are held at all hours."
+																},
+																{
+																	"type": "item",
+																	"name": "66. Cookfires",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "67. Venomguard Lodge.",
+																	"entry": "Home of the famous monster-hunters, see p. 214 for a full description. Beneath the Lodge is the Salthold, a treasure vault of salt where monster-hunters keep their plunder (and the apple of the eye of every scavenger who ever dreamed of landing a big score)."
+																},
+																{
+																	"type": "item",
+																	"name": "68. Tumble Tents",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "69. Barter Square",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "70. Smiledrink",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "71. Temptation's Way.",
+																	"entry": "A series of bridges and platforms with structures dedicated to carnal appetites of all kinds."
+																},
+																{
+																	"type": "item",
+																	"name": "72. Tents of Chance",
+																	"entry": ""
+																},
+																{
+																	"type": "item",
+																	"name": "73. Vowhouse.",
+																	"entry": "A leaning structure where those of the Scavengers Vow can congregate."
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Beyond Edgegather",
+													"entries": [
+														"Killing Grove. A roving band of trees who lurk near the edge of the city, causing mischief and attacking the unwary.",
+														"Outer Camps. Fields made available to nomadic clans who have come south for the winter."
+													]
+												}
+											]
+										},
+										{
 											"type": "inset",
 											"name": "Tossings",
 											"entries": [
@@ -14257,7 +14701,745 @@
 										"The Allhunt. In the winter months, with food desperately scarce, it is essential that clans—even those who were at war a mere season ago—can hunt without fear of attack from other mortals. As long as the taboos and customs are respected, the Allhunt is an open ground where any hunting party may pursue game without fear of harm from another clan. To assault another hunter in the Allhunt is considered a great dishonor to the clan, and worthy of the most severe punishment that a shaman may mete out.",
 										"The Vale of Rituals. This misty valley between the Horse and the Bear is known for its shifting fog that brings with it visions and spirits from the past and future. Here, many clans come to consult the ghosts of their ancestors, seeking guidance for the winter's challenges. And here many young children are named by their clan's shaman, for it is said that if an infant's name is spoken for the first time in the Vale of Rituals, it echoes through the mist into the hallow of every god in the Great Valley.",
 										"Firstblood Basin. This natural amphitheater is where many young hunters are put through their initiation rights—fighting single combat against captured predators or engaging in ritual vigils or duels with other hunters to earn their place of honor and adulthood in the clan.",
-										"The Well of Dreams. A hill powerful with druidic magic, where stand a star-shaped pattern of moss-covered stones, the Well of Dreams is open at the top and holds water"
+										"The Well of Dreams. A hill powerful with druidic magic, where stand a star-shaped pattern of moss-covered stones, the Well of Dreams is open at the top and holds water that reflects the dance of the stars. There are handholds carved into the sides of the well, which druids are known to climb down, submerging themselves in the well in pursuit of ancient and secret knowledge known only to their kind.",
+										"Daggerwood. This is an evil place, famous for its twisted treants and alluring spirits that haunt and tease the weak-willed into sinking deaths in oozing mud. The Daggerwood is home to outcasts, exiles, murderers, and traitors. The scavengers who dwell there—though they pretend at refinement and pageantry in their Cutthroat Council—are nothing but a clan of the dishonored and the ruined.",
+										"Lake Littleblood. A favorite retreat of spellskins. Lake Littleblood has poor fishing, but excellent limestone cliffs, where spellcasters work out their intricate magics on the ever-crumbling walls carved by the rising and falling of the lake with the land's melts and thaws. The lake is known to shimmer and dance with the reflected light of dueling spellskins hurling their magics across the water at each other in battles of power and pride.",
+										"Windgrass Wilds. This lonely and unclaimed land lies at the feet of the Stone Empire. It is mostly known as an open plain where the weaker clans hunt elk and mammoth during the winter, risking capture by frost giant raiding parties that come down from the mountains."
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Eel",
+							"entries": [
+								"Falling from the mountains of the Stone Empire to the Saltfang, this sloshing green river winds through evil marshes so strange that most mortals dare not set foot in their sweltering wetlands.",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Creatures:",
+											"entry": "Humanoids, undead, plants, beasts"
+										},
+										{
+											"type": "item",
+											"name": "Treasure:",
+											"entry": "Wealth and magic items"
+										},
+										{
+											"type": "item",
+											"name": "Lore:",
+											"entry": "Free Citadel, the Usurper Queen, Nazh-Agaa"
+										},
+										{
+											"type": "item",
+											"name": "Challenge:",
+											"entry": "Levels 1–20 in Free Citadel, levels 5–10 downriver"
+										}
+									]
+								},
+								"The Eel River is the only major river of Planegea that does not have its source at Blood Mountain (p. 157), running instead southwards from the Skyfang Mountains (p. 173) to Saltfang and Slimefang (p. 159). Many consider it an accursed river, but that has more to do with the wild and fearful lands of its course than the actual waters themselves, which are remarkably cool and fresh, even in the swamps.",
+								"Free Citadel. At the source of the Eel—where the river is not called that, but rather the Dakru—is a mighty city, once also named Dakru, built for giants by captive mortals. It towers in a natural canyon, defended on all sides by cliffs and air and ice. And it is here, in this unassailable place, that the captives of the Stone Empire rose up and slew the giants. The city has been free for only a short time—many years, but not generations—and the people there live and work as one, in sworn service to the leader of their rebellion, the great and wise Usurper Queen. Free Citadel is more fully described starting on p. 199.",
+								"Ghostmire. An endless wetland, haunted by the living and the dead. What can be said of Ghostmire? Its depths are unfathomable, its mists unsearchable, its monsters unimaginable. Yet there are dwellings here—stilt-villages built by stilt-walkers who know secret paths through the foul muck and murky fog to find ways to stay alive.",
+								"Temple of the Mushroom Lord. This curious structure is known by chanters to be the sovereign domain of a being called the Mushroom Lord—a living fungus, that communicates by means of magical spores and has an army of mushroom folk to do its bidding. They engage in strange rites and rituals here, which are of great interest to druids and those who believe that there are secrets in the world that mortal minds have barely begun to grasp."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Undershore",
+							"entries": [
+								"A warm blue-green coastland where primordial merfolk and seafaring clans sing, hunt, and set sail at the edge of the infinite, salty deep.",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Creatures:",
+											"entry": "Humanoids, monstrosities, beasts"
+										},
+										{
+											"type": "item",
+											"name": "Treasure:",
+											"entry": "Pearls, coral, wonders of the deep, exotic fruit, and merfolk mysteries"
+										},
+										{
+											"type": "item",
+											"name": "Lore:",
+											"entry": "Kraken Cults, the Sea Empire"
+										},
+										{
+											"type": "item",
+											"name": "Challenge:",
+											"entry": "Levels 1–20"
+										}
+									]
+								},
+								"Far from the smoking center of Blood Mountain, at the edge of the great dark oceans of Planegea, a distant coastline is home to a world all of its own. This place of waves and storms, fishing villages, and sea monsters is cut off from the rest of the Great Valley by the War-Way of the Sea Empire (p. 173).",
+								"Saltfang. This evil body of water is avoided at all costs by mortals. Its waters are fed by the haunted Eel River and the open sea, and terrible monsters of the abyss make it their home. It is here that storm giants hunt kraken, and here that lurking aboleths lure fools in with their mind-breaking influence, drawing worshipers to their twisted cults.",
+								"War-Way. A wide trampled plain, barren of all life and scarred by countless lighting strikes, marks the span of distance from the Sea Empire to Saltfang (p. 159). To enter this land is to risk the wrath of the Empire, and few mortals have ever crossed it and survived.",
+								"Kraken Coast. This rocky, inhospitable coast is known for its population of eel fishers and the cultists who make their home in the delta between the Saltfang, Slimefang, and the edge of the Sea Empire, chanting strange rites and rituals to summon tentacled gods to crawl ashore and devour the land in slime and hatred.",
+								"Scattersea. An archipelago of small islands called the Stones dots the shallow body of water known as Scattersea. Here, waterfaring mortal clans make their homes, surviving on the bounty of the shores. The countless coves and inlets are the perfect place to hide—for both prey and predators. But the Stones also have a way of rearranging themselves, and traversing even a short distance across the water always runs the risk of never being able to find your way home again.",
+								"The Whale Clan. The most powerful clan of Scattersea is the Whale Clan, a strong matriarchal culture with a population large enough to cover a network of islands. The Whale Clan is peaceful, preferring to wait out violence or relocate rather than fight. Yet their harpoon-wielding hunters and sea shamans are not to be trifled with—even the Storm Giants know to give the Whale Clan a wide berth when they go to war.",
+								"The Hallow of Mala. The Hallow of Mala Long-Song, the whale god, is deep below the ocean surface, and only the greatest of her shamans can reach the place where standing stones covered in coral shimmer in endless song. Mala is wise and incredibly old, and knows of a time before the oceans were as they are now. Her eternal songs are enough to drown even great minds in madness, if unprepared or unworthy.",
+								"Sharksails. Moving in fast outrigger canoes and spike catamarans, sharksails are seafaring raiders who prey on fishing villages, stray boats, merfolk stragglers, and lesser clans of Scattersea. They worship survival itself, paying homage to whatever gods may allow them to live and hunt another day.",
+								"The Drowning Deep. Beyond the last Stone of Scattersea are the endless depths of the Drowning Deep, an ocean with no known limits and unimaginable terrors lurking and squirming in the darkness unfathomably far below."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Cult Riverlands",
+							"entries": [
+								"A dust-choked desert land riddled with gulches and riverbeds, where only a trickle of water courses through the cultish domains of dark gods and their fanatical followers.",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Creatures:",
+											"entry": "Humanoids, fiends, undead, elementals"
+										},
+										{
+											"type": "item",
+											"name": "Treasure:",
+											"entry": "Idols, ritual objects, fetishes, enchanted weapons, vampire tombs, and the lore of the fiendish gods"
+										},
+										{
+											"type": "item",
+											"name": "Lore:",
+											"entry": "Fiendish Gods, the Gift of Thirst"
+										},
+										{
+											"type": "item",
+											"name": "Challenge:",
+											"entry": "Levels 6–16"
+										}
+									]
+								},
+								"Elders and elves tell of a time within memory when the Cult Riverlands was home to the Eagle River; when it was a grand and glorious land known for its excellent fruit and flowers. But smoke and fire took the land after a terrible eruption in the Fang of Rock and Flame, and darkness spread downriver, drying its waters. As the land fell to thirst, wicked gods sprang up, preying on the people to establish their power. Now, the gulches and gullies are carved into a warren of battling cults, each sharpening its knives for the blood of the other, while an even darker power lurks just out of sight in the ash and smoke of the Worldfang's edge.",
+								"Firehook River. No longer called the Eagle, the Firehook is not a river at all, but a mere leaking trickle of water, every foot of which is claimed by some infernal god or another. It is said that those who travel along the Firehook never return—or if they do, their minds and bodies will be so disfigured that they would be hunted by those they once embraced.",
+								"The Qanats. The Firehook River appears to dwindle into nothing, leeching into the dust. However, those who have dwelt in that accursed land knows that the water does not evaporate, but goes underground, into a series of tunnels known as the Qanats, that were carved by a combination of arcane and divine magic. These tunnels lead from the Firehook all the way to Bittersea, and it is said that a terrible and powerful god is bound somewhere in their darkness.",
+								"Stoneblood Shrine. Scarcely a living soul has seen Stoneblood Shrine and lived to speak of it. It is in this temple of fire that the Nin, ruler of the vampire nobility known as the Gift of Thirst, holds court. The shrine was not made for mortals, and its geometries are terrifying, the very air glowing with the shimmering heat and choking fumes of the lava that courses through it—none of which afflicts the undead who reside there."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Giant Empires",
+							"entries": [
+								"Woe to those captured by a giant raiding party. The great giant empires, with their mighty ziggurats and dark rituals, are merciless in their worship and brutal in their sport. The Sea Empire, Fire Empire, Air Empire, and Stone Empire are set between the four world-fangs, and they are to be avoided by mortals at all costs.",
+								{
+									"type": "entries",
+									"name": "The Stone Empire",
+									"entries": [
+										"A monochromatic mountain empire where the wind ever howls and stone and frost giants carve mighty strongholds in the frigid heights.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Creatures:",
+													"entry": "Giants, humanoids, elementals"
+												},
+												{
+													"type": "item",
+													"name": "Treasure:",
+													"entry": "Giant artifacts, enchanted items"
+												},
+												{
+													"type": "item",
+													"name": "Lore:",
+													"entry": "The Stone Empire"
+												},
+												{
+													"type": "item",
+													"name": "Challenge:",
+													"entry": "Levels 5–16"
+												}
+											]
+										},
+										"The mountain region known as Skyfang is home to two types of giants: the crafting stone giants and the raiding frost giants. These two clans live in peace by dividing the Skyfangs into “above” and “below.” The caves and caverns and hollow places below the mountains belong to the stone giants, who carve their endless symbols, chant, and dream, while the peaks, crags, and icy slopes belong to the frost giants. It is the latter who go forth and raid the Great Valley for captives to enslave, terrorizing the mortals. But it is the stone giants who gaze into the secret oracle-pools deep in the roots of Skyfang and lead the Empire with their powerful portents of days to come.",
+										"Skyfang Mountains. These pine-covered, snowy slopes are but the foothills of the Worldquake Waste beyond, but even so they are mighty in their own right. Many a wandering monster makes these mountains their home—they are too great a range to be fully conquered, even by giants. But then again, there are mountain peaks that have been carved by tools too huge and powerful for mortals to imagine, scratched in glowing lines with the geometric patterns of the stone giants… so perhaps these mighty ones of stone and ice have full sway in the peaks after all.",
+										"High-Walled Akmon. This is the great capital city of the Stone Empire, where the Thrones of Stone & Ice stand back to back in a throne room whose hall stretches through the side of a mountain. Akmon is a city of endless ceremonies and rituals, with songs and vigils performed day after day. Of all the great cities of the giants, Akmon is perhaps the most like one of the great gathering places of mortal clans—although to tell a giant as much would spell instant death.",
+										"O'oteka. This gateway city is guarded by elite frost giant raiders. It is a place to gather supplies and repair before making a raid on the Great Valley, and is known for its Wailing Markets and great grinding stones for sharpening blades.",
+										"Mazu. Too hot for frost giants and too far from raiders' prey, Mazu is a quiet city of stone giants. Remarkable for its soaring stone towers, which look as if they are simply stacked boulders that might topple at any moment, there are generations of giant patterning and story-scars etched into every wall, and the Stone Empire looks to ancient Mazu for wisdom and learning.",
+										"The Towering Weald. This massive forest is made of redwoods—enormous pines that have soaked in giant magic until they grow to outlandish proportions—large enough that a single hollow tree can encircle an entire mortal clanfire. The Weald is considered sacred hunting ground for the Stone Emperor, and any but he and his chosen who set foot among the trees forfeit their lives."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Fire Empire",
+									"entries": [
+										"A warlike region of red and saffron where martial fire giants swelter and bellow in the burning desert sun.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Creatures:",
+													"entry": "Giants, humanoids, elementals"
+												},
+												{
+													"type": "item",
+													"name": "Treasure:",
+													"entry": "Giant artifacts, enchanted items"
+												},
+												{
+													"type": "item",
+													"name": "Lore:",
+													"entry": "The Fire Empire"
+												},
+												{
+													"type": "item",
+													"name": "Challenge:",
+													"entry": "Levels 5–16"
+												}
+											]
+										},
+										"The highly organized and regimented Fire Empire looks down on all other empires as weak, decadent, or barbaric. In the minds of the fire giants, only they possess the strength, discipline, and passion to rule as it should be. As such, they frequently send messengers—wanted or not—to other empires, which are usually seen as meddling at best and declarations of war at worst. But the Fire Empire welcomes such conflict, eager to show their prowess and might against any enemy, not least of all their giant cousins.",
+										"The Scalding & Maddening Dunes. The Fire Empire sits on the verge of the endless burning desert known as the Inferno Waste. It stretches from the Scalding Dunes in the north—where there are sulfurous steam vents filled with volcanic spirits of all kinds—to the Maddening Dunes in the south—a land of trackless sandhills, mirages, and creatures that prey on the minds of those who get lost among them.",
+										"Shining Eknis, the Obsidian City. The walls of the capital of the Fire Empire are covered in black volcanic glass, gathered by skilled giant artisans from the Fang of Rock & Flame. The city is too bright in the desert sun to look at, and many a hapless captive being hauled to the city for the first time has burned their eyes out trying to get a glimpse of the gates through which they would never again depart. Eknis is known for its highly regimented society, as well as its great gladiator matches, featuring both captive folk and free giants who test their might in the ring for salt or favor with the Emperor's throne.",
+										"The Ruins of Bosa. A foolish Fire Emperor, long-dead, tried to invade the Inferno Waste and build a fortress-city there, beyond the agreed-upon border carefully negotiated by his forebears. The city was ravaged by the rage of the efreeti, and still exists as a fire-blackened, magic-twisted ruin today, haunted by undead giants and fire elementals as a warning to any who would break the bond of treaty again.",
+										"Kalaq. Called the Shepherd's Gate by the proud giants of Eknis, Kalaq is the kitchen of the Fire Empire. It is here that the great grazing beasts are sent out and brought in to be slaughtered, their meat salted with Bittersea salt and sent on great supply caravans throughout the empire. Without Kalaq feeding it, the empire would fall in weeks. Fortunately, the Shepherd's Gate stands less than a day's ride (by giant standards) from Eknis, and any direct attack on Kalaq would surely bring down the full fury of the empire.",
+										"Apa'aku. Seated on an oasis, Apa'aku is the pleasure-city of the Fire Kingdom, full of mystics, dancers, weapon-eaters, fortune-tellers, and all manner of entertainments and diversions for the fire giants or their guests.",
+										{
+											"type": "inset",
+											"name": "Stone Age Captivity",
+											"entries": [
+												"Modern enslavement and the resulting social injustice is a human rights tragedy. We recognize that certain groups may wish to exclude themes of enslavement from their game. Our intent is not to offend, but to explore historic and mythic archetypes. If you do not wish to include enslavement as a theme in your game in any way, we completely support your world-building. See Modifying Planegea in Chapter 9, p. 153, for ideas on how to remove this element entirely from your table's Planegea."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Air Empire",
+									"entries": [
+										"A windy, glimmering domain where corrupt cloud giants play and plot in blue and purple cities at the edge of infinite cliffs.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Creatures:",
+													"entry": "Giants, humanoids, elementals"
+												},
+												{
+													"type": "item",
+													"name": "Treasure:",
+													"entry": "Giant artifacts, enchanted items"
+												},
+												{
+													"type": "item",
+													"name": "Lore:",
+													"entry": "The Air Empire"
+												},
+												{
+													"type": "item",
+													"name": "Challenge:",
+													"entry": "Levels 5–16"
+												}
+											]
+										},
+										"The Air Empire is the least violent of the four giant empires, but perhaps the most manipulative and corrupt. Clothed in refinement borrowed from the elegant and powerful djinn, the Air Empire prefers to watch the world from the towers of its soaring cities, only acting when the occasion suits and the empire cannot lose.",
+										"Ha'aza. This lonely city was once a great power in the skies, drifting far inland to terrify the mortals below. But due to a quarrel with the Air Empress, it was cast into disfavor, and now sails the sky as a lonely giantish backwater. Exiles and undesirables from the empire are sent to live in Ha'aza, and some mortals hope that if any support might be found in the giant empires to overthrow its powers, it would be here in the crumbling palaces of the outcast city.",
+										"The Driftlands. The edge of the Howling Chasm is a land where gravity seems to hold little meaning, and floating islands spin and tumble through the air. Although the Driftlands are at the edge of the Air Empire, they are inhabited by a number of clans who take advantage of the chaotic sky to hide and raid, some even being so bold as to prey upon the cloud giant pleasure caravans. These godless clans, many of which are orc-led, are known for their close bonds with winged beasts and their daredevil aerial antics.",
+										"The Wind-City of Nebhis. This floating citadel, suspended by a gift from the djinn, is more palace than city, a watered garden of dreamlike delights and gentle visions. Still, the beauty of the city hides a cruel underbelly, filled with filthy captive quarters and cruel torture chambers for those who displease the oh-so-noble cloud giants.",
+										"Lo-Pa. The Jewel City, She-of-the-Waterfalls, the Crown of Eternity—Lo-Pa has many names, all well deserved. This stunning metropolis sits where the Lion River drops into endless waterfalls, in a cradle of dramatic natural beauty. Unique to the giant cities, Lo-Pa has no walls, protected instead by the natural barrier of the Icehook Peaks. In Lo-Pa, everything seems possible. And, given the magic of its giant sorcerers and their djinn allies, everything probably is possible… for the right price.",
+										"Last Plateau. Giantish flock-tenders and their mortal servants dwell in simple villages on the Last Plateau. This open land is used to herd the Air Empire's grazing beasts, but the real value of the land is the endless aeries of birds clinging to the cliffs, with an astonishing scaffolding of ladders and nest-villages descending the depths of the cliff's face.",
+										"Ufu & the Island of Wings. Ufu, the war-city, sits on the Island of Wings, which floats across a chasm from the mainland of Planegea. In times of conflict, Ufu's mighty menders cause the island to join back with the mainland, connecting a great bridge that allows the shock troops of the Air Empire to pour with fresh ferocity into the land and skies of their domain."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Sea Empire",
+									"entries": [
+										"A thundering gray coastland where storm-giant warriors rage and hunt in cold, salt-crusted gloom.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Creatures:",
+													"entry": "Giants, humanoids, elementals"
+												},
+												{
+													"type": "item",
+													"name": "Treasure:",
+													"entry": "Giant artifacts, enchanted items"
+												},
+												{
+													"type": "item",
+													"name": "Lore:",
+													"entry": "The Sea Empire, Kraken Cults"
+												},
+												{
+													"type": "item",
+													"name": "Challenge:",
+													"entry": "Levels 5–16"
+												}
+											]
+										},
+										"Mighty are the storm giants, and mighty is their burden. They alone among the empires must contend not only with upholding their own civilization and pacifying the genies of the wastes, but being locked into a neverending struggle with the kraken, aboleths, and other gods of Saltfang summoned forth by their foolish worshipers from the Kraken Coast. The Sea Empire has attempted to stamp out these cults time and again, but they rise and rise tirelessly, ever calling out to the great beings beneath the waves.",
+										"The Everstorm. Always raging and shaking the ground with its fury, always lashing out with its lightning, the Everstorm is an infinite wall of elemental fury where the water battles the air. For storm giants, this environment is home. For other creatures, it is terrifying and untraversable without incredibly powerful magic wards against disaster.",
+										"Mabros. The capitol city of the Sea Empire has no grand title, and needs none. It stands as a rock against the chaos of the sea, concentrating the fury of the storm into endless rain and lashing lightning like whips against the waves. The seven satraps of Mabros are charged with ruling the city and the empire, for the Emperor has only one concern—containing the evil that lurks within the sea.",
+										"Thuzo. The first giant city of Thunderverge, Thuzo acts as a raiding outpost as well as a place of counsel for the giants to seek the wisdom of the centaurs and even, occasionally, the sages of Seerfall. Make no mistake, it is a cruel and haughty place—full of captive mortals, more prison-fortress than a true city—but in the struggle against the sea, the Emperor is not willing to lose any potential insight or resource, no matter how mortal or puny.",
+										"Zarkez. The greatest seers of the Sea Empire dwell in the ancient city of Zarkez, where in great open-roofed palaces they gaze upwards and read the patterns of the lightning, drinking the rain and seeking enlightenment beyond the measure of mortal comprehension.",
+										"Aktok. This remote city is the point of the spear for the Sea Empire's constant attempts to destroy the craven kraken-worshipers of the Kraken Coast. The empire raids what captives it can from here, but most cultists would rather die than be captured, and in their ritual deaths they further empower their undersea gods."
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Nod",
+							"entries": [
+								"Twin worlds—the purple and green World of Dreams and the yellow and black World of Nightmares—where illusory fey and hungry undead wander and change in their mysterious underworlds.",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Creatures:",
+											"entry": "Fey, undead, aberrations, humanoids"
+										},
+										{
+											"type": "item",
+											"name": "Treasure:",
+											"entry": "Charms and gifts of the dream world, cursed items and enchanted tools of the nightmare world"
+										},
+										{
+											"type": "item",
+											"name": "Lore:",
+											"entry": "The Throne of Nightmares"
+										},
+										{
+											"type": "item",
+											"name": "Challenge:",
+											"entry": "Levels 11–16"
+										}
+									]
+								},
+								"Nod is not one place but two, and these twin worlds drift in and out of existence, their underground thresholds appearing in places of great beauty or terror. Elves and other, stranger beings travel between Planegea and these two worlds, but they carry with them some aspects of these shimmering, translucent places.",
+								"The World of Dreams. This wondrous land, full of twilight beauty and strange delights, works with a shifting, metamorphic logic that is an expression of inner state and desire, full of allure and magic. But things can change abruptly to be much stranger and more fearful than one could possibly imagine.",
+								"The World of Nightmares. This dark land is full of the twisting, turning undead, and all dark things that raise their slack jaws from horrible places to gaze with unblinking eyes into the awful places in the soul. The shepherds of this land are the Omenbringers, dread elves who act as knights, lords, and guardians for those mortal souls who find themselves lost in the haunted places of the heart."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Kingdom of the Dead",
+							"entries": [
+								"A lightless and silent world where souls construct eternal walls, monuments, and palaces in stale air and utter darkness.",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Creatures:",
+											"entry": "Undead, humanoids, constructs"
+										},
+										{
+											"type": "item",
+											"name": "Treasure:",
+											"entry": "What the dead were buried with"
+										},
+										{
+											"type": "item",
+											"name": "Lore:",
+											"entry": "Nazh-Agaa"
+										},
+										{
+											"type": "item",
+											"name": "Challenge:",
+											"entry": "Levels 17–20"
+										}
+									]
+								},
+								"In the cold grip of the dirt, beyond mortal sight, the terrible skull-king Nazh-Agaa rules the invisible world of those whose death broke taboo—the murdered, the lost, the unmourned. It is said that there are secret ways for the living into Nazh-Agaa's kingdom, but that once you find your way in, you can never again depart.",
+								{
+									"type": "inset",
+									"name": "An Aside",
+									"entries": [
+										"Well. Most people can never depart again. I may know of a certain shaman who found her way in and out again—though the cost was dear on both the way in and the way out, and it's really a story for another time."
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Factions & Threats",
+					"page": 180,
+					"entries": [
+						{
+							"type": "quote",
+							"entries": [
+								"“Why do we gather, children?” Candlelight gleamed wetly on the mud walls that held the circle of figures kneeling in the dark pithouse.\nThe same answer came from under every hood. “We gather to ungather. We unite to divide. We are strong to weaken.”\n“Who do we ungather, divide, and weaken?” The figure in the center of the circle turned slowly as she spoke, fixing her gaze on one candle after the other.\n“The powerful.”\n“And who are the powerful?”\n“Chieftains. Shamans. Dragons. Giants. Hunters. Monsters. The gods and those who serve them. Warlords and those who serve them. Leaders. Makers. Builders. Elders. All who call the small to paint themselves with their colors.”\nA creak on the stick roof above sent soot filtering down into the room. Someone was above, walking unknowing over their heads. Some survivor of the fire, most likely, staggering about in confusion, choking on the poisonous smoke.\nThe leader went on in a whisper. “How do we pull them apart?”\n“With fire and poison, rumor and lie, a blade in the ribs and a soft place to die.”\nAbove, the stronghold burned to ash, the fire illuminating the magically poisoned air, where charred shreds of the rapacious warlord's pennant drifted. Broken spears littered the hidden roof of the room where, below, Kraia's Children chanted their lullabies of unmaking."
+							]
+						},
+						"Wherever there is the will to survive, there are leaders who bring others into their calling. Whether for good or evil, chaos or order, the strong gather those willing to follow, organizing them into factions. From the mortal clans of the Great Valley, banded together in the worship of one or more gods, to secretive and far-ranging groups like Scavengers Vow or the Council of Day, Planegea is full of complex, proactive factions who care little for the will of any adventuring party, and are ready to act as allies or antagonists in your campaign.",
+						"Less ambiguous but equally diverse are the threats—those world-spanning terrors that lurk under and lour over the land, posing a challenge that can drive a single encounter, an adventure arc, or a full campaign.",
+						"Use this chapter to inform the world of Planegea as your party experiences it. A note of caution, however: There are too many forces in the world to include all of these equally in a single campaign. It's best instead to choose a handful with whom your players will interact with repeatedly.",
+						{
+							"type": "entries",
+							"name": "Factions",
+							"entries": [
+								"There are many forces at work in the world, trying to reshape at least a corner of it in the way they wish. These factions can represent allies or enemies, opportunities or hazards, depending on your party's point of view.",
+								{
+									"type": "entries",
+									"name": "The Brother Clans",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"SHOW ME A GIANT EMPEROR—SHOW ME HIS PRIDE, his confidence, the way he watches the world as if he owns it. I'll show you any given hunter from the Brother Clans with the exact same look in her eye."
+											],
+											"by": "Teffurth the Wanderer"
+										},
+										"Three clans lead the Great Valley in times of peace and strife. The strong Bear Clan, shrewd Ape Clan, and fearless Lion Clan worship powerful gods, and their influence casts a long shadow over neighboring gods and clans.",
+										"Together, they are called the Brother Clans, and although each maintains its own values, rites, and secrets, more unites them than divides them.",
+										"Powerful gods. Generations ago, handfuls of weary wanderers found three gods who offered them strength and protection if they swore faithful service and worship. The wanderers agreed, and over the span of many lifetimes, Urhosh the Bear, Kho the Ape, and Glelh the Lion have kept their word and made their clans mighty, even as the clans have nurtured and expanded their gods' power.",
+										"Territorial migrants. Each clan claims and protects the land surrounding their god's hallow, erecting markers and posting sentries at the borders between three rivers, named for the gods. Although winter forces them south, in the warm seasons the Brother Clans return north to their gods' domains and once again dwell in shelters and sacred places erected by their own ancestors.",
+										"Local camps. The Brother Clans are of roughly the same population size of several thousand people, spread out through a region and organized into local groups of about 10 to 50 people, called camps. The camps often specialize into hunting camps, gathering camps, crafting camps, and so on. Camps are usually led by chieftains, shamans, and other elders, and exchange resources amongst each other in an interdependent web, which comprises the clan.",
+										"Clan leadership. The clans are each led by a partnership between a chieftain and a high shaman, who dwell in ancestral settlements near their god's hallow called the hallowcamp, where the clanfire burns. Dozens of lesser shamans, elders, hunt-leaders, sorcerers, head gatherers, master crafters, and traders live and work underneath them, traveling from the hallowcamp to local camps to oversee their areas of responsibility. Hallowcamps are complex societies with internal politics, strife, ambition, and corruption—but the strength of the chieftain and the high shaman in each clan holds it together, subject to the final judgment of the gods in all things.",
+										"Mixed societies. The Brother Clans are based on loyalty, skill, and survival. As such, the kinship of an individual matters little. Although humans are the majority, any person is welcome at the clanfire as long as they revere the god and can contribute to the survival of the whole. New members are inducted as they arrive, after various tests and rites specific to that clan, and most camps are composed of a variety of kinships. For any particular kinship to walk apart would be seen as strange and disloyal to the larger good of the clan.",
+										"Beast tamers. A key survival strategy for the Brother Clans has been the domestication of animals to help them thrive. This intergenerational effort is led by humans, who have an affinity for the work. There are specialized trapping, taming, and training camps that work to bring more beasts under the clan's influence. Smaller domesticated creatures include dogs, cats, various birds, horses, goats, oxen, dinosaurs, and more. Larger tamed creatures include owlbears, plant-eating dinosaurs such as triceratopses and ankylosaurs, which often serve as beasts of burden or guard animals. In addition, the Bear Clan has domesticated bears, the Ape Clan allows large primates to roam through their camps, and the Lion Clan's hunting parties travel with great cats, which are seen as equals and allies.",
+										"Trade and council. Open lands stand as buffers between the territories of the Brother Clans, yet interactions between the clans do occur. Traders who properly signal their intent are allowed to pass between borders, bringing goods from one side of the Great Valley to the other. In addition, the chieftains and high shamans of different clans have been known to meet with each other, though such councils are infrequent, usually only mandated by special events or emergencies. They typically take place in a neutral location such as Edgegather or Seerfall.",
+										"Spies and feuds. It is known among the leaders of the clans that spies from their neighbors walk among their people, learning their habits, their hunting patterns, the secrets of their gods and rituals—all the better to weaken and desecrate them. Guardians and shamans are often sent to eradicate such saboteurs, and a tinge of paranoia is a common undercurrent in the hallowcamps. But not every interloper is sent from the centers of power. Various families in the camps are embroiled in centuries-long blood feuds, killing one another in life-for-life retaliations without end. The territory of the clans is dotted with the sign of sanctuary; a hut or cave where a killer may not be harmed by an avenger. Unfortunately for those who conceal themselves there, predatory beasts are no respecters of sanctuary.",
+										"Summer wars. In hot months, when food is plentiful and winter is only a memory, the Brother Clans go to war. Combat between the clans is premeditated and ritual, but no less violent because of tradition. These annual wars serve many purposes, settling disputes over land, resources, worship, and offenses, as well as allowing opportunities for raid and conquest. Still, they are limited to only a few short days, and rules of combat are carefully observed to contain the conflict.",
+										"Winterwalk and the Allhunt. With the coming of fall, the clans move southwards in a migration called Winterwalk to escape the bone-dry winds of the northern cold season. The Allhunt's southern scrublands bloom with winter's rains. The Brother Clans leave their familiar gods and territorial ways behind to serve at the whim of the cruel and chaotic winter gods, cooperating in order to survive one more winter.",
+										"Distinct cultures. The Brother Clans have distinct cultures, ideals, bonds, and flaws, and are led by strong-willed individuals with their own complex agendas."
+									]
+								},
+								{
+									"type": "table",
+									"caption": "Faction List",
+									"colLabels": [
+										"Faction",
+										"Page",
+										"Summary",
+										"Leaders or Key NPCs",
+										"Shared Philosophy"
+									],
+									"colStyles": [
+										"col-2",
+										"col-1 text-center",
+										"col-3",
+										"col-3",
+										"col-3"
+									],
+									"rows": [
+										[
+											"The Ape Clan",
+											"p. 188",
+											"A clan dedicated to Kho Many-Arms, known for cunning, flexibility, fear, and ties to Nod",
+											"Chieftain Rhusoka Everyway, High Shaman Gharenki-Yughum, Tambiki the Deviser",
+											"The strong survive, and survival itself is cause for celebration."
+										],
+										[
+											"The Bear Clan",
+											"p. 182",
+											"A clan dedicated to Unkillable Urhosh, known for strength, joy, excess, and ties to the Stone Empire",
+											"More-Lord Ulko-Barmazantur, Chosen Lakhaya'el, Feastmaker Dhuma'Muk",
+											"The future cannot be known, so you must be smart and fast enough to react if you want to survive."
+										],
+										[
+											"The Lion Clan",
+											"p. 190",
+											"A clan dedicated to Glelh the Unblinking, known for endurance, beauty, cruelty, and ties to saurians",
+											"Chieftain Embelek-Ghelem, Spindark-Who-Stares, Rhal",
+											"It's not enough to survive—life is to be fully experienced, in all its terror and beauty."
+										],
+										[
+											"The Council of Day",
+											"p. 193",
+											"A secretive network of elders and spellcasters who seek to strengthen centralized power and civilization",
+											"Pethna Riverborn, Embhardarmos the Bull-Voice, Anu",
+											"Survival depends on order and authority. The strong must be strengthened."
+										],
+										[
+											"Direstaves",
+											"p. 195",
+											"Fiercely independent herders and caretakes of giant beasts, defying any who would limit them",
+											"Big Taptu the Bull Rustler, Tricky Odekh'Uk, Ishba Longtail",
+											"Freedom is better than anything you can buy, sell, hunt, or harvest."
+										],
+										[
+											"Free Citadel",
+											"p. 199",
+											"A former Stone Empire city liberated by humanoids, which stands as a beacon of freedom to the world",
+											"The Usurper Queen, Takluk the Beahder, the Prisoner",
+											"—"
+										],
+										[
+											"Kraia's Children",
+											"p. 203",
+											"A secret organization in scattered sects called families, who work in the shadows to undermine power",
+											"—",
+											"Power is a threat, and those who gather it should be undermined."
+										],
+										[
+											"Scavengers Vow",
+											"p. 206",
+											"An alliance of scavengers who offer tribute to the mysterious Rat King, and share a secret code",
+											"The Rat King, Adderroot, Chief Tithe-Gatherer Tum'Gar",
+											"Take all you can from those who can spare it."
+										],
+										[
+											"Seerfall",
+											"p. 209",
+											"A sanctuary occupied by many gods, served by divine casters, religious leaders, and those who seek wisdom",
+											"The Oracle, the Warden, the Arbiter",
+											"Wisdom saves the world."
+										],
+										[
+											"Sign of the Hare",
+											"p. 211",
+											"A secret society of spellskins dedicated to the idea of developing and sharing magic",
+											"Restakar, Uhl-Os-Who-Speaks, Gray Seht",
+											"Learning and advancement is the ultimate good, and those who oppose it should be toppled."
+										],
+										[
+											"Venomguard",
+											"p. 214",
+											"An elite force of monster-hunters dedicated to safeguarding the weak and earning glory in the process",
+											"Hu'klu & Wink-Cat, Quileth, Skycrest, Dokh the Furius, Lila Green",
+											"Community is stronger than death."
+										],
+										[
+											"The Whale Clan",
+											"p. 216",
+											"A clan dedicated to Mala Long-Song, known for loyalty, curiosity, restlessness, and ties to merfolk",
+											"Chieftain Hala'ke Moonflight, Sekit Airshaman & Ailai Deepshaman, Kakrak Sharkspear",
+											"A true voyager sails with respect in one hand and questions in the other."
+										],
+										[
+											"The Worldsingers",
+											"p. 219",
+											"A conspiracy of chanters and performers who travel the world seeking to end misery and create joy",
+											"Enkio son of Enkio, Yug'zesh, Tempo",
+											"Those who can reshape bad into good have a humble duty to do so, without payment or glory."
+										]
+									]
+								},
+								{
+									"type": "table",
+									"caption": "Threat List",
+									"colLabels": [
+										"Threat",
+										"Page",
+										"Summary",
+										"Leaders & Elite Followers",
+										"Creature Types"
+									],
+									"colStyles": [
+										"col-2",
+										"col-1 text-center",
+										"col-4",
+										"col-3",
+										"col-2"
+									],
+									"rows": [
+										[
+											"The Brood",
+											"p. 221",
+											"Five ancient chromatic dragons dwelling on Blood Mountain who prey on the worst instincts of mortals for their own gain",
+											"Burn-Red Dherg, Rot-Black Atras, Poison-Green Ghelwai, Strangle-Blue Ghlastax, Freeze-White Kweidos",
+											"Dragons"
+										],
+										[
+											"Craven of the Kraken Coast",
+											"p. 224",
+											"A network of lurking aboleths who dominate coastal humanoids, controlling them in hive-minds, who seek to drown the world",
+											"Abolethic overlords, the Craven Elite",
+											"Aberrations, humanoids, monstrosities"
+										],
+										[
+											"The Crawling Awful",
+											"p. 228",
+											"Aberrations who creep from buried vaults deep underground, twisting mortals for their own inscrutable ends",
+											"—",
+											"Aberrations, oozes"
+										],
+										[
+											"Deepthought",
+											"p. 230",
+											"A sentient artifact hidden deep underground that is determined to know all that can be known, at any cost",
+											"Deepthought, the Order of the Eye, Ascetics of the Way of Understanding",
+											"Constructs, humanoids"
+										],
+										[
+											"Duru",
+											"p. 232",
+											"An ancient, roving tree-spirit that hates all animal life and corrupts plants for the destruction of mortals",
+											"Duru and the forests he has corrupted",
+											"Plants"
+										],
+										[
+											"Fiendish Gods",
+											"p. 235",
+											"Demonic winter gods who chaotically abuse power for selfish appetites, and devilish idols of the Cult Riverlands, who methodically entangle mortals into terrorized cults",
+											"Twr, the Lizard Lord, various other fiendish gods",
+											"Fiends"
+										],
+										[
+											"The Giant Empires",
+											"p. 239",
+											"Four advanced empires that surround the Great Valley, each of which subjugates and terrorizes mortals",
+											"The Stone Emperor & Frost Empress, the War Regent of the Fire Empire, the Air Empress, the Sea Emperor",
+											"Giants, elementals"
+										],
+										[
+											"The Gift of Thirst",
+											"p. 244",
+											"A vampire aristocracy, led by the first of all vampires, who seek to satisfy their appetites and find worthy recruits into their hierarchy",
+											"The Nin, the Lugal, the Khopesh, and the nine other true vampires",
+											"Undead (vampires)"
+										],
+										[
+											"Kelodhros Ascendant",
+											"p. 248",
+											"A spreading empire of body-snatching monstrosities spawning from the Venom Abyss, who use many forms to take power",
+											"Priests, archpriests, and infiltrators",
+											"Monstrosities (shapechangers)"
+										],
+										[
+											"Nazh-Agaa, the King of the Dead",
+											"p. 251",
+											"The titan of death and inevitability, who absorbs all souls in the end and opposes undeath and resurrection in all forms",
+											"Nazh-Agaa and his valkyries",
+											"Celestials, beasts"
+										],
+										[
+											"The Recusance",
+											"p. 254",
+											"An amoral cabal of spellcasters who use mortals in twisted experiments to overthrow the Hounds of the Blind Heaven",
+											"Membrane the Vile, Slemsha Coldwind, Splitcrest & Eu, Krix'glak, Halfwing the Flightless, the Four Greenbeaks, Ta-Vur, Gray Seht",
+											"Humanoids"
+										],
+										[
+											"Throne of Nightmares",
+											"p. 257",
+											"The greatest power of the World of Nightmares, a dark fey presence that seeks to spread terror throughout the waking world",
+											"The Thing on the Throne, elite dread elf leaders",
+											"Fey"
+										],
+										[
+											"Vyrkha the Shepherd",
+											"p. 260",
+											"A brilliant human tactician and warlord who will stop at nothing to conquer the world—and all that lies beyond",
+											"Vyrkha the Shepherd and his lieutenants",
+											"Humanoids, beasts"
+										]
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Bear Clan",
+									"entries": [
+										"Strong, joyful, and prone to excess, the Bear Clan lives from feast to feast and values physical might above all.",
+										"A mighty folk. From infancy, Bear Clan children are raised with an emphasis on physical strength. Games, social gatherings, and ceremonial events all involve feats of strength as a sign of blessing and personal achievement.",
+										"Bold-hearted. The people of the Bear Clan love a good joke. Celebration of all things, big and little, is woven into the fabric of their lives, and nobody laughs more easily than a member of the Bear Clan.",
+										"Forever feasting. The feast is an important part of Bear Clan society, tied to their worship of Unkillable Urhosh the Bear-God. As such, their hunters and scavengers work hard to gather more than what is needed, providing as much bounty as they can. Bear Clan members have been known to starve themselves until they can gather enough for a large meal, and the symbolic idea of the great table is an important icon in their culture.",
+										"Bear-wrestling. Thanks to the blessing of Urhosh, domesticated bears live in peace with the Bear Clan—and there is no spectacle to rival a good bear-wrestling match. The event is always good cause for a crowd to gather and place bartered bets on how long the wrestler will last. A Bear Clan member who enters the ring is almost guaranteed to lose, but there are a handful of wrestlers who have brought a full-grown bear to the ground—and many more who have died when the bear lost its patience.",
+										"Heavy layers. People of the Bear Clan tend to dress in thick layers of furs and rough-woven cloth, densely piled. In summer, when heat becomes an issue, they divest themselves of layers but still prefer bulky, oversized garments that make them look large and powerful.",
+										"Beehive construction. The Bear Clan are great keepers of bees, and a few hives near a tent or hut is considered very good luck and a sign of prosperity. They have long been inspired by the bee, and build their shelters patterned after the shapes of hives.",
+										"Raw goods. The Bear Clan is sought after for its well-treated hides and furs, which are available in great quantities, and its unrivaled honey. Traders will travel across great distances for their clans' chieftains to obtain just a small jar of the delicious honey harvested by the Bear people. Their strength is also prized, and lesser clans have been known to pay well in bartered goods for the services of a few Bear Clan strong-arms to assist them in combat or labor.",
+										{
+											"type": "inset",
+											"name": "Led by the Strong",
+											"entries": [
+												"The Bear Clan respects strength and sincerity, and their leadership reflects those values.",
+												"More-Lord Ulko-Barmazantur (LG male human gladiator), is a massive man in all aspects of his life, who inherited the role of chieftain from his father. A towering figure, Ulko-Barmazantur commands respect and laughs heartily, leading his people in feast and battle with equal gusto. His title, More-Lord, is not inherited, but earned; he is famous for roaring, “More!” when he lifts weights, faces enemies, or sits at table. Ulko-Barmazantur is a family man. His wife, Tula—herself a powerful leader of the clan and overseer of construction and crafting—is his closest counselor, and he loves his many children with a ferocity that can be crushing.",
+												"Chosen Lakhaya'el, High Shaman of Unkillable Urhosh (LN female human high shaman) is an ancient woman, remarkably tiny by the standards of the Bear Clan. Her hair is white and braided, and she is usually silent, preferring to lead with gestures and subtle glances. But her age and quiet belie her merriment, and her eyes are always laughing as she watches the antics of her people with great enjoyment. Lakhay'el has served the Urhosh for generations, and seems to be gifted with a measure of immortality through hibernation. Each autumn, as the cold winds start to blow, the Bear Clan has a great festival called Winter's Draft, wherein Lakhay'el enters the hallowed cave of Urhosh the Unkillable, and slumbers at his side for the long winter months, preserved by his warmth. Before she sleeps, her last duty is to choose a winter shaman to serve the capricious winter gods—though rarely does that shaman survive the season. When the clan returns, they reawaken their high shaman with a great feast, and deafening are the cheers when the beloved lady of the clan steps, blinking, into the spring sun.",
+												"Feastmaker Dhuma'Muk (LN male half-giant berserker) is almost as wide as he is tall, which is saying something. With his bald head, gray skin, and tremendous height and girth, the Feastmaker is unmissable wherever he goes. As head of feasts and all beekeepers, Dhuma'Muk is an artist of salts and spices, flavors and fires, summoning startlingly delicious meals from even meager ingredients in the depths of winter. Happiest when ordering an enormous staff around the cooking fires, Dhuma'Mak also travels throughout the clan's territory seeking rare flavors and ensuring that the honey of his people is well-cultivated. And woe to any bear who might be tempted by a hive while the Feastmaker is nearby—his prowess as a champion bear-wrestler is unmatched, even by the More-Lord!"
+											]
+										},
+										{
+											"type": "inset",
+											"name": "Winter's Draft",
+											"entries": [
+												"This festival, marking the start of the long winter, abounds with joy and sorrow for the entire clan:",
+												"Arrival. Every camp of the Bear Clan gathers at the Hallowcamp, bringing food, bribes for the winter gods (in the form of trade goods, trinkets, and crafted items), and their chosen champion—typically a shaman or warlock selected by the camp leader.",
+												"The feast. All the food that can be preserved for winter is prepared, packed, and distributed. Whatever is left is devoured in a massive feast that lasts for days and sprawls as far as the eye can see, starting at the mouth of Urhosh's cave. Fruit custards, spicy curry, and savory stews are favorite dishes.",
+												"Tests of skill. On the first night of the feast, the champions gather to gamble with their camp's god-bribes in games of chance and bluffing. Charisma and savvy—not to mention good fortune—will be necessary in dealing with the winter gods. The champion who comes away from the gambling table with the biggest pile of bribes is seen as the most cunning and lucky, and anyone who walks away empty-handed is out of the competition.",
+												"Tests of strength. During the days of the feasts, constant physical competitions pit champions against each other in wrestling matches against bears and one another, races, and lifting competitions. The best candidates are the ones who add spectacle to their bravado. No one can count all the victories after several days, but everyone will remember the wrestler who won without bothering to don his stone armor, or the shaman who beat faster runners by taking a shortcut through the clanfire.",
+												"Tests of spirit. At night, the exhausted champions must stand at the clanfire while skilled chanters tell their most gruesome and terrifying tales of encounters with winter gods. It is not uncommon for spectators to place bets on which chanter will be the breaking point for which champion, and certain chanters take an unseemly glee at seeing brave young clansfolk flee the fire. After the trained and polished chanters, other members of the clan step forward to tell their personal stories of the winter gods' cruelty, power, and malice. These unadorned, raw, emotional stories cut with a different blade than the performative chanters' tales, and offer a cathartic release for the entire clan, admonishing caution and care for one another as they pass into winter's grip.",
+												"The choice. As her last act before entering the hallow, Lakhaya'el chooses a champion who has proven themself in all three tests. They are entrusted with the whole clan's store of god-bribes, and granted the awesome responsibility of negotiating with the winter gods for the clan's survival. For some this will lead to nothing but a noble sacrifice, but for others Lakhaya'el's blessing is the defining moment heralding a lifetime of heroism."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Beliefs & Behavior",
+											"entries": [
+												"The Bear Clan is united not only by the drive to survive and the worship of Unkillable Urhosh, but by a shared ethos and common flaws.",
+												"Philosophy. The strong survive, and survival itself is cause for celebration. Their ideals include:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Strength: The world is strong, and to overcome it you must be stronger. (Neutral)",
+														"Joy: Life is worth celebrating, and a ready laugh is a great gift. (Good)"
+													]
+												},
+												"Rites of Unkillable Urhosh. The clan labors to ensure that a fire is always lit outside of Urhosh's hallowed cave, and leaves offerings of honeycombs, flowers, and fish at his threshold. They also hold great feasts just outside the cave, when the hunt prospers. If they are blessed by his favor, those who dine at his table are said to be beyond the reach of death for a day.",
+												"A culture of excess. Among those willing to speak ill of it, the Bear Clan has a reputation as a people of boastful, thick-headed gluttons, who would rather spend all day eating, drinking, and laughing at nothing than confront the world as it is. They are also notorious for keeping captives from warfare and raids on other clans to do forced labor, a practice the other Brother Clans revile and reject as giantish and wicked. This practice and the number of half-giants in their midst has earned them the scornful epithet of Little Giants, which they hate being called above all else.",
+												"Hunting for strength. Although much of their daily lives are consumed with the common needs of the clan, the leaders of the Bear Clan are perpetually seeking ways to strengthen themselves and their people. Their ultimate goal is to ensure that nothing they confront, be it beast, soul, or elemental force, will ever be able to overpower them."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Magic & Matter",
+											"entries": [
+												"Even abroad, people of the Bear Clan can be recognized by the patterns of their spells and their unique array of gifts and resources.",
+												"Protection magic. Originally learned from the dwarves who arose from the western mountains, the Bear Clan is known for its powerful abjuration magic, as well as its many divine healing spells, making them a terribly difficult enemy to slay. Their warriors are protected with signs and wonders on even the most dangerous hunt.",
+												"Domesticated bears. Only people of the Bear Clan are known to travel with domesticated bears as pets. A sign is put on them by their god, and although a wild bear may still attack, they dwell among bears all their lives and often bring them along when they travel far from home.",
+												"Half-giants. Each of the Brother Clans are formed of many kinships, but there are far more half-giants among the Bear Clan than anywhere else. Some have said the difference between the Bear Clan and the Stone Empire is only one of scale—but the half-giants are a proud people and hold their heads high regardless of how anyone may feel about their ancestry.",
+												"Clubs, mauls, and stone armor. The Bear Clan favors bludgeoning weapons and stone armor, using the weight of great clubs, mauls, and bulky armor for attack and defense in their combat. Hunters and warriors carry the heaviest weapons they can, and consider it a point of pride when others are unable to lift their gear."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Special Locations",
+											"entries": [
+												"Within the wide borders of the Bear Clan's summer territory, there are many places of interest and mystery. Three in particular stand out, for good or for ill.",
+												"Hallowcamp of Urhosh. The Hallow of Urhosh—a great cave in the side of a hill—sits only a stone's throw from the countless cooking fires and hive-shaped huts of the walled settlement of the Hallowcamp. This fortified village has been erected over generations, growing a little larger and better defended every season.",
+												"The Fortress of Bees. Woe to the captive of raid or war who is brought to this dark structure. Surrounded by walls many feet thick, the Fortress of Bees is full of prisoners and hives. Here, the unfortunate are taught to fear and obey their new captors, and it's said that nobody leaves this place unchanged or unbroken.",
+												"Day-Star Rise. Far to the west of Hallowcamp, near the borders of the clan's territory, a steep climb leads to a shelf of rock on a cliff overlooking a scenic watering hole in an otherwise dry and dusty land. This cliff offers a perfect overlook for the morning and evening gathering of animals from the surrounding region. It is a favorite place for young couples to steal off to, watching the whole congregation of animal life assemble far below in the gleaming light at either end of the day."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Ape Clan",
+									"entries": [
+										"Cunning, and flexible, with an inclination towards fear, the Ape Clan lives to demonstrate their wit, and values a brilliant mind above all.",
+										"Nimble minds. There is nothing more important to an Ape Clan member than a sharp and agile intellect, able to adapt quickly to any challenge, question, or problem. Clan members love to pose riddles, thorny scenarios, and paradoxes to one another, and delight in clever responses to difficult questions.",
+										"Agility in all things. The Ape Clan believes that responding quickly to change is paramount, and consider flexibility a key trait, both physically and emotionally. Young Ape Clan members are trained in contortion and acrobatics to keep their bodies nimble, and constant change is introduced throughout Ape Clan upbringing as a way of training children for the unpredictability of the world.",
+										"A life of music. Kho Many-Arms, the ape god of the clan, is lulled to generous sleep by the ritual drumming of the shamans at his hallow. That drumming is a mainstay of Ape Clan culture, and every gathering involves intricate, improvised music, using drums, flutes, and strings. It is said that every Ape Clan member carries two things at all times—an instrument and an escape plan.",
+										"Obstacle races. A favorite pastime of the Ape Clan is the construction and performance of intricate race courses filled with tasks, obstacles, unexpected paths, and challenges of the mind as well as the body. These courses can be sprawling or tightly woven into tiny spaces in the forms of labyrinths or shouted instructions. On a peaceful day, Ape Clan members can often be found gathering to watch racers—calling out hints and witty jeers from the sidelines.",
+										"Intricate garments. The Ape Clan is famous for their clansfolk's dark-colored and complex attire. Preferring black clothes that allow quicker escape in the shadows, Ape Clan members show their cleverness on their person with intricate stitching, hidden pockets, and surprise features such as reversibility, unfolding elements, or unexpected patterns concealing fastened covers.",
+										"Unfolding gear. Nobody delights in a clever device more than the Ape Clan—except perhaps for gnomes, with whom they do more business than most. Ape Clan tents are famous for being collapsible, with even large habitations able to be struck and carried in a matter of minutes. From knives and armor, to chairs to ladders, if there's a way to make an object fold or collapse, the Ape Clan will find it and use it in infinite and brilliant combinations.",
+										"Crafted goods and songs. Ape Clan goods are highly sought for their fine and intricate craftsmanship and many uses. Nobody makes lighter or better instruments, and Ape Clan musicians are offered good barter by other clans to perform at their feasts and festivals.",
+										{
+											"type": "entries",
+											"name": "Leaders",
+											"entries": [
+												"The Ape Clan honors cunning and flexibility, and their leaders exemplify those virtues.",
+												"Chieftain Rhusoka Everyway (CN female half-elf assassin) is, without question, a genius. By far the youngest chieftain the clan has ever seen, Rhusoka is an esoteric and complex leader, with a reputation for knowing every single pathway in the world and a habit for showing up unexpectedly, miles from where she was thought to be. Rhusoka is everywhere at once, and uses her knack for unpredictability to her advantage, shoring up her authority using the element of surprise. She cuts a striking figure, with her high blue mohawk and pale skin patterned with translucent blue stripes. Her counselors and aides confess that it is almost impossible to predict her mood, wishes, or ideas… but it is certain that when Rhusoka makes up her mind and gives instruction, it is always for the safety and advancement of the clan.",
+												"High Shaman Gharenki-Yughum (N male human high shaman) of Kho is marked, physically, by the whims of that brooding god. Tasked with lulling the Ape-God into slumber and dreams of his youth, Gharenki-Yughum is the closest to Kho of any mortal, and feels the effects of that closeness on his bones. When Kho dreams of his youth, the aged Shaman becomes younger, turning from a bent old man to a strong youth, and even—sometimes—into a boy no older than eight or nine summers. The High Shaman keeps his sharp wits about him at every age, and is recognizable by his signature painted walking staff, no matter"
+											]
+										}
 									]
 								}
 							]
