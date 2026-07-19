@@ -13026,7 +13026,1238 @@
 													"Examination. This vault was constructed to analyze the surrounding region and its inhabitants. It has pictograms and maps of the land or the mortals that it took apart, piece by piece, and many gleaming, dripping instruments by which precious knowledge can be harvested from the unwilling."
 												]
 											]
+										},
+										"Watchful sites. Vaults are unpredictable—they can be passive for generations, then suddenly unlock and activate with dangerous effects. Sometimes, all it takes is a foolish explorer touching the wrong surface to rouse a vault. Use the list below as inspiration for the state of vaults that your table encounters, and consider that the vault may change its state through the actions of the characters.",
+										{
+											"type": "table",
+											"caption": "Vault State",
+											"colLabels": [
+												"d6",
+												"Vault State"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Sealed. The vault is airtight, and has not seen any external influence for uncountable years. Usually such vaults are only accessed by teleportation magic. Inside, the air—if there is any—will have strange smells and temperatures, often much colder or hotter than the surrounding environment. Sealed vaults are fragile places, often highly susceptible to state changes with the slightest touch of an incautious mortal."
+												],
+												[
+													"2",
+													"Dormant. The vault is quiet, with little to no signs of life. At first, it might appear to be entirely inert, but certain gleaming lights or subtle vibrations might indicate to the observant explorer that it is ready to awaken if provoked. Dormant vaults might have living aberrant creatures inside, in states of stasis, frozen in tubes, suspended in liquid, or wrapped in biological sacs, until such time as the vault should awaken."
+												],
+												[
+													"3",
+													"Passive. The vault is responsive, but quiet. Lights, eerie sounds, flowing liquid, or other signs of activity indicate that the vault has energy flowing through it. Aberrant devices will respond to the touch of explorers. If aberrant creatures dwell in the vault, they are going about their business, dispassionate about any incursions of mortals unless they impede their work."
+												],
+												[
+													"4",
+													"Active. The vault is full of activity, with devices whirring, gleaming heavy equipment pumping and grinding and scurrying over strange surfaces, lights flashing, and more. The entire vault may shift on its axis or become mobile, and any aberrant creatures inside are in a flurry of activity, the type of which is aligned with the aberrant intent of the vault."
+												],
+												[
+													"5",
+													"Hostile. The vault is actively trying to destroy mortals in and around it. Defenses are active and weapons are loosed. This may take the form of unleashed creatures, psychic measures, diseases, toxic gases or liquids, or chambers that alter shape to destroy living things inside. The vault may also release any or all of these defenses into the surrounding terrain, attempting to eradicate all life within reach, for its own purposes."
+												],
+												[
+													"6",
+													"Ruined. The vault has been exposed to the elements, and whatever once lay pristine inside is ruined by weather and the passage of time. Water, fungus, plants, insects, and beasts can be found throughout the vault. Mortals or monsters may have taken up residence there, finding the shape of the vault to their liking as a defensible home… although perhaps other parts of the vault, yet untouched, lie waiting in other states…"
+												]
+											]
+										},
+										"Not meant for mortals. The beings that made the vaults did so with no regard for two-legged, air-breathing, brittle-boned mortals. Exploring such places is full of surprises and dangers. Draw inspiration for the unnatural construction of vaults in your game from the table below:",
+										{
+											"type": "table",
+											"caption": "Unnatural Construction",
+											"colLabels": [
+												"d6",
+												"Unnatural Construction"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Gravity reversal. Without warning, the gravity in certain chambers may reverse or alter by up to 180° in any direction. (Roll 1d20 × 10 for a random direction, with a 19 or 20 causing a zero-gravity environment.) In high chambers, creatures will fall towards what used to be the ceiling, and may take bludgeoning damage."
+												],
+												[
+													"2",
+													"Liquid chamber. Entire chambers are submerged in liquid, as apparently the original builders were amphibious or had no need to breathe. This liquid has strange properties, such as being highly viscous, toxic, flammable, opaque, or sentient and capable of speech."
+												],
+												[
+													"3",
+													"Vertical transit. Doorways and passages in vaults are just as likely to be on the floor or ceiling as set into the wall. Large sections of the vault may be inaccessible to creatures unless they can climb, fly, and so on."
+												],
+												[
+													"4",
+													"Organic material. Some areas of the vault may be built out of material that seems very much alive. Walls, floors, or even entire hallways or chambers may have surfaces that are slimy, fleshlike, or covered in strange materials such as hair, tendrils, or webbing."
+												],
+												[
+													"5",
+													"Psychic space. Certain chambers may not be physical at all, but exist only in the mind. Accessing these chambers usually requires interacting with an aberrant device such as a crystal or panel. In such spaces, movement speed and attack rolls may be determined by one's Intelligence score, and the laws of physics will not apply in a conventional sense."
+												],
+												[
+													"6",
+													"Loops, gaps, & mazes. Vaults have passages that loop back on themselves for no clear reasons, or chambers with enormous empty spaces featuring perilously thin bridges over darkness, or mazelike passageways branching out in seemingly infinite directions."
+												]
+											]
+										},
+										"Eerie spoils. With all of the dread and danger of such places, it seems obvious that mortals would never dare darken their doorways. And yet, within many of these vaults lie treasures scarcely to be imagined, even by the most inventive of enchanters and crafters. Many a power-hungry chieftain or overconfident spellskin have crept into vaults looking for a way to turn the balance of the world in their favor. Use the table below to inspire the reason for the heroes' visit to a vault—or their reason to stop someone else from doing so:",
+										{
+											"type": "table",
+											"caption": "Spoils",
+											"colLabels": [
+												"d6",
+												"Spoils"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Weapons. Aberrant vaults are full of dangerous devices. Some may not have been intended as weapons, but many certainly were—apparatus that hurl deadly light from across a valley, or can wipe out whole raiding parties with the twist of a knob. Blades from the vaults are unnaturally sharp and hard, and gleam with a cruel, dark light that makes them objects of fear and desire to many."
+												],
+												[
+													"2",
+													"Creatures. The strange corpses that are often found in aberrant vaults have many harvestable parts—chitin and acid, leather and rubbery tendrils. Such parts are coveted by crafters, casters, and collectors, and can make a scavenger well-provisioned and powerful if cleverly gathered and traded."
+												],
+												[
+													"3",
+													"Wondrous objects. Many objects defy explanation, but set the curiosity of those who encounter them on fire. There are orbs and pyramids, rods and jars of purest glass containing strange, living creatures. Such objects have myriad unknown properties, and excite the curiosity of those who wish to crack their secrets."
+												],
+												[
+													"4",
+													"Talismans or potions. Through identifying magic, it's possible to recognize some common consumable magic items in the vaults. They are usually in strange forms, however, and their effects may be slightly warped or carry unpleasant side-effects. Nevertheless, the temptation to access a treasury of unclaimed magic can be too strong to resist."
+												],
+												[
+													"5",
+													"Maps or diagrams. Often, vaults feature carvings or projected illusions of intricately detailed maps or diagrams. Such maps may chart the movement of stars, beasts, air, or water, show the surrounding land in absolute clarity, or offer paths to other points of significance. Diagrams reveal the nature of certain magic or medicine. Such lore, even when recorded for strange and inscrutable reasons, is greatly valuable."
+												],
+												[
+													"6",
+													"Beacons. Objects in one vault have been known to be linked through inexplicable communication to others, and there are some who would open one vault to find another—though whether that might be to warn and safeguard those around it or plunder its depths depends greatly on the one daring to enter it."
+												]
+											]
+										},
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Environmental effects.",
+													"entry": "The weird nature of the vaults may cause one or more of the following effects:"
+												}
+											]
+										},
+										{
+											"type": "list",
+											"style": "list",
+											"items": [
+												"Whispering voices fill the characters' minds in quiet moments, issuing instructions that they may choose to follow or ignore—though the voices grow stronger and more insistent near central areas or objects of power.",
+												"Feelings of revulsion and dread settle over characters who spend too much time in a vault. Every hour inside, a character must make a DC 15 Wisdom saving throw. On a failure, they take 1 point of unease. If they reach 10 points, they must try to escape the vault by any means available. 1 point of unease can be removed by spending a hit die or by magic such as the calm emotions spell.",
+												"Characters with an Intelligence score of 12 or less who get a result of less than 10 on this saving throw will additionally stop in place, frozen with blank minds until a creature uses an action to rouse them."
+											]
 										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Apex Domains",
+									"entries": [
+										"The hunting range of a tyrantmaw; the hills ruled by a dragon; the forest where an ooze-god lures mortals to their death—these are apex domains; lands dominated by a single predator, who reshapes the land according to their will and appetites. Apex domains can be the range of a dominating god, a powerful beast, even a murderous spellcaster who has chosen to claim land as their sole posssesion. An apex domain belongs to one creature, and they will not let it go without a fight to the death.",
+										"Signs & warnings. Most apex predators will leave clear signs that their territory is their own. This might consist of clawed trees, furrowed earth, or—for a more intelligent creature—symbols or corpses left as a warning to others. The shifting nature of Planegea means that these borders may wander over time, however. Pity the unlucky clan or party that is overlapped in the night by a border of which they knew nothing.",
+										"Altered ecology. In an apex domain, the predator's favorite food will be hunted to scarcity over time. No other dominant predators will remain, allowing some creatures ignored by the apex predator to flourish. Often apex domains have an unusual number of a certain type of creature or plant—a sure sign that nature is out of balance thanks to the brutal will of one dominant creature.",
+										"Symbiotic scavengers. The secondary predators that remain in the domain will be scavengers who come along after the kill to clean up what the apex predator left behind. Jackals, hyenas, and various small, scavenging dinosaurs are common in apex domains—but if they ever become too populous, the apex predator will typically attack them directly in a show of dominance.",
+										"Lair & secrets. An apex predator's lair is often full of the bodies of would-be attackers—some of whom were carrying magic items—and anything it considers of value. Such lairs, whether they are the cave of a bear or the treasure lair of a dragon, are often worth exploring for their spoils and secrets.",
+										"Range patterns. Most apex predators have specific patterns of movement, centered on their chosen lair. Creatures in the domain will be familiar with the pattern, if any, and exploit the predator's absence for their own survival. Use the following patterns to inspire the movements of your predator:",
+										{
+											"type": "table",
+											"caption": "Range Patterns",
+											"colLabels": [
+												"d4",
+												"Range Patterns"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Radius. The predator heavily travels the area in a relatively small radius of its lair. Within that radius, it's safe to assume that the predator knows you're there, and may only be allowing you to live because it's toying with you."
+												],
+												[
+													"2",
+													"Loop. The predator travels a predictable loop throughout the day, overseeing its domain by visiting the same locations at roughly the same time of day. This loop often leaves an unexplored center, which may be something the predator is particularly protective of (such as a nesting ground) or something they are keen to avoid (such as an ascetic enclave)."
+												],
+												[
+													"3",
+													"Web. The predator travels erratically within a certain range, moving from point to point on a web of interconnected sites. They cannot cover the whole web in a single day, nor do they visit any particular site with regularity. Still, the knowledge that they could be close by is enough to scare and startle."
+												],
+												[
+													"4",
+													"Random. There is no predictable path that the predator takes, and its randomness is part of its menace. It could spend days prowling the edge of its domain only to lurk in the center for a week, followed by hunting strikes in randomly determined directions."
+												]
+											]
+										},
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Environmental effects.",
+													"entry": "The aggressive presence of an apex predator may cause one or more of the following effects:"
+												}
+											]
+										},
+										{
+											"type": "list",
+											"style": "list",
+											"items": [
+												"Beasts and mortals are nervous, looking constantly over their shoulders. Mortals speak in murmurs, if at all.",
+												"An overabundance of a certain plant or animal is causing waste. There is a smell of rot in the air where overripe plant matter is dying, due to its natural consumer being hunted to local extinction.",
+												"Nearby mortals create cults in honor of the apex predator, honoring it with rituals, emblems, and carved and painted masks reflecting its form."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Dwarvish Ruins",
+									"entries": [
+										"Dwarves are known for their love of building structures, and their abandonment of finished projects. It's said that though dwarves may build a stronghold for seven generations, no sooner is the last stone placed than they gather their belongings and move on. Because of this peculiarity, the world is dotted with stone monuments, circles, shrines, towers, fortresses, and other habitations left behind for other creatures to move into.",
+										"Reclaimed ruins. In a world as dangerous as Planegea, fortifications rarely stay unused for long. Most dwarvish ruins are reclaimed by creatures of one type or another, and only the very foolish or the very young would enter ruins thinking that they were the first to find it.",
+										{
+											"type": "table",
+											"caption": "Ruin Occupants",
+											"colLabels": [
+												"d100",
+												"Ruin Occupants"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"01–10",
+													"Empty. The ruins are uninhabited. Perhaps the dwarves only recently left, or some disaster or scarcity wiped out the previous inhabitants."
+												],
+												[
+													"11–40",
+													"Animals. Beasts or monstrosities have made their dens in the ruins. There may be a single creature such as a manticore, dinosaur, or giant manylegs who occupies an apex position, or it might be inhabited by a pack of smaller creatures."
+												],
+												[
+													"41–70",
+													"Mortals. A wandering clan, a band of raiders, a spellskin conclave, a cult, or some other group has occupied the ruins, likely shoring up holes in its defenses and posting guards against intruders."
+												],
+												[
+													"71–80",
+													"Spirits. Ghosts, divine visitants, or elementals haunt the ruins. They may have been sent by a higher being, or simply been attracted to the loneliness of the place."
+												],
+												[
+													"81–90",
+													"Oozes. Predatory oozes have infested the ruins, making it unlivable for mortals. They have seeped and settled into the stonework, and lie in wait for passing prey to wander in."
+												],
+												[
+													"91–100",
+													"Dragons. A dragon has chosen the ruin as its lair. It has altered the ruin to suit its nature, and dragged the area's goods back to form the beginning of a hoard. Lesser creatures may have already gathered nearby to serve it."
+												]
+											]
+										},
+										"Abjuration magic. Dwarves are natural practitioners of abjuration magic, and their ruins are often secured with arcane locks, dangerous patterns (using the glyph of warding spell), and other such protections. Some areas of a ruin might be locked off with magical seals and wards, which prevent certain types of creatures or those without sufficient magical skills from gaining access to whatever might be concealed within.",
+										"Dwarvish constructs. Often, dwarves will animate stone servants to aid them in their craft. It's not uncommon for a dwarvish ruin to hold a number of statues—some of which will be decorative or ceremonial, while others may be alive, watching and waiting for those who would act against whatever its animators last commanded.",
+										"Sanctuaries from the fey. The folk of Nod dislike dwarvish ruins. They find their square corners, artificial nature, and abjuration magic offputting, and so rarely visit such a place. As a result, these ruins are often used by those who seek sanctuary from fey incursions, and serve as favorite shelters for innocents or evildoers fleeing from the fey.",
+										"Carved secrets. It's hard to say what attracts dwarves to certain places—each dwarvish clan is different—but these ruins are full of hidden messages, meaning, and symbolism to other dwarves. A dwarf raised by their own people can learn much of a place's history by observing the patterns and carvings of the stone. And it's not unusual for such a ruin to be left to mark an extraordinary site, for good or for ill. Many a ruin has been built above some buried secret, and stands to alert those who know how to interpret the signs of the good or evil hidden nearby.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Environmental effects.",
+													"entry": "The abandoned nature of a dwarvish ruin may cause one or more of the following effects:"
+												}
+											]
+										},
+										{
+											"type": "list",
+											"style": "list",
+											"items": [
+												"Thresholds, stairs, or hallways may be sealed with lingering abjuration magic such as alarm, glyph of warding, anti-magic field, protection from evil and good, or magic circle. Such spells may be detected and potentially disarmed with Intelligence (Investigation or Arcana) checks, but the DC increases by 1d6 each time creatures breach a previously unexplored section of the ruin.",
+												"Breaking or moving objects in the ruin often exposes pests of the same creature type as the ruin's most recent occupants.",
+												"Statues and carvings in the ruin give characters an eerie sense of being observed, and may animate if the characters act against the will of the ruin's builders."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Roving Forests",
+									"entries": [
+										"Forests in Planegea rarely remain in one place for long. Most trees have not yet succumbed to sleep, and are awake, aware of the world around them, and able to move through the earth from place to place. The trees are like instinctive beasts, driven by appetite for light, water, and good soil. They are sometimes shepherded by treants and other forest spirits, though untended forests roam free and wild.",
+										"Wakeful trees. When characters enter a roving forest, assume the trees are conscious of their presence. Consider whether the forest is hostile, neutral, or accepting of the characters. A forest is more likely to welcome a party that is accompanied by a druid or other character who has aligned themselves with nature.",
+										"Typical inhabitants. Roving forests are almost never free of other inhabitants. Forest-dwelling beasts and monsters travel with the trees, and may not even be aware that the forest is moving, if they never leave its shelter. Treants often rule over part or all of such a forest, acting as shepherds and leaders of the trees. Dryads and dreas are commonplace, acting as go-betweens between trees and mortals, and bands of horse-apes make their homes with the trees, seeking to protect them.",
+										"On the move. Roving forests travel at a speed of 1 mile per day, although they may move more quickly if motivated, or stay in one place if the light, soil, and water are good. If a clan encampment is near such a forest, the trees may seek an opportunity to move aggressively against them, overrunning the encampment to put out the fire and destroy the axe-sharpening mortals. Wakeful trees travel through the earth like boats through water, with a base speed of 5-feet per round, dealing bludgeoning damage to creatures and structures in their path.",
+										"Eerie stillness. Most forests in Planegea are roving; woods that stay in one place are the exception, not the rule. The Slumbering Forest is famous for its unnatural immobility, supposedly caused by the tragic downfall of a lost god long ago. Characters entering a forest that does not move should be very wary—such places usually augur some unseen menace exerting power over the trees.",
+										{
+											"type": "table",
+											"caption": "Forest Sentiment",
+											"colLabels": [
+												"2d6",
+												"Forest Sentiment"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"2–3",
+													"Hostile. The trees actively oppose the characters. They may move to block paths, mislead the party, or attempt to impede or trap them with falling branches, tripping roots, or other difficult and dangerous terrain. Food foraged in the forest is likely to be poisoned, rotten, or bitter."
+												],
+												[
+													"4–5",
+													"Neutral. The trees neither help nor hinder the characters. If the characters rest in the forest, it may shift around them in a random direction as the trees pursue interests unrelated to the characters."
+												],
+												[
+													"6–8",
+													"Undecided. The trees are actively observing the characters to decide how they will behave. Actions such as chopping down trees, setting fires, and insulting the forest will earn its hostility, while actions like planting seeds, tending to the trees, or complimenting the forest will earn its acceptance."
+												],
+												[
+													"9–10",
+													"Accepting. The trees accept the characters as belonging in the forest. The trees will not act against the party, and may offer better-than-average foraging. Paths and fresh water may be easier to find, as will clearings, tall trees for scouting, or thick groves that provide natural defenses against enemies."
+												],
+												[
+													"11",
+													"Welcoming. The trees are friendly towards the creatures, and actively seek to help them by providing easy and above-average foraging, clear paths, and abundant fresh water. If the forest has secrets such as valuable items or hidden persons, it will try to reveal them to the characters."
+												],
+												[
+													"12",
+													"Divided. The trees disagree about their sentiment towards the party. This might be based on what part of the forest they're in, because a leader is swaying opinion, a disagreement between different types of trees (such as deciduous trees disagreeing with pines), or other, less clear reasons. Roll twice on this table, rerolling twelves, to determine the two sentiments."
+												]
+											]
+										},
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Environmental effects.",
+													"entry": "Inside a roving forest, the environment causes one or more of the following effects:"
+												}
+											]
+										},
+										{
+											"type": "list",
+											"style": "list",
+											"items": [
+												"Open flames burning for longer than 1 hour attract 1d4 awakened shrubs who seek to put out the fire.",
+												"When characters take a long rest on the forest floor, roll 1d20. On a 10 or lower, their long rest is interrupted by trees moving into their space.",
+												"If the roving forest is hostile to the characters, it actively attempts to block their sight and progress. The DC on Wisdom (Survival and Perception) checks increases by 5, and the ground becomes difficult terrain if the characters step off any cleared path. If the forest is welcoming, the DC on these checks is lowered by 5."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Passages to Nod",
+									"entries": [
+										"The twin worlds of Nod drift alongside Planegea, just out of sight. All one needs to do is find one of their doorways. These doors are usually hidden in out-of-the-way places linked to great beauty or terror—a cave under a battlefield, behind a waterfall, or a clearing within a dark and misty forest. Stepping through them can be a trial all on its own, but once the threshold is crossed, great fortune or great harm can befall those who dare to make their way into Nod.",
+										"Hidden passages. Often, the doors don't even seem like doors; they're just turns in the way or little openings. One might not realize they have crossed a threshold until they are beyond it. The passages to Nod are often concealed in mist or shadow or thick foliage, as if to trick wanderers into stumbling through them so they'll be unable to find their way in or out again.",
+										"Stable entrances. Although the doorways are inherently magical, they are real places and do not vanish without reason. If a creature finds an entrance once and is able to return again to the same place, they will find it again. Some talk of doors that come and go, that Nod chooses who it allows to enter it—but those are children's stories. Nod is very real and dangerous, and all may enter it who find the way, whether they are prepared or not.",
+										"Guardians. Because of the allure and danger of Nod, beings sometime dwell at the threshold, guarding the unwary from stumbling across the entrance, or using it as a lure for unsuspecting prey. Although many doors stand empty and unguarded, if you want to place a guardian at the edge of Nod, use this table for inspiration:",
+										{
+											"type": "table",
+											"caption": "Guardian",
+											"colLabels": [
+												"d12",
+												"Guardian"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Hag. A dark fey dwells at the threshold, ensuring that only those whose lives will be ruined by Nod enter through the doorway. The hag disguises herself as a helpful guide and puts visitors to a test. She gives them the worst advice possible, sending only the weak and unprepared into the wilds of Nod beyond."
+												],
+												[
+													"2",
+													"Ghost. The vengeful spirit of a wanderer who was betrayed at the doorway haunts the threshold. The ghost is an angry spirit, obsessed with the idea of betrayal. They lurk until they can possess one of the party, and then attempt to kill the others before they have a chance to react."
+												],
+												[
+													"3",
+													"Manticore. A proud manticore prowls at the entrance, having taken up the doorway as its own personal domain. It is vain and gluttonous, and only lets those pass who feed and flatter it, looking for even the slightest excuse to attack any who displease it."
+												],
+												[
+													"4",
+													"Spider. On either side of the threshold lurks a giant spider, its webs strung across its side of the doorway. On the waking side, the spider is huge, but mundane. The spider on the other side, however, is infused with magical properties, and will use its cursed power to hunt creatures with cunning and arcane menace."
+												],
+												[
+													"5",
+													"Satyrs. A group of satyrs revels in the doorway, drunk on berrywine. They demand to be shown a good time, and will trick, attack, or mock anyone who doesn't please their eyes, laugh at their jokes, or satisfy their appetites for food, drink, and revelry."
+												],
+												[
+													"6",
+													"Golem. A single-minded construct stands guard over the doorway. Its creator gave it a single order: Let no creature pass. The golem is obsessed with keeping the door secure, and will not deviate from its instructions for any reason… but its simple mind can be tricked by wily creatures."
+												],
+												[
+													"7",
+													"Guide. An elf of Nod lingers by the doorway, offering directions or guidance in exchange for trade. Their advice is only as good as the payment, and they refuse to name a price—low offers will be rewarded with lies, high offers with truth. For the right price, the elf will accompany a party deeper into their home, but only remain loyal as long as the payment remains good."
+												],
+												[
+													"8",
+													"Growth. The magical fumes and essences of Nod have allowed a strange fungus, mold, or ooze to develop here. Its peculiar properties act as a natural barrier to the threshold, and it mindlessly preys on those who would attempt to cross through its habitat."
+												],
+												[
+													"9",
+													"Pixies. Mischievous fey flit in and out of the doorway, playing tricks on those not yet ready to enter the door in order to turn them around and keep them out. These pixies prefer to remain undetected, but if a wanderer crosses the doorway, they will reveal themselves and offer truthful guidance for how to escape alive."
+												],
+												[
+													"10",
+													"Magic mouth. A spellcaster has cast magic mouth near the door to warn away unwary travelers. The voice speaks clearly in several languages, articulating the danger and offering advice for how to survive if you pass through—although the advice may be old and in error if things have changed on the other side."
+												],
+												[
+													"11",
+													"Champion. The champion of a clan keeps vigil by the doorway, ensuring none enter who are unprepared or unaware of the danger. The champion will offer advice, guidance, and supplies to travelers that they judge ready to pass through the door, but those judged unworthy will be stopped by force if necessary."
+												],
+												[
+													"12",
+													"Truesight lily. A rare flower grows by the doorway, planted by a druid or fey. The flower is large and black with white edges, and has a clear, bright fragrance. A successful DC 16 Intelligence (Nature) check identifies the flower as a Truesight Lily and reveals its use: Eating the lily grants a creature truesight for 6 seconds. With truesight, a creature will be able to see the door for what it is, and glimpse whether the path beyond is trustworthy or treacherous."
+												]
+											]
+										},
+										"Nodwander. Nod is known as a land that never rests in time or place. Those who cross the threshold into Nod run the risk of losing their way quickly, and a short journey within Nod can lead to a doorway half a world away from where a wanderer entered. Time can be lost in Nod as well, with moments changing into seasons or the reverse. This effect is called Nodwander, and it can only be avoided by carefully keeping to the right paths once you set foot inside.",
+										{
+											"type": "entries",
+											"name": "The World of Dreams",
+											"entries": [
+												"There is not enough time to tell of all the wonders of the World of Dreams—the way its land and light respond to the inner desires of its people, the way it tempts and teases and transforms everyone who encounters it. One thing is certain: It's far less safe than it first appears, and everything can change with the twinkling of an eye and the sharp intake of a breath.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Environmental effects.",
+															"entry": "The metamorphic atmosphere of the World of Dreams may cause any of the following effects:"
+														}
+													]
+												},
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"The atmosphere here is refreshing and entrancing, making sleep seem irrelevant. Characters only require half their normal hours of time to complete a long rest.",
+														"If characters go for more than 1 day without seeing their reflection, subtle changes start to affect their appearance, such as changes to the color of their eyes, hair, or skin, the shape of their features, or the style of their clothing. Upon seeing their reflection, characters can choose to immediately restore their former appearance.",
+														"When traveling, characters must make concentration checks to maintain focus on their destination, and to avoid being tempted off the path. Any character who succeeds on such a check is usually able to help friendly creatures from wandering, but on a natural 1, a character strays from the path, drawn by the allure of some curious attraction."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The World of Nightmares",
+											"entries": [
+												"The horrors of the World of Nightmares cannot be spoken of here; there is not enough daylight or strength for the telling. But it is a cursed place of undeath and dread. The omenbringers—dread elves who make their home in the gloom of that land—guard the paths of the place, and seek to protect those who venture into its unspeakable dangers. However, what looks like an omenbringer might simply be something else wearing its shadow... or its skin.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Environmental effects.",
+															"entry": "The malignant miasma that suffuses the World of Nightmares may cause one or more of the following effects:"
+														}
+													]
+												},
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"The only relief from the pervasive terror of the place is in sleep, when the mind and spirit wander other paths. Creatures cannot be roused from sleep without a contested check versus their Constitution.",
+														"Undeath is everywhere in the World of Nightmares. A humanoid who dies here rises as a zombie in 1d8 hours, unless affected by magic such as gentle repose.",
+														"Every 24 hours, characters in the World of Nightmares must make a Wisdom saving throw or become frightened of the world around them. The DC starts at 10, and increases by 1d4 every day."
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Spellskin Sanctums",
+									"entries": [
+										"In strange, out-of-the-way places, spellskins design spells by painting or etching whirls, lines, and shapes of nature to describe arcane ideas. These complex designs are strange and bewildering, and usually meaningless to anyone but another spellskin. Still, they are the dawn magic, captured and bound by ordered thought. These paintings take up large walls, and are found in caves, on cliff faces, or on the sides of standing stones, and the habitations found around them are known as spellskin sanctums.",
+										"Arcane communes. Some spellskins work in solitude, while others seek the company of like-minded people. Many spellskins enjoy collaborating together to solve the shape of magic, and form communes where they teach young savants as apprentices and offer arcane services such as spellcasting and enchanting in trade for food and supplies from local clans.",
+										"Derelict sanctums. Wanderers might come across empty sanctums, hidden in caves or abandoned ruins or echoing canyons. By choice or by force, the spellskins working in the sanctum abandoned the place. They may have moved on, been forced out, been killed by a predator or a spell gone wrong, or even crossed the line into writing and attracted the ire of the Hounds of the Blind Heaven. These derelict sanctums are eerie places, but can hold great magical treasure and paintings that another spellskin would value highly.",
+										"Lingering magic. Most sanctums have spells cast on them that make the spellskins' work easier, by providing aid, comfort, or security. These lingering spells can be startling or dangerous to those unused to such effects. The number and intensity of lingering spells depends on the power of the casters who created them.",
+										{
+											"type": "table",
+											"caption": "Lingering Spells",
+											"colLabels": [
+												"d12",
+												"Lingering Spells"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Unseen servants or animated objects are present and may work to help or hinder characters, based on the spellskin's instructions."
+												],
+												[
+													"2",
+													"Passages to important areas are secured with glyphs of warding, which may serve as mere warnings or as deadly traps."
+												],
+												[
+													"3",
+													"Programmed illusions spring to life when characters enter a new area, to instruct them or to warn them off."
+												],
+												[
+													"4",
+													"Lingering magic mouth, arcane eye, scrying, or other divination spells allow the spellskin to watch from a distance and speak when not present."
+												],
+												[
+													"5",
+													"A lingering seeming spell causes all who enter to take on an illusory appearance to the spellskin's liking, such as clean, uniform clothing or frightening shapes."
+												],
+												[
+													"6",
+													"A phantasmal killer or conjured elemental may go unnoticed or make itself obvious, depending on the caster's intent."
+												],
+												[
+													"7",
+													"The effects of spider climb or levitate linger, creating an area where objects float through the air and characters can walk on walls and ceilings."
+												],
+												[
+													"8",
+													"Magical light or darkness fills an area, illuminating or hiding what the spellskin wishes to reveal or conceal."
+												],
+												[
+													"9",
+													"A fabricate spell lingers, and raw materials gradually transform themselves into finished goods."
+												],
+												[
+													"10",
+													"Lingering mass suggestion causes characters to rethink their actions."
+												],
+												[
+													"11",
+													"Time slows or speeds up, causing those inside the effect's area to move more quickly or become trapped in slow motion."
+												],
+												[
+													"12",
+													"Teleportation circles allow instant passage to other parts of the sanctum, or to distant locations selected by the spellskin."
+												]
+											]
+										},
+										"Copying spells. If a spellskin is able to gain access to another's sanctum, they can copy spells from the walls onto their own skin as tattoos, given sufficient time and resources. The walls act as stationary spellbooks, typically showing one spell per wall (see Spellskin, p. 71). Important walls with high-level spells might be guarded in person or by magic, to ensure they go unseen by unworthy spellcasters.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Environmental effects.",
+													"entry": "In a spellskin sanctum, the arcane environment may cause one or more of the following effects:"
+												}
+											]
+										},
+										{
+											"type": "list",
+											"style": "list",
+											"items": [
+												"Spells are enhanced or dampened by arcane fields, and are cast as if at a higher or lower level, if applicable.",
+												"After 1d8 hours inside the sanctum, objects not held or carried begin to become animate, speaking or moving according to their own will. Touching such objects will render them inanimate again.",
+												"Small chambers, tents, or areas that look unimpressive from the outside hide magically enlarged interiors."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Tomb-Lands",
+									"entries": [
+										"Vampires are a rare—but very real—threat in Planegea. The Gift of Thirst (p. 257) purposefully keeps its numbers small, preferring to avoid the eye of Nazh-Agaa, the King of the Dead (p. 251) and only elevate those deserving of the powers of eternal life to its ranks. Still, to keep ahead of the forces of life and death, the Gift of Thirst keeps many tombs, surrounded by the encampments of unfortunate clans who have been bound, by terror or magic, into their service. These are the tomb-lands, and woe to those who stumble into them.",
+										"The shadow of undeath. Tomb-lands are, by the magical will of their dark masters, encircled in night and fog, with thorns and choking weeds forming a natural boundary around their edges. What little light breaks through the mists is watery and feeble, like a last breath, and is quickly strangled by the claws of night. The land teems with bats, wolves, rats, insects, and other night-feeding creatures. Witchlight drifts and torchlight burns from poles and smoking lamps, which provide the only relief from the utter gloom all around.",
+										"Drained population. Mortals pressed into service by the vampires are wretched indeed, and find it difficult or impossible to leave, either because of mind-controlling magic that makes doing so impossible, or because of the dangerous plants and animals that surround the tomb. They erect traps, cultic warnings, and wards at the bidding of their undead masters. Many are mere husks, staggering without personality through the most basic acts of survival, drained of whatever fire once burned inside them by the thirst of their overlords. Still, some of the young folk talk and mutter of escape or overthrow—though such dreams only bring tears to the eyes of those who have been trapped in the tomb-land for longer.",
+										"Buried finery. The tombs themselves are heavily guarded mounds of stone and soil—great barrows that contain within their heavy walls treasure troves of trade goods, precious stones, pelts, and crafted wonders, as well as the preserved corpses of the vampire's special favorites. When the vampire is in residence, they dwell within the tomb, but most tombs usually stand empty: a tempting prize to those foolish enough to try and extract their riches.",
+										"Necromantic nexus. Because vampires take great care to erect wards and defenses against Nazh-Agaa, tomb-lands are often gathering places for spellskins and sorcerers interested in the secrets of undeath. Vampires often build their tomb-lands on the borders of the Nightmare World, doing trade in goods and knowledge with dread elves. They're also favorites of fiends and dark gods, who often lend them the service of their devoted shamans, warlocks, and guardians.",
+										"The exalted presence. Vampires come and go as they please, leaving behind their spawn as temporary stewards in their absence. The vampire's presence or absence dramatically alters the state of the tomb-lands:",
+										{
+											"type": "table",
+											"caption": "Vampiric Presence",
+											"colLabels": [
+												"d10",
+												"Vampiric Presence"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Distant. The vampire is far away, and their return is not expected. 2d6 hours of daylight break through the fog, and some clan members might attempt an escape. Vampire spawn are in control, though their range is limited by the light."
+												],
+												[
+													"2",
+													"Nearby. The vampire is in the region, and they could return at any time. 2d4 hours of daylight break through, and the bravest clan members discuss whether there's still time to escape or not. Husks congregate in groups to watch the black sky with empty eyes."
+												],
+												[
+													"3-4",
+													"Arriving. The vampire is approaching. 1d4 hours of daylight break through, and the most desperate clan members might bolt in abject terror. Vampire spawn climb like spiders to the tops of the barrow, trees, and towers, to welcome their master's return. Wolves howl and predators screech at all hours."
+												],
+												[
+													"5-7",
+													"Present. The vampire is in residence. Daylight does not break through, and even fire casts a purple-blue light that dances with sickly shadows. Mortals are drawn to the tomb, where the vampire slakes its hunger, and spawn and necromancers compete for attention and favor at all hours. The vampire's retinue takes control of the tomb-lands, and harsh punishments are meted out to any who displease not only the vampire, but any of their favorites. An honor guard of wolves and night-feeding predators prowls and swarms around the tomb constantly, creating an impenetrable barrier to any but those called by the vampire's desire."
+												],
+												[
+													"8-9",
+													"Departing. The vampire is leaving. Traps are reset, the tomb's treasures marked with magical seals and wards, and fresh graves are dug for the drained bodies the vampire leaves behind. Wolves, bats, and other beasts are listless and slow. The spawn set to fighting amongst each other, or crawl into their alcoves to slumber for weeks. Daylight breaks through for 1d4 hours, +1 for each day the vampire is gone, to a maximum of 12. Surviving clan members bury their dead and begin to talk about making an escape…"
+												],
+												[
+													"10",
+													"Abandoned. The vampire has not returned in years, perhaps generations. The fog is scattered, and daylight shines its proper hours—sometimes almost as bright as elsewhere. Feeble vampire spawn fight each other, dividing the mortals into gangs devoted to their sole service. Wolves and bats depart the land, seeking prey elsewhere. Scavengers break into the tomb, and the tomb-land is regularly rocked with explosions or howls as magical defenses kill another would-be claimant of the long-gone vampire's spoils."
+												]
+											]
+										},
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Environmental effects.",
+													"entry": "The dread pall of the tomb-land may cause one or more of the following effects:"
+												}
+											]
+										},
+										{
+											"type": "list",
+											"style": "list",
+											"items": [
+												"Parasites and diseases breed in pools of stagnant water. The air is thick with swarms of insects and mortals who drink the water must make a DC 18 Constitution saving throw or contract a disease.",
+												"Characters with a Charisma score of 15 or higher are noticed by the vampire spawn and marked as vessels.",
+												"1d4 wolves or bats are within 120 feet at all times."
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "At Your Table",
+							"entries": [
+								"Stone Age fantasy is easy to understand and exciting to play, but every group approaches it a little differently. For some, the fun of the setting is in raw-edged survival. For others, it's the close connection to the natural world and the lack of technological sophistication. There are as many reasons to play in this setting as there are for any other era of adventure, so as you approach Planegea with your table, spend some time talking to your players to find out what they're excited about—as well as any concerns they might have about how the setting might challenge what they find most fun about roleplaying adventures. Take those factors and your own preferences into account as you plan your Planegean adventure.",
+								"What follows is advice for how to introduce Planegea to a group who might be used to medieval fantasy (including how to transition an existing game from a medieval setting to Planegea), as well as some key modifications that might make the setting more fun for you and your players, depending on your group's tastes.",
+								{
+									"type": "entries",
+									"name": "Introducing Planegea",
+									"entries": [
+										"How do you kick off adventures in Planegea with your group? Do you plan a long campaign, a short adventure, an interlude in an existing game? Use the suggestions below to spark ideas for how to weave Planegea into the adventures you're running:",
+										"Unique campaign. The most straightforward approach to running a Stone Age game is simply to pitch it to the group as a unique adventure, create new characters, and have fun exploring the setting on its own merits. If you have player buy-in, this is a great method of fully immersing your players in Planegea, allowing it to be its own world without reference to any other. The rest of these concepts explore ways to weave the setting into existing adventures.",
+										"Interlude adventure. Use adventures in Planegea to kick off or conclude an arc set in another era—perhaps you play a prologue adventure where Stone Age adventurers witness the rise of a world-shaping evil, or maybe the actions of players return the world to a primitive state and a Planegea game examines their legacy in a post-post-post-apocalypse. You could also weave Planegea adventures through a game in another setting as flashbacks to another era, which could tie into an explanation of some larger and very ancient plot thread in your medieval fantasy game. These interlude adventures keep medieval fantasy dominant, but show the grand impact of player actions stretching across uncountable generations.",
+										"Singular event. Work a Planegea arc into your existing campaign with a one-time trip. Perhaps a god, archfey, or arch-druid sends the characters on a spiritual journey into the primal past. They might experience past life regression or ancestral memories. Maybe a wizard traps them in an illusory Stone Age world from which they must escape. Or maybe they have one chance to travel into the deep past to retrieve a long-destroyed item or unlock a quest goal that cannot be achieved in their present. This one-time trip might serve as a short arc to break up a longer campaign, and allow full immersion in the world of Planegea for a few sessions without losing the thread of your existing game.",
+										"Fixed location. Instead of a one-time trip, Planegea might be a place the characters can travel to at will. Perhaps as they reach higher levels, they could discover the secrets of planar travel that open Planegea as a plane they discover, where they find allies and resources and make enemies and memories. Or, instead of planar travel, maybe some item or plot device allows them to time travel to a fixed point in their history, so far back that they can't make major alterations to the timeline. A portal might open to Planegea, without explanation as to whether it's travel through time or realities. Or, for a less magical means of travel, maybe in your game Planegea is a lost continent, which can be reached by sailing ship or skyship or crossing a dangerous wilderness. The ability to choose when and how to travel to and from Planegea might be tons of fun for the right group… although it's worth considering whether they can bring metal with them, or use writing, coin, wheels, and numbers over nine without alerting the Hounds.",
+										"Major change. If you want to introduce a major change to your campaign, and are certain it will be fun for your group to do so, the players' actions or failure to stop a campaign villain might lead to a magical disaster. Perhaps a wizard unleashes a mighty spell that drags all of reality back to the Stone Age. Maybe the gods enact their final war and reduce all life to the bare elements of survival. Maybe a character or an NPC uses a wish spell carelessly (or purposefully!) to forever alter reality. These kinds of irreversable changes will obviously have a huge impact at your table, so make sure you have player buy-in before fundamentally altering the setting. You know your table best, and if it's fun for everyone there, this kind of major upset can be the beginning of truly unforgettable adventures."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Genre Tropes",
+									"entries": [
+										"Although Planegea is its own campaign setting, it's more than possible to run published 5th Edition adventures in the world of Planegea by converting some common medieval fantasy tropes to a prehistoric variant that stays true to their original spirit. Use the Prehistoric Fantasy table (see Prehistoric Fantasy, p. 18) to bring the best of other campaigns to the world of Planegea.",
+										{
+											"type": "entries",
+											"name": "Villainous Schemes",
+											"entries": [
+												"Most of the classic villainous schemes from fantasy literature apply in Planegea—murder, revenge, usurpation, dark devotion to an evil god… all of these can be brought directly into this world without alteration. Here are a few examples to get you started (for more complex schemes, combine two or more of these into a single diabolical plan):",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Ambition: Destroy gods and devour their essence to become a god",
+														"Ardor: Resurrect a long-dead loved one, no matter what it takes",
+														"Greed: Plunder aberrant vaults (p. 142) for artifacts of power",
+														"Vengeance: Wipe out an entire clan in repayment for an old insult or injury",
+														"Pride: Kill the Worldheart Dragon at the center of Blood Mountain (p. 157)",
+														"Heresy: Eliminate those whose worship is displeasing",
+														"Conquest: Conquer the three Brother Clans (p. 163) and rule the Great Valley",
+														"Destruction: Collaborate with power and usher in an invasion by the giant empires (p. 239)",
+														"Corruption: Turn a region against itself",
+														"Zeal: Open a portal to the dwelling of alien beings from the Sea of Stars (p. 157)"
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Genre Adventures",
+											"entries": [
+												"Planegea is crafted from the bones of classic pulp adventures, and those early stories were full of all kinds of stories. If you want to run your Planegea adventures within other pulp genres, here are a few suggestions for how to get started:",
+												"Westerns. Play as peacekeepers of the Dire Grazelands (p. 165), moving between herd communities, dealing with rustlers, robbers, clans trying to stake their claim on the land, the older beings who were there first, and the underlying menace of the great civilization to the east that always threatens to put an end to your wild and free way of life.",
+												"Pirates. Play as sharksails of Scattersea (p. 171), sailing your catamarans for plunder and adventure among the countless, shifting islands known as the Stones. Prey on the weak, uncover ancient mysteries of the deep, battle storms and sea monsters, and invoke pacts with merfolk and sea gods to keep sailing into just one more cursed adventure.",
+												"Detectives. Play as hardboiled investigators of Free Citadel (p. 199), where murder is as old as mortal life, and everyone's got an angle. Travel ruined streets, interrogate suspects among your fellow citizens, follow leads, protect witnesses, and uncover the truth, no matter how deep into the darkness it goes.",
+												"Spies. Play as Children of Kraia (p. 203), Worldsingers (p. 219), or master thieves of Scavengers Vow (p. 206), on a secret mission from which there may be no returning. Use specialized enchanted tools, make contact on the inside, trust no one, and get in and out quick and quiet like only you can.",
+												"War. Play as warriors in an all-out conflict between Giant Empires (p. 239) or the Brothers Clans (p. 163), living on the front lines and running impossible risks to avert total disaster. Key victories are within your grasp if you're smart enough, brave enough, and your luck breaks just right—although you might lose everything you care about along the way.",
+												"Science Fiction. Play as time-travelers or spacefarers who have found yourselves stranded in a strange era, dimension, or alien world. Peel back the layers of the seeming primitivism to discover the advanced technology hidden below the surface, and scrape together enough raw materials to construct a way back to the stars.",
+												"Sports. Play as athletes of Edgegather, Free Citadel, or Seerfall (p. 166), engaged in glorious sport for the honor of your people. Travel through a dangerous world to compete against other clans, playing in impossible landscapes and conditions, building towards a final match with the imperial team of Lo-Pa who—they say—can never be defeated."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Setting Variant: The Utter Future",
+											"entries": [
+												"In the pulp literature that inspired this game, there is a post-apocalyptic tradition of worlds where magic and technology are mixed, and what we think of as the present is the unimaginable past. To explore this idea, consider introducing sealed bunkers, buried deep underground, with modern or futuristic technology and relics. Whether Planegea is in the future of Earth or another classic roleplaying setting, why are these buried places sealed away, what happened to all the metal on the surface, and what are the Hounds of the Blind Heaven?"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Modifying Planegea",
+									"entries": [
+										"First and foremost, Planegea is intended to be a fantasy setting that promotes fun, excitement, and a deeply positive way of connecting with others, telling stories, and embarking on unforgettable adventures. These goals are obstructed when elements of the setting break any player's immersion or sense of fun.",
+										"In Planegea's development, there were some worldbuilding choices that stood out as the most commonly modified elements, with some DMs choosing to ignore them, alter them, or remove them altogether. It is essential that you, as the DM, feel the freedom to make whatever changes are necessary to promote the fun of your table.",
+										"This section includes a few notes on how to adjust or remove the Black Taboos and aspects of the Giant Empires so as to run the game you and your players will find most enjoyable.",
+										{
+											"type": "entries",
+											"name": "The Black Taboos",
+											"entries": [
+												"No writing. No numbers over nine. No currency. No wheels. These metaphysical rules and their mysterious enforcers were created as DM tools to guide campaigns into exciting, far-reaching stories are consistent with Stone Age aesthetics.",
+												"In the development of Planegea, many people had trouble thinking of what Stone Age adventures might be beyond “We invent the wheel,” or “We invent the alphabet.” Those are stories that we see told again and again in prehistoric narratives, and the Black Taboos were designed to give DMs a way to encourage their players to find fun while embracing the Stone Age setting (instead of transforming it).",
+												"That said, people who play RPGs often like to pull back the edges of things, so there were other players and DMs who had their imaginations sparked by the presence of these laws and powers, becoming eager to test the boundaries and find ways to defy the Hounds.",
+												"However, it also became clear that for some people, the Hounds and Black Taboos felt like a distraction. Perhaps you fall into this category—you might feel that your players are ready to explore a prehistoric world without strange unearthly laws binding their ability to invent. In that case, here are some considerations for how you might enjoy the world of Planegea, free from the Hounds:",
+												{
+													"type": "entries",
+													"name": "Hound-Free Adventures",
+													"entries": [
+														"There are many Stone Age adventures to be had without the Hounds of the Blind Heaven. Here are a few styles of game you might consider if you choose to remove them:",
+														"Origin adventures. So many Stone Age stories hinge on the moment that the wheel was created or that proto-writing changed communication. If you want to run a campaign centered on such watershed events, you can have a ton of fun removing the Hounds and letting your players navigate a profound shift in technology that alters all of life across the Great Valley and beyond.",
+														"Historically accurate. In Earth's history, no Hounds were required to enforce the Stone Age. If your players buy into the truth that technology need not progress by leaps and bounds, and that people lived at a set technological level for generations upon generations, the Black Taboos become unnecessary, and you can simply settle into a world that's more grounded in the Stone Age of our own history.",
+														"Stone Age satire. Stone Age cars in prehistoric gridlock. Primal factories with canned dinosaur meat rolling off the assembly line. Dinosaur food disposals. If you want to wholly embrace the wacky fun of an analogue to the modern world fashioned entirely with Stone Age materials, go for it! This kind of zany fun can be amazing with the right group of players, and lets you tell an entirely different kind of story in a setting that still promotes big adventures.",
+														"Houndslayers. You may be interested in what happens to the world of Planegea immediately after the Hounds are defeated. In this case, there's no need to alter large portions of the setting—only to ask, “What now?”"
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Impact of the Hounds' Absence",
+													"entries": [
+														"Removing the Hounds of the Blind Heaven from the setting has some far-reaching implications. Consider the following as you develop your game without them:",
+														"Everyday life. A strong sense of menacing limitation hangs over the world of Planegea, and is part of its design. With that removed, you might see a flourishing of creativity and invention. The introduction of wagons and record-keeping might make tribes much more prosperous and inventions far more complex, and with the chariot and higher-level logistics, warfare might become much more dangerous and far-reaching.",
+														"Factions & threats. The league of spellskins called the Sign of the Hare (p. 211) and the cruel arcane researchers known as the Recusance (p. 254) are both centered around the Hounds. If you remove the Hounds, you can also remove these groups, or give them new goals and motivations, such as the uplifting of gods or the achievement of lichdom.",
+														"Metal & farming. The absence of metal and the lack of farming in the setting is not due to the Blind Heaven. Rather, metal is simply absent from the world and Duru the forest titan (p. 232) assaults those who harness the power of the growing earth. These might remain or also be changed, depending on the world you're trying to create for the players at your table."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Giant Empires",
+											"entries": [
+												"Planegea is a world built on the fuel of classic pulp adventures. Its giant empires represent the kinds of massive, too-big-to-handle threats seen in genre fiction such as 10,000 BC, Stargate, West of Eden, and other works that feature a technologically advanced power that abuses its might at the expense of the lives of sympathetic heroes.",
+												"However, many of these works of genre fiction, despite their relevance to the setting, were created without regard to the real-world impact of slavery on human lives and the ensuing cost throughout generations. For many tables, having these concepts in the game whatsoever is immersion-breaking and destroys the fun. Talk to your players. If that is true for anyone at your table, please remove these elements from the setting, using the guidance below.",
+												{
+													"type": "entries",
+													"name": "Slavery Is Evil",
+													"entries": [
+														"To be unequivocal: Slavery is evil. Support of slavery in any form or even passive inaction in the face of slavery is an evil action. This game has a long history of linking moral terms like “good” and “evil” to its worldbuilding and game mechanics. The topic is murky and complex, but Planegea designates any character or creature who enslaves others as canonically evil. Conversely, the most heroic characters in the game are the ones who actively oppose evil and overthrow abuses of power in all its forms. Free Citadel stands as a testament to liberation and personal power, and represents the values of Planegea as a setting.",
+														"Planegea is a setting that loves to explore both sides of issues, and to play with morality in the face of a kill-or-be-killed world. However, there are no two sides to slavery, and none of the quest hooks are sympathetic to slavery in any way. Do not plan campaigns that put characters in a position of authority over enslaved people or adventures that create sympathy for slavers."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Altering the Empires",
+													"entries": [
+														"If your table is excited about playing a game that opposes, dismantles, and destroys slavery, enjoy playing with these elements. However, if these themes detract from the experience of anyone at the table, including you, consider adjusting the empires to remove the theme of institutional slavery in any of the following ways:",
+														"Closed borders. As written, the giant empires are an aggressive threat, menacing all who live near them. However, you can remove the theme of slavery altogether by making the empires much more aloof. In this Planegea, they might want nothing to do with mortals, and their cities might be inscrutable and inapproachable. They provide for their own needs without any mortal labor whatsoever, using magic and their strength to generate their own resources. Such changes would raise the stakes for infiltrating the empires, to discover the secrets hidden behind their closed gates and walls.",
+														"Hunting parties. If you want to keep the giants an active threat in the world while removing slavery, you can simply alter the concept of enslaving parties to hunting parties. Perhaps the giants would rather eat mortals or kill them for sport than force them to do labor. Use hunting parties to make the edges of the empires dangerous and reinforce the menace of the giants without raising the issue of slavery in any way. (Of course, you'll have introduced issues of cannibalism and/or genocide, which may or may not be problematic for your group.)",
+														"Isolated villains. If you're interested in a single adventure hook dealing with freeing enslaved captives, but don't want the theme to spread throughout the rest of the campaign, you can always make an individual giant a villainous slaver. Such a giant might be ostracized from the rest of giant society, or acting in abuse of power among their own people. Regardless, a single evil character enslaving others might be more straightforward to deal with than empires built on evil, and allow you the joy of opposing evil without engaging in worldbuilding around it.",
+														"Open empires. Historically, although ancient empires did engage in slavery, their societies were much more porous and mobile than flattened stereotypes would suggest. The giant empires in your Planegea might be more interesting if they were actually very open societies, trading with and even celebrating mortals, allowing them access to their cities as long as they can offer something of value. Such open empires would still be dangerous places—individual giants might be cruel or kind, depending on their personal proclivities—but the empires overall would be far more complex and fluid, making for entirely new types of interactions with powerful NPCs and advanced civilization."
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "The Primal World",
+					"page": 156,
+					"entries": [
+						{
+							"type": "quote",
+							"entries": [
+								"The first time the young sorcerer flew, it was an accident. He had been far upstream, gathering mudberries, when a sudden screech in the woods startled him. He leapt off the ground, and hovered in the air, shocked to find the earth a horse's height below.\n“He began flying more often after that—secretly at first, wheeling in the sky and surprised by how small his clanfire looked from above—but eventually, he was discovered and flew in service of the clan, scouting out quarry, keeping watch for danger, and looking at the land ahead to determine the next promising site for the encampment when the clan was on the move.\n“But his flights grew longer, farther, and higher. He began to lose touch with the ground, staying by the clanfire only as long as it took to rest before lifting off again. He had been promised for marriage, but he broke off his oath. How could he marry when his heart was aloft?\n“One day he soared farther than ever before... and as he tired, he did not circle back home. He kept flying onward. He flew over fertile valleys and dry plains. He flew over lakes roiling with monsters and lakes dead with salt. He flew between icy mountain peaks, over forests awake and asleep. He flew over a burning desert, over shining islands. He dodged bolts of lightning in the Everstorm. He even circled the crater of Blood Mountain itself. Once he learned the trick of it, he never stopped flying.”\n“What happened to him?” asked the stargazer.\n“He flies still. Look there... those two stars are his wings, and in the center is his heart, still aloft. He lives in the stars, and always will... unless one day he decides to fly utterly out of the world.”"
+							]
+						},
+						"In the beginning was Blood Mountain, and from its fires spewed forth the world of Planegea. The land continues to stretch outward, pushing creation's sprawl further and further. The edges of the world are old, alien, and cruel, and its center is new, burgeoning with life and chaos.",
+						"What follows are brief introductions to the landmarks, regions, and people of Planegea. This chapter isn't intended to be all-encompassing. What's written here is just the edge of all that wanders and skulks, tunnels and soars through the world. There are a great many places unexplored, broad horizons unwritten. You never know what you'll find in Planegea. A sudden drop in the land may reveal an ancient stone temple, a cave might offer passage to a hidden kingdom, or a mysterious encampment could lead to untold wonders of discovery.",
+						"Each Planegea is different. Make the land your own, fill it with adventures, monsters, and locations that breathe your life into it.",
+						{
+							"type": "entries",
+							"name": "Cosmology",
+							"entries": [
+								"At a high level, Planegea is one world. A wanderer can walk from the heart of the world through various planes to its outer edge, crossing by foot over the borders between lands that will someday shatter into separate realities.",
+								"Worldheart. All the world has a single origin—the Worldheart Dragon, who sleeps in the molten rock of Blood Mountain, at the center of creation. It is by her power that the world expands, and each explosion or magma flow from the mountain expands reality further out into the darkness beyond.",
+								"Unified planes. The lands and seas that the Worldheart caused to be are one. Four great elemental wastes—fire, water, earth, and air—hem in the Great Valley, bordered by giant empires that sit halfway between mortals and genies. All the world is unified, but even now, the lands seem to strain against each other, pulling reality ever farther apart.",
+								"Nod. Hidden just out of sight, throughout the world, lie doorways and passageways into the twin worlds of Nod: the World of Dreams and the World of Nightmares. These doorways allow fey and mortals to pass back and forth between realms—as well as other, more fearsome beings.",
+								"The Kingdom of the Dead. There are only two ways into the Kingdom of the Dead—the Dark Door and the Long Way. The Dark Door is only seen by those who have passed beyond life, and the location of the Long Way is a secret known only to the most powerful and most ancient beings who live. The Kingdom of the Dead is a lightless place of inevitability, where souls build an endless necropolis until they fade, forgotten in the living lands."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Sea of Stars",
+							"entries": [
+								"Velvet-black and full of music, this ethereal world is alive with dancing stars and the things that lurk in the darkness between them.",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Creatures:",
+											"entry": "Elementals, aberrations, constructs"
+										},
+										{
+											"type": "item",
+											"name": "Treasure:",
+											"entry": "The finery of the stars and the dreadful, dripping machines of the things that wait in the darkness"
+										},
+										{
+											"type": "item",
+											"name": "Lore:",
+											"entry": "Starlings, the Crawling Awful"
+										},
+										{
+											"type": "item",
+											"name": "Challenge:",
+											"entry": "Levels 17–20"
+										}
+									]
+								},
+								"It's said that when Blood Mountain first erupted, it didn't spew forth flame, but stars. The Sea is where the stars rest at night, and where things that have no name lurk and whisper in slowly-expanding pockets of shadow. Those stars surround the world, and if you walk to the very edge of the elemental wastes, you can fall into the stars' infinity. There is no ground in the Sea of Stars, and few mortals, if any, have ever drifted in its singing spaces. Yet even should a way be found, the bravest hunter would be wise to stay away from this infinite reach of light… for there are things among the stars that mortals have long forgotten—and that we can only hope have forgotten us."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Sky",
+							"entries": [
+								"There is no single sun in Planegea. Rather, at the end of each night, the stars begin to swirl overhead as they complete their constellation dance, swooping and streaking towards each other in an attempt to knock the others out of the sky. As they battle, victorious stars grow brighter until only three or four heavy stars glow like lanterns above. Then the winner of the duel rams its opponents from the heavens, taking on the full brilliance of the Day-Star, and parading from east to west in its full glory all day.",
+								"The defeated stars spend the day recovering their strength, siphoning light from the Day-Star until it is weak enough for them to rise in shining fountains from the horizon, to begin again their constellation dance and the endless cycle of night and day.",
+								"Between the stars and above the land drift a scattering of moons, traversing a life-cycle from birth to death. New moons are formed irregularly (but usually at least once a month), born of a violent eruption of ash and smoke at the mouth of Blood Mountain. Each moon begins small and dark, then grows as it waxes until it is full. Afterwards it begins to die, waning until its husk turns to dust and disappears into the Sea of Stars. This entire process takes thirty days. Because of this cycle, there are never the same number of moons in the sky at any given time—sometimes there are many, and sometimes none at all. Rarely, a twin moon will be born of the ash, an event that is heralded as an omen for those who dwell below."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Elemental Wastes",
+							"entries": [
+								"Four wild, uninhabitable realms where ancient genies and alien elementals dwell at the very edge of the world.",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Creatures:",
+											"entry": "Elementals, aberrations"
+										},
+										{
+											"type": "item",
+											"name": "Treasure:",
+											"entry": "Natural wonders, spoils of the aberrations"
+										},
+										{
+											"type": "item",
+											"name": "Lore:",
+											"entry": "The Giant Empires"
+										},
+										{
+											"type": "item",
+											"name": "Challenge:",
+											"entry": "Levels 17–20"
+										}
+									]
+								},
+								"These desolations of earth, air, fire, and water are the first lands spewed by Blood Mountain, the domain of the cruel and corrupt caravans of genies, the final edges of the world—the last place a mortal can set foot before falling into the endless Sea of Stars. The border of each waste is guarded by the empire it touches, its giant guards determined to ensure nothing travels in… or out.",
+								"Brinewaste. This vast and dark sea is home to great coral catamarans and undersea palaces of the Marid, piscene water-genies who are convinced of their infinite wisdom and wit. They trade with the storm giants, but find the empire's endless war against aboleths, kraken, and the like tiresome, believing that it would be no great loss if the land was swept away and covered in water and slime.",
+								"Quakewaste. No mountains imagined by mortals can rival the limitless heights of the roaring, soaring ranges of the Quakewaste. Home of greedy and heartless Dao who never stop demanding more enslaved mortals for purchase from the Stone Empire, the elemental realm of earth is a grinding mouth of avalanche, earthquake, tunnel, and volcano, and puts the sea to shame in its tectonic unrest.",
+								"Scorchwaste. A burning hellscape, the flames of which would consume Planegea in a moment if there were not a great barrier desert to break them, the realm of fire is inhabited by the bloodthirsty efreeti. These genies, locked in endless wars and political machinations with each other, could turn and destroy the Fire Empire in a moment if they would unite. However, the giants know that such cooperation is impossible for them, in their haughty and destructive hearts, and so the giants play all sides of their endless war against each other, provisioning, making weaponry, and benefiting from the role of host and aide to each sparring efreeti warband.",
+								"Windwaste. The vast white windstorm that is the elemental realm of air howls with an endless wildness, but within the floating sky-caravans of the Djinn, all is serene and full of comfort and pleasure. The elegant genies travel in endless loops and swirls across the skies, attempting with deadly earnestness to outdo one another in magical delights and wonders. The Air Empire is a useful supply of trinkets and souls for them to use in their games and amusements, and they are more than willing to pay handsomely out of the abundance they create quite literally out of thin air."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The World-Fangs",
+							"entries": [
+								"Four fearsome corners of the world, where elements clash in utter hostility to mortal life.",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Creatures:",
+											"entry": "All types (varied by region)"
+										},
+										{
+											"type": "item",
+											"name": "Treasure:",
+											"entry": "Elemental wonders, the remains of legendary monsters, and lost treasures of genies and stars"
+										},
+										{
+											"type": "item",
+											"name": "Lore:",
+											"entry": "The Giant Empires"
+										},
+										{
+											"type": "item",
+											"name": "Challenge:",
+											"entry": "Levels 11–16"
+										}
+									]
+								},
+								"Shamans say that Planegea is a wide mouth opened in a roar with four great teeth at its corners—the World-Fangs. These regions of devastation are the meeting places of the Elemental Wastes, and are too inhospitable for any mortal to make permanent residence—or any giant for that matter.",
+								"The Fang of Rock & Flame. A volcanic land, hotter than many clanfires, the air full of choking ash and smoke. The peaks and crags of this sulfurous oven are inhabited by all creatures who love flame and despise anything that is consumed by burning.",
+								"The Fang of Sand & Wind. A searing desert, where constant sandstorms choke and bite and rip the flesh off of mortals or giants foolish enough to wander into them. If a storm is not blowing, the sun can reduce a traveler to dizzy weakness in a matter of hours. After that, it's the skull-scarabs that will finish them off when they fall.",
+								"The Fang of Shadow & Thunder. Darkness and towering cliffs, illuminated only by the blinding flashes of lighting, where the constant roar of thunder reverberates off every cliffside, triggering endless avalanches and rockslides into the bottomless pits and dark waters of the rainwater lakes of that unlivable land.",
+								"Saltfang & Slimefang. A coastal nightmare where great tentacled things from the sea and great oozing things from the swamps wrestle in the mucky silt and sand where black waves devour black shores with endless, mindless, gnawing hunger."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Blood Mountain",
+							"entries": [
+								"A black volcano—unthinkably high and ever-erupting—where cunning dragons plot and hoard in burning, sulfurous darkness.",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Creatures:",
+											"entry": "Dragons"
+										},
+										{
+											"type": "item",
+											"name": "Treasure:",
+											"entry": "Volcanic gems, hoarded weapons and loot"
+										},
+										{
+											"type": "item",
+											"name": "Lore:",
+											"entry": "The Worldheart Dragon, the Brood"
+										},
+										{
+											"type": "item",
+											"name": "Challenge:",
+											"entry": "Levels 17–20"
+										}
+									]
+								},
+								"At the center of Planegea, visible for countless miles in all directions, an impossibly tall spire of rock, fire, and smoke rises from the tangled mass of a primordial jungle. All of Planegea wheels around this central axis, which creates and destroys life with primal power.",
+								"This volcano both is and is not infinite and crawls with dragons both cunning and feral. It is said that in the center of its fire lives the being that made all things: the Worldheart Dragon, an incredibly massive, ancient, and powerful creature who is dreaming reality into existence, and her five consorts, the legendary Sacred Dragons, whose scales glitter with colorful sheens of an impossibly smooth, strong material, like nothing else seen in the world."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Venom Abyss",
+							"entries": [
+								"Blood Mountain sits in an enormous chasm which is roughly circular in shape, and filled with a writhing jungle full of dinosaurs, apes, and gigantic poisonous crawling beasts of all kinds.",
+								"Everything about the Venom Abyss is alive and growing. Twisted poison vines, enormous carnivorous plants, things that are half-plant, half-monster… the jungle crawls with danger, most of it mindless and instinctual.",
+								{
+									"type": "inset",
+									"name": "Secret of the Spider-Queen",
+									"entries": [
+										"None can say who or what the spider-queen is. There are rumors, of course. Some say she is a cursed woman in the shape of a gigantic spider from the waist down. Others that she is the mother of spiders—a great, massive many-eyed thing without a shred of humanity. There are those who believe she is neither spider nor woman, but an evil goddess in spidery form. None can say for certain, but all know that to stumble into the web of her people unprepared is to meet a long and grisly death."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Canopy",
+									"entries": [
+										"A whispering green world of branches, birds, and flowers, where dragon cultists and spider-folk pray and hunt in the sun and wind.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Creatures:",
+													"entry": "Humanoids, beasts, monstrosities"
+												},
+												{
+													"type": "item",
+													"name": "Treasure:",
+													"entry": "Rare fruit and flowers, cult artifacts, gear and loot caught in the webs of the spider-queen's people."
+												},
+												{
+													"type": "item",
+													"name": "Lore:",
+													"entry": "The Brood"
+												},
+												{
+													"type": "item",
+													"name": "Challenge:",
+													"entry": "Levels 5–10"
+												}
+											]
+										},
+										"There is an entire world in the treetops of the Venom Abyss, full of creatures who live and die without ever touching the jungle floor. Arboreal villages gather fruits and nuts, hunt birds, monkeys, lizards, and other small prey, and avoid their prey's larger, predatory cousins.",
+										"Dragon cults. The Venom Abyss canopy is largely without its own gods, who tend to dwell in hallows on land—but there are clans who revere the dragons that fly to and from Blood Mountain. Some enact elaborate rituals to summon and feed a dragon, and other clans live in fear of the dragon cult raiders stealing their young for some awful sacrifice.",
+										"Nexus of the spider-queen. Wise hunters know to avoid areas where great webs have been spun. The spider-queen and her people are ever-thirsty for the blood of foolish prey, and it's said that mortals who avoid being eaten are horribly transformed into her arachnoid kin."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Below",
+									"entries": [
+										"A dark and misty rainforest—all greens and blacks except when pierced by shafts of golden light from above—where cursed dinosaurs and the body-stealing Kelodhros struggle and kill in the hot, sweet-smelling gloom.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Creatures:",
+													"entry": "Beasts, monstrosities, plants, oozes"
+												},
+												{
+													"type": "item",
+													"name": "Treasure:",
+													"entry": "Rare fruits, vegetables, and beasts; Kelodhrosian magic items"
+												},
+												{
+													"type": "item",
+													"name": "Lore:",
+													"entry": "Kelodhros Ascendant"
+												},
+												{
+													"type": "item",
+													"name": "Challenge:",
+													"entry": "Levels 5–10"
+												}
+											]
+										},
+										"In the emerald darkness below the treetops is an entirely different world, untouched by wind or sun. Here, the air is thick and wet, full of mists and insects and plants that curl their tendrils to sting and devour. Only the fierce and ferocious survive here—and even then, it seems that more creatures die than live.",
+										"Reptilian hunting ground. The Below teems with life, and the greatest beasts are the dinosaurs—although they normally go unnamed in that green darkness. Though they fight for survival, many have been corrupted by the things that swarm and slither in the forests, and many a great, scaled, fanged beast stalks the forest floor aglow with necromantic magic or writhing with twisted tentacles alien to its natural form.",
+										"Empire rising. The pale, ominous people known as Kelodhros Ascendant make their home in the Below, building ziggurats and enacting rituals to steal the power of living things for their own bodies. Their influence is subtle and strong, and grows every day as they sacrifice their victims, empower their priests, and plot their assault on the world above the walls of the Abyss.",
+										"The Breathtaking Lagoon. Legend tells of a place where the vines and trees fall away to reveal a lake of majestic beauty. Rainbows arc across its surface, its shimmering depths glow with pristine purity. Many a weary hunter has touched its surface in great relief, only to feel the utter anguish of being sucked under by its sticky pseudopods—for the lake is a lie, and is in fact the greatest of all primordial oozes. Its appearance is a lure for the hapless creatures on which it feeds.",
+										"The Rotting Gloom. Beneath the feet of dinosaurs and Kelodhros, in the thick roots and black volcanic soil of the Venom Abyss, an entire underworld of caves, crawling creatures, and predatory oozes is alive with hunger. Hidden here are secrets so powerful that they have never been pushed outward into the rest of Planegea, remaining always close to Blood Mountain, feeding on its energy and—perhaps—plotting their eventual return to the surface of the world."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Unfalls",
+									"entries": [
+										"Thundering, blue waterfalls-in-reverse rising in steaming fountains from the jungle below, where mighty beasts swim and climb to hunt the world above.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Creatures:",
+													"entry": "Beasts, monstrosities"
+												},
+												{
+													"type": "item",
+													"name": "Treasure:",
+													"entry": "Valuable remains or artifacts (draconic or Kelodhrosian) caught in the current of the Unfalls"
+												},
+												{
+													"type": "item",
+													"name": "Lore:",
+													"entry": "The Dragonborn"
+												},
+												{
+													"type": "item",
+													"name": "Challenge:",
+													"entry": "Levels 1–10"
+												}
+											]
+										},
+										"Five great rivers—the Bear (p. 163), Ape (p. 165), Lion (p. 165), Ox (p. 166), and Eel (p. 171)—flow in reverse from the Venom Abyss, surging upwards in great eternal fountains that pulse as if pumped by the great heart of the world itself. Terrible monsters often wash up these fountains and—finding themselves in the Great Valley—fall to devouring the beasts and clans of that fertile land.",
+										"Goblin Tunnels. Hidden behind the Unfalls are great towering cave systems, maze-like and bewildering. These have long been the domain of goblin castes. Near the jungle floor, bugbears fish in the river and catch food and beasts to nourish the higher castes. Goblins in the caves above gather mushrooms and ferns, and domesticate bats, fish, insects, and other stranger beasts. They sit below the hobgoblin warrior caste, who in turn are governed by the spellskin caste at the very top of the system."
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Great Valley",
+							"entries": [
+								"Most of the mortals in Planegea make their home in the Great Valley—a wide and well-watered land, rich in rivers, good hunting, and plentiful plant life. Existing in a band between the violence of the Venom Abyss and the tyranny of the giant empires, the clans of the Great Valley live in a world of constant change, always only a few steps away from death.",
+								"Migrant lives. Every year, as the seasons change and the herd animals move their grazing lands, the predators that rely on them for food—including the hunting and gathering mortals—travel with them. North of the Venom Abyss, the land enjoys summers with plentiful rain and foraging, but winter is dry and full of winds that cut like knives. As the leaves turn, beasts and clans migrate into the arid shrubland south of the Venom Abyss. Here, winter brings rain, which causes the land to bloom. Foraging is limited in the cool, wet winters of the south, but the animals come to graze, and it's far easier to survive there through the worst of the year's privations.",
+								"Divine hallows. Scattered throughout the land, dominating regions large and small, stand the divine hallows. These places can be anything: a bend in the river, an ancient tree, a deep cave—what sets them apart is that they are the claimed sanctuary of a god. From a hallow, a god's power emanates, and many are shrouded in regional effects such as darkness, wind, tremors in the earth, fertile plant life, or other manifestations suitable to the power of their god. Most regions are ruled by only a single god at a time, but some can coexist if their spheres of influence do not overlap.",
+								"Hunters, gatherers, & raiders. The greatest powers in the Great Valley are the mortal clans, who make their homes (both temporary and permanent) there. These can be of one kinship or many, dedicated to trade or violence, governed gently or with great cruelty. Each clan is unique, with its own politics, personalities, troubles, and gifts. And each must keep moving to stay ahead of the fierce winter that always seems to come a little sooner every year.",
+								"Wandering woods. Planegea is young and awake. Verdant forests comprised entirely of treants, dryads, and motile trees wander the landscape. When peaceful, they are full of food, shade, rest, and wisdom. When angered, they spell utter devastation.",
+								"Dwarvish ruins. The dwarves are famous for building and abandoning stone circles, dwellings, fortresses, even cities. As soon as construction is complete, these master craftsmen lose interest, eager to begin the next edifice. Dwarvish ruins scatter the landscape, making great places for encampment, settlement, ambush, or hunting. Many secrets are hidden in the ruins of dwarves, and though some clans make them their regular habitation, others are to be avoided by those who do not wish to perish in a most unsettling death.",
+								"Hidden doorways. Planegea is a world where you can walk from one end of reality to the other. But even so, some ways are concealed from plain sight. More common than most believe are doorways to Nod: the twin worlds of dreams and nightmares (p. 178). These doors are secret, but real, and can be found by the very clever, the very stupid, and the very desperate."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Brothers",
+							"entries": [
+								"Three wide, blue-green rivers fall across open lands where generous gods reign and mortal clans roam through the great cycle of seasons.",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Creatures:",
+											"entry": "Any, but especially humanoids, beasts, monstrosities, and celestials"
+										},
+										{
+											"type": "item",
+											"name": "Treasure:",
+											"entry": "Salt, game, crafted goods, and divinely blessed weapons and objects"
+										},
+										{
+											"type": "item",
+											"name": "Lore:",
+											"entry": "All—any factions or threat can clash here"
+										},
+										{
+											"type": "item",
+											"name": "Challenge:",
+											"entry": "Levels 1–20"
+										}
+									]
+								},
+								"Three fertile slopes of three rivers in the north of the Great Valley—the Bear, the Ape, and the Lion—are jealously guarded in the warm seasons by three powerful, warring clans. Each seeks to destroy the other two and rule as the preeminent power in the valley. Although weather and migrations force the clans to leave their rivers every year, they linger as long as they can and seasonally fight to reclaim what they have built with proud fury. (The clans themselves are described in more detail in the Factions chapter, p. 182.)",
+								{
+									"type": "entries",
+									"name": "The Bear",
+									"entries": [
+										"The Bear River winds from the edge of the Venom Abyss northwest towards a great lake called Bitewater, and is known for the wide and gentle valley that surrounds it, rich with grazing beasts.",
+										"The Bear Clan. This clan of mighty warriors values strength above all, and its children are raised to perform great feats of physical might and endurance. Bear Clan tents are built to resemble hives, and they welcome bees as a good omen from their god, Urhosh.",
+										"Hallow of Urhosh. The Unkillable Bear-God Urhosh dwells in a great cave, the entrance of which is always lit with fire and surrounded by honeycombs and fish gathered by his loyal followers. Urhosh is a gregarious god, and when he is merry, great feasts are held at his doorstep. All who eat at Urhosh's table are imbued with divine endurance, and the shamans say that after such a feast his hunters cannot be harmed for a night and a day.",
+										"Bitewater & Fishgather. The great lake called Bitewater is so named for the numberless monsters that lurk in its depths, having swum up the Unfalls from the Venom Abyss. Still, it teems not only with predators, but also with fat fish, good crabs and shrimp, and all manner of shorebirds, lakeweed, and the edible plenty of the water. As such, a permanent community of fishers lives on the lake in a network of houseboats, lashed together in the shallows and carefully guarded against the great and hungry things that might swim from below. In the summer they harvest the lake's wealth, and in the winter they ply the ice with great lines and spears while the things below sleep and dream dark, fishy dreams of the sun.",
+										"Killbrother Vale. This serene meadow stands halfway between the Bear and Ape rivers. In the good days, it is full of gatherers harvesting sweetgrass and children catching butterflies. But it is better known as the place where the warring clans of Bear and Ape come together in terrible battles every spring. Parents tell their children that the butterflies are lost spirits, and to catch and crush them is to release them into their afterlife. They may be telling the truth.",
+										"Raiding Plains. These sweeping, open lands are just fertile enough to sustain life, but not much of it. Instead, they are the host to grazing raider-clans, who use the endless expanse and dried river beds as hiding places until they ride out of the mist on roaring beasts to take the riches of the valley below.",
+										"Shatterbone. This natural depression was originally a mammoth graveyard where old elders of the herds would come to die. It has become a haunt for scavengers of all kinds, its sprawling landmark of massive, dry bones twisting up from the earth to make a perfect meeting place for the desperate and hungry.",
+										"The Whispering Veldt. This dry, grassy space is known for its infinite voices, calling the names of those lost long ago. It is said that a great god-battle was fought here, with many clans clashing in stone-edged combat. As the legend goes, all who raised a weapon here died, and the ground soaked in their souls along with their blood. It is foolish to spend a night in the Whispering Veldt. If the ghosts don't openly attack, the echoing voices of the dead are still enough to drive even a weak hunter mad."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Ape",
+									"entries": [
+										"The Ape River is the shortest of the five great rivers, and hooks crookedly through the land to empty into the undrinkable depths of Bittersea. It is known for its living forests and the rich variety of birds that nest along its banks.",
+										"The Ape Clan. This clan of daring hunters values resourcefulness above all, challenging one another to trials of survival and extreme persistence in the face of impossible odds. Ape Clan tents are famous for being cleverly built so as to be quick to raise and lower, and the entire clan is said to be able to break camp as if they'd never been there before the Day-Star can travel a handspan across the sky.",
+										"Hallow of Kho. The Many-Armed Ape-God Kho makes his dwelling in a massive tree, so great that it pulls the entire Ape River towards it with the might of its roots. Kho is a brooding and difficult god, but he loves the sound of drumming, and can be lulled to sleep with the ritual drums of the shamans. It is during his sleep that he grants generous boons from his dreams of his younger days, and the Ape Clan's shamans do all that they can to keep him slumbering as long as they can.",
+										"Saltwood. This sleeping forest is deserted by treants and dryads, who consider it as good as dead, its branches and leaves covered with crystals leeched from the waters of the Bittersea. Yet the plants here have found a way to survive, and the salty air makes things grow strange. It is said that the Saltwood has great arcane power, and spellskins often journey to its white groves to seek what magic may be found.",
+										"Bittersea & Swapshore. This narrow, incredibly deep body of water is long-since poisoned by the minerals that blow seasonally across its surface from the Fang of Salt & Sand. Nothing lives in the Bittersea, but the Ape River is drinkable until it empties into its basin, so there is life and settlement here. An old dwarvish fortress at the sea's edge is a well-traveled trading ground and respite from the wilderness. It's said that if anything is lost, it will someday turn up at Swapshore, although it won't be unchanged by its journey to those strange market tents.",
+										"Firegrass Wilds. This wide prairie, frequently scorched by wildfires, stands at the foot of the Fire Empire. It is a frequent hiding place for escapees and runaways, since their giant captors assume that no mortal can live for long in that dry and desolate wilderness. By and large, they're right.",
+										"Dire Grazelands. These open grassy plains are host to massive grazing beasts—enormous reptiles, descended from creatures that fell into the Upfalls long ago, as well as massive sheep, huge cattle, and gigantic creatures of other kinds. Their great size is said to be due to the magic of fire giants, and giant herdsmen do roam the plains with their flocks—but so do entire mortal villages built on the backs of great roving beasts, their huts connected by a lattice of rope and wood bridges stretched across open air between their animals. The grazelands provide milk, meat, and hides in great quantities, making them wealthier than their great grassy expanses would suggest."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Lion",
+									"entries": [
+										"The Lion River cuts southeast through ever-deepening canyons across the highlands that end in the infinite cliffs of the Air Empire. It is known for its excellent fishing and the lionberries that grow plentifully along its edges.",
+										"The Lion Clan. This clan of fearless fighters values courage and watchfulness above all, teaching their children to never blink in the face of fear or look away from disaster. The Lion Clan barely uses shelter, except in the fiercest weather, preferring to sleep out of doors even in rain or snow, and live a life fully exposed to the dangers around them.",
+										"Prideblood Slopes. Of all clans, the Lions travel least, remaining on their sloping hills long after all the other clans have moved on. They fiercely fortify these uplands with defensive barricades and traps, making travel through their territory dangerous for outsiders. For this reason, other clans often avoid these slopes, even when making assaults on the Lion Clan.",
+										"Hallow of Glelh. The Hallow of Glelh the Unblinking is a pile of stones high on a windswept hill. Herd animals caught within sight of it are drawn in inexorably towards it by the hypnotic hunger of the lion-god. The stones at the top are dark red with the blood of the lion's prey. It is said that from the top of the hill, a shaman can see the entire Valley with perfect clarity.",
+										"Howlgrove. A wild wood, thick with wolves. Howlgrove is said to be haunted by accursed folk—half man, half wolf, whose bite spells death and whose hunger is immortal. Its offputting reputation makes it a favorite meeting place of scavengers and murderers, and they say that Scavengers Vow (p. 206) locates its center of power somewhere deep within the thick pines of Howlgrove.",
+										"Lastwater Wilds. These dusty wastelands are a solitary place, speckled with little pools where the last clean water before the Fang of Sand & Wind can be found. Some say it's a ritual place where ghosts gather for a final look at the land of mortals before departing to the Kingdom of the Dead.",
+										"The Eyestone. A towering landmark—a single stone with a great, seemingly natural hole drilled in the middle, in which sputters and burns a glowing light of ever-changing color and brightness. All manner of spellcasters have examined the Eyestone, trying to unlock the secrets of the monolith, but aside from a terrifying feeling of being not only watched but seen and known utterly, there appears to be no other effect.",
+										"Bendgather. For those whose paths have taken them far to the east, this riverside ruin of dwarven construction is the last mortal refuge before the dangers of the Icehook Peaks and the Air Empire. Outside the fortress, wanderers would do well to beware the dangers that come from the mountains or the nearby cursed trees of Howlgrove.",
+										"Icehook Peaks. These vicious mountains cut jagged spires into the air, the wind from their peaks a frigid blast of doom to any who would dare to venture onto their slopes.",
+										"Sorrows Edge. This lonely land is the very edge of the world—a last step of land between the Fang of Sand & Wind and the Air Empire, where infinite cliffs fall into dark nothingness. It is to Sorrows Edge that disgraced druids are brought in cases of ultimate justice, bound with vines to leech away their magic and thrown into the endless void away from the world they have disgraced."
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Wintersouth",
+							"entries": [
+								"A diverse, colorful landscape where mortals strive to survive under the reign of selfish gods through times of plenty and privation.",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Creatures:",
+											"entry": "Any, but especially humanoids, beasts, monstrosities, and fiends"
+										},
+										{
+											"type": "item",
+											"name": "Treasure:",
+											"entry": "Salt, game, crafted goods, and divinely blessed or cursed weapons and objects"
+										},
+										{
+											"type": "item",
+											"name": "Lore:",
+											"entry": "All—any factions or threat can clash here"
+										},
+										{
+											"type": "item",
+											"name": "Challenge:",
+											"entry": "Levels 1–20"
+										}
+									]
+								},
+								"In the southern arc of the Great Valley lie wide, sparse grazing lands with hearty grass, uneven hills, and little forests and pools of water. This land, drier and tougher than the northern arc, is the seasonal refuge of herd animals and the clans that depend on them for food. This land is unwelcoming, and its little hills and valleys are claimed by countless minor deities known collectively as the Winter Gods, whose spitefulness, petty aggression, and limited power makes them an object of reluctant worship for the shamans forced to make camp in their lands.",
+								{
+									"type": "entries",
+									"name": "The Ox",
+									"entries": [
+										"The Ox River is a mighty, charging force, thundering downhill with a never-ending roar. It is known to change course abruptly mid-season, sweeping away encampments in flash floods and ripping out trees that have dared to grow in its way. It calms as it enters the great expanse of the Slumbering Forest before continuing its downward plunge to the lightning-lashed sea at the foot of Mabros, capital city of the Sea Empire.",
+										"Edgegather. Jutting out over the lashing palm trees of the Venom Abyss, Edgegather is a permanent encampment on the inner edge of the world. A place of trade and ritual, festival and council, the stacked wooden huts of Edgegather pile and descend over the lip of the cliff. Open cages dangle where sentries keep vigil over the jungle and Blood Mountain (p. 157), watching for signs of deliverance or destruction. For those who meet in Edgegather, there is a spirit of merriment, of dancing on the edge of a volcano, and their venomwine and endless carnivals are legendary.",
+										{
+											"type": "inset",
+											"name": "Tossings",
+											"entries": [
+												"It's quite common for those who cross the wrong people to be dragged to the cliffs of Edgegather and shoved off. Self-appointed “Tossbands” roam the streets, deciding who lives and dies based on their own judgment (and how much everyone has had to drink)."
+											]
+										},
+										"Sharpfang Sweep. This open land is littered with the bones of mighty reptiles washed into the Great Valley by the Unfalls and brought down by fearless mortal hunters—or by their own kind. It is a region that must be crossed at the end of every winter, in a clan's final push to Bendgather before the start of spring… but each year many lives are lost to the predatory tyrannosaurs and raptors that stalk these lands.",
+										"Hallow of Twr. The Ox River has a cursed bend, where the water boils and smokes, and the air is shrouded in fiery darkness. The air here chokes the throat, and any who draw near hear the screeches of fiendish visitants and the wails of cultists. This awful place is the Hallow of Twr (p. 313). Twr is She-Who-Boils, the ox goddess and sister to Urhosh, Kho, and Glelh. The desperate turn to her worship in the winter, and those who are forced to travel over the water pray and sacrifice to her, hoping to abate—if only for a moment—her ever-raging wrath.",
+										"The Watchers. If a shaman or a chanter tells you they know who carved the Watchers, they are lying or making a fool of you. These towering stone heads, submerged at the collarbone, throat, chin, mouth, or cheekbones, stand as tall as trees and as silent, all looking inward toward Blood Mountain, as if waiting for something with infinite patience.",
+										"Starstep Cliffs. Between the raging storms of the Fang of Shadow & Thunder and the frozen spires of Icehook rise piled buttes and mesas and endless stepped cliffs. Here leatherwings gather in innumerable flocks, chanting ancient magic as they wheel from their sanctum towers and incense-filled aeries to spy prey and threats below.",
+										"Ribcage Canyon. The only open pass through the Starstep Cliffs is the ominous arcing bones of Ribcage Canyon. Hunters who are no stranger to massive beasts wonder what kind of creature could have died to create these unthinkably large rib bones that jut out of the earth and soar into the sky above, higher than an elf can see on a day of low clouds. Raiders lurk in the pass, though they are often cleared out by the watch-clans, who will take journeyers through for a hefty price in trade.",
+										"The Slumbering Forest. No other forest but the Venom Abyss can compare with the vast black, gray, and green-blue stretches of this deciduous wilderness. An ancient forest that long ago exiled its treants and dryads, the Slumbering Forest has more than its share of monsters, enchantments, and secrets hidden just beyond the veil of perception. They say that lost hunters in the forest fall asleep, and that when they sleep they dream of taking root—and when they wake, they stretch their branches towards the heavens in search of the winter sun.",
+										"Seerfall. In the heart of the Slumbering Forest, along the white waterfalls where the Ox drops off steep cliffs, stands an abandoned dwarven refuge. The stonework is interwoven with the waterfalls, the original cave system carved into an intricate and serene sanctuary. These falls are one of the most sacred places in Planegea, home to a council of shamans who gather to discuss the business of the gods and the beginning and end of the world. The falls tremble with divine magic, and it is to Seerfall (p. 209) that the desperate, the brilliant, and the ambitious flock, to seek the blessing and foresight of the high shamans.",
+										"Thunderverge. This storm-tossed grassland is the home of centaurs and mighty saber-toothed cats, terrible rocs and things that laugh and dance in the face of a whirlwind. Mortals who camp here are in danger on every side—giants to the west, storms to the south, leatherwings to the east, and the Slumbering Forest to the north. Yet despite all this—or perhaps because of it—Thunderverge is home to some of the greatest chanters and sorcerers of Planegea, and their songs and spells crackle as if struck by lightning from the Everstorm itself.",
+										"Fields of Fargone. These pleasant and temperate lands run along the border of the Sea Empire, and are a tempting trap that has lured many a lost clan into the arms of waiting giant raiding parties.",
+										"Soaring Stones. Who can offer an explanation of the Soaring Stones? These massive menhirs, too large to be lifted even by the hands of a mighty giant and arranged in a circle, drift in midair, many heights of men above a flat stone ground, smooth and black and unfathomable. Their bases are lit with a red light that is not fire nor magma nor arcane magic as it can be understood by spellskins. They simply are, and by existing, defy the wisdom of even the most ancient mortal sages."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Horse",
+									"entries": [
+										"The Horse River is gentle, unremarkable in its course, and simple in its pleasures, offering ample grazing land, but little cover or heavy growth for good gathering. As such, it serves its purpose in watering the Allhunt, but little else can be said of its short and sandy banks.",
+										"The Allhunt. In the winter months, with food desperately scarce, it is essential that clans—even those who were at war a mere season ago—can hunt without fear of attack from other mortals. As long as the taboos and customs are respected, the Allhunt is an open ground where any hunting party may pursue game without fear of harm from another clan. To assault another hunter in the Allhunt is considered a great dishonor to the clan, and worthy of the most severe punishment that a shaman may mete out.",
+										"The Vale of Rituals. This misty valley between the Horse and the Bear is known for its shifting fog that brings with it visions and spirits from the past and future. Here, many clans come to consult the ghosts of their ancestors, seeking guidance for the winter's challenges. And here many young children are named by their clan's shaman, for it is said that if an infant's name is spoken for the first time in the Vale of Rituals, it echoes through the mist into the hallow of every god in the Great Valley.",
+										"Firstblood Basin. This natural amphitheater is where many young hunters are put through their initiation rights—fighting single combat against captured predators or engaging in ritual vigils or duels with other hunters to earn their place of honor and adulthood in the clan.",
+										"The Well of Dreams. A hill powerful with druidic magic, where stand a star-shaped pattern of moss-covered stones, the Well of Dreams is open at the top and holds water"
 									]
 								}
 							]
