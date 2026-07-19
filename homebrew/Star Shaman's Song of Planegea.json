@@ -17,6 +17,63 @@
 		"dateAdded": 1784505600,
 		"dateLastModified": 1784505600
 	},
+	"optionalfeature": [
+		{
+			"name": "Weapon Shatter",
+			"source": "SSSOP",
+			"page": 32,
+			"featureType": [
+				"OTH"
+			],
+			"entries": [
+				"Martial feature, available to ascetic, barbarian, fighter, ranger, and scavenger.",
+				"When you deal damage with a melee weapon attack using a magical weapon, not including those made temporarily magical by spell effects, you may throw all of your ferocity behind it and shatter your weapon against your enemy. Your weapon is irreparably destroyed and your attack becomes a critical hit. You may not use this feature again until after a short or long rest. The weapon cannot be repaired except with powerful magic such as a {@spell wish} spell."
+			]
+		},
+		{
+			"name": "Raw Magic",
+			"source": "SSSOP",
+			"page": 32,
+			"featureType": [
+				"OTH"
+			],
+			"entries": [
+				"Arcane feature, available to chanter, sorcerer, spellskin, and warlock.",
+				"Magic is primal and dangerous, not yet bound by millennia of tradition and teaching. You may cast a spell that you know or have prepared for which you do not have spell slots, with the following effects:",
+				{
+					"type": "list",
+					"items": [
+						"Level 1–5 spells: Take 1 level of exhaustion per spell level.",
+						"Level 6 spells: Take 5 levels of exhaustion and fall unconscious.",
+						"Level 7 spells: Take 5 levels of exhaustion, fall unconscious, and automatically fail 1 death saving throw.",
+						"Level 8 spells: Take 5 levels of exhaustion, fall unconscious, and automatically fail 2 death saving throws.",
+						"Level 9 spells: Take 5 levels of exhaustion and die. (Levels of exhaustion remain if your character is restored to life except by a {@spell wish} spell.)"
+					]
+				}
+			]
+		},
+		{
+			"name": "Blood Offering",
+			"source": "SSSOP",
+			"page": 32,
+			"featureType": [
+				"OTH"
+			],
+			"entries": [
+				"Divine feature, available to druid, guardian, and shaman.",
+				"Blood has powerful magic, irresistible to almost any god, be they good or evil. As a bonus action, you may spill your own blood to empower your spell. Roll a number of your hit dice equal to the spell's level (minimum 1), and take the resulting amount as slashing or piercing damage as if from a magical weapon, ignoring resistances or immunities.",
+				"As a result of your offering, gain one of the following blessings:",
+				{
+					"type": "list",
+					"items": [
+						"Gain advantage on your next spell attack or check.",
+						"Impose disadvantage on the next creature you target with a spell effect.",
+						"The effects of your next spell are as if the spell had been cast at 1 spell level higher than it actually was."
+					]
+				}
+			]
+		}
+	],
 	"book": [
 		{
 			"name": "Star Shaman's Song of Planegea",
@@ -585,36 +642,126 @@
 										"col-6"
 									],
 									"rows": [
-										["Ancient kingdom", "Powerful, ritualistic clan"],
-										["Airship", "Tamed flying behemoth"],
-										["Blacksmith", "Master crafter"],
-										["Book or tome", "Painting or song"],
-										["Carriage", "Beast of burden"],
-										["Castle", "Cave system"],
-										["City", "Gathering of clans"],
-										["Dungeon or prison", "Cave, pit, or guarded camp"],
-										["Guard or knight", "Clan hunter or warrior"],
-										["Gold or coins", "Salt or trade goods"],
-										["House or mansion", "Tent or fortress"],
-										["Innkeeper or server", "Elder, host, or drink-master"],
-										["King, noble, or mayor", "God, chieftain, or elder"],
-										["Library", "Gathering of elders or chanters"],
-										["Lock", "Knot, spell, or guard"],
-										["Ruin", "Cursed or taboo place"],
-										["Sailing ship", "Catamaran or great-canoe"],
-										["School or monastery", "Hidden sanctuary"],
-										["Spell scroll", "Talisman"],
-										["Secret cult", "Secret cult"],
-										["Shop", "Clanfire or crafter's tent"],
-										["Shop, magic", "God's hallow"],
-										["Tavern", "Clanfire or shady pool"],
-										["Temple", "God's hallow or shaman's tent"],
-										["Thieves guild", "Scavengers or secret alliance"],
-										["Tomb or crypt", "Burial ground or catacombs"],
-										["Tower", "Tower, cliff, or tree"],
-										["Trapdoor", "Disguised tunnel or tent flap"],
-										["Wizard's tower", "Spellskin's cliff-sanctum"],
-										["Village", "Small clan"]
+										[
+											"Ancient kingdom",
+											"Powerful, ritualistic clan"
+										],
+										[
+											"Airship",
+											"Tamed flying behemoth"
+										],
+										[
+											"Blacksmith",
+											"Master crafter"
+										],
+										[
+											"Book or tome",
+											"Painting or song"
+										],
+										[
+											"Carriage",
+											"Beast of burden"
+										],
+										[
+											"Castle",
+											"Cave system"
+										],
+										[
+											"City",
+											"Gathering of clans"
+										],
+										[
+											"Dungeon or prison",
+											"Cave, pit, or guarded camp"
+										],
+										[
+											"Guard or knight",
+											"Clan hunter or warrior"
+										],
+										[
+											"Gold or coins",
+											"Salt or trade goods"
+										],
+										[
+											"House or mansion",
+											"Tent or fortress"
+										],
+										[
+											"Innkeeper or server",
+											"Elder, host, or drink-master"
+										],
+										[
+											"King, noble, or mayor",
+											"God, chieftain, or elder"
+										],
+										[
+											"Library",
+											"Gathering of elders or chanters"
+										],
+										[
+											"Lock",
+											"Knot, spell, or guard"
+										],
+										[
+											"Ruin",
+											"Cursed or taboo place"
+										],
+										[
+											"Sailing ship",
+											"Catamaran or great-canoe"
+										],
+										[
+											"School or monastery",
+											"Hidden sanctuary"
+										],
+										[
+											"Spell scroll",
+											"Talisman"
+										],
+										[
+											"Secret cult",
+											"Secret cult"
+										],
+										[
+											"Shop",
+											"Clanfire or crafter's tent"
+										],
+										[
+											"Shop, magic",
+											"God's hallow"
+										],
+										[
+											"Tavern",
+											"Clanfire or shady pool"
+										],
+										[
+											"Temple",
+											"God's hallow or shaman's tent"
+										],
+										[
+											"Thieves guild",
+											"Scavengers or secret alliance"
+										],
+										[
+											"Tomb or crypt",
+											"Burial ground or catacombs"
+										],
+										[
+											"Tower",
+											"Tower, cliff, or tree"
+										],
+										[
+											"Trapdoor",
+											"Disguised tunnel or tent flap"
+										],
+										[
+											"Wizard's tower",
+											"Spellskin's cliff-sanctum"
+										],
+										[
+											"Village",
+											"Small clan"
+										]
 									]
 								},
 								{
@@ -905,10 +1052,30 @@
 																		"col-2 text-center"
 																	],
 																	"rows": [
-																		["1–4", "1st", "Cantrips (Unlimited), 1st level (4 slots), 2nd level (2 slots)", "—"],
-																		["5–10", "2nd", "1st level (4 slots), 2nd level (3 slots), 3rd level (3 slots), 4th level (3 slots), 5th level (2 slots)", "+1"],
-																		["11–16", "3rd", "1st level (4 slots), 2nd level (3 slots), 3rd level (3 slots), 4th level (3 slots), 5th level (2 slots), 6th level (1 slot), 7th level (1 slot), 8th level (1 slot)", "+2"],
-																		["17–20", "4th", "1st level (4 slots), 2nd level (3 slots), 3rd level (3 slots), 4th level (3 slots), 5th level (3 slots), 6th level (2 slots), 7th level (2 slots), 8th level (1 slot), 9th level (1 slot)", "+3"]
+																		[
+																			"1–4",
+																			"1st",
+																			"Cantrips (Unlimited), 1st level (4 slots), 2nd level (2 slots)",
+																			"—"
+																		],
+																		[
+																			"5–10",
+																			"2nd",
+																			"1st level (4 slots), 2nd level (3 slots), 3rd level (3 slots), 4th level (3 slots), 5th level (2 slots)",
+																			"+1"
+																		],
+																		[
+																			"11–16",
+																			"3rd",
+																			"1st level (4 slots), 2nd level (3 slots), 3rd level (3 slots), 4th level (3 slots), 5th level (2 slots), 6th level (1 slot), 7th level (1 slot), 8th level (1 slot)",
+																			"+2"
+																		],
+																		[
+																			"17–20",
+																			"4th",
+																			"1st level (4 slots), 2nd level (3 slots), 3rd level (3 slots), 4th level (3 slots), 5th level (3 slots), 6th level (2 slots), 7th level (2 slots), 8th level (1 slot), 9th level (1 slot)",
+																			"+3"
+																		]
 																	]
 																},
 																{
@@ -947,20 +1114,62 @@
 																		"col-4 text-center"
 																	],
 																	"rows": [
-																		["Shaman, chieftain", "+10"],
-																		["Elder", "+9"],
-																		["Guardian or ascetic", "+8"],
-																		["Lead hunter", "+7"],
-																		["Lead crafter or builder, senior trader", "+6"],
-																		["Lead gatherer, senior crafter", "+5"],
-																		["Shaman's aid, senior hunter", "+4"],
-																		["Hunter, senior gatherer", "+3"],
-																		["Crafter, builder, or trader", "+2"],
-																		["Gatherer, young hunter", "+1"],
-																		["Child", "+0"],
-																		["Weak or distrusted adult", "–3"],
-																		["Scavenger", "–6"],
-																		["Outcast", "–9"]
+																		[
+																			"Shaman, chieftain",
+																			"+10"
+																		],
+																		[
+																			"Elder",
+																			"+9"
+																		],
+																		[
+																			"Guardian or ascetic",
+																			"+8"
+																		],
+																		[
+																			"Lead hunter",
+																			"+7"
+																		],
+																		[
+																			"Lead crafter or builder, senior trader",
+																			"+6"
+																		],
+																		[
+																			"Lead gatherer, senior crafter",
+																			"+5"
+																		],
+																		[
+																			"Shaman's aid, senior hunter",
+																			"+4"
+																		],
+																		[
+																			"Hunter, senior gatherer",
+																			"+3"
+																		],
+																		[
+																			"Crafter, builder, or trader",
+																			"+2"
+																		],
+																		[
+																			"Gatherer, young hunter",
+																			"+1"
+																		],
+																		[
+																			"Child",
+																			"+0"
+																		],
+																		[
+																			"Weak or distrusted adult",
+																			"–3"
+																		],
+																		[
+																			"Scavenger",
+																			"–6"
+																		],
+																		[
+																			"Outcast",
+																			"–9"
+																		]
 																	]
 																},
 																"This hierarchy varies from clan to clan, and in some communities (such as a clan of scavengers or crafters, druid groves, or spellskin enclaves) may be totally different. Still, you can use the list above as a general guideline. In most cases, if you prove yourself in any of these roles, you will be treated with appropriate status by anyone who believes you are a match for that role. Some may challenge your status due to suspicion, hostility, or rivalry, and you must continue to perform the expected duties of a positive status in order to maintain it."
@@ -1070,6 +1279,1336 @@
 												}
 											]
 										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Wilderness",
+							"entries": [
+								"Out there, beyond the light cast by the clanfire, is a world of fear and hope, danger and promise, deadly monsters and divine miracles. The wilderness is all around, full of secrets, silence, beasts, wonders, screeches, roars, things forgotten, and things that have never been glimpsed by mortal eyes. The wilderness defines the world, it is everything, and the clanfires are small sparks in its infinite, untamed, unforgiving sprawl.",
+								"Yet survival requires that mortals grit their teeth, grip their blades, and set out into the wilderness with squared shoulders and flint in their eyes. As you step into the unknown, here's a taste of what you'll need to do to survive in the wilds of Planegea:",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Read the world.",
+											"entry": "The spoor of prey. The signs of predators. The movement of the stars and land. The safety or danger of a pool of water. The hint of magic. All of this and more is what a mortal needs to take into account when traveling into the wilderness. Planegea is constantly changing, and the skilled wanderer understands how to interpret those changes to predict what lies ahead."
+										},
+										{
+											"type": "item",
+											"name": "Hunt food & magic.",
+											"entry": "Hunters venture into the wild to pursue prey, so that they can feed themselves and their clans. Shamans venture into the wild to encounter gods and wrestle blessings from them. And those with an eye towards the arcane venture into the wild to find strange new magics and undiscovered spells which, if tamed, might mean the difference between life and death."
+										},
+										{
+											"type": "item",
+											"name": "Gather resources.",
+											"entry": "Gatherers fan out from the clanfire, creating patterns of exploration as they seek nuts, berries, roots, grasses, bark, edible insects, fish, and all other good things to eat. They also search for the goods and materials that will sustain and prosper the camp. But they're not alone in the wilderness, and must remain vigilant; to raiders and monsters, mortals are merely another kind of goods to be gathered."
+										},
+										{
+											"type": "item",
+											"name": "Find safety.",
+											"entry": "Mortals travel through the wilderness in search of shelter: an unoccupied cave, a grove of sleeping trees, a defensible hilltop. Often, the only escape from danger is through other dangers, and unlucky clans lose their weakest members as they travel through the wilderness in search of a newer, safer encampment."
+										},
+										{
+											"type": "item",
+											"name": "Encounter others.",
+											"entry": "Beasts and monsters aren't the only creatures in the wild. Out there, a mortal is as likely to run into others of their kind as not: lone wanderers, scouts, traders, or even an entire clan on the move. One might fall in with even stranger company: forbidden druids, secretive spellskins, scavengers, or other strangers whose ways stir up trouble at the clanfire, and find it easier to remain in the sharp-toothed wilderness than smile where they are unwelcome."
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "A World on the Move",
+									"entries": [
+										"Planegea is constantly changing. Nothing stays in the same place for long. Rivers shift in their course at the whims of their animating spirits and the violent storms that surge across the land. Forests full of wakeful trees wander across the landscape. Stars shift based on the story they wish to tell. And most of all, clans migrate, following herds of prey across the landscape.",
+										"Time is as important as location. Consider not only where a place is, but when you last saw it there—a clan may return to the same cave every winter, or a river might flow back into its old course come flood season. Though the larger landscape of the world is fixed, the local landscape is different each season, and can deceive and confuse even the most experienced of hunters.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Faults.",
+													"entry": "Planegea is constantly being renewed and expanded as reality is pushed out from the Worldheart. This expansion creates fault lines along which the world can slip or shift or break. These changes can often be violent, accompanied by quakes and upheavals, but they can also be startlingly quiet and swift. There are many tales of a clan bedding down for the night, only to awake and discover that half the camp has shifted a hundred feet or a hundred miles or across a river that was not there the night before."
+												}
+											]
+										},
+										"Ability checks. Any of the following ability checks can come into play when finding your way in Planegea:",
+										{
+											"type": "list",
+											"items": [
+												"{@skill Constitution} (concentration saving throw): Avoid distractions, keep an eye on your path, and maintain a trail.",
+												"{@skill Intelligence} ({@skill Nature}, {@skill History}): Follow the contours of the land, understand the direction of migration, and predict changes in the weather. Remember the movement patterns of the land and people, or recognize a landscape altered by time such as a newly dry river bed or a barren ridge where a forest used to be.",
+												"{@skill Wisdom} ({@skill Perception}, {@skill Survival}): Spot distant landmarks, notice where things used to be, smell clanfire smoke on the breeze, find and follow tracks, or locate prey."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Swirling Sky",
+											"entries": [
+												"The heavens of Planegea are in constant motion. The world is so young that it has no fixed points—that which later eras will count on as utterly constant is, in this world, only a rule of thumb.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "One world, one sky.",
+															"entry": "Because the planes of existence have not yet separated, all is one long landscape and one long sky reaches from the center of creation to its very edges. At the heart of the world is Blood Mountain, the impossibly high volcano from whose fires the land and sky were birthed. And at the edge, ringing the land and water of the Great Valley, Giant Empires, and Elemental Wastes, is the endless Sea of Stars."
+														},
+														{
+															"type": "item",
+															"name": "Dancing & dueling stars.",
+															"entry": "The stars are alive, and spend the night dancing in stately arcs and loops, endlessly recombining as they gossip and preen. As night ends, they joust each other in a tournament called the Dawn Duel. The champion becomes the Day-Star, and spends the day parading from east to west. The other stars sleep in the Sea of Stars until the end of day, when they rise again into the heavens in streaming fountains, and begin it all again."
+														},
+														{
+															"type": "item",
+															"name": "New moons.",
+															"entry": "Planegea's moons are unstable things, born of the ash and fire of Blood Mountain. At irregular intervals, the great volcano violently erupts, spitting a new moon into the sky. The moon drifts from the center outward, crumbling as it goes, and rarely lasts more than a month. There can be no moons in the sky, or as many as three or four, depending on the rumblings of the volcano."
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Shifting Lands",
+											"entries": [
+												"Even as the sky is in constant motion, so the land below is never still, rearranging itself as beasts migrate, clans wander, gods rise and diminish, and trees and rivers roam. The greater structure of the world remains predictable, but the specifics of where things stand in relation to each other are always changing.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Unknown distance.",
+															"entry": "No one can say how far away a point is, except when judging it by naked eye or using magic to pinpoint knowledge. Even gatherers who roam the same path as yesterday find little differences in its length and shape. Additionally, any measurement that would use a number over nine violates the Black Taboo, and cannot be spoken for fear of the Hounds."
+														},
+														{
+															"type": "item",
+															"name": "Wandering landmarks.",
+															"entry": "The landmarks that will be relied upon in later eras—mountains, roads, great trees, and the like—all have a tendency to drift with the land and season. They can still be a useful reference point, but must merely be considered one clue among many to guide travelers on their way."
+														},
+														{
+															"type": "item",
+															"name": "Roving forests.",
+															"entry": "It is more common in Planegea for a forest or grove to be a band of treants than what the people call \"sleeping trees.\" Most of the trees are awake, accompanied by dryads and other allied creatures, and have only limited patience for mortals. To travel among the trees is to be watched, judged, and threatened, should one carry fire or a chopping blade. Many mortal clans have been wiped out by a roving forest that overran them, deeming them unworthy of survival."
+														},
+														{
+															"type": "item",
+															"name": "Nomadic clans & beasts.",
+															"entry": "Only a few great settlements such as Seerfall, Edgegather, and the like, have fixed locations. Most places where people dwell change with the seasons and the needs of the clan. So, too, the haunts of dangerous beasts are altered by the movements of their prey and the weather. What once was a peaceful hill might later be the lair of a creature with monstrous appetites, establishing dominance while the hunting is good in the region."
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Wilderness Survival",
+									"entries": [
+										"With all that means you harm in Planegea, you'll need to ready your weapon and wits to stay alive. What follows is some broad guidance for survival in the wild.",
+										"These rules are intended only to enrich your adventures. If your party isn't interested in playing a campaign involving these elements, you can play 5th Edition as-written. However, these options give added reasons to embark on the trials and triumphs of the primordial world.",
+										{
+											"type": "entries",
+											"name": "Travel",
+											"entries": [
+												"Travel is never safe in Planegea. Always remember that there are massive predators in the wild, ready to pounce on any wandering mortal who forgets to take the proper precautions. With rare exceptions, travel across open wilderness should be undertaken with great caution.",
+												"Ability checks. Any of the following ability checks and more can come into play when avoiding predators:",
+												{
+													"type": "list",
+													"items": [
+														"{@skill Strength} ({@skill Athletics}): Sometimes it's better to just run. It takes strength to make your way across the open world and maintain sufficient pace to avoid falling prey to what might take notice of you.",
+														"{@skill Dexterity} ({@skill Stealth}): Most travel should be undertaken with great care, and moving slowly and stealthily can help avoid all kinds of trouble.",
+														"{@skill Intelligence} ({@skill Nature}): Read the signs of the land to detect what predators are likely to be nearby, and determine how best to avoid them.",
+														"{@skill Wisdom} ({@skill Perception}, {@skill Survival}): Keep your senses sharp for signs of predators or their recent passage, and make camp in places where you won't be seen."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Getting Lost",
+													"entries": [
+														"Sometimes, due to a wild hunt or strong weather or magical effects, you may become lost. At other times, you may choose to lose your way. Here are two reasons to get lost:",
+														{
+															"type": "list",
+															"style": "list-hang-notitle",
+															"items": [
+																{
+																	"type": "item",
+																	"name": "Zigzag.",
+																	"entry": "As an optional rule, when pursued by enemies or predators, your DM may allow you to flee erratically, choosing to lose your way in order to escape pursuit. If you escape in this way, you cannot use the same technique again to escape the same creature or a member of the same group of allied creatures. Once you flee this way, you become lost, and cannot find your way back without using magic or succeeding on checks as determined by your DM."
+																},
+																{
+																	"type": "item",
+																	"name": "Lost is sacred.",
+																	"entry": "Some gods will only appear to the lost. Some doors to the World of Dreams or the World of Nightmares won't appear unless you're lost. Being lost is one of the best ways of discovering the unexpected, and many shamans use magic to encourage and enable their most skilled hunters to wander lost, to discover what the world has to show them."
+																}
+															]
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Gathering",
+											"entries": [
+												"The practice of gathering sustains clans and individuals when hunting is scarce, and forms the basis for survival in most environments. Gathering isn't a single act; rather, it's a set of skills, a balance of risk and reward as you venture deeper into the wilderness in search of resources.",
+												{
+													"type": "entries",
+													"name": "Ways of the Gatherer",
+													"entries": [
+														"A gatherer's work is to collect everything of use to the clan while attracting as little attention as possible from predators and enemies. When gathering, you might use any or all of the following means:",
+														{
+															"type": "list",
+															"style": "list-hang-notitle",
+															"items": [
+																{
+																	"type": "item",
+																	"name": "Collecting.",
+																	"entry": "Plucking fruit and vegetables, cutting edible grasses, bark, and fungus, picking up oddities to show to the shaman—all these are the easiest tasks for a gatherer, requiring nothing but a keen eye to notice desirable resources and a knife or sickle to collect them."
+																},
+																{
+																	"type": "item",
+																	"name": "Extracting.",
+																	"entry": "Digging for roots, grubs, and useful minerals, scaling a cliff or tree to gather eggs, collecting honey from a hive, venturing a few feet inside a doorway to Nod to bring back a trophy—these are difficult or dangerous tasks that require skill, courage, and a little luck, as well as (in some cases) specialized tools."
+																},
+																{
+																	"type": "item",
+																	"name": "Trapping.",
+																	"entry": "It's common to carry at least a few simple hunting or fishing traps when you set out to gather. You might travel the same loop several times, setting traps the first time through a promising spot, then returning to check them and collect the catch on subsequent days. The kind of trap and bait depends on the desired prey."
+																},
+																{
+																	"type": "item",
+																	"name": "Scouting.",
+																	"entry": "Information is a key resource. As you gather, you can also scout the surrounding region, noting any dangers or opportunities that lie within a day's travel of the camp. Such discoveries may save the clan from being surprised by an attack, or lead to an important windfall of much-needed resources."
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Inedible Foods",
+													"entries": [
+														"One basic survival skill is knowing how to avoid foods with bad effects. This boils down to the three rules of food:",
+														{
+															"type": "list",
+															"items": [
+																"Eat nothing rotten. Do not eat any food that exhibits the signs of spoiling.",
+																"Eat nothing that speaks. Do not eat a creature that speaks to you in a language that you can understand.",
+																"Eat nothing made of many. Do not eat a creature with more than nine eyes or nine appendages—including arms, wings, legs, antennae, feelers, claws, and so on."
+															]
+														},
+														"These warnings aren't merely symbolic. If inedible foods are eaten, the DM can decide on any appropriate effect, or roll on this table for inspiration:",
+														{
+															"type": "table",
+															"caption": "Inedible Foods",
+															"colLabels": [
+																"d20",
+																"Inedible Effect"
+															],
+															"colStyles": [
+																"col-2 text-center",
+																"col-10"
+															],
+															"rows": [
+																[
+																	"1–10",
+																	"Poisoned condition"
+																],
+																[
+																	"11–14",
+																	"Poison damage"
+																],
+																[
+																	"15–17",
+																	"Hallucination or brief madness"
+																],
+																[
+																	"18–19",
+																	"Small magical effect"
+																],
+																[
+																	"20",
+																	"Surge of unpredictable magic"
+																]
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Risk & Reward",
+													"entries": [
+														"When gathering, you must use sharp judgment to determine whether the hope of a better harvest is worth journeying deeper into the dangerous wilderness. A skilled gatherer plays the line between risk and reward, collecting as much as they can without arousing attention.",
+														{
+															"type": "list",
+															"style": "list-hang-notitle",
+															"items": [
+																{
+																	"type": "item",
+																	"name": "Exploring a loop.",
+																	"entry": "When gathering, most gatherers set out on a loop, going up to a half-day's travel from the camp, then heading back along a different path. As you do this, you can set traps and make skill checks, such as {@skill Wisdom} ({@skill Perception} and {@skill Survival}) or {@skill Intelligence} ({@skill Nature}, {@skill Arcana}, {@skill Religion}, and {@skill History}), to discover opportunities and dangers to be explored on subsequent days, as well as collect what's easy to gather without losing too much time in getting back to safety for the night."
+																},
+																{
+																	"type": "item",
+																	"name": "Closer looks.",
+																	"entry": "Upon returning to the loop, you'll find changes—Planegea never stays the same for long—but much of what you observed on your first pass can be investigated more closely. Choose points of interest you discovered where more worthwhile goods can be extracted; just be careful not to stir up too much trouble or make too much noise."
+																},
+																{
+																	"type": "item",
+																	"name": "Going further.",
+																	"entry": "When you push further along a path—whether a literal path or an investigative one—your DM may call for checks to determine whether you attract attention or unleash some unforeseen trouble. And yet the gatherer who takes no risks brings back a meager harvest. Carefully judge your ability to take one more step, prod just a little more… great reward or great danger may lie just a few feet away."
+																},
+																{
+																	"type": "item",
+																	"name": "Returning.",
+																	"entry": "The return to safety is never assured for gatherers. Even a well-traveled path might shift in Planegea's landscape, markers might disappear, and what seemed fixed yesterday could wander today. A gatherer must always be ready to forge a new path home, and take into consideration the goods they have collected during the day. Will they spoil or break if not carried carefully? Are scavengers keeping pace with you, interested in an easy take should you happen to fall? These and more are concerns the wise gatherer will take into account as they judge the timing for the return trip."
+																}
+															]
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Hunting",
+											"entries": [
+												"It takes more than a sense of direction to stalk your quarry in Planegea. It takes luck, timing, and skill at reading the shifting patterns of the world. But for those who can intuit the winds and see the patterns in the soil, there is great glory to be gained in the hunt, and great joy in coming home to the welcome of a bright clanfire.",
+												{
+													"type": "entries",
+													"name": "Hunger Is a Constant",
+													"entries": [
+														"It's assumed in Planegea that you are always hungry, always passively gathering food such as berries, small prey, and edible grasses, bark, and other plants, and have basic knowledge about what is edible and what isn't.",
+														"This means that you will not starve to death unless special circumstances apply (such as being in a particularly barren region or if a spell or other effect limits your ability to perform basic functions).",
+														"Instead of hunting merely to survive, in Planegea, you hunt to thrive."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "You Are What You Eat",
+													"entries": [
+														"In Planegea, you can gain benefits from a successful hunt. Whether you pursue your prey strictly for food, or simply eat what you kill along the course of your adventures, harvesting the right kinds of food can grant you the strength you need to survive.",
+														{
+															"type": "list",
+															"style": "list-hang-notitle",
+															"items": [
+																{
+																	"type": "item",
+																	"name": "Ability enhancement.",
+																	"entry": "Certain prey can be harvested to briefly bolster various aspects of the hunter. When successfully harvested, prepared, and eaten, gain the benefits of the {@spell enhance ability} spell. The ability affected is determined by the DM, based on the nature of the creature consumed."
+																},
+																{
+																	"type": "item",
+																	"name": "Spell effect.",
+																	"entry": "Some magical prey, when harvested, prepared, and eaten, can bestow the benefits of spells, as if from a potion or amulet. The nature of the spell and the prey is determined by the DM."
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Extraordinary Prey",
+													"entries": [
+														"If your party is eager to hunt to gain one of the benefits listed, it's the DM's choice which creature they need to hunt to gain the desired effect. Consider their CR, environment, and the magical potency of various prey. As a rule, it's a good idea to start with Monstrosities, choose prey which doesn't speak and—if the prey is a common animal such as a wolf or bear—give it extraordinary aspects such as those listed under \"Primordial Monsters\" in Chapter 13, pg. 283."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Dangers of the Hunt",
+													"entries": [
+														"There is far more to hunting than merely stalking and bringing down prey. The wily hunter will be wary of the following perils:",
+														{
+															"type": "list",
+															"style": "list-hang-notitle",
+															"items": [
+																{
+																	"type": "item",
+																	"name": "Predators.",
+																	"entry": "In the words of an ancient guardian, \"There's always a bigger fish.\" Beware when hunting that you are not the prey for some mightier and stealthier creature."
+																},
+																{
+																	"type": "item",
+																	"name": "Competitors.",
+																	"entry": "You are not alone in the world. Even if other predators aren't hunting you, easy prey may already have been sighted by others. Make sure that your kill isn't stolen at the critical moment by a creature willing to challenge you for the prey."
+																},
+																{
+																	"type": "item",
+																	"name": "Scavengers.",
+																	"entry": "After you bring down your prey, deal with it quickly. Leaving fallen prey out in the open attracts scavengers—and though scavengers may be individually weak, they tend to gather just outside your reach in ever larger numbers."
+																},
+																{
+																	"type": "item",
+																	"name": "Tricks & traps.",
+																	"entry": "Not all prey panics when pursued. Take care lest you be drawn into dangerous ground—quicksand, tangling vines, the lair of a larger beast. Some would-be prey have a symbiotic relationship with creatures or places that thirst for the blood of the overeager."
+																},
+																{
+																	"type": "item",
+																	"name": "Seeing red.",
+																	"entry": "In the heat of the hunt, it's all too easy to lose track of where your feet are taking you. Stay aware of your surroundings, lest when the killing blow is landed, you raise your eyes to realize you are in a place you do not know, nor have any idea how to escape."
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Harvesting",
+													"entries": [
+														"Harvesting a hunt is an activity with countless permutations, so rather than offer a single method of harvesting, consider the following when the party brings down a kill.",
+														"Ability checks. Any of the following ability checks can come into play when harvesting prey:",
+														{
+															"type": "list",
+															"items": [
+																"{@skill Strength}: Breaking bones, snapping off tusks, ripping off tough hide, cracking natural armor, etc.",
+																"{@skill Dexterity} ({@skill Sleight of Hand}): Nimble extraction of delicate parts, careful skinning, nimble plucking, etc.",
+																"{@skill Constitution} (Concentration): Withstanding stench, maintaining focus on a long or delicate harvest, etc.",
+																"{@skill Intelligence} ({@skill Medicine}): Knowing which parts to harvest, determining healthy and rotten parts, careful cutting to avoid internal damage, etc.",
+																"{@skill Intelligence} ({@skill Nature}): Recognizing the type and value of a harvest, identifying useful components, etc.",
+																"{@skill Intelligence} ({@skill Religion}): Recognizing divine patronage, honoring the local deity and clan customs, etc.",
+																"{@skill Wisdom} ({@skill Survival}): Skillful butchery of meat, cooking, preservation, burying offal, etc.",
+																"{@skill Wisdom} ({@skill Perception}): Watching for scavengers; noticing marks of ownership, signs of privation or prior harm, etc."
+															]
+														},
+														"Resolving a harvest. Some harvests are simple, others are complex and risky. Your DM could use any of the following methods to resolve the harvest based on your group's play style and the importance of the harvest to the story.",
+														{
+															"type": "list",
+															"items": [
+																"Single roll: If a harvest is not a particularly significant story moment, it's sufficient to choose a relevant skill, roll once, and move on.",
+																"Best two out of three: If the stakes are higher, raise them mechanically by requiring two successes before two failures.",
+																"Skill challenge: For major harvests that the adventure hinges on, run a skill challenge, requiring players to use various skills and getting more successes than failures."
+															]
+														},
+														{
+															"type": "quote",
+															"entries": [
+																"I have seen many a young fool lose himself in the chase, forgetting the land around him in pursuit of his quarry. I've seen it when a man hunts beasts, when a man hunts glory, and when a man hunts pleasure. Take a moment. Take a breath. Look around you. The world is wide, and you are small, and that is good. Remember who and where you are."
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Prehistoric Characters",
+					"page": 31,
+					"entries": [
+						{
+							"type": "quote",
+							"entries": [
+								"\"Psst! What's your name?\" The hoarse whisper came from the next cage over. The stinking bone cages—six of them—swung high above the ground, dangling from twisted leather ropes.",
+								"\"What does it matter?\" The gatherer slumped miserably against the bone bars, watching the giants drink. He had been distracted, daydreaming, when they had come upon him suddenly. Now his life was over, and the last thing he wanted to do was yammer with a stranger.",
+								"\"It matters.\"",
+								"The gatherer buried his face in his hands. \"Names won't do us any good once we get where we're going.\"",
+								"\"Names matter.\"",
+								"\"No. You're wrong. They don't matter. Not when you're a captive of the Air Empire. What good will a name do us when we're building their monuments, serving their feasts, offering our blood for their magic? What good will a name do when we're ground beneath their feet, crushed for their amusements, fed to their dire leopards when we're too weak and old to work anymore?\"",
+								"A crackle of green and white light arced through the air, illuminating the tattooed face of a gnome in the next cage. \"I need to know your name, fool, so I can include you in this teleportation spell. Unless you'd rather stay behind..?\""
+							]
+						},
+						"Planegea is a land of adventure, full of terror and possibility. This chapter explores some of the features that make adventurers here unique and offers footholds as you prepare characters born into this world. Remember, your character is as clever, resourceful, and intelligent as you want them to be. Just because it's the Stone Age doesn't mean it won't take all your wits to survive.",
+						"This chapter is intended to give you footholds for discovering who your character is in this prehistoric world. You can think of it as a trail to walk, to insights about where your character comes from and where they might be headed. Gain an understanding of who your character is in the world by looking at their story, what drives them forward, and what they carry along with them—both physically and psychologically—that stirs them towards continued adventure.",
+						{
+							"type": "entries",
+							"name": "A Prehistoric Life",
+							"entries": [
+								"Life in Planegea is dangerous and complicated. Your character lives their own unique story, and has seen things and experienced the world before joining the adventuring party.",
+								"Note that the ideas below are best used in conjunction with other 5E materials that help shape your personal backstory. By themselves, these won't create a complete personal history, but they can be a good jumping-off point. Also, these are presented as suggestions and inspiration, not rules to be followed. If you have a different concept than the one generated by this section, talk to your DM and create it! But for most players, these questions should help to make an interesting, authentically Planegean character.",
+								{
+									"type": "entries",
+									"name": "Birth",
+									"entries": [
+										"When and where you were born matters. Shamans use the timing and events surrounding birth to name children, and some swear that fates are shaped from the circumstances of birth. Consider the following:",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Place.",
+													"entry": "Where you were born is the start of your story, a place of significance that can help define you. Were you born like most, in the tents of a nomadic clan? Were you born in the wilderness without the comfort and aid of a clan? Or were you perhaps born somewhere more unusual—a permanent settlement, the hallow of a god, one of the giant cities, or even beyond the four Giant Empires?"
+												},
+												{
+													"type": "item",
+													"name": "Time.",
+													"entry": "When were you born? What time of day and season? How many moons were there in the sky? In Planegea, birthdays aren't celebrated, but many people pay attention to the weather events and seasons surrounding their birth, considering them especially fateful times for reflection and magic."
+												},
+												{
+													"type": "item",
+													"name": "Event.",
+													"entry": "Most children hear stories of the day they were born. Was it quiet, remembered only for its serenity? Was there particularly ferocious weather? Was the clan at peace or in danger? Were there any auspicious notable hunts or remarkable finds by the gatherers? Were there any signs, omens, magical events, or memorable sights that marked the day?"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Childhood",
+									"entries": [
+										"In the Great Valley, children are seen as precious, but are also exposed to danger in the normal course of life, and are expected to contribute to the survival of the clan. If you had a childhood you can remember, consider:",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Upbringing.",
+													"entry": "Did you grow up in a typical clan? If so, was it small or large, peaceful or warlike, prosperous or desperate? Were you well cared for, or did you have to fight to survive from a young age? Did your clan journey far across the world, or only roam within a small area? Or are you from somewhere outside the Great Valley, with an unusual childhood? How does that affect you?"
+												},
+												{
+													"type": "item",
+													"name": "First god.",
+													"entry": "When did you first encounter a god? Was it through a shaman's ceremony, with the clan at the edge of a hallow? Were you sent into the hallow of a god alone on an errand or as part of a rite? Or was it an accidental wilderness encounter? Was the god gracious or menacing? What did the god look like? How did it make you feel? Did you ever encounter that god again?"
+												},
+												{
+													"type": "item",
+													"name": "First death.",
+													"entry": "Death is a harsh reality that nobody in Planegea can avoid—not even children. What was the first death you ever witnessed, that you remember? Was it a stranger, or someone close to you? Was it violent or peaceful, sudden or expected? How did it shape your views on life and death?"
+												}
+											]
+										},
+										{
+											"type": "table",
+											"caption": "Upbringing",
+											"colLabels": [
+												"1d8",
+												"Upbringing"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"You were raised in a cage as food for a warlord's prized beasts. You only managed to escape by forging an understanding with your fellow prisoners or the beasts themselves, and have vowed to return to exact vengeance on the warlord."
+												],
+												[
+													"2",
+													"Your clan barely eked by on the desolate edges of the world, narrowly escaping giant raids and ravaging predators. You know nothing of comfort, plenty, or safety, always watching your back and the skies."
+												],
+												[
+													"3",
+													"Your clan roamed the Great Valley, following the herds and seasons in the great migration. You did your best to avoid the Three Brothers, and although you now travel far in search of glory, you still know where to find your clan in every season, should you need counsel or comfort."
+												],
+												[
+													"4",
+													"Your clan was large and successful, possibly one of the Three Brothers. Even during the winter you knew plenty. There was always work, but never struggle."
+												],
+												[
+													"5",
+													"You were the favorite child of a powerful clan, set to inherit the spear of the chief—until one day a monster slew and scattered your people. You now roam the world in search of your lost clan, and in pursuit of the beast that took everything from you."
+												],
+												[
+													"6",
+													"You grew up separate from your clan—a lone hunter, raised in the sacred place of a god without a shaman. You gained great gifts from its magic, and still hear its whisper from afar. But over time, you grew to doubt your god's judgment and wisdom. Believing it to be sick—or worse, mad—you now travel in search of a cure… but how does one cure a god?"
+												],
+												[
+													"7",
+													"You were apprenticed to your clan's shaman. Trained in their service, you were always well-fed and instructed, taught in the old ways and armed with ceremonial weapons. When you were old enough, your shaman sent you out from the clan on a mysterious mission you cannot fully comprehend."
+												],
+												[
+													"8",
+													"You are from one of the far reaches of Planegea: the Venom Abyss, the World-Fangs, or even the Elemental Wastes or Dream Worlds. You glimpsed something that irrevocably altered the course of your life—a great secret of the stars or stone—and now you live on the run, always afraid that the Hounds of the Blind Heaven are only a footstep behind you."
+												]
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Community",
+									"entries": [
+										"As you grew into adulthood, consider your relationship with your community. For most mortals, this means their relationship with their clan, but for others it might be a druidic circle, a spellskin enclave, or even a united band of captives in a giant empire.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Survival.",
+													"entry": "How did your community survive? If you were in a clan, were you primarily hunters, gatherers, crafters, traders, raiders, or a combination? Or did you find a different way to stay alive? If you were from one of the larger settlements or empires, what did your community do to live within that society? What was your specific role? What was expected of you, and what tasks did you perform?"
+												},
+												{
+													"type": "item",
+													"name": "Status.",
+													"entry": "Within your community, what was your status? Was your counsel sought and your work admired? Did you have a large circle of friends and relations? Were you low-status, the butt of jokes and disrespect, ignored and passed-over? Were you invisible, existing somewhere in the middle, avoiding both glory and blame? Or did your status abruptly change at some point, for the better or worse, due to your actions or inactions?"
+												},
+												{
+													"type": "item",
+													"name": "Obligations.",
+													"entry": "What obligations do you still have to your old community? Are you still in good standing and considered part of their number, or have you separated from them? If so, on what terms did you depart? Has the community changed significantly since your upbringing, or is it the same as it always was? Do you aspire to return to it or to leave it far behind? What does the community expect of you now?"
+												}
+											]
+										},
+										{
+											"type": "table",
+											"caption": "Community Event",
+											"colLabels": [
+												"1d8",
+												"Community Event"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"You tamed a beast which had never been tamed before. Work with your DM to determine the nature of the beast and how its gifts have transformed the clan's existence."
+												],
+												[
+													"2",
+													"Someone close to you was lost in a sudden storm, and their body was never found. You fear that they still wander the world, either alive or as an accursed and unburied ghost."
+												],
+												[
+													"3",
+													"You made a powerful enemy within your own clan. Work with your DM to decide whether it was your fault or you are blameless, but regardless this enemy seeks your harm and downfall."
+												],
+												[
+													"4",
+													"You were attacked by a great predator, which altered your status in your community. You still have a scar, a limp, or show other signs of the injury, though they do not impair your abilities."
+												],
+												[
+													"5",
+													"You traveled far on a long hunt for extraordinary prey, and experienced many dangers and saw wonders along the way, returning home forever changed from the journey."
+												],
+												[
+													"6",
+													"A friend or stranger gave you a gift—an unusual weapon, totem, or other object. It is mysterious in nature, with a strange history and unanswered questions that you desire to answer."
+												],
+												[
+													"7",
+													"You made a strong ally with a member of another clan when you survived danger together. They owe you a favor and seek to do right by you and advance your interests where it does not harm their own clan."
+												],
+												[
+													"8",
+													"You fell in love, were married, or had children. Work with your DM to decide the nature of the relationship, and what the status of your loved one might be."
+												]
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Relationships",
+											"entries": [
+												"There are likely people from your past that made an impression on you, for good or for ill. Whether you knew them a long time ago or they still play an active role in your story, consider the following relationships:",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Friend.",
+															"entry": "Who was your closest friend, either as a child or an adult? What was your friend like? What was your friendship built on? Was it always platonic on both sides? What's one memory you'll never forget with your friend?"
+														},
+														{
+															"type": "item",
+															"name": "Mentor.",
+															"entry": "Who did you look to for instruction in your life? Did they take you under their wing, or did you admire them from afar? Were they well-regarded in the community, or did you take after them because they were outsiders? What's something they taught you that you'll always keep with you?"
+														},
+														{
+															"type": "item",
+															"name": "Bully.",
+															"entry": "Who made your life difficult? Did they have authority over you, or were they a rival? In what ways did they oppress or threaten you? Did they single you out, or were they hostile to others as well? Did you ever strike back at them, and if so, how? How did their actions shape your feelings about right & wrong?"
+														},
+														{
+															"type": "item",
+															"name": "Pest.",
+															"entry": "Who was someone who wouldn't leave you alone? Did they look up to you, or were they merely a grating personality? Were you gracious or curt with them? What about them got under your skin?"
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Personal Omens",
+											"entries": [
+												"In a chaotic world, many use superstition in an attempt to exert control, predictability, and pattern over life. The people of Planegea consider that personal signs or omens have meaning for them, and that seeing some combination of their personal omens is a sign to be noticed. Consider:",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Number.",
+															"entry": "What number from 1–9 is your omen? Why does that number have significance to you?"
+														},
+														{
+															"type": "item",
+															"name": "Color.",
+															"entry": "What color is your omen? What memories do you have that are tied to that color?"
+														},
+														{
+															"type": "item",
+															"name": "Creature.",
+															"entry": "What creature is your omen? Is it a beast, a monster, or something else? Why does that creature have strong associations for you?"
+														}
+													]
+												},
+												{
+													"type": "inset",
+													"name": "Encountering Personal Omens",
+													"entries": [
+														"Sometimes DMs use personal omens as a way of getting a character's attention, exciting curiosity about a particular feature or place. At other times, the appearance of these omens are accidental, a random combination of elements. Be on the watch for these appearances, especially in conjunction. If your character's omens are three, blue, and cats, then three blue cats coming into view should make you sit up and ask some questions."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Fear & Dread",
+											"entries": [
+												"Every mortal in Planegea has things they fear—it's just a question of how much they let that fear control them. For your character, consider:",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Fear.",
+															"entry": "What is it that you fear? Why? Was it an early encounter that shaped that fear, or is it something you've come to fear as an adult? How strong is your fear? Is it an underlying unease, or is it a phobia that causes you to panic and flee?"
+														},
+														{
+															"type": "item",
+															"name": "Mystery.",
+															"entry": "Everyone has encountered something inexplicable. What's something unsettling that you felt or observed that you cannot find a good explanation for, no matter how many nights you lie awake reliving it?"
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Risk & Survival",
+											"entries": [
+												"Danger is a constant in Planegea, and you must always be ready to flee predators or leap into combat to survive. But as you think about what you've lived through and what you'd die for, ask yourself:",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Risk.",
+															"entry": "What would you risk everything for? What person, thing, ideal, or goal would you die for? What would cause you to throw yourself into harm's way without a second thought?"
+														},
+														{
+															"type": "item",
+															"name": "Close call.",
+															"entry": "What was your nearest brush with death? What circumstances led to your endangerment? Did you survive by dumb luck, the actions of others, or by your own wits and skill?"
+														}
+													]
+												},
+												{
+													"type": "table",
+													"caption": "Brush With Death",
+													"colLabels": [
+														"1d8",
+														"Brush With Death"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"You died for a moment, and saw the gates of the Kingdom of the Dead. Only powerful magic brought you back, and you're still haunted by that vision."
+														],
+														[
+															"2",
+															"You hovered between life and death in a dream state, walking in the worlds of the elves. You only returned when your spirit found a doorway back to your own world… and you half-remember where that doorway lay."
+														],
+														[
+															"3",
+															"A shaman cursed you to a terrible doom. You lived in terror for many days and remain uncertain whether the shaman lifted the curse, if they were deceiving you, or if that terrible fate still lies before you."
+														],
+														[
+															"4",
+															"You were separated from your clan in a storm and clung to life—but only barely. You returned half-frozen, starved, or drowned, and some consider you still marked for death."
+														],
+														[
+															"5",
+															"You were within a hair's breadth of being trampled by a beast in a hunt or stampede. Your clan took it as an omen that your life was spared for a reason."
+														],
+														[
+															"6",
+															"You led a dousing raid on an enemy clan, winning great glory by killing their fire—but their hunters nearly caught you and your name is hated by that clan to this day."
+														],
+														[
+															"7",
+															"You endured a harrowing vigil, remaining awake and upright for a week in service of your clan's god. You were rewarded with a powerful vision by the god, the meaning of which you're still trying to unravel."
+														],
+														[
+															"8",
+															"You almost lost your life heroically rescuing a group of children cornered by a predator. Though the beast was far too powerful for you to defeat, you attacked it selflessly, allowing them time to escape, and were very nearly devoured in the process."
+														]
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Adventuring",
+											"entries": [
+												"Whether you know it or not, you are about to embark on an adventure with a group of other remarkable individuals. As you think about what will drive you to risk life and limb with this party, consider the following:",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Motivation.",
+															"entry": "Why do you want to travel with the party? Why doesn't your character simply leave at the first sign of trouble? What is it about this group, or your circumstances, that makes you willing to put your life on the line for the group's shared goals?"
+														},
+														{
+															"type": "item",
+															"name": "Short-term goal.",
+															"entry": "What do you want right now? What's your immediate objective, and how close are you to achieving it? How will it improve your life or ease your suffering? How urgent is it?"
+														},
+														{
+															"type": "item",
+															"name": "Long-term goal.",
+															"entry": "What is your long-term objective? What do you dream of, should the world reward you with success? If you achieve it, how will it change your relationship with the party? Will you still want or need to adventure, or will your story draw to a close?"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Variant Rules",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "Planegean Player Options",
+									"entries": [
+										"These variant mechanics add unique Stone Age abilities into your game.",
+										{
+											"type": "entries",
+											"name": "Star Stories",
+											"entries": [
+												"In Planegea, the stars are not fixed—the stories of great hunters and monsters are still being painted in the heavens. For now, the stars tell of the world's events, and their rumors can be read by those with sufficient knowledge. Perhaps your character might even have their greatness told in constellations beheld by future generations.",
+												{
+													"type": "entries",
+													"name": "Star Magic",
+													"entries": [
+														"The stars inspire greatness. As an action, you may make an {@skill Intelligence} ({@skill Nature}) check to locate a constellation with a story or song based on one of the six attributes (Strength, Dexterity, Constitution, Intelligence, Wisdom, or Charisma). On a success, you can take 10 minutes to tell its story. At the end of the story, make a {@skill Charisma} ({@skill Performance}) check. The DC is higher if your audience is exhausted, wounded, frightened, or discouraged. On a failure, nothing happens. On a success, all creatures who can hear and understand you are inspired by the tale and gain {@dice 1d4}, which can be added to one check or saving throw of that attribute in the next 24 hours. This feature cannot be used again until the following nightfall, and when used again replaces any previous inspiration gained by this feature."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Watching the Stars",
+													"entries": [
+														"The stars watch the world and gossip amongst themselves, and their dance reflects the secrets of mortals and gods alike. With cunning, a mortal can discover what's happening in the world around them by scanning the stars.",
+														"If you can see the stars, as an action, you may make an {@skill Intelligence} ({@skill Arcana}) check to search for news, rumors, and secrets. Your DM will determine the outcome of the roll. The stars are untrustworthy and biased, and may communicate half-truths, cryptic fragments, or outright deceptions."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Primal Push",
+											"entries": [
+												"This world is a raw and wild place, where anything can happen and mortals can push themselves beyond the boundaries imposed on their descendants. Each class has access to a new feature that grants them additional power at cost or danger to themselves.",
+												"If your character multiclasses, giving you access to more than one Primal Push feature, choose one. Next time you gain a level, you may choose again.",
+												{
+													"type": "entries",
+													"name": "Weapon Shatter",
+													"entries": [
+														"Martial feature, available to ascetic, barbarian, fighter, ranger, and scavenger.",
+														"When you deal damage with a melee weapon attack using a magical weapon, not including those made temporarily magical by spell effects, you may throw all of your ferocity behind it and shatter your weapon against your enemy. Your weapon is irreparably destroyed and your attack becomes a critical hit. You may not use this feature again until after a short or long rest. The weapon cannot be repaired except with powerful magic such as a {@spell wish} spell."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Raw Magic",
+													"entries": [
+														"Arcane feature, available to chanter, sorcerer, spellskin, and warlock.",
+														"Magic is primal and dangerous, not yet bound by millennia of tradition and teaching. You may cast a spell that you know or have prepared for which you do not have spell slots, with the following effects:",
+														{
+															"type": "list",
+															"items": [
+																"Level 1–5 spells: Take 1 level of exhaustion per spell level.",
+																"Level 6 spells: Take 5 levels of exhaustion and fall unconscious.",
+																"Level 7 spells: Take 5 levels of exhaustion, fall unconscious, and automatically fail 1 death saving throw.",
+																"Level 8 spells: Take 5 levels of exhaustion, fall unconscious, and automatically fail 2 death saving throws.",
+																"Level 9 spells: Take 5 levels of exhaustion and die. (Levels of exhaustion remain if your character is restored to life except by a {@spell wish} spell.)"
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Blood Offering",
+													"entries": [
+														"Divine feature, available to druid, guardian, and shaman.",
+														"Blood has powerful magic, irresistible to almost any god, be they good or evil. As a bonus action, you may spill your own blood to empower your spell. Roll a number of your hit dice equal to the spell's level (minimum 1), and take the resulting amount as slashing or piercing damage as if from a magical weapon, ignoring resistances or immunities.",
+														"As a result of your offering, gain one of the following blessings:",
+														{
+															"type": "list",
+															"items": [
+																"Gain advantage on your next spell attack or check.",
+																"Impose disadvantage on the next creature you target with a spell effect.",
+																"The effects of your next spell are as if the spell had been cast at 1 spell level higher than it actually was."
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Trinkets",
+							"entries": [
+								"Most mortals possess personal items—trinkets of value, significance, or interest that have meaning or represent something to them. When creating your character, roll on this table, and work with your DM to answer the following questions:",
+								{
+									"type": "list",
+									"items": [
+										"Who gave you this trinket, or from whom did you obtain it? If you came across it alone, who else might be interested in it?",
+										"Where did it come from? If you don't know, where did you find it? Where do you carry it on your person?",
+										"When did you get this trinket? Is it something you've always possessed, or did you only gain it recently?",
+										"How does it make you feel? How heavy is it? How valuable is it to you?",
+										"What about it catches your interest? What does it feel and smell like?",
+										"Why do you hold onto it?"
+									]
+								},
+								{
+									"type": "table",
+									"caption": "Trinkets",
+									"colLabels": [
+										"d100",
+										"Trinket"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-10"
+									],
+									"rows": [
+										[
+											"1",
+											"A bit of honeycomb that buzzes faintly when shaken"
+										],
+										[
+											"2",
+											"A humanoid molar that is ice-cold to the touch"
+										],
+										[
+											"3",
+											"A large, curled shell with a bright pink interior"
+										],
+										[
+											"4",
+											"A patch of wolf's pelt with hair that stands on end in moonlight"
+										],
+										[
+											"5",
+											"Three leather pouches with small quantities of blue, yellow, and red sand"
+										],
+										[
+											"6",
+											"A wooden statuette of a mammoth, roughly carved"
+										],
+										[
+											"7",
+											"A short, smooth wand devoid of charges"
+										],
+										[
+											"8",
+											"A piece of bark with the scratched image of a shining figure, its arms and wings outstretched"
+										],
+										[
+											"9",
+											"An elbow-guard made from the black, iridescent chitin of a giant manylegs"
+										],
+										[
+											"10",
+											"A bone toy that folds and unfolds endlessly with a smooth motion"
+										],
+										[
+											"11",
+											"A tiny flask made of woven reeds that holds a mysterious, sweet-smelling liquid"
+										],
+										[
+											"12",
+											"A pouch of brightly colored beads"
+										],
+										[
+											"13",
+											"A set of knuckle bones, used for gambling"
+										],
+										[
+											"14",
+											"A jar of dust that whispers something you can't quite make out when you sift it through your hands"
+										],
+										[
+											"15",
+											"A pair of finely carved bone fishhooks"
+										],
+										[
+											"16",
+											"A merfolk fin, its edge jaggedly sheared off"
+										],
+										[
+											"17",
+											"An antler knife handle that gives you a feeling of déjà vu when you look at it"
+										],
+										[
+											"18",
+											"A spherical gray-white stone that looks exactly like a tiny moon"
+										],
+										[
+											"19",
+											"A carved wooden cup once used for festivals"
+										],
+										[
+											"20",
+											"A giant's ring, carved from fine marble, which fits on your wrist like a bracelet"
+										],
+										[
+											"21",
+											"A black dragon's tooth that still reeks of acid"
+										],
+										[
+											"22",
+											"A clay lamp which, when illuminated, changes the color of its light upon request"
+										],
+										[
+											"23",
+											"A dirty blindfold, stained with blood"
+										],
+										[
+											"24",
+											"The skeletal paw of a yeti"
+										],
+										[
+											"25",
+											"A wrap to keep hands warm, decorated with colorful thread in patterns sewn with love"
+										],
+										[
+											"26",
+											"A giant manylegs' mandible"
+										],
+										[
+											"27",
+											"An intricately knotted belt, as if its maker attached some significance to the complex knotting pattern"
+										],
+										[
+											"28",
+											"An obsidian shard that rattles when stories of danger are told"
+										],
+										[
+											"29",
+											"A rough hide ball, such as a child might play with"
+										],
+										[
+											"30",
+											"A dead snake stuffed with grass to look alive"
+										],
+										[
+											"31",
+											"A ring made of twisted purple seaweed that writhes when submerged in saltwater"
+										],
+										[
+											"32",
+											"A jade septum ring"
+										],
+										[
+											"33",
+											"A horsehair fly whisk"
+										],
+										[
+											"34",
+											"The broken blade of a skillfully crafted paddle"
+										],
+										[
+											"35",
+											"A piece of coral that glows very faintly"
+										],
+										[
+											"36",
+											"A perfectly cylindrical piece of clear crystal"
+										],
+										[
+											"37",
+											"A bundle of dried herbs to treat a sour stomach"
+										],
+										[
+											"38",
+											"Reeking foot wrappings that feel amazing"
+										],
+										[
+											"39",
+											"A leather side-bag containing soil and a tiny awakened seedling"
+										],
+										[
+											"40",
+											"A glittering stone circlet that appears to be made from magically-cooled lava"
+										],
+										[
+											"41",
+											"An antler carved in the shape of a unicorn"
+										],
+										[
+											"42",
+											"An ivory toe ring that makes your foot unconsciously tap a light beat"
+										],
+										[
+											"43",
+											"A necklace made of lion claws"
+										],
+										[
+											"44",
+											"A shallow bowl made for ritual mixing of poultices and powders for naming ceremonies"
+										],
+										[
+											"45",
+											"A tiny idol with the head of a fish and the body of a short, stocky man with its arms broken off"
+										],
+										[
+											"46",
+											"A gatherer's basket with a woven shoulder strap"
+										],
+										[
+											"47",
+											"A flat stone with a carving of a woman and child"
+										],
+										[
+											"48",
+											"A stone cube carved with intricately geometric dwarvish patterns"
+										],
+										[
+											"49",
+											"A broken horn that makes no sound"
+										],
+										[
+											"50",
+											"A hoop of feathers from a dinosaur"
+										],
+										[
+											"51",
+											"A bone whistle that plays a warbling note"
+										],
+										[
+											"52",
+											"A handful of light blue goo that's just solid enough to keep in a bag or pocket"
+										],
+										[
+											"53",
+											"Shoulder decorations made of brightly colored lizard scales"
+										],
+										[
+											"54",
+											"A large, curved earring made from a tusk"
+										],
+										[
+											"55",
+											"An oversized harness made for a dire beast of burden"
+										],
+										[
+											"56",
+											"A fern that furls and unfurls with your emotions"
+										],
+										[
+											"57",
+											"A stone skull inlaid with worthless glittering quartz"
+										],
+										[
+											"58",
+											"A ceremonial wedding rope, decorated with bright feathers and dyed strips of cloth"
+										],
+										[
+											"59",
+											"A shell that sings a familiar, haunting song when you hold it to your ear"
+										],
+										[
+											"60",
+											"A ring of purple, shimmering stone"
+										],
+										[
+											"61",
+											"An armlet circled with teeth"
+										],
+										[
+											"62",
+											"A river stone that emits wisps of black smoke"
+										],
+										[
+											"63",
+											"A pair of turtle shell kneepads"
+										],
+										[
+											"64",
+											"An ivory pendant inset with four stones in a diamond pattern, which has been snapped in half"
+										],
+										[
+											"65",
+											"A miniature ivory mask with blue snail shells for eyes"
+										],
+										[
+											"66",
+											"A branch covered in huge salt crystals"
+										],
+										[
+											"67",
+											"An enormous, exotic flower with colors you've never seen anywhere else"
+										],
+										[
+											"68",
+											"A short, pointed cap fringed with jangling shells"
+										],
+										[
+											"69",
+											"A blob of ooze that's always trying to creep away towards Blood Mountain"
+										],
+										[
+											"70",
+											"An inedible mushroom that takes root and begins to slowly multiply whenever it's set down"
+										],
+										[
+											"71",
+											"A shard of limestone painted with part of some strange, arcane pattern"
+										],
+										[
+											"72",
+											"A small handful of drift-pebbles that float when tossed into the air"
+										],
+										[
+											"73",
+											"An amulet made from the hoof of a rare antelope"
+										],
+										[
+											"74",
+											"The skull of a small animal, strung on a leather strap"
+										],
+										[
+											"75",
+											"A crown formed of the twisted antennae of an enormous insect"
+										],
+										[
+											"76",
+											"A piece of sea glass that reflects lightning, even on a clear day"
+										],
+										[
+											"77",
+											"A low belt fashioned from a black, rubbery tendril"
+										],
+										[
+											"78",
+											"A sachet of embalming fragrance"
+										],
+										[
+											"79",
+											"A turtle shell with an eye carved in the center, which you could swear sometimes winks"
+										],
+										[
+											"80",
+											"The ribcage of a small animal, useful for digging"
+										],
+										[
+											"81",
+											"Decorative ear-covers made of arcing shells"
+										],
+										[
+											"82",
+											"An antler chin guard"
+										],
+										[
+											"83",
+											"A stone totem pendant depicting a giant slain by a crowd of tiny figures"
+										],
+										[
+											"84",
+											"A small black pyramid-shaped carving that casts twisted shadows in the firelight"
+										],
+										[
+											"85",
+											"A shallow wooden bowl painted with the forms of people transforming into animals and back again"
+										],
+										[
+											"86",
+											"A red stone that leaves a smear of red liquid behind when pressed against a surface"
+										],
+										[
+											"87",
+											"A veil of tattered cloth"
+										],
+										[
+											"88",
+											"A broken bone sword, its blade covered in scars, scratches, and scorch marks"
+										],
+										[
+											"89",
+											"A lamp fashioned from a humanoid skull"
+										],
+										[
+											"90",
+											"A lump of amber with something dark at its center that weighs twice as much as it should"
+										],
+										[
+											"91",
+											"A polished stone armlet"
+										],
+										[
+											"92",
+											"A set of weights for measuring trade goods"
+										],
+										[
+											"93",
+											"A piece of petrified wood that still smells of an ancient forest fire"
+										],
+										[
+											"94",
+											"A dragon scale with a hole drilled at the top, which can be worn as a pendant"
+										],
+										[
+											"95",
+											"A twig doll that sometimes laughs in the night"
+										],
+										[
+											"96",
+											"A piece of driftwood naturally formed in the shape of a whale"
+										],
+										[
+											"97",
+											"A crushed giant's totem, recovered from one of their traveling party campsites"
+										],
+										[
+											"98",
+											"An anklet strung with misshapen pearls"
+										],
+										[
+											"99",
+											"A translucent stone that always seems to find its way back to your pocket"
+										],
+										[
+											"100",
+											"A black quill that can scratch marks in solid stone"
+										]
 									]
 								}
 							]
