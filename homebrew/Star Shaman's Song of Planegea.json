@@ -22758,6 +22758,169 @@
 													]
 												}
 											]
+										},
+										{
+											"type": "entries",
+											"name": "Seatooth (Mosasaurus)",
+											"entries": [
+												"This massive ocean predator strikes fear into all who cross the open waters. One does not see it approach. It strikes without warning from deep underneath, its jaws hitting the side of the canoe like a great stone hammer. The seatooth rivals any of the great monsters of the land for pure malice and savagery. They are especially well-known for their cannibalistic ways, hunting each other with more hunger and hatred than any other prey."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Skullsmasher (Pachycephalosaurus)",
+											"entries": [
+												"A favorite companion of gatherers, the skullsmasher is a two-legged, beaked dinosaur with a thick, bony crown. Even-tempered and affectionate, the skullsmasher lives in harmony with many clans, hauling sledges and ramming trees to shake down ripe fruit.",
+												"Skullsmashers must be trained from a young age and bond to a single person. Their loyalty and enthusiasm can become dangerous if their bonded mortal is threatened, since an angry skullsmasher is capable of killing someone easily with their powerful ramming attack."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Snakeneck (Elasmosaurus)",
+											"entries": [
+												"These aquatic beasts lurk in deep water, their snakelike necks waving slowly, eyes scanning the patterns of light above. When they see a school of fish—or a small mortal—they rush upwards in a burst of speed, creating a vortex of water with their swirling fins while their heads burst out of the water, only to plunge down again in an attempt to swallow any smaller creature whole.",
+												"Generally considered an ill omen by fishers and seagoers, the snakeneck is particularly feared by halfling-kind, and many halfling fear-tales circle around the prowling snakeneck and its sudden, terrifying hunger."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Spider Raptor",
+											"entries": [
+												"Through a quirk of the laws that govern survival, a strange and unsettling breed of raptor has been sighted by the Venomguard. These creatures, called Spider Raptors, have elongated limbs—spindly, reaching arms and long legs suited to climbing, dangling, and springing great distances.",
+												"Spider raptors have been seen scrambling up the great cliffs that keep other creatures confined to the Venom Abyss, and are starting to nest in the swamps, forests, and rocky hills of the Great Valley, using stealth, speed, and their slender, agile claws to chase and hook unsuspecting prey in dark places."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Swiftclaw (Velociraptor)",
+											"entries": [
+												"With rustling hisses and squawking shrieks, a flock of filthy swiftclaws swarms unwitting prey. Shedding blood-streaked feathers as they leap, swiftclaws sink their talons into their quarry, then flap wildly to remain upright as they tear into the flesh of their bewildered meal. A flock of swiftclaws can devour a beast in a matter of minutes.",
+												"Hunters throughout Planegea know to avoid a certain bloody, birdlike stench, a scattering of brown and blue feathers, and a high, warbling call that sounds like wild, cursed laughter."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Tentwing (Pteranodon)",
+											"entries": [
+												"This flying leatherbeast is a familiar sight throughout Planegea. They are social creatures, hooting and gabbling at all hours of the day and night, spreading their wings wide in the daylight like sentinels to plunge after some fish or swimming lizard.",
+												"Because of the ubiquity of tentwings, some clans have managed to tame them, using them for hunting or scouting. Giants have been known to train them to land on their forearms, and to screech at the sight of mortals running from the raiding party."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Thunderfoot (Titanosaurus)",
+											"entries": [
+												"The greatest of all dinosaurs are hardly beasts at all—they are living mountains. They move through the world like an earthquake, and mortals are mere pebbles to their slow and majestic step. Forests and clans have been leveled by thunderfeet, without the creatures ever stopping to notice that they passed through trees or fire.",
+												"Thunderfeet are incredibly secretive about their births and deaths. If a calf is to be born or an elder is near the end of its life, a herd of thunderfeet will withdraw beyond the ability of any nearby creatures to follow, guarding the start and end of their herdmate's life with the jealous severity of titans."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Trumpetcrest (Parasaurolophus)",
+											"entries": [
+												"A bugling cry breaks out across the water, and a riot of color splashes the surface of the marsh. Trumpetcrests are well-loved beasts—beautiful, gentle, and playful, though none too intelligent and easily startled. Hunters traveling through wetlands must be careful not to alarm these creatures; one blast from their resounding cranial cavity and all wildlife within half a day's walk scatters.",
+												"Because of their beauty, they are rarely hunted, yet trumpetcrest skulls are prized for the fashioning of instruments. Often, young gatherers will dare each other to seek out skulls in the wetlands, and many a clan has lost members to those who ventured too deep into the wrong marsh for a trumpetcrest skull."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Dire Sloth",
+									"entries": [
+										"Gigantic, slow-moving, and gentle, a group of dire sloths is a common sight in grasslands, eternally shuffling forward, their conical muzzles browsing among tough grasses for their favorite morsels. When rearing up on their hind legs to scan the horizon, they stand as tall as a mammoth, with brown, shaggy coats, and a reputation for tranquility.",
+										{
+											"type": "entries",
+											"name": "Lazy Grazers",
+											"entries": [
+												"Although many clans have successfully domesticated dire sloths by tempting them with their favorite tender grasses, the feat is almost never worth the effort, since dire sloths are impossible to motivate to do anything but shuffle forward and eat."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Tight-Knit Families",
+											"entries": [
+												"Dire sloths live in groups of 3 to 6, which are usually a single family of a few generations. At a certain age, young males wander away to make their own families. Once formed, these family units are inseparable. When threatened, a family of dire sloths will stand back-to-back, relying on their size and their long curved claws to fight off any threat."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Living Towers",
+											"entries": [
+												"Dire sloths are so gentle and single-minded in their pursuit of food that many migrating clans use them as living lookout towers. A dire sloth, if approached carefully, does not mind the little commotion of mortals, and scouting parties will often scale a sloth, climbing onto its neck and tempting it to rear up on its hind legs with a handful of carefully chosen grass to allow a better view of the horizon."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Pixie Playgrounds",
+											"entries": [
+												"The gentle nature and sheer scale of dire sloths often attracts the attention of pixies, those curious, playful, and gentlest of the fey. A family of dire sloths often lives in symbiosis with an encampment of pixies, and it's not an uncommon site to see bobbing lights swirling around a family as they browse the leaves. The pixies use the dire sloths as a muscular shield from those who would hunt them for their dust, and the dire sloths are grateful for the pixie's ability to steer them clear of unnatural dangers beyond their slow-moving senses."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Ghost Monkey",
+									"entries": [
+										"Of the many horrors of the Venom Abyss, there is a strange place reserved for tales of ghost monkeys. These nattering, aggressive, arboreal spirits are enough to drive even a seasoned wanderer mad.",
+										"At first glance, these apparitions appear to be howler monkeys—small, with prehensile tails and dirty reddish fur with shaggy ruffs around their faces. However, when they start to howl or show aggression, their true forms are revealed—rotting spirits with burning holes for eyes and ectoplasm drifting from their translucent bodies.",
+										{
+											"type": "entries",
+											"name": "Cursed curiosity",
+											"entries": [
+												"Hidden deep within the twisting roots and rotting detritus of the Below, there is a dark cave that sits half in the waking world and half in the Nightmare World. This cave is used as a temple for the rites of undeath by the dread elves of Nod, and there is a heavy curse laid upon interlopers. Sometimes monkeys, curious and unknowing, cross the threshold into the inner sanctum and lose their lives to the dark secrets of undeath, turning mad with the transformation."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Confused and enraged",
+											"entries": [
+												"Ghost monkeys are bewildered by the fate that has befallen them, and race from the Nightmare Temple in fear and anger. Unable to eat or sleep, and cast out by their tribes, they roam the Venom Abyss as wretched spirits, hurling phantasmal objects at living creatures and trying to understand a fate their minds could never comprehend."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Immortal howls",
+											"entries": [
+												"The anguished howls of the ghost monkey are said to turn even the bravest heart to water. These howls echo across the Venom Abyss at night, and it's not uncommon for a ghost monkey, seeking some kind of cure or answer, to scale the cliffs of the Abyss and escape into the Great Valley, where it hunts and howls in eternal confusion and anger."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Giant Armadillo (Glyptodon)",
+									"entries": [
+										"Remarkable for its toughness and cantankerous demeanor, the giant armadillo trudges through a world it wants nothing to do with, sullen and solitary.",
+										"Sometimes called a walking boulder, the giant armadillo is a massive, four-legged beast that bears a passing resemblance to a hairy tortoise, with a huge, pebbled shell, armored head and limbs, and a long, spiked tail.",
+										{
+											"type": "entries",
+											"name": "Friendless fortress",
+											"entries": [
+												"Few beasts in Planegea are as antisocial as the giant armadillo. Its nearly impenetrable armor and massive size give it the freedom to carve a path through the swamps and riverlands where it finds food, crushing nests and scattering smaller beasts carelessly."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Tent stomper",
+											"entries": [
+												"Giant armadillos are known for their particular dislike of mortal encampments. Whether driven by ancestral memory of hunters, a dislike for fire, or sheer ill-will, giant armadillos are known to thunder into peaceful encampments, crushing tents, scattering clanfires, and trampling mortals until driven off or killed."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Hunter's prize",
+											"entries": [
+												"Because of their hostility and their shells, which are large enough to use as an armored tent, mortal hunters love to stalk the giant armadillo, considering it a point of pride to bring down such a beast. Clever tactics must be used to expose the creature's weak underbelly, and such a hunt is dangerous—but the dual reward of prized shell and the eradication of a threat to the clanfire is more than enough to trigger a bold hunt."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Apex prey",
+											"entries": [
+												"The giant armadillo's enormous size and armor enable it to shake off all but the largest threats. The only creatures the giant armadillo truly fears are terror birds, which stalk it relentlessly, favoring the taste of its meat. Mortal hunting parties would do well to be wary not only of the dangers of the giant armadillo itself, but also the very real threat of a nearby terror bird, hungry for the taste of its salty flesh."
+											]
 										}
 									]
 								},
@@ -35835,6 +35998,1061 @@
 					"name": "Stinging Tail",
 					"entries": [
 						"Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 17 (3d6 + 7) piercing damage, and the target must make a DC 18 Constitution saving throw, taking 21 (6d6) poison damage and becoming poisoned for 1 hour on a failure, or taking half as much damage on a success."
+					]
+				}
+			]
+		},
+		{
+			"name": "Madcrash",
+			"source": "SSSOP",
+			"page": 328,
+			"size": [
+				"S"
+			],
+			"type": "beast",
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 12
+				}
+			],
+			"hp": {
+				"average": 4,
+				"formula": "1d6 + 1"
+			},
+			"speed": {
+				"walk": 10,
+				"fly": 30
+			},
+			"str": 8,
+			"dex": 14,
+			"con": 12,
+			"int": 2,
+			"wis": 12,
+			"cha": 6,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 11,
+			"languages": [],
+			"cr": "1/8",
+			"trait": [
+				{
+					"name": "Divebomb",
+					"entries": [
+						"If the madcrash moves at least 10 feet towards a creature and then hits it with a beak attack on the same turn, the target takes an extra 2 (1d4) damage and the madcrash can use a bonus action to take the Disengage action and move up to half its speed."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Beak",
+					"entries": [
+						"Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Seatooth",
+			"source": "SSSOP",
+			"page": 328,
+			"size": [
+				"H"
+			],
+			"type": {
+				"type": "beast",
+				"tags": [
+					"defiant"
+				]
+			},
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 149,
+				"formula": "13d12 + 78"
+			},
+			"speed": {
+				"walk": 0,
+				"swim": 90
+			},
+			"str": 24,
+			"dex": 15,
+			"con": 20,
+			"int": 2,
+			"wis": 12,
+			"cha": 10,
+			"save": {
+				"str": "+11",
+				"con": "+9",
+				"wis": "+5"
+			},
+			"skill": {
+				"athletics": "+11",
+				"perception": "+9",
+				"stealth": "+6"
+			},
+			"senses": [
+				"blindsight 60 ft.",
+				"darkvision 90 ft."
+			],
+			"passive": 19,
+			"languages": [],
+			"cr": "9",
+			"trait": [
+				{
+					"name": "Echolocation",
+					"entries": [
+						"The seatooth can't use its blindsight while deafened."
+					]
+				},
+				{
+					"name": "Hold Breath",
+					"entries": [
+						"The seatooth can hold its breath for 2 hours."
+					]
+				},
+				{
+					"name": "Keen Sight",
+					"entries": [
+						"The seatooth has advantage on Wisdom (Perception) checks that rely on sight."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The seatooth makes two bite attacks or makes a bite attack and uses Swallow."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 28 (6d6 + 7) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained and the seatooth can't bite another target."
+					]
+				},
+				{
+					"name": "Swallow",
+					"entries": [
+						"The seatooth attempts to swallow a creature it is grappling. The target must succeed on a DC 19 Strength saving throw. On a failure, the target is swallowed, and the grapple ends. While swallowed, the target is blinded and restrained, it has total cover against attacks and other effects outside the seatooth, and it takes 14 (4d6) acid damage at the start of each of the seatooth's turns. A seatooth can have only one creature swallowed at a time. If the seatooth takes 25 damage or more on a single turn from the swallowed creature, the seatooth must succeed on a DC 16 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the seatooth. If the seatooth dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone."
+					]
+				}
+			],
+			"bonus": [
+				{
+					"name": "Frenzied Thrashing",
+					"entries": [
+						"The seatooth violently thrashes a creature it is grappling. The creature must succeed on a DC 19 Constitution saving throw, taking 17 (3d6 + 7) slashing damage on a failure, or half as much on a success."
+					]
+				}
+			]
+		},
+		{
+			"name": "Skullsmasher",
+			"source": "SSSOP",
+			"page": 328,
+			"size": [
+				"M"
+			],
+			"type": "beast",
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 11
+				}
+			],
+			"hp": {
+				"average": 22,
+				"formula": "3d8 + 9"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"str": 16,
+			"dex": 10,
+			"con": 16,
+			"int": 4,
+			"wis": 11,
+			"cha": 8,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"languages": [],
+			"cr": "1/2",
+			"trait": [
+				{
+					"name": "Charge",
+					"entries": [
+						"If the skullsmasher moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Ram",
+					"entries": [
+						"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) bludgeoning damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Snakeneck",
+			"source": "SSSOP",
+			"page": 329,
+			"size": [
+				"H"
+			],
+			"type": {
+				"type": "beast",
+				"tags": [
+					"defiant"
+				]
+			},
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 14,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 126,
+				"formula": "12d12 + 44"
+			},
+			"speed": {
+				"walk": 0,
+				"swim": 80
+			},
+			"str": 16,
+			"dex": 20,
+			"con": 18,
+			"int": 2,
+			"wis": 12,
+			"cha": 10,
+			"save": {
+				"dex": "+9",
+				"con": "+8"
+			},
+			"skill": {
+				"athletics": "+7",
+				"perception": "+5",
+				"stealth": "+9"
+			},
+			"senses": [
+				"blindsight 30 ft.",
+				"darkvision 60 ft."
+			],
+			"passive": 14,
+			"languages": [],
+			"cr": "9",
+			"trait": [
+				{
+					"name": "Ambusher",
+					"entries": [
+						"In the first round of a combat, the snakeneck has advantage on attack rolls against any creature it surprised."
+					]
+				},
+				{
+					"name": "Baitball",
+					"entries": [
+						"On its turn, the snakeneck can spend 80 feet of movement to create a vortex of swirling water in a 20-foot-radius sphere centered on a point underwater that it can see within 20 feet. All other creatures in the sphere must make a DC 17 Strength saving throw. On a failure, a creature is drawn 20 feet towards the sphere's center and is restrained by the vortex until the end of its next turn. On a success, a creature is drawn only 10 feet towards the sphere's center and is not restrained. Immediately after using this feature, the snakeneck can make two free bite attacks."
+					]
+				},
+				{
+					"name": "Natural Camouflage",
+					"entries": [
+						"The snakeneck has advantage on Dexterity (Stealth) checks while underwater."
+					]
+				},
+				{
+					"name": "Keen Hearing and Sight",
+					"entries": [
+						"The snakeneck has advantage on Wisdom (Perception) checks that rely on hearing or sight."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The snakeneck makes two bite attacks."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 16 (2d10 + 5) piercing damage. If the target is Small or smaller creature, it must succeed on a DC 17 Dexterity saving throw or be swallowed by the snakeneck. A swallowed creature has total cover against attacks and other effects outside the snakeneck, and it takes 3 (1d6) bludgeoning damage and 7 (2d6) acid damage at the start of each of the snakeneck's turns. If the snakeneck takes 20 damage or more on a single turn from a creature inside it, the snakeneck must succeed on a DC 17 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the snakeneck. If the snakeneck dies, a swallowed creature can escape from the corpse by using 20 feet of movement, exiting prone."
+					]
+				}
+			],
+			"bonus": [
+				{
+					"name": "Agile Swimmer",
+					"entries": [
+						"The snakeneck dashes or disengages."
+					]
+				},
+				{
+					"name": "Dimlurk",
+					"entries": [
+						"The snakeneck hides in dim light or darkness."
+					]
+				}
+			]
+		},
+		{
+			"name": "Spider-Raptor",
+			"source": "SSSOP",
+			"page": 329,
+			"size": [
+				"L"
+			],
+			"type": "beast",
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 37,
+				"formula": "5d10 + 10"
+			},
+			"speed": {
+				"walk": 50,
+				"climb": 40
+			},
+			"str": 17,
+			"dex": 16,
+			"con": 14,
+			"int": 4,
+			"wis": 12,
+			"cha": 7,
+			"skill": {
+				"stealth": "+5",
+				"perception": "+4"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 14,
+			"languages": [],
+			"cr": "2",
+			"trait": [
+				{
+					"name": "Keen Senses",
+					"entries": [
+						"The spider-raptor has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell."
+					]
+				},
+				{
+					"name": "Pack Tactics",
+					"entries": [
+						"The spider-raptor has advantage on an attack rolls against a creature if at least one of the spider-raptor's allies is within 5 feet of the creature and the ally isn't incapacitated."
+					]
+				},
+				{
+					"name": "Spider Climb",
+					"entries": [
+						"The spider-raptor can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+					]
+				},
+				{
+					"name": "Standing Leap",
+					"entries": [
+						"The spider-raptor's long jump is up to 25 feet and its high jump is up to 15 feet, with or without a running start."
+					]
+				},
+				{
+					"name": "Pounce",
+					"entries": [
+						"If the spider-raptor moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the spider-raptor can make one bite attack against it as a bonus action."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The spider-raptor makes three attacks: two with its claws and one with its bite."
+					]
+				},
+				{
+					"name": "Claws",
+					"entries": [
+						"Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 6 (1d6 + 3) slashing damage, or 13 (3d6 + 3) slashing damage if the target is prone."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (1d8 + 3) piercing damage, and the target is grappled (escape DC 12)."
+					]
+				}
+			]
+		},
+		{
+			"name": "Swiftclaw",
+			"source": "SSSOP",
+			"page": 330,
+			"size": [
+				"M"
+			],
+			"type": "beast",
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 22,
+				"formula": "4d8 + 4"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"str": 13,
+			"dex": 20,
+			"con": 12,
+			"int": 4,
+			"wis": 10,
+			"cha": 8,
+			"save": {
+				"dex": "+8"
+			},
+			"skill": {
+				"athletics": "+3",
+				"perception": "+2",
+				"stealth": "+9"
+			},
+			"senses": [
+				"passive Perception 13"
+			],
+			"passive": 13,
+			"languages": [],
+			"cr": "1",
+			"trait": [
+				{
+					"name": "Keen Sight and Smell",
+					"entries": [
+						"The swiftclaw has advantage on Wisdom (Perception) checks that rely on sight or smell."
+					]
+				},
+				{
+					"name": "Latching Claws",
+					"entries": [
+						"If the swiftclaw hits a creature with two claw attacks on the same turn, it can latch onto the creature with its claws, moving into the creature's space. While latched onto a creature, the swiftclaw has advantage on attack rolls against the creature, but can only make bite attacks. The swiftclaw's speed also becomes 0, it can't benefit from any bonus to its speed, and it moves with the target. A creature can pry the swiftclaw off a latched creature by making a successful DC 13 Strength check as an action. On its turn, the swiftclaw can detach itself from the target (no action required), landing in an unoccupied space within 5 feet of the target. For every swiftclaw latched onto a Medium or smaller creature, the creature's movement speed is reduced by 15 feet. If this reduction reduces a creature's speed to 0, it falls prone and is restrained until its movement speed is greater than 0."
+					]
+				},
+				{
+					"name": "Natural Camouflage",
+					"entries": [
+						"The swiftclaw has advantage on Dexterity (Stealth) checks made to hide."
+					]
+				},
+				{
+					"name": "Pack Tactics",
+					"entries": [
+						"The swiftclaw has advantage on an attack roll against a creature if at least one of the swiftclaw's allies is within 5 feet of the creature and the ally isn't incapacitated."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The swiftclaw makes three attacks: two with its claws and one with its bite. Alternatively, the swiftclaw makes two bite attacks."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) piercing damage."
+					]
+				},
+				{
+					"name": "Claw",
+					"entries": [
+						"Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d4 + 5) slashing damage."
+					]
+				}
+			],
+			"bonus": [
+				{
+					"name": "Swiftness",
+					"entries": [
+						"The swiftclaw takes the Disengage action."
+					]
+				}
+			]
+		},
+		{
+			"name": "Tentwing",
+			"source": "SSSOP",
+			"page": 330,
+			"size": [
+				"M"
+			],
+			"type": "beast",
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 14,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 22,
+				"formula": "4d8 + 4"
+			},
+			"speed": {
+				"walk": 25,
+				"fly": 50,
+				"swim": 10
+			},
+			"str": 13,
+			"dex": 19,
+			"con": 12,
+			"int": 2,
+			"wis": 12,
+			"cha": 8,
+			"save": {
+				"dex": "+6"
+			},
+			"skill": {
+				"athletics": "+3",
+				"perception": "+3",
+				"stealth": "+6"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 13,
+			"languages": [],
+			"cr": "1",
+			"trait": [
+				{
+					"name": "Keen Sight",
+					"entries": [
+						"The tentwing has advantage on Wisdom (Perception) checks that rely on sight."
+					]
+				},
+				{
+					"name": "Swooping Strike",
+					"entries": [
+						"If the tentwing is flying and dives at least 20 feet straight toward a target and then hits it with a beak attack, the target takes an additional 4 (1d8) piercing damage, and the target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is knocked prone, the tentwing can make a beak attack against it as a bonus action."
+					]
+				},
+				{
+					"name": "Evasion",
+					"entries": [
+						"If the tentwing is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the tentwing instead takes no damage if it succeeds on the saving throw, and only half damage if it fails."
+					]
+				},
+				{
+					"name": "Flyby",
+					"entries": [
+						"The tentwing doesn't provoke opportunity attacks when it flies out of an enemy's reach."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The tentwing makes two beak attacks."
+					]
+				},
+				{
+					"name": "Beak",
+					"entries": [
+						"Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage."
+					]
+				}
+			],
+			"bonus": [
+				{
+					"name": "Quickflight",
+					"entries": [
+						"The tentwing moves up to half its fly speed."
+					]
+				}
+			]
+		},
+		{
+			"name": "Thunderfoot",
+			"source": "SSSOP",
+			"page": 332,
+			"size": [
+				"G"
+			],
+			"type": {
+				"type": "beast",
+				"tags": [
+					"defiant"
+				]
+			},
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 14,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 186,
+				"formula": "12d20 + 60"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 26,
+			"dex": 8,
+			"con": 20,
+			"int": 2,
+			"wis": 10,
+			"cha": 18,
+			"save": {
+				"str": "+13",
+				"con": "+10",
+				"wis": "+5"
+			},
+			"skill": {
+				"intimidation": "+10"
+			},
+			"resist": [
+				"thunder"
+			],
+			"conditionImmune": [
+				"deafened",
+				"frightened"
+			],
+			"senses": [
+				"tremorsense 60 ft."
+			],
+			"passive": 10,
+			"languages": [],
+			"cr": "13",
+			"trait": [
+				{
+					"name": "Thick Skin",
+					"entries": [
+						"Any bludgeoning, piercing, or slashing damage dealt to the thunderfoot is reduced by 5."
+					]
+				},
+				{
+					"name": "Towering Presence",
+					"entries": [
+						"A Large or smaller creature that starts its turn within 30 feet of the thunderfoot or comes within 30 feet of it for the first time on its turn must succeed on a DC 18 Wisdom saving throw or become frightened until the start of its next turn. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the thunderfoot's Towering Presence for the next 24 hours."
+					]
+				},
+				{
+					"name": "Quaking Movement",
+					"entries": [
+						"The thunderfoot's movement creates tremors through the ground. When the thunderfoot comes within 20 feet of a large or smaller creature or moves while within 20 feet it for the first time on a turn, the creature must succeed on a DC 18 Dexterity saving throw or fall prone."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Stomp",
+					"entries": [
+						"Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 52 (8d10 + 8) bludgeoning damage, and if the target is Large or smaller, it is knocked prone and grappled (escape DC 20). Until this grapple ends, the creature is restrained and takes 10 (3d6) bludgeoning damage at the start of each of its turns. While grappling a creature in this way, the thunderfoot's speed is 0, and it can't use its stomp attack against another creature."
+					]
+				},
+				{
+					"name": "Tail",
+					"entries": [
+						"Melee Weapon Attack: +13 to hit, reach 30 ft., three targets within 20 feet of each other. Hit: 32 (7d6 + 8) bludgeoning damage plus 10 (3d6) thunder damage and the target must succeed on a DC 18 Constitution saving throw or be knocked prone. A creature that fails its saving throw by 5 or more is stunned until the end of its next turn."
+					]
+				}
+			],
+			"bonus": [
+				{
+					"name": "Tremorstep",
+					"entries": [
+						"The thunderfoot can spend 5 feet of movement to perform a tremorstep. Large or smaller creatures within 60 feet of the thunderfoot are subjected to the effects of its Quaking Movement feature. Any Large or smaller creatures within 10 feet of the thunderfoot take 14 (4d6) bludgeoning damage on a failed save, or half as much on a success."
+					]
+				}
+			]
+		},
+		{
+			"name": "Trumpetcrest",
+			"source": "SSSOP",
+			"page": 332,
+			"size": [
+				"H"
+			],
+			"type": "beast",
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 14,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 68,
+				"formula": "8d12 + 16"
+			},
+			"speed": {
+				"walk": 35,
+				"swim": 10
+			},
+			"str": 21,
+			"dex": 10,
+			"con": 15,
+			"int": 2,
+			"wis": 12,
+			"cha": 8,
+			"save": {
+				"wis": "+3"
+			},
+			"skill": {
+				"athletics": "+7",
+				"perception": "+3",
+				"survival": "+5"
+			},
+			"conditionImmune": [
+				"deafened"
+			],
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 13,
+			"languages": [],
+			"cr": "4",
+			"trait": [
+				{
+					"name": "Pack Tactics",
+					"entries": [
+						"The trumpetcrest has advantage on an attack roll against a creature if at least one of the trumpetcrest's allies is within 5 feet of the creature and the ally isn't incapacitated."
+					]
+				},
+				{
+					"name": "Keen Hearing and Sight",
+					"entries": [
+						"The trumpetcrest has advantage on Wisdom (Perception) checks that rely on hearing or sight."
+					]
+				},
+				{
+					"name": "Trampling Charge",
+					"entries": [
+						"If the trumpetcrest moves at least 20 feet straight toward a creature and then hits it with a tail attack on the same turn, the target takes an additional 9 (2d8) bludgeoning damage and must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is prone, the trumpetcrest can make one stomp attack against it as a bonus action."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Tail",
+					"entries": [
+						"Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Stomp",
+					"entries": [
+						"Melee Weapon Attack: +7 to hit, reach 5 ft., one prone target. Hit: 15 (3d6 + 5) bludgeoning damage, and a Medium or smaller target is grappled (escape DC 14) until the trumpetcrest moves. Until this grapple ends, the creature is restrained and takes 3 (1d6) bludgeoning damage at the start of each of its turns. While grappling a creature in this way, the trumpetcrest's speed is 0, and it can't use its stomp attack against another creature."
+					]
+				},
+				{
+					"name": "Trumpet Call",
+					"entries": [
+						"Recharge 5-6. The trumpetcrest lets out a long, droning distress call that is audible out to 600 feet, provided it can breathe. If the trumpetcrest is accompanied by a herd and any herd members are in the call's audible range, 1d4 trumpetcrests arrive in 1d4 rounds."
+					]
+				}
+			]
+		},
+		{
+			"name": "Dire Sloth",
+			"source": "SSSOP",
+			"page": 333,
+			"size": [
+				"H"
+			],
+			"type": "beast",
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 16,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 103,
+				"formula": "9d12 + 45"
+			},
+			"speed": {
+				"walk": 15,
+				"climb": 15,
+				"swim": 30
+			},
+			"str": 21,
+			"dex": 7,
+			"con": 20,
+			"int": 5,
+			"wis": 15,
+			"cha": 6,
+			"skill": {
+				"perception": "+5"
+			},
+			"senses": [
+				"darkvision 120 ft."
+			],
+			"passive": 15,
+			"languages": [],
+			"cr": "5",
+			"trait": [
+				{
+					"name": "Desperate Speed",
+					"entries": [
+						"When the dire sloth takes damage, it can choose to double its walking and climbing speeds for 1 hour. At the end of the hour, the dire sloth takes 3 points of exhaustion."
+					]
+				},
+				{
+					"name": "Hold Breath",
+					"entries": [
+						"The dire sloth can hold its breath for 1 hour."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The dire sloth makes two claw attacks."
+					]
+				},
+				{
+					"name": "Claw",
+					"entries": [
+						"Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 15 (4d4 + 5) slashing damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Ghost Monkey",
+			"source": "SSSOP",
+			"page": 334,
+			"size": [
+				"S"
+			],
+			"type": "undead",
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 14
+				}
+			],
+			"hp": {
+				"average": 31,
+				"formula": "9d6"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": 40,
+				"canHover": true
+			},
+			"str": 5,
+			"dex": 19,
+			"con": 10,
+			"int": 5,
+			"wis": 12,
+			"cha": 16,
+			"resist": [
+				"acid",
+				"fire",
+				"lightning",
+				"thunder",
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks"
+				}
+			],
+			"immune": [
+				"cold",
+				"necrotic",
+				"poison"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained"
+			],
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 11,
+			"languages": [],
+			"cr": "3",
+			"trait": [
+				{
+					"name": "Ethereal Sight",
+					"entries": [
+						"The ghost monkey can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa."
+					]
+				},
+				{
+					"name": "Incorporeal Movement",
+					"entries": [
+						"The ghost monkey can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The ghost monkey uses Phantasmal Throw twice or makes two attacks: one with its claws and one with its bite."
+					]
+				},
+				{
+					"name": "Phantasmal Throw",
+					"entries": [
+						"Ranged Weapon Attack: +6 to hit, range 60 ft., one target. Hit: 7 (1d6 + 4) necrotic damage."
+					]
+				},
+				{
+					"name": "Claws",
+					"entries": [
+						"Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) necrotic damage."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) necrotic damage."
+					]
+				},
+				{
+					"name": "Maddening Howl",
+					"entries": [
+						"Recharge 5–6. The ghost monkey unleashes a curse-laced howl. Creatures that it can see within 60 feet that can hear the howl must make a DC 13 Wisdom saving throw. Creatures that fail their saving throw are subjected to the effects of the confusion spell. Affected creatures can repeat the saving throw at the end of each of their turns, ending the effect on a success."
+					]
+				}
+			]
+		},
+		{
+			"name": "Giant Armadillo",
+			"source": "SSSOP",
+			"page": 335,
+			"size": [
+				"H"
+			],
+			"type": "beast",
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 19,
+					"from": [
+						"natural armor"
+					]
+				},
+				{
+					"ac": 9,
+					"condition": "while prone"
+				}
+			],
+			"hp": {
+				"average": 115,
+				"formula": "11d12 + 44"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 24,
+			"dex": 8,
+			"con": 19,
+			"int": 4,
+			"wis": 9,
+			"cha": 7,
+			"skill": {
+				"athletics": "+9"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 9,
+			"languages": [],
+			"cr": "8",
+			"trait": [
+				{
+					"name": "Trampling Charge",
+					"entries": [
+						"If the giant armadillo moves at least 20 feet straight toward a creature and then hits it with a bash attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the giant armadillo can make one stomp attack against it as a bonus action."
+					]
+				},
+				{
+					"name": "Poorly Balanced",
+					"entries": [
+						"While prone, the armadillo is also restrained. As an action, the armadillo can make a DC 15 Strength (Athletics) check to stand up from prone."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The giant armadillo makes two attacks: one with its tail and one with its bash."
+					]
+				},
+				{
+					"name": "Spiked Tail",
+					"entries": [
+						"Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 17 (3d6 + 7) piercing damage."
+					]
+				},
+				{
+					"name": "Bash",
+					"entries": [
+						"Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 17 (3d6 + 7) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Stomp",
+					"entries": [
+						"Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 28 (6d6 + 7) bludgeoning damage."
 					]
 				}
 			]
