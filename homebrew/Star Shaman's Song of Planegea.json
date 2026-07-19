@@ -3203,11 +3203,1690 @@
 													"entry": "There's no hiding your nature as a godmarked, although some have tried. Whether intended as a blessing or a curse, or simply an unintended consequence of a meeting between god and mortal, a godmarked's appearance makes them an outsider, set apart from the rest of the clan. Some godmarked use their difference to their advantage, leaning into the attention their appearance calls to gain favor and power. Others attempt to conceal their origin as much as possible, proving their value lies outside whatever their forebears may have done to please or anger the gods."
 												}
 											]
+										},
+										{
+											"type": "table",
+											"caption": "Origin",
+											"colLabels": [
+												"d6",
+												"Origin"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Your ancestor was guilty of such an awful offense against a god that death wasn't enough. He and all his offspring were marked for his crime"
+												],
+												[
+													"2",
+													"Your mother's tribe crossed a winter god's domain without an offering, and the spiteful deity lashed out and struck your mother at random with a curse"
+												],
+												[
+													"3",
+													"It was so long ago that nobody in your family even remembers what god you crossed, or how… only that it was all a misunderstanding"
+												],
+												[
+													"4",
+													"Your grandparents were on the verge of death when they stumbled into a hallow for shelter, where the god preserved their lives and marked them as blessed"
+												],
+												[
+													"5",
+													"A distant ancestor was a legendary hunter, and provided such a great offering to your clan's god that she was marked as both a blessing and reward"
+												],
+												[
+													"6",
+													"Your parent was the chosen high shaman of a kind god, and you were raised in the divine hallow"
+												]
+											]
+										},
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Stories to tell.",
+													"entry": "It's said that a godmarked is welcome at every clanfire but their own. Though often rejected by those who knew the family before their stories intertwined with the gods, these changed ones obviously have stories to tell. Other clans are eager to hear them, to learn how to please or avoid angering the gods, and to understand a little more about the world around them. Many godmarked become chanters or traveling performers, their appearance sufficient to draw a crowd of eager listeners."
+												},
+												{
+													"type": "item",
+													"name": "Unfinished business.",
+													"entry": "It's said that those who are marked by the gods are forever bound to them in fate and fortune. Most godmarked know exactly which god is responsible for their appearance through family lore, and those who don't—or whose god is long since dead—are still entangled in the business of those whose power far exceeds their own."
+												},
+												{
+													"type": "item",
+													"name": "Godmarked names.",
+													"entry": "Most godmarked retain the names of their kind before they were changed by the divine encounter, so a godmark may have a name that sounds human, elvish, orcish, or like that of any other kinship."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Gnome",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"A little distraction here, a little mayhem there—tallfolk and bigteeth are so predictable; just break the pattern and you can get away with anything!"
+											],
+											"by": "Gnomish wisdom"
+										},
+										"There may be no bolder kinship in all of Planegea than gnomes. Though they stand at only half the height of most other mortals, gnomes make their mark on the world. They shatter the stillness of primordial dawn with magic, music, startling displays of brilliance—and absolute refusal to accept limitations placed upon them by anyone or anything.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Small and bright.",
+													"entry": "Gnomes are half the height of most other mortals, standing taller than only the quietkin. Their fingers are long and nimble, their eyes large and luminous, their hair drifts as if defying gravity around their pointed faces. Gnomes are attracted to vivid colors and instinctively mimic the ways in which brightly-colored birds and beasts use attention and distraction as a survival strategy."
+												},
+												{
+													"type": "item",
+													"name": "Startle and sting.",
+													"entry": "Gnomes understand how to rely on the element of surprise to survive, and typically have at least a few tricks up their sleeves to redirect the attention of predators and enemies. Gnomes use such techniques to make a fast getaway—or to distract their prey before an unforeseen attack. Use this table to inspire your gnome character's favored methods of controlling attention."
+												}
+											]
+										},
+										{
+											"type": "table",
+											"caption": "Cunning",
+											"colLabels": [
+												"d6",
+												"Cunning"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"You dye your skin and hair the bright, vivid colors of poisonous creatures, often switching colors for variety and surprise"
+												],
+												[
+													"2",
+													"Your outwardly drab clothing conceals a vivid interior, which you can expand at a moment's notice to twice your size in a startling display"
+												],
+												[
+													"3",
+													"You never travel without a satchel of sand or powder to blind and confuse predators or enemies"
+												],
+												[
+													"4",
+													"You carry an instrument which can make more noise than an angry mammoth—and that's not a metaphor, it's a fact"
+												],
+												[
+													"5",
+													"You always prefer to take the least predictable path, zigzagging and leaping as you walk to confuse anything that might be tracking you"
+												],
+												[
+													"6",
+													"You always carry a hidden weapon, which you keep secret even from those closest to you"
+												]
+											]
+										},
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Brilliant survivors.",
+													"entry": "Gnome-built camps can be found where other mortals find it impossible to live; on the underside of cliffs, dangling from enormous trees, nestled in the glow of an active volcano, and so on. Gnomes offer refuge to those who find themselves in the strangest places, and many tallfolk owe their lives to a sudden, surprising discovery of gnomish hospitality. Even when built in typical places and drab on the outside, the inside of their dwellings—too small for most tallfolk to enter—are covered in wonders of invention, art, and beauty... tiny oases of craftsmanship and light in a dark and violent world."
+												},
+												{
+													"type": "item",
+													"name": "Star whisperers.",
+													"entry": "Gnomes have a deep affinity for the stars—something about their small brilliance, their clever dances across the sky—there is a kinship. Gnomish elders are known for their remarkable understanding of the rumors of the heavens. And some even say that certain gnomes with a bent towards secrecy and evil have direct communication with the unfathomable, ancient minds that lurk and spiral in the darkness between the stars..."
+												},
+												{
+													"type": "item",
+													"name": "Gnomish names.",
+													"entry": "Gnomes reveal their own names when they come of age. Until then, among other gnomes, they are affectionately called by dismissive child-names, such as Stumblefoot, Rockhead, Slowpoke, and so on. Though they might seem insulting to others, these names provoke young gnomes to create a new name and take their place as adults as early as possible. No two names are the same, as the naming rite places great emphasis on surprise. Example names: Krazbaxnixelpiftery, X'xyx, Nine-Nines, Wauwauskadamar, Cup-of-the-Wind, [High-Pitched Squeal]."
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Startle Gnomes (Rock Gnomes)",
+											"entries": [
+												"These gnomes are those commonly seen in the Great Valley, living in bone-and-gnomequilt huts encircled by crafted goods for trade, fashioned from the cast-off waste of other clans.",
+												"{@b Insightful Mind (Artificer's Lore).} Whenever you make an Intelligence check related to the lore of magic items, alchemical objects, or stars, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.",
+												"{@b Startle-Crafter.} You have proficiency with artisan's tools. Using these tools, you can spend 1 hour and 10 ps worth of materials to craft a Tiny magical device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.",
+												"When you create a device, choose one of the following options:",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Kinetic Toy.",
+															"entry": "This toy is a moving animal, monster, or person, such as a frog, mouse, bird, dragon, or hunter. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents."
+														},
+														{
+															"type": "item",
+															"name": "Fire Starter.",
+															"entry": "The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action."
+														},
+														{
+															"type": "item",
+															"name": "Song Jar.",
+															"entry": "When opened, this jar plays a single song at a moderate volume. The jar stops playing when it reaches the song's end or when it is closed."
+														}
+													]
+												},
+												{
+													"type": "quote",
+													"entries": [
+														"Unfortunately the gnomish proclivity for the ineffable is not limited to my lighthearted kindred. There are many gnomes who have forged dark pacts with the Crawling Awful which lies in the deep places of the world."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Ingenious Gnomes",
+											"entries": [
+												"There are countless ways to survive in Planegea, and many gnomes rely on methods other than surprise and distraction to stay alive. These are represented by other types of gnomes in 5th Edition, and their many brilliant methods of survival offer great advantages to their companions."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Half-Elf",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"I have known the meaning of the clanfire on a winter's night and have walked the dreamscapes of my ancestors. I have seen and understood both death and immortality, magic and matter. I am not half-anything. I am both, and wholly myself."
+											],
+											"by": "Meku-Ukem the Omenbringer"
+										},
+										"Sometimes called Twilight Children, these descendants of humans and elvish parents share traits from both bloodlines. As such, they are gifted with many boons from both kinships, a people who learn to navigate the complexity of belonging to contrasting—and sometimes conflicting—ancestries and expectations.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Patterns of lineage.",
+													"entry": "When combined, elvish and human features swirl together in surprising ways—a half elf is often translucently blue in some parts of their bodies, and solid in others, and may sometimes have one pointed ear and one rounded, or differently-colored eyes. These combinations typically reveal themselves in elegant natural patterns, like the stripes or spots of a hunting cat or swirls and loops that remind one of clouds, water, or leaves."
+												},
+												{
+													"type": "item",
+													"name": "Children of two worlds.",
+													"entry": "Half-elves can be found anywhere humans and elves dwell together, both in Nod and in the Great Valley—or they may, for any number of reasons, be raised by only one half of their family. Whatever your upbringing, use the table below to inspire how it shaped your half-elf character."
+												}
+											]
+										},
+										{
+											"type": "table",
+											"caption": "Upbringing",
+											"colLabels": [
+												"d6",
+												"Upbringing"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"I never felt quite elvish enough or human enough, and always sought to prove myself or craft my own identity outside of my family"
+												],
+												[
+													"2",
+													"My human parent raised me, teaching me the ways of the clanfire and the secrets of taming beasts, grounding me firmly in the practicalities of Planegea"
+												],
+												[
+													"3",
+													"My elvish parent raised me in the World of Dreams, and it wasn't until recently that I decided to venture into the Waking World and see what it had to offer"
+												],
+												[
+													"4",
+													"I was born to half-elven parents in a community of half-elves. I never thought of myself as half-anything, and still don't"
+												],
+												[
+													"5",
+													"My elvish parent was from the World of Nightmares, and I have been told since I was young that my destiny is to one day find them there and bring them back"
+												],
+												[
+													"6",
+													"As the child of a shaman and a lord of Nod, I traveled fluidly between the two worlds, learning all that each had to offer as the beloved heir of magic and power"
+												]
+											]
+										},
+										"Gifts of perspective. Navigating the inheritance of two worlds and diverse ways of life is a gift in the ever-shifting horizons of Planegea. Half-elves can chart their own course between the dreamlike ways of their immortal elvish ancestors or the fire-hardened immediacy of their human parent, often taking the best aspects of both lineages to survive as they see fit. Whether fully immersed in the societies of their parents or striking out on their own, half-elves know that belonging has more meanings than some might imagine and there are as many paths through the world as feet to find them.",
+										{
+											"type": "entries",
+											"name": "Blood Dancers",
+											"entries": [
+												"It is said that some half-elves have a unique ability to express the visage of either ancestry, appearing as solely human or solely elvish at will. For some, this is a form of self-expression, for others, a means of navigating between different societies, whether for noble or selfish ends.",
+												"To play a blood dancer half-elf, replace the Skill Versatility feature with Blood Dancer.",
+												"{@b Blood Dancer.} You can, as a bonus action, instantly change your outward appearance between your elf aspect, your human aspect, or your half-elf aspect. You are recognizably yourself in each aspect, retaining similar features such as eye color, face shape, and so forth. However, while in your elvish or human aspect, it is impossible to discern from your physical appearance that you are of two worlds.",
+												{
+													"type": "quote",
+													"entries": [
+														"I once heard of a blood dancer hunter who was the mistress of two worlds. She played her two lineages perfectly, keeping them utterly separate. She trained herself to forget in each form what she had done in the other. Her troubles began when a murder she'd committed as an elf became the very mystery she was trying to solve as a human."
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Orc (Half-Orc)",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"Might, stamina, courage, vision... what more could you ask for? Is there any other people who can compare to the majesty of the orcs?"
+											],
+											"by": "Lift, spellskin of Seerfall"
+										},
+										"Orcs are among the mightiest, most feared, and most honored kinships in Planegea, hailed as conquerors and warlords. Their people often lead clans and win great glory as hunters. Many say that orcs are the rightful rulers of the land, although others resent it and will do all they can to oppose orcish might for as long as they can.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Majestic might.",
+													"entry": "An orc is awe-inspiring—taller than a human, with green skin that blends with grass and trees, mighty tusks that can gore with no need for a knife. They are considered a beautiful and blessed people, and much admired throughout the world."
+												},
+												{
+													"type": "item",
+													"name": "Proud hunters.",
+													"entry": "The orcs live as nobility in Planegea. Their numbers are not great—orcish life is hard, and many do not survive the brutal upbringing of a clan hunter. But those who reach adulthood are hunt-scarred warrior-poets who have been groomed to lead."
+												},
+												{
+													"type": "item",
+													"name": "Spiritual unrest.",
+													"entry": "The orcs have long been a reverent people, with deep roots in the worship of the gods of the land. Yet something has changed in the last few generations. Their power has grown, and some have started to doubt whether their fate must always be to bend the knee to the gods. They are strong, and some believe that the way of survival is one led not by spirits in their hallows, but by the hand of the hunters who risk their lives at spearpoint. This tension with the divine can play out in many ways. Use the table below to inspire how it affects your orcish character."
+												}
+											]
+										},
+										{
+											"type": "table",
+											"caption": "Unrest",
+											"colLabels": [
+												"d6",
+												"Unrest"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"You see worship as suffocating, and desire to have as little to do with the gods as you can"
+												],
+												[
+													"2",
+													"You respect the old traditions, and believe that the gods have their uses, but see them as a means to an end—and the end is orcish power in Planegea"
+												],
+												[
+													"3",
+													"You believe balance is necessary, and think that the interests of the gods and the orcs can co-exist peacefully… if only your clan could see that too"
+												],
+												[
+													"4",
+													"You fear the wrath of the gods, and have chosen to serve them, though some of your brethren brand you a coward for your worship"
+												],
+												[
+													"5",
+													"You are on the hunt for a god worthy of worship—one who awes you more than the natural might and glory of the orcs … and so far, you haven't found one"
+												],
+												[
+													"6",
+													"As far as you can see, the only good god is a dead god … it leaves more unclaimed land for the orcs to claim"
+												]
+											]
+										},
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Enemy-makers.",
+													"entry": "The powerful make powerful enemies. Through pride and conquest, the orcs—though feared and admired by most—have more than their share of opposition. There are gods who conspire for their downfall, clans dedicated to their destruction, even some giant empires who think the green mortals would do better if they learned a lesson in humility. Orcish elders laugh at warnings of such dangers, however, daring all to come from any direction."
+												},
+												{
+													"type": "item",
+													"name": "Orcish names.",
+													"entry": "Orc names tend to be verbs, since their traditions place emphasize on action over talk. Orcs may or may not translate their names, and sometimes other mortals don't realize that a guttural-sounding orcish name may have an uplifting meaning. Typical names (in Common): Smash, Seek, Guess, Journey, Comfort, Avenge, Focus, Remember."
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Planegean Orcs",
+											"entries": [
+												"Mechanically, full-blooded orcs in Planegea use the racial features of the Half-Orc from 5th Edition. But they are the original kinship: a proud and noble people who stand shoulder to shoulder with their human and elven peers. (Well… more shoulder-to-head. But equal nonetheless.)",
+												"There does exist in Planegea a people known as The Doomed, also called monsterblood orcs. These clans once lived alongside other kinships, but in their pride and thirst for power, they devoured beings they should not have consumed. In doing so, they gained great physical power, but had their minds darkened with murderous rage. They are part-orc, part-monster, and though they still retain vestiges of their former nobility, the pounding of war-drums never ceases beating in their ears. These monsterblood orcs use the racial features of 5th Edition orcs, both as monsters and as a playable kinship."
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Planegean Kinships",
+							"entries": [
+								"These kinships are new to 5th Edition, native to the world of Planegea. Their descendants may live in other worlds, partaking of strange adventures in modern fantasy, but the dreas, half-ooze, saurian, and starling are beings born of a primordial and metamorphic world. Their natures reflect the wild, ever-changing nature of prehistoric fantasy.",
+								{
+									"type": "quote",
+									"entries": [
+										"That's enough of the kinships you know and their differences between your land and mine. Let me tell you of some folk with whom I'll wager you're unfamiliar. Let's see if I can't surprise you, at least a little, hmm?"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Dreas",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"Sometimes the rustling you hear in high branches is just the wind, and nothing more. But most of the time it's us—and we're laughing at you."
+											],
+											"by": "Dreas joke"
+										},
+										"As the Day-Star rises over the forest and the dew sparkles on the leaves, some trees sense the clans of mortals and wonder what it would be like to walk among them. The most curious and free-spirited of these, touched by magic and enlivened by the primordial nature of the world, choose to leave their parent forests and take on the shape of a humanoid. This departure, once made, is irreversible, and the resulting creature—called a dreas—lives the rest of its days as a tree who walks among people.",
+										{
+											"type": "inset",
+											"name": "Exotic & Monstrous Kinships",
+											"entries": [
+												"Time does not allow us to talk of all the wondrous kinships of Planegea. We cannot speak of the birdfolk, catfolk, lizardfolk, fishfolk, turtlefolk, the half-giants gentle or warlike, or the reincarnated spirits of the dead that dwell in stone-and-wood bodies. We will have to leave aside the elemental wastewalkers, the blessed children of greater gods, the half-beasts, the goblinfolk in all their many shapes, and the scaled ones who revere or defy the dragons of Blood Mountain. If only the clanfire could burn all night, we could speak of every bloodline under the stars. But since our time is short, remember that every kinship in 5th Edition has a place in Planegea, if you only know where to look."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Tree People",
+											"entries": [
+												"Although dreas take on the form of people, their origins as trees are unmistakable, with green or barklike skin, leafy, mossy, or flowering hair or beards, and a tendency to stand in the sun and rain for hours on end, faces upturned towards the sky. Some dreas are more humanoid than others—there are those that have branching wooden antlers or more (or less) than the usual number of fingers, while some have a surface of such finely polished wood that it appears almost indistinguishable from skin. Dreas are capable of growing their own clothing, although some prefer to blend more seamlessly among mortals by donning the skins and woven cloth of the clans."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Eager Outsiders",
+											"entries": [
+												"Dreas are inherently curious and find mortal life fascinating. Having chosen to leave behind their rooted nature, they often do everything possible to live alongside their chosen people, trying to fit in and be of use and value. However, their origin usually leads to misunderstandings and trouble of one kind or another, so it's not uncommon for a dreas to find themselves alone despite their best efforts. These outcast dreas have been known to band together into small clans of their own, which tend towards seclusion, secrecy, and even outright hostility towards the mortals who rejected them."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Secret-Keepers of the Forest",
+											"entries": [
+												"The dreas remember their time as trees with perfect clarity—the cycle of years, the feeling of the wind and living things in their branches, the taste of water in dark soil rising through their roots. Although they have chosen to live among mortals, most dreas keep close to the wooded places of the world, preferring to keep in communion with trees and all green things. They often act as ambassadors for the forests, looking to the interests of both the trees and their adopted clans."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Adventure Seekers",
+											"entries": [
+												"Although many dreas choose to take on mortal form because of their interest in a particular person or clan, some leave the forest for the more abstract aspiration of adventure, wanderlust, or a broad curiosity of things hidden where roots cannot reach. Such dreas are often eager to keep on the move, seeing stability of any kind as a return to rootedness. They prefer to risk their lives in search of experiences at the extreme edges of mortality, often accepting great danger in pursuit of adventure and the deepest possible understanding of the world."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Botanical Origin",
+											"entries": [
+												"Dreas may take the form of humanoids, but they are obviously of a different nature. Use these tables to inspire how your dreas character was shaped by its roots.",
+												{
+													"type": "table",
+													"caption": "Your Original Tree Form Was…",
+													"colLabels": [
+														"d12",
+														"Tree Form"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"A pale birch"
+														],
+														[
+															"2",
+															"A tall poplar"
+														],
+														[
+															"3",
+															"A spreading elm"
+														],
+														[
+															"4",
+															"A sturdy chestnut"
+														],
+														[
+															"5",
+															"A scrappy pine"
+														],
+														[
+															"6",
+															"An elegant spruce"
+														],
+														[
+															"7",
+															"A luxurious willow"
+														],
+														[
+															"8",
+															"A wild palm"
+														],
+														[
+															"9",
+															"A friendly maple"
+														],
+														[
+															"10",
+															"A regal cedar"
+														],
+														[
+															"11",
+															"A burly oak"
+														],
+														[
+															"12",
+															"A graceful linden"
+														]
+													]
+												},
+												{
+													"type": "table",
+													"caption": "You Were Enticed to Become a Dreas By…",
+													"colLabels": [
+														"d6",
+														"Enticement"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"A gatherer from a local tribe for whom you developed feelings that you had no name for"
+														],
+														[
+															"2",
+															"A passing druid who awakened you from deep tree-dreams and then never returned"
+														],
+														[
+															"3",
+															"A group of children from a nearby clan who played in your branches"
+														],
+														[
+															"4",
+															"A hunter who perished at your trunk with a secret that had to be told"
+														],
+														[
+															"5",
+															"A traveling troupe of chanters who sung songs of wandering glory for a summer beneath your boughs"
+														],
+														[
+															"6",
+															"A mortal who burned down half your forest and then walked away, who needs to pay for what they did"
+														]
+													]
+												},
+												{
+													"type": "table",
+													"caption": "One Mortal Thing You Can't Figure Out Is…",
+													"colLabels": [
+														"d6",
+														"Mystery"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"Fire. You understand you won't burn down now, but it still makes you nervous."
+														],
+														[
+															"2",
+															"Clothing. No matter how you wear it, someone always insists that you're doing it wrong."
+														],
+														[
+															"3",
+															"Greetings. For some reason mortals are obsessed with ritual sayings when they come and go."
+														],
+														[
+															"4",
+															"Sleep. It's strange and unsettling to slumber alone. Sleep should be shared by as many as possible."
+														],
+														[
+															"5",
+															"Shelter. The elements are made to be experienced. There's nothing less natural than hiding from rain."
+														],
+														[
+															"6",
+															"Birth. The way mortals make more mortals is utterly alien and profoundly disgusting."
+														]
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Dreas Names",
+											"entries": [
+												"Dreas have long, unpronounceable tree-names that can only be spoken in Sylvan, which sound like rustling leaves and creaking branches. They often adopt mortal names similar to those of the clan they join, preferring to blend in as much as possible with their chosen people."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Dreas Traits",
+											"entries": [
+												"Your dreas character has a number of qualities in common with other dreas.",
+												"{@b Ability Score Increase.} Increase on ability score of your choice by 2 points and a different ability score of your choice by 1.",
+												"{@b Age.} Dreas live about a century, but they only show their true age on the spring and fall equinoxes. In the fall and winter, they appear to age rapidly. By midwinter, they look 10 years older than their actual age. They then begin to grow younger through the warmer months until midsummer, when they look 10 years younger than their actual age. Then the cycle repeats. In regions with milder or more extreme seasons, this effect is similarly diminished or stronger.",
+												"{@b Size.} Dreas vary greatly in height and build depending on the tree they sprung from, with slender aspen-dreas and massive oak-dreas and everything in between. Your size is Medium.",
+												"{@b Speed.} Your base walking speed is 30 feet.",
+												"{@b Darkvision.} At ease in the gloom of the forest at night, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
+												"{@b Botanical Form.} Your creature type is plant.",
+												"{@b Photosynthesis.} You require different nourishment than other kinships. Instead of 1 pound of food each day, you require exposure to 1 hour of sunlight, a sunglobe, or an equivalent light source. You cannot eat solid food, and attempting to do so gives you the poisoned condition for 1d4 hours. You require the same amount of water as most humanoid kinships.",
+												"{@b From the Forest.} You know the {@spell druidcraft} cantrip. When you reach 3rd level, you can cast the {@spell speak with plants} spell and the {@spell charm person} spell once per day; you must finish a long rest in order to cast these spells again using this trait. When you cast {@spell charm person} with this feature, sentient plants are also a valid target for the spell. Charisma is your spellcasting ability for these spells.",
+												"{@b Tree Step.} You gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 500 feet. Both trees must be living and at least as large as you. You must use 5 feet of movement to enter a tree. You instantly know the location of all other trees of the same kind within 500 feet and, as part of the movement used to enter the tree, can either pass into one of those trees or step out of the tree you're in. You appear in a spot of your choice within 5 feet of the destination tree, using another 5 feet of movement. If you have no movement left, you appear within 5 feet of the tree you entered. You can use this trait once and regain the ability to do so when you finish a long rest. You must end your turn outside a tree.",
+												{
+													"type": "entries",
+													"name": "Variant Dreas Features",
+													"entries": [
+														"This chapter offers several features that are not included in the base kinship, but which some players and DMs can choose to include if they fit their table.",
+														"{@b Ability Score Increase.} Your Wisdom score increases by 2, and your Charisma score increases by 1.",
+														"{@b Alignment.} Dreas can be any alignment, but their preference for the unruly side of nature inclines them towards chaotic choices.",
+														"{@b Languages.} You speak Common and Sylvan."
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Half-Ooze",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"The palms and tall grasses shook, and Fulga raised her spear in alarm, ready to strike at whatever beast might come through—until she saw her companion, who had been missing for two days. She smiled in great relief… but then her smile faded. He was strange-looking—pale, with a glistening greenish hue. His eyes did not look at her with recognition, only hunger. And then, with an awful slurping sound, he stretched out his arms to an unnatural length, grasped a branch above, and was gone."
+											],
+											"by": "The Dark Tale of Fulga's Abyssal Hunt"
+										},
+										"Sometimes, in dark caverns or cruel forests, a hapless wanderer meets an untimely end at the creeping pseudopods of an ooze sire. Usually catching their prey asleep, the sire slides into a mortal's ears, nose, and mouth—and once it's inside, it's too late. What awakes from that slumber is a new creature—a half-ooze, half-humanoid being aware of only three things: its strangely malleable body, the dim memories of its past life, and an overwhelming hunger.",
+										{
+											"type": "entries",
+											"name": "Is That You?",
+											"entries": [
+												"Half-oozes wear the form of the creature that died when the ooze sire gave them life, although they are a little more pale, and clammier to the touch. Their skin tends to have an unusual tint, depending on the type of ooze that sired them. Half-oozes usually exist in dark and dangerous places, and are typically dressed in ragged wraps that let them stretch their limbs when occasion calls for it."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "So Hungry",
+											"entries": [
+												"When a mortal meets its end at the touch of an ooze sire, that creature ceases to exist. Half-oozes can, with great effort, recall some dim shreds of the memory of the creature that died to bring them into being (called the ooze dam, regardless of gender). But although they wear the face and form of their dam, they are an entirely new creature in their thinking. Half-oozes usually come to consciousness in dark places, alone, without any knowledge of how they got there—only knowing the need to eat.",
+												"More often than not, the dark and lonely origins of half-oozes, and their voracious appetites, leads them to a life of violence and villainy. They tend to fall in with the desperate, doing whatever they need to do to stay alive."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Born in Darkness",
+											"entries": [
+												"Nobody knows how the first ooze sires came to be. Most think they crept from the Venom Abyss, while others believe them to be the trick of some dark god. Still others say that something leaked through from a more distant and unsettling place. Still, regardless of their origin, ooze sires and their offspring are a fact of life grudgingly accepted by those at the edges of dark and eerie locations."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Appetite for Adventure",
+											"entries": [
+												"Half-oozes all come into existence with ravenous hunger, and that appetite continues to drive them throughout their life. Most half-oozes will give the same answer to anyone who asks them why they did something—they were hungry. The rare half-ooze who can find a constant food supply might seek to improve itself for its short life by learning or building something, or by seeking to make the world a better place. There have even been half-oozes who sought out the families of their dams and tried to make restitution for whatever was broken in their last life… as long as it doesn't get in the way of their next meal."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "A Bad Beginning",
+											"entries": [
+												"Your half-ooze adventurer has arisen from unpleasant circumstances. Use the tables below to find out a few details, or sort it out yourself.",
+												{
+													"type": "table",
+													"caption": "Dam",
+													"colLabels": [
+														"d6",
+														"The Creature Who Your Sire Infested Was…"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"A lost gatherer who stumbled into the wrong cave"
+														],
+														[
+															"2",
+															"A mighty hunter on a critically important journey"
+														],
+														[
+															"3",
+															"A wanderer trying to find unknown places"
+														],
+														[
+															"4",
+															"An outcast hiding from execution"
+														],
+														[
+															"5",
+															"A spellskin trying to learn more about ooze sires"
+														],
+														[
+															"6",
+															"You don't know"
+														]
+													]
+												},
+												{
+													"type": "table",
+													"caption": "Awakening",
+													"colLabels": [
+														"d6",
+														"You Woke Up In…"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"A deep, dark cave, far below the sunlit surface"
+														],
+														[
+															"2",
+															"A forest considered to be cursed by those who live at its edge"
+														],
+														[
+															"3",
+															"The prison-cave of a powerful warlord"
+														],
+														[
+															"4",
+															"The sanctum of a spellskin"
+														],
+														[
+															"5",
+															"A wrecked catamaran at the edge of a stormy coastline"
+														],
+														[
+															"6",
+															"A battlefield strewn with bodies"
+														]
+													]
+												},
+												{
+													"type": "table",
+													"caption": "Survival",
+													"colLabels": [
+														"d6",
+														"You've Managed to Make Your Way So Far Because…"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"When you stumbled into the sunlight, a kind gatherer had pity on you and took you in"
+														],
+														[
+															"2",
+															"You got in trouble with a nearby clan immediately, but they established you in your background as a path to redemption"
+														],
+														[
+															"3",
+															"You watched nearby mortals from hiding for some time before sneaking in amongst them"
+														],
+														[
+															"4",
+															"Hunters found you in the darkness and brought you to the nearest clan, setting you on your current path"
+														],
+														[
+															"5",
+															"You were mistaken for your dam and you've never corrected the error"
+														],
+														[
+															"6",
+															"Nobody's ever given you anything—everything you have, you fought for, tooth and nail"
+														]
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Half-Ooze Names",
+											"entries": [
+												"Half-oozes usually call themselves by the first word or phrase that pops into their mind. This is often one of the last thoughts of their dam as they drifted off to sleep. Since dams usually meet their end in dark and lonely places, this lends a macabre air to the names of most half-oozes. Common Names: Lost, Hopeless, Dark, Cold, Miss-You, Desperate, Soon, What-Was-That, Damp, Alone, So-Tired, Not-Safe."
+											]
+										},
+										{
+											"type": "inset",
+											"name": "The Ooze Sire Life Cycle",
+											"entries": [
+												"The dreadful creatures known as ooze sires wait in the dark for unsuspecting humanoid victims for one reason: reproduction. As an asexual species, they infest a humanoid host—posthumously called an ooze dam—permanently fusing with it and using it to consume as much nourishment as possible. The fused creature—called a half-ooze—tends to live until half of the ooze dam's natural lifespan. When the half-ooze dies, the final stage of the ooze sire's life cycle begins, and 1d4 new ooze sires depart the corpse, to seek new dams, perpetuating the species' miserable existence."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Half-Ooze Traits",
+											"entries": [
+												"Your half-ooze character has a number of qualities in common with other half-oozes.",
+												"{@b Ability Score Increase.} Increase an ability score of your choice by 2 points and a different ability score of your choice by 1.",
+												"{@b Age.} Half-oozes don't last long, since their bodies begin on borrowed time. They usually live out about half their dam's original lifespan, if the dam was young when the half-ooze was sired. A half-ooze with an elvish dam might live for hundreds of years, where one with an orcish dam might die of old age after only a couple of decades.",
+												"{@b Size.} Half-oozes typically range in height from under 4 feet to over 6 feet tall, depending on their dam. Your size is Small or Medium, depending on your dam.",
+												"{@b Speed.} Your base walking speed is 30 feet.",
+												"{@b Hunger of the Ooze.} You must eat every day, or suffer 1 level of exhaustion. When eating, you require twice as much food as other Medium humanoids. You do not require your food to be cooked in order to gain nourishment from it.",
+												{
+													"type": "quote",
+													"entries": [
+														"Not in every case are half-oozes tragic. There was a certain traitor, a villain who rotted the world from the inside out. But while in hiding, he fell afoul of an ooze sire. The resulting creature was brought up well, and became the shaman of a noble god. The line between salvation and damnation must be thinner than we sometimes like to think."
+													]
+												},
+												"{@b Pseudopodic Limbs.} As an action, you may extend either your arms or legs to twice their normal length. When doing so, your AC decreases by 1. If you extend your legs, your walking speed increases by 10 feet. If you extend your arms, any melee weapon you're wielding is considered to have the Reach property. If a weapon already has the Reach property, it does not gain additional range, as it's too awkward to handle at that length. You may end the effect as a bonus action. Your arms and legs cannot both be extended at the same time.",
+												"{@b Rubbery.} Your ooze origin makes you able to fit through small spaces. Your body can fit through openings normally suitable only for Small or Tiny creatures. Depending on the size of the opening, your armor and equipment may not fit through.",
+												"{@b Echoes of the Dam.} You have the faintest memories from the life of your dam. Choose one: Gain one skill proficiency, one weapon proficiency, or two tool proficiencies.",
+												"{@b Subtype.} Half-oozes are sired by one of three types of ooze: Acidic, Magical, or Sticky. Choose one.",
+												{
+													"type": "entries",
+													"name": "Variant Half-Ooze Features",
+													"entries": [
+														"{@b Ability Score Increase.} Your Constitution and Dexterity scores increase by 1. Each subtype increases one of their ability scores by 1 as shown:",
+														{
+															"type": "list",
+															"items": [
+																"Acidic: Constitution",
+																"Sticky: Dexterity",
+																"Magical: Intelligence"
+															]
+														},
+														"{@b Alignment.} Half-oozes are, more than anything, hungry. This constant need to consume renders them either neutral, or somewhat evil—although if they can get the food they need through good and lawful means, they may do so.",
+														"{@b Languages.} You can speak Common, and can understand one other language of your choice, but you can't speak it."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Acidic",
+													"entries": [
+														"The ooze that sired you was of a peculiarly acidic variety. The skin of acidic half-oozes tends to have a pale greenish hue and a faintly sharp smell hangs around them.",
+														"{@b Corrosive Rebuke.} When you take damage from a melee attack made within 5 feet of you, you can use your reaction to deal acid damage to your attacker. The acid damage is equal to your character level. Once you use this trait, you can't use it again until you finish a short or long rest.",
+														"{@b Omnivore.} You have resistance to acid damage and are immune to being poisoned by food or drink."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Magical",
+													"entries": [
+														"The ooze that sired you was of arcane origin, perhaps concocted by some strange spellskin for unknown experiments. The skin of magical half-oozes tends to have a purplish hue, and they have a vaguely sweet smell.",
+														"{@b Cantrip.} You know one cantrip of your choice from the spellskin spell list. Intelligence is your spellcasting ability for it.",
+														"{@b Magic Memory.} You gain proficiency in the Arcana skill."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Sticky",
+													"entries": [
+														"The ooze that sired you was of a creeping, sticking nature. The skin of sticky half-oozes tends to have a yellowish hue, and they smell faintly of rot.",
+														"{@b Ooze Climb.} Your gummy fingers help you cling to the walls. Climbing no longer costs you extra movement.",
+														"{@b Sticky Fingers.} You gain proficiency in the Sleight of Hand skill."
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Saurian",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"We are not like the milk-slurpers who scurry frantically from womb to grave. The egg and the cairn are one. We are firm in life and firm in death, with nothing to fear as we pass between the two."
+											],
+											"by": "Coldstripe, druid of Shatterbone"
+										},
+										"The soft-skinned kinships of Planegea are but a single note in the song of life that echoes outward from Blood Mountain. And—as some would measure it—the soft-skinned kinships are recent, weak, foolish, and raw. The scaled saurians look with skepticism at the hairy folk. Saurians have been here longer, survived more, remember the ways of their ancestors, and measure out time by epochs, not seasons. It is this long memory and measured way that defines the saurians, who take their time to move through the years. Some call them calculating, others aloof—but they remember what came before, and some even know what will come after.",
+										{
+											"type": "entries",
+											"name": "Vibrant Patterns",
+											"entries": [
+												"There are four distinct bloodlines of saurian: the crested leatherwings, the menacing sharpfangs, the lumbering hammertails, and the graceful webfeet. Each has a distinct culture, and they avoid mixing as much as possible. But all are scaled and feathered, with colorful patterns spreading across their bodies in unpredictable ways, making them easily identifiable. Saurian shamans believe that much can be known about a hatchling by its patterns, and elders say they can read a whole life, from egg to grave, by the ripples and swirls in a saurian's scales.",
+												"The faces of saurians are not built for expression like other humanoid kinships. Rather, saurians express their emotions in the colors of their scales, which shift tint and hue based on the mood of the creature. The colors of each saurian are unique to its own bloodline, and one must learn which colors correspond to which mood to know the feelings of another. A strong emotional reaction in a clan of saurians takes on the appearance of a vivid rainbow scattering through the crowd."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Patient Hunters, Protective Parents",
+											"entries": [
+												"Waiting is a natural state for saurians. They do not move unless it is necessary, but when they do, they strike like lightning. Saurian hunters perfect the art of the ambush, remaining immobile for days only to drop on their prey for the killing strike. Within their tents, saurians are devoted to family. Hatchlings are not raised by individual parents, but laid in a communal nest and then raised by the entire clan. A young saurian has a dozen parents, and learns from their youth to listen to the counsel of the elders. Saurians are affectionate with their own kind, and will fight to the death to protect their young from any threat, no matter how overwhelming the odds.",
+												"For saurians, the past is present. They honor their ancestors and bury them within their encampments, taking council with them by ritually summoning their spirits. Saurians carry within their blood an ancestral memory, allowing those of strong spirit among them to call to mind memories of the dead to give them guidance. The saurian word for \"dead\" means \"frozen,\" and they speak of a coming Great Thaw when all their ancestors will rise to aid their descendants at the moment of greatest need. Because of this belief, saurians are comfortable with death to a degree that is unsettlingly morbid to other kinships."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Fearless Wanderers",
+											"entries": [
+												"Many saurians leave their clans behind to go wandering in search of food, companionship, stories, glory, and more. Elders encourage it, so that the knowledge they gain can be passed on to the clan and their descendants after they are dead. The landscapes of Planegea are littered with subtly marked cairns and secret graves of saurians who, although dead, will gladly share their knowledge with those who know how to ask."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Touched by Death",
+											"entries": [
+												"Every saurian has heard the whispers of the dead in their camps or echoing from lonely graves in the wild. Use the table below to inspire your character's interactions with the dead.",
+												{
+													"type": "table",
+													"caption": "Interaction With the Dead",
+													"colLabels": [
+														"d8",
+														"Interaction With the Dead"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"You were always afraid of the dead, even as a hatchling, and your clan considered your fear strange and unnatural"
+														],
+														[
+															"2",
+															"You once stumbled across a lone grave and tried to pay your respects, only to be viciously attacked by its mad occupant"
+														],
+														[
+															"3",
+															"You attended all the rituals and ceremonies of the clan from your youth and find death tedious, far preferring the variety and excitement of the living"
+														],
+														[
+															"4",
+															"Death seems peaceful and inviting to you; you wonder if perhaps you adventure in part because you're so looking forward to the long rest afterward"
+														],
+														[
+															"5",
+															"You used to carry offerings to all the cairns within a day's walk, and the tales the dead told you of what lay beyond the horizon inspired your wanderlust"
+														],
+														[
+															"6",
+															"A dead ancestor entrusted you with a great and terrible secret, giving dire warnings that your clan must never learn of it"
+														],
+														[
+															"7",
+															"A close friend perished in a hunt, and you would often visit their cairn alone for long conversations"
+														],
+														[
+															"8",
+															"You were raised in a clan that often took counsel with the ancestors, and consider the dead your trusted advisors and friends"
+														]
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Saurian Names",
+											"entries": [
+												"Since saurians hatch from egg clutches and have no individual parents, their names are usually descriptive of physical appearance. These can change over time as appearance changes. For example, a saurian might be called Brightstripe as a hatchling but come to be known as One-Eye after a predator attack. Common names: Darkscatter, Leopardspot, Stripetail, Gaptooth, Shortwing, Highjump, Rippleshine, Thickskull, Greenclaw, Longlegs, Fadescale."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Saurian Traits",
+											"entries": [
+												"Your saurian character shares a number of qualities in common with others of their kind.",
+												"{@b Ability Score Increase.} Increase two different ability scores by 1 point each or increase one ability score by 2 points.",
+												"{@b Age.} Saurians reach adulthood at the age of 7 and have exceptionally long lives, surviving as long as gnomes if not killed by predators or disease.",
+												"{@b Size.} Most saurians tend to stand somewhat taller than humans, usually between 6 and 7 feet tall. Your size is Medium.",
+												"{@b Speed.} Your base walking speed is 30 feet.",
+												"{@b Ancestral Memory.} You are connected to the dead, recognizing their guidance and warnings, and know the {@spell sense whispers} cantrip. When you reach 3rd level, you can cast the {@spell bless} spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the {@spell augury} spell once with this trait and regain the ability to do so when you finish a long rest.",
+												"{@b Subtype.} Saurians belong to one of four lines of descent: Leatherwing, Hammertail, Sharpfang, or Webfoot. Choose one.",
+												{
+													"type": "entries",
+													"name": "Variant Saurian Features",
+													"entries": [
+														"{@b Ability Score Increase.} Your Intelligence score increases by 1. In addition, each subtype increases their ability scores as shown:",
+														{
+															"type": "list",
+															"items": [
+																"Sharpfang: Dexterity increases by 2",
+																"Leatherwing: Intelligence increases by 1, Charisma by 1",
+																"Hammertail: Constitution increases by 1, Wisdom by 1",
+																"Webfoot: Strength increases by 1, Wisdom by 1"
+															]
+														},
+														"{@b Alignment.} Saurians have long memories and hold tightly to many traditions. Their cultures tend towards lawful behavior, but each saurian is an individual with a unique alignment.",
+														"{@b Languages.} You can speak Common and Saurian."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Leatherwing",
+													"entries": [
+														"Leatherwings are reclusive mystics with a reputation for cruelty, pursuing arcane knowledge with a zeal that precludes all other concerns. They are descended from pterosaurs, and have crested heads and long, folding wings attached to their arms.",
+														"{@b Winged Creature.} You gain a flying speed of 45 feet. Flying requires the use of both arms. While flying you can use your action to make a grapple check against another creature of Medium or smaller size with your talons. If you succeed, you may lift and carry the creature with no penalty to your speed.",
+														"{@b Powerful Aerial Build.} You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift while flying. Half or more of this weight must be hanging from or carried by your talons to take advantage of your aerial build."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Hammertail",
+													"entries": [
+														"Hammertails are contemplative wanderers who never stop moving, preferring to erect temporary shelters only against the most violent storms, and covering enormous ranges in their lifetime journeys. They are descended from ankylosaurs, and have thick, club-like tails.",
+														"{@b Armored Scales.} Your AC increases by 1.",
+														"{@b Hammer Tail.} Your tail is a natural weapon with a reach of 10 feet, which you can use to make unarmed strikes. If you hit with it, you deal bludgeoning damage equal to {@dice 1d4} + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Sharpfang",
+													"entries": [
+														"Sharpfangs are territorial warriors who live in warlike hunting bands, dedicated to the glory and danger of the chase. They are descended from carnosaurs, and have jagged teeth and long claws.",
+														"{@b Predatory Rush.} When you take the dash action on your turn, your movement speed increases by 10 feet, and your jump distance is doubled for the turn.",
+														"{@b Hatched to Hunt.} Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to {@dice 1d6} + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Webfoot",
+													"entries": [
+														"Webfeet are graceful athletes who live on the water where fish and water plants are plentiful, preferring fishing and competitions of strength to the more strenuous life of inland hunters. They are descended from aquatic dinosaurs, and have webbed hands and feet and a high crest on their head.",
+														"{@b Darkvision.} Accustomed to life underwater, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
+														"{@b Limited Amphibiousness.} You can breathe air and water, but you need to breathe air at least once every 4 hours to avoid suffocating. You gain a swimming speed of 30 feet.",
+														"{@b Trumpet.} As an action, you can make a trumpeting blast of sound that reverberates through your crest. This trumpet can be heard up to a mile away, and up to half as far away if the sound is blocked by solid walls or muffled by other noise such as thunder, battle, hoofbeats, etc. Your trumpet counts as an instrument with which you are proficient."
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Starling",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"Oh! To be back there in the great dance, high above the little hunts of mortals—to return to the wheeling arcs and fiery duels of the stars! It is a terrible thing to fall from heaven."
+											],
+											"by": "Ouaia-ao, starling sorceress"
+										},
+										"Planegea's stars soar and wheel overhead in a great dance, gossiping and arranging themselves according to a complicated, political cosmology. As every night ends, they enter combat in a struggle called the Dawn Duel, attempting to knock each other into the Sea of Stars, claiming each other's light in order to become that day's great light, the Day-Star. Very rarely, however, the defeated stars don't fall into the sea, but rather to a far more alien and frightening place—Planegea!",
+										{
+											"type": "entries",
+											"name": "Shining Ones",
+											"entries": [
+												"Starlings are humanoids with glowing skin, eyes, and hair. They are strange and glamorous to behold; beautiful, ageless, and otherworldly. When starlings first fall to earth, they are wrapped in star-silk spun by the finest light-worms, but this quickly tatters in the rough and raw-edged primordial world in which they find themselves.",
+												"Most starlings, upon finding themselves fallen from heaven, do everything that they can to return to the great dance. It is almost unheard of for a starling not to spend the first few years of their fall as a wanderer, searching for any rumor or means of returning to their high abode. This search—called the star-quest by those who are familiar with it—is believed to be hopeless, and every one of the starlings who has embarked on it has eventually given up."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Memories of the Dance",
+											"entries": [
+												"It is hard to explain the great dance to mortals, or to communicate to the crude folk around a clanfire what it is to be among the company of the stars. But your character remembers the courts of heaven. Use this table to inspire your recollections as you gaze up at your brethren in the night sky above.",
+												{
+													"type": "table",
+													"caption": "You Most Remember…",
+													"colLabels": [
+														"d6",
+														"Memory"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"The cool and soaring marble halls of the Sixth Moon Temple where you were given your first diadem for a perfect dance"
+														],
+														[
+															"2",
+															"The fiery arcs of the Dawn Duel, with brilliant lances wielded against vain opponents glittering in their finery and pride"
+														],
+														[
+															"3",
+															"The long, luxurious days adrift in the Sea of Stars, recovering from the extravagance of the dance and the ferocity of the duel, sipping light and regaining strength for the next night"
+														],
+														[
+															"4",
+															"The moment just before night, when each of you rose to the surface of the Sea of Stars and drank the light of the Day-Star until you were bright enough to fly"
+														],
+														[
+															"5",
+															"The whispering, elegant gossip passed from star to star all night as the dance was performed, ripe with the rumors, innuendo, and subtleties of centuries"
+														],
+														[
+															"6",
+															"A particular star for whom you felt a longing, who—every night in the dance—you sought out as your partner, their light keeping perfect time with yours"
+														]
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Strangers in a Strange Land",
+											"entries": [
+												"No starling falls to the mortal world by choice. To be thrown from the great dance of the heavens after millennia of performing is shocking. Most starlings are initially terrified and aggrieved at their sudden and strange situation, and each adapts in their own way. Some find their feet by joining the life of mortals, while others remain aloof, unwilling to find companionship with such lowly creatures."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Sky's Castaways",
+											"entries": [
+												"Like shipwreck survivors, starlings have to build new lives from nothing in an unfamiliar place. Many prefer to remain in isolation, spending their time watching the sky and participating in the great dance in their own lonely way. Others join nearby clans, finding roles as sorcerers, chanters, or gatherers. A select few starlings have even portrayed themselves as gods, using their heavenly light to dazzle others into worship—at least until another starling comes along to break the illusion."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Starling Names",
+											"entries": [
+												"Starling names are actually phrases from the illuminated chorus, and almost never have consonants. A starling name, pronounced properly, is actually not spoken but sung. However, most starlings in Planegea have long since abandoned any hope of their names being sung correctly by the throats of the crude creatures of the mortal world. Common Names: Oa-a, Aíae, Ioua, Uaio-ua, Eoíu, Aeia, Io, Ooua, Eeío, Aioue, Ui-ooa, Eiue.",
+												{
+													"type": "quote",
+													"entries": [
+														"Now we come to the very most interesting part of all—at least, as far as I'm concerned. Isn't the thing everyone loves best their own name in a tale?"
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Starling Traits",
+											"entries": [
+												"Your starling character has a number of qualities in common with other starlings.",
+												"{@b Age.} Starlings have no age, appearing both glamorously young and fabulously mature at the same time. They don't grow older, but they do grow dimmer over the course of their exile from the heavens, eventually fading out over six or seven human lifetimes—although some fade much more quickly due to their sorrow at being far from home.",
+												"{@b Size.} Starlings are generally slender and slightly smaller than other humanoids, usually standing about five feet tall. Your size is Medium.",
+												"{@b Speed.} Your base walking speed is 30 feet.",
+												"{@b Glow.} Choose a color. Your body and your hair (if any) sheds dim light of that color, in a 5 to 20-foot radius. You can alter the radius as a bonus action. This light is permanent as long as you are alive, but a layer of clothing is sufficient to block it.",
+												"{@b Light-footed.} Whenever you make a Charisma ({@skill Performance}) check to dance, you are considered proficient in the Performance skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.",
+												"{@b Starry Vigil.} On a night where you can see the stars, you do not need to sleep to gain the benefits of a long rest. Instead, you can watch the stars all night, gaining the benefit of a long rest after 8 hours. You remain alert and aware of your surroundings during this time. After finishing this long rest, you have advantage on your next Intelligence (Arcana or Nature) check related to the stars, constellations, or weather.",
+												"{@b Pure Energy.} Due to your stellar nature, you are able to briefly phase out of material existence and pass through obstacles. As a bonus action, using up to 10 feet of your movement, you can become immaterial and pass through all creatures or objects in your path. You may not end these 10 feet of movement inside another creature's space or inside of a solid object. If you attempt to do so, you are pushed back the way you came until you reach an area large enough for your body, and take {@damage 1d10} force damage for each 5 feet you were pushed. You cannot use this trait again until after a short or long rest.",
+												"{@b Dazzling Touch.} Once as an action, you can attempt to blind a creature you can touch with a focused burst of brilliant light. The target must make a Constitution saving throw. The DC is 8 + your Charisma modifier + your proficiency bonus. On a failed save, the target is blinded until the end of your next turn. You cannot use this trait again until after a short or long rest.",
+												{
+													"type": "entries",
+													"name": "Variant Starling Features",
+													"entries": [
+														"{@b Ability Score Increase.} Your Charisma score increases by 2, and your Dexterity score increases by 1.",
+														"{@b Alignment.} Starlings can be any alignment, and react to falling from the sky across the spectrum of selfishness and altruism, order and unpredictability.",
+														"{@b Languages.} You can speak Common and Primordial."
+													]
+												}
+											]
 										}
 									]
 								}
 							]
 						}
+					]
+				}
+			]
+		}
+	],
+	"race": [
+		{
+			"name": "Dreas",
+			"source": "SSSOP",
+			"page": 50,
+			"size": [
+				"M"
+			],
+			"speed": 30,
+			"ability": [
+				{
+					"wis": 2,
+					"cha": 1
+				}
+			],
+			"age": {
+				"mature": 20,
+				"max": 100
+			},
+			"alignment": [
+				"Dreas can be any alignment, but their preference for the unruly side of nature inclines them towards chaotic choices."
+			],
+			"traitTags": [
+				"Darkvision",
+				"Plant Type"
+			],
+			"creatureTypes": [
+				"plant"
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+					"sylvan": true
+				}
+			],
+			"entries": [
+				{
+					"name": "Age",
+					"type": "entries",
+					"entries": [
+						"Dreas live about a century, but they only show their true age on the spring and fall equinoxes. In the fall and winter, they appear to age rapidly. By midwinter, they look 10 years older than their actual age. They then begin to grow younger through the warmer months until midsummer, when they look 10 years younger than their actual age. Then the cycle repeats. In regions with milder or more extreme seasons, this effect is similarly diminished or stronger."
+					]
+				},
+				{
+					"name": "Size",
+					"type": "entries",
+					"entries": [
+						"Dreas vary greatly in height and build depending on the tree they sprung from, with slender aspen-dreas and massive oak-dreas and everything in between. Your size is Medium."
+					]
+				},
+				{
+					"name": "Darkvision",
+					"type": "entries",
+					"entries": [
+						"At ease in the gloom of the forest at night, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+					]
+				},
+				{
+					"name": "Botanical Form",
+					"type": "entries",
+					"entries": [
+						"Your creature type is plant."
+					]
+				},
+				{
+					"name": "Photosynthesis",
+					"type": "entries",
+					"entries": [
+						"You require different nourishment than other kinships. Instead of 1 pound of food each day, you require exposure to 1 hour of sunlight, a sunglobe, or an equivalent light source. You cannot eat solid food, and attempting to do so gives you the poisoned condition for 1d4 hours. You require the same amount of water as most humanoid kinships."
+					]
+				},
+				{
+					"name": "From the Forest",
+					"type": "entries",
+					"entries": [
+						"You know the {@spell druidcraft} cantrip. When you reach 3rd level, you can cast the {@spell speak with plants} spell and the {@spell charm person} spell once per day; you must finish a long rest in order to cast these spells again using this trait. When you cast {@spell charm person} with this feature, sentient plants are also a valid target for the spell. Charisma is your spellcasting ability for these spells."
+					]
+				},
+				{
+					"name": "Tree Step",
+					"type": "entries",
+					"entries": [
+						"You gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 500 feet. Both trees must be living and at least as large as you. You must use 5 feet of movement to enter a tree. You instantly know the location of all other trees of the same kind within 500 feet and, as part of the movement used to enter the tree, can either pass into one of those trees or step out of the tree you're in. You appear in a spot of your choice within 5 feet of the destination tree, using another 5 feet of movement. If you have no movement left, you appear within 5 feet of the tree you entered. You can use this trait once and regain the ability to do so when you finish a long rest. You must end your turn outside a tree."
+					]
+				},
+				{
+					"name": "Languages",
+					"type": "entries",
+					"entries": [
+						"You speak Common and Sylvan."
+					]
+				}
+			]
+		},
+		{
+			"name": "Half-Ooze",
+			"source": "SSSOP",
+			"page": 52,
+			"size": [
+				"S",
+				"M"
+			],
+			"speed": 30,
+			"ability": [
+				{
+					"con": 1,
+					"dex": 1
+				}
+			],
+			"alignment": [
+				"Half-oozes are, more than anything, hungry. This constant need to consume renders them either neutral, or somewhat evil—although if they can get the food they need through good and lawful means, they may do so."
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+					"other": true
+				}
+			],
+			"entries": [
+				{
+					"name": "Age",
+					"type": "entries",
+					"entries": [
+						"Half-oozes don't last long, since their bodies begin on borrowed time. They usually live out about half their dam's original lifespan, if the dam was young when the half-ooze was sired. A half-ooze with an elvish dam might live for hundreds of years, where one with an orcish dam might die of old age after only a couple of decades."
+					]
+				},
+				{
+					"name": "Size",
+					"type": "entries",
+					"entries": [
+						"Half-oozes typically range in height from under 4 feet to over 6 feet tall, depending on their dam. Your size is Small or Medium, depending on your dam."
+					]
+				},
+				{
+					"name": "Hunger of the Ooze",
+					"type": "entries",
+					"entries": [
+						"You must eat every day, or suffer 1 level of exhaustion. When eating, you require twice as much food as other Medium humanoids. You do not require your food to be cooked in order to gain nourishment from it."
+					]
+				},
+				{
+					"name": "Pseudopodic Limbs",
+					"type": "entries",
+					"entries": [
+						"As an action, you may extend either your arms or legs to twice their normal length. When doing so, your AC decreases by 1. If you extend your legs, your walking speed increases by 10 feet. If you extend your arms, any melee weapon you're wielding is considered to have the Reach property. If a weapon already has the Reach property, it does not gain additional range, as it's too awkward to handle at that length. You may end the effect as a bonus action. Your arms and legs cannot both be extended at the same time."
+					]
+				},
+				{
+					"name": "Rubbery",
+					"type": "entries",
+					"entries": [
+						"Your ooze origin makes you able to fit through small spaces. Your body can fit through openings normally suitable only for Small or Tiny creatures. Depending on the size of the opening, your armor and equipment may not fit through."
+					]
+				},
+				{
+					"name": "Echoes of the Dam",
+					"type": "entries",
+					"entries": [
+						"You have the faintest memories from the life of your dam. Choose one: Gain one skill proficiency, one weapon proficiency, or two tool proficiencies."
+					]
+				},
+				{
+					"name": "Subtype",
+					"type": "entries",
+					"entries": [
+						"Half-oozes are sired by one of three types of ooze: Acidic, Magical, or Sticky. Choose one."
+					]
+				},
+				{
+					"name": "Languages",
+					"type": "entries",
+					"entries": [
+						"You can speak Common, and can understand one other language of your choice, but you can't speak it."
+					]
+				}
+			]
+		},
+		{
+			"name": "Saurian",
+			"source": "SSSOP",
+			"page": 55,
+			"size": [
+				"M"
+			],
+			"speed": 30,
+			"ability": [
+				{
+					"int": 1
+				}
+			],
+			"age": {
+				"mature": 7
+			},
+			"alignment": [
+				"Saurians have long memories and hold tightly to many traditions. Their cultures tend towards lawful behavior, but each saurian is an individual with a unique alignment."
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+					"other": true
+				}
+			],
+			"entries": [
+				{
+					"name": "Age",
+					"type": "entries",
+					"entries": [
+						"Saurians reach adulthood at the age of 7 and have exceptionally long lives, surviving as long as gnomes if not killed by predators or disease."
+					]
+				},
+				{
+					"name": "Size",
+					"type": "entries",
+					"entries": [
+						"Most saurians tend to stand somewhat taller than humans, usually between 6 and 7 feet tall. Your size is Medium."
+					]
+				},
+				{
+					"name": "Ancestral Memory",
+					"type": "entries",
+					"entries": [
+						"You are connected to the dead, recognizing their guidance and warnings, and know the {@spell sense whispers} cantrip. When you reach 3rd level, you can cast the {@spell bless} spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the {@spell augury} spell once with this trait and regain the ability to do so when you finish a long rest."
+					]
+				},
+				{
+					"name": "Subtype",
+					"type": "entries",
+					"entries": [
+						"Saurians belong to one of four lines of descent: Leatherwing, Hammertail, Sharpfang, or Webfoot. Choose one."
+					]
+				},
+				{
+					"name": "Languages",
+					"type": "entries",
+					"entries": [
+						"You can speak Common and Saurian."
+					]
+				}
+			]
+		},
+		{
+			"name": "Starling",
+			"source": "SSSOP",
+			"page": 58,
+			"size": [
+				"M"
+			],
+			"speed": 30,
+			"ability": [
+				{
+					"cha": 2,
+					"dex": 1
+				}
+			],
+			"age": {},
+			"alignment": [
+				"Starlings can be any alignment, and react to falling from the sky across the spectrum of selfishness and altruism, order and unpredictability."
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+					"primordial": true
+				}
+			],
+			"entries": [
+				{
+					"name": "Age",
+					"type": "entries",
+					"entries": [
+						"Starlings have no age, appearing both glamorously young and fabulously mature at the same time. They don't grow older, but they do grow dimmer over the course of their exile from the heavens, eventually fading out over six or seven human lifetimes—although some fade much more quickly due to their sorrow at being far from home."
+					]
+				},
+				{
+					"name": "Size",
+					"type": "entries",
+					"entries": [
+						"Starlings are generally slender and slightly smaller than other humanoids, usually standing about five feet tall. Your size is Medium."
+					]
+				},
+				{
+					"name": "Glow",
+					"type": "entries",
+					"entries": [
+						"Choose a color. Your body and your hair (if any) sheds dim light of that color, in a 5 to 20-foot radius. You can alter the radius as a bonus action. This light is permanent as long as you are alive, but a layer of clothing is sufficient to block it."
+					]
+				},
+				{
+					"name": "Light-footed",
+					"type": "entries",
+					"entries": [
+						"Whenever you make a Charisma ({@skill Performance}) check to dance, you are considered proficient in the Performance skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus."
+					]
+				},
+				{
+					"name": "Starry Vigil",
+					"type": "entries",
+					"entries": [
+						"On a night where you can see the stars, you do not need to sleep to gain the benefits of a long rest. Instead, you can watch the stars all night, gaining the benefit of a long rest after 8 hours. You remain alert and aware of your surroundings during this time. After finishing this long rest, you have advantage on your next Intelligence (Arcana or Nature) check related to the stars, constellations, or weather."
+					]
+				},
+				{
+					"name": "Pure Energy",
+					"type": "entries",
+					"entries": [
+						"Due to your stellar nature, you are able to briefly phase out of material existence and pass through obstacles. As a bonus action, using up to 10 feet of your movement, you can become immaterial and pass through all creatures or objects in your path. You may not end these 10 feet of movement inside another creature's space or inside of a solid object. If you attempt to do so, you are pushed back the way you came until you reach an area large enough for your body, and take {@damage 1d10} force damage for each 5 feet you were pushed. You cannot use this trait again until after a short or long rest."
+					]
+				},
+				{
+					"name": "Dazzling Touch",
+					"type": "entries",
+					"entries": [
+						"Once as an action, you can attempt to blind a creature you can touch with a focused burst of brilliant light. The target must make a Constitution saving throw. The DC is 8 + your Charisma modifier + your proficiency bonus. On a failed save, the target is blinded until the end of your next turn. You cannot use this trait again until after a short or long rest."
+					]
+				},
+				{
+					"name": "Languages",
+					"type": "entries",
+					"entries": [
+						"You can speak Common and Primordial."
+					]
+				}
+			]
+		}
+	],
+	"subrace": [
+		{
+			"name": "Leatherwing",
+			"source": "SSSOP",
+			"raceName": "Saurian",
+			"raceSource": "SSSOP",
+			"page": 56,
+			"ability": [
+				{
+					"int": 1,
+					"cha": 1
+				}
+			],
+			"entries": [
+				"Leatherwings are reclusive mystics with a reputation for cruelty, pursuing arcane knowledge with a zeal that precludes all other concerns. They are descended from pterosaurs, and have crested heads and long, folding wings attached to their arms.",
+				{
+					"name": "Winged Creature",
+					"type": "entries",
+					"entries": [
+						"You gain a flying speed of 45 feet. Flying requires the use of both arms. While flying you can use your action to make a grapple check against another creature of Medium or smaller size with your talons. If you succeed, you may lift and carry the creature with no penalty to your speed."
+					]
+				},
+				{
+					"name": "Powerful Aerial Build",
+					"type": "entries",
+					"entries": [
+						"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift while flying. Half or more of this weight must be hanging from or carried by your talons to take advantage of your aerial build."
+					]
+				}
+			]
+		},
+		{
+			"name": "Hammertail",
+			"source": "SSSOP",
+			"raceName": "Saurian",
+			"raceSource": "SSSOP",
+			"page": 56,
+			"ability": [
+				{
+					"con": 1,
+					"wis": 1
+				}
+			],
+			"entries": [
+				"Hammertails are contemplative wanderers who never stop moving, preferring to erect temporary shelters only against the most violent storms, and covering enormous ranges in their lifetime journeys. They are descended from ankylosaurs, and have thick, club-like tails.",
+				{
+					"name": "Armored Scales",
+					"type": "entries",
+					"entries": [
+						"Your AC increases by 1."
+					]
+				},
+				{
+					"name": "Hammer Tail",
+					"type": "entries",
+					"entries": [
+						"Your tail is a natural weapon with a reach of 10 feet, which you can use to make unarmed strikes. If you hit with it, you deal bludgeoning damage equal to {@dice 1d4} + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+					]
+				}
+			]
+		},
+		{
+			"name": "Sharpfang",
+			"source": "SSSOP",
+			"raceName": "Saurian",
+			"raceSource": "SSSOP",
+			"page": 56,
+			"ability": [
+				{
+					"dex": 2
+				}
+			],
+			"entries": [
+				"Sharpfangs are territorial warriors who live in warlike hunting bands, dedicated to the glory and danger of the chase. They are descended from carnosaurs, and have jagged teeth and long claws.",
+				{
+					"name": "Predatory Rush",
+					"type": "entries",
+					"entries": [
+						"When you take the dash action on your turn, your movement speed increases by 10 feet, and your jump distance is doubled for the turn."
+					]
+				},
+				{
+					"name": "Hatched to Hunt",
+					"type": "entries",
+					"entries": [
+						"Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to {@dice 1d6} + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+					]
+				}
+			]
+		},
+		{
+			"name": "Webfoot",
+			"source": "SSSOP",
+			"raceName": "Saurian",
+			"raceSource": "SSSOP",
+			"page": 56,
+			"ability": [
+				{
+					"str": 1,
+					"wis": 1
+				}
+			],
+			"entries": [
+				"Webfeet are graceful athletes who live on the water where fish and water plants are plentiful, preferring fishing and competitions of strength to the more strenuous life of inland hunters. They are descended from aquatic dinosaurs, and have webbed hands and feet and a high crest on their head.",
+				{
+					"name": "Darkvision",
+					"type": "entries",
+					"entries": [
+						"Accustomed to life underwater, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+					]
+				},
+				{
+					"name": "Limited Amphibiousness",
+					"type": "entries",
+					"entries": [
+						"You can breathe air and water, but you need to breathe air at least once every 4 hours to avoid suffocating. You gain a swimming speed of 30 feet."
+					]
+				},
+				{
+					"name": "Trumpet",
+					"type": "entries",
+					"entries": [
+						"As an action, you can make a trumpeting blast of sound that reverberates through your crest. This trumpet can be heard up to a mile away, and up to half as far away if the sound is blocked by solid walls or muffled by other noise such as thunder, battle, hoofbeats, etc. Your trumpet counts as an instrument with which you are proficient."
+					]
+				}
+			]
+		},
+		{
+			"name": "Acidic",
+			"source": "SSSOP",
+			"raceName": "Half-Ooze",
+			"raceSource": "SSSOP",
+			"page": 53,
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"entries": [
+				"The ooze that sired you was of a peculiarly acidic variety. The skin of acidic half-oozes tends to have a pale greenish hue and a faintly sharp smell hangs around them.",
+				{
+					"name": "Corrosive Rebuke",
+					"type": "entries",
+					"entries": [
+						"When you take damage from a melee attack made within 5 feet of you, you can use your reaction to deal acid damage to your attacker. The acid damage is equal to your character level. Once you use this trait, you can't use it again until you finish a short or long rest."
+					]
+				},
+				{
+					"name": "Omnivore",
+					"type": "entries",
+					"entries": [
+						"You have resistance to acid damage and are immune to being poisoned by food or drink."
+					]
+				}
+			]
+		},
+		{
+			"name": "Magical",
+			"source": "SSSOP",
+			"raceName": "Half-Ooze",
+			"raceSource": "SSSOP",
+			"page": 54,
+			"ability": [
+				{
+					"int": 1
+				}
+			],
+			"entries": [
+				"The ooze that sired you was of arcane origin, perhaps concocted by some strange spellskin for unknown experiments. The skin of magical half-oozes tends to have a purplish hue, and they have a vaguely sweet smell.",
+				{
+					"name": "Cantrip",
+					"type": "entries",
+					"entries": [
+						"You know one cantrip of your choice from the spellskin spell list. Intelligence is your spellcasting ability for it."
+					]
+				},
+				{
+					"name": "Magic Memory",
+					"type": "entries",
+					"entries": [
+						"You gain proficiency in the Arcana skill."
+					]
+				}
+			]
+		},
+		{
+			"name": "Sticky",
+			"source": "SSSOP",
+			"raceName": "Half-Ooze",
+			"raceSource": "SSSOP",
+			"page": 54,
+			"ability": [
+				{
+					"dex": 1
+				}
+			],
+			"entries": [
+				"The ooze that sired you was of a creeping, sticking nature. The skin of sticky half-oozes tends to have a yellowish hue, and they smell faintly of rot.",
+				{
+					"name": "Ooze Climb",
+					"type": "entries",
+					"entries": [
+						"Your gummy fingers help you cling to the walls. Climbing no longer costs you extra movement."
+					]
+				},
+				{
+					"name": "Sticky Fingers",
+					"type": "entries",
+					"entries": [
+						"You gain proficiency in the Sleight of Hand skill."
 					]
 				}
 			]
