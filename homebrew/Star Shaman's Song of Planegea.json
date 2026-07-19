@@ -15881,7 +15881,1403 @@
 											"type": "entries",
 											"name": "Leaders",
 											"entries": [
-												"The Rat King's circle of useful henchmen swells and shrinks in accordance with his mood, but a few familiar faces can be found in the lair year after year."
+												"The Rat King's circle of useful henchmen swells and shrinks in accordance with his mood, but a few familiar faces can be found in the lair year after year.",
+												"The Rat King (CE male half-ooze leatherwing assassin) dwells in finery and splendor, surrounded by henchmen and cronies at the center of his hidden lair. Paranoid, boastful, vindictive, vain, and above all, greedy, he is a difficult sovereign. Still, his ability to amass power and possessions cannot be denied. Those closest to him say that he does, in fact, wield curses and blessings as weapons, although it's hard to say what the source of those powers are. Stories about him are a dense web of lies and rumors, and those who know him best, having survived longest in his capricious company, keep their lips shut about his origin or the exact nature of his power.",
+												"Adderroot (NE female dreas druid) is called the Living Lair by those who dwell in the presence of the king. The stories say that the Rat King stole divine ivory from a snake god and hid it in a tree, creating Adderroot. A powerful spellcaster who keeps her own council, Adderroot has the form of a bark-skinned woman from her waist up, but her lower half is still rooted to the forest where the Rat King dwells. Loyal to the king through blind devotion or calculating cunning, Adderroot uses her druidic magic to create the forest lair in which the Rat King dwells—keeping out the unwanted with thorns, poison, choking roots, and whipping branches, and coaxing into existence a haven of flowers and green leaves in the Rat King's chambers. It's said that Adderroot is the lair, half-person and half-place, and that she alone sees and knows all that his majesty and his followers do.",
+												"Chief Tithe-Gatherer Tum'Gar (LE male orc bandit captain) is the arm of the Rat King in the world—for now. The latest in a long line of Chief Tithe-Gatherers, Tum'Gar is tasked with roving the Great Valley, enforcing the will of his king, and spreading the news of the Vow to those selfish scavengers who are not paying the proper respect yet. Tum'Gar is a clever strategist, and deploys his gatherers with tactical insight. It's said that since Tum'Gar took over as chief, tithes have increased fivefold, and many attribute this to his particularly punitive measures for those who ignore the mark of the Tithe. It's common knowledge that Tum'Gar was once the chief of a powerful orcish clan, but was cast out for reasons he keeps to himself, and now serves the Rat King unquestioningly."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Beliefs & Behavior",
+											"entries": [
+												"Scavengers Vow is bound by loyalty to the Rat King, as well as a shared set of beliefs and behaviors.",
+												"Philosophy. Take all you can from those who can spare it. Their ideals include:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Self-preservation: You're no good to the world dead, so do what it takes to survive. (Neutral)",
+														"Cunning: The smartest ones last the longest. (Neutral)",
+														"Greed: What's theirs should be mine. (Evil)"
+													]
+												},
+												"The Tithe & the Line. The first rule of Scavengers Vow is to honor the Tithe and pay the Rat King his share. The second is to not scavenge from those who'll die if you take what's theirs. This rule is essentially pragmatic—you can't steal twice if the mark dies the first time. This rule is called the Line, and there are severe punishments for scavengers who cross the Line.",
+												"Backstabbers. Treachery, lies, backstabbing, and swindling are all common behaviors in the ranks of the Vow, and if a scavenger isn't ready to play dirty, they're not ready to serve the king.",
+												"The Pile. It is known to those closest to him that the Rat King is amassing a staggering amount of valuable and magical items in a hoard called the Pile, hidden somewhere deep within his lair. When asked about it, he winks and evades the question, but his gathering has taken on an air of desperation lately, and some say that he mutters, “Almost enough… nearly ready,” when he thinks nobody is listening. Although his goals are his own, his agenda is clear—get all you can as fast as you can, and pay your tithe or else."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Magic & Matter",
+											"entries": [
+												"Scavengers Vow is generous to its favorite members, supplying them with magic and aid to keep adding to the Rat King's Pile.",
+												"Hedge magic. There isn't a type of magic the Vow won't employ to reach its goal, but since its ranks are drawn from outcasts, Scavengers Vow spellcasters tend to be of the more common variety, their desperation and cunning more than making up for their low skills.",
+												"The tools of thieves. Daggers, knives, hide armor, oils, skull lamps—all the tricks of the trade are plied by Scavengers Vow. They're especially known for their knotpicks, which carry a subtle enchantment to ease apart confounding magical knots.",
+												"Cloaks and inks. When it comes to magical items, the Vow prefers cloaks with enchantments that can conceal body, weapons, and more. There's also a strong inclination towards magical tattoos, for those who have access to them, since they cannot be stripped away should the scavenger be captured by their marks.",
+												"Scavenging bond. Scavengers live in harmony with many creatures that nobler folk find unsavory, such as rats, hyenas, jackals, and crows. A kinship is shared when you're doing whatever it takes to stay alive, and it's common for Scavengers Vow thieves to be seen in company with a slinking beast of one kind or another."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Hideaways",
+											"entries": [
+												"Tithe marks can be found across Planegea, and anywhere they are, Scavengers Vow is near. But there are a few key locations that loom large in the mind of the Vow.",
+												"The Living Lair. This forest sanctum is active and alive, directed by the intelligence of Adderroot, always changing to conceal its secrets and its location from prying eyes. Located in the depths of Howlgrove (p. 165), the Living Lair needs all the defenses it can provide to fend off the wolf-cursed inhabitants of that forest, especially whenever three moons ripen to fullness.",
+												"Sharkport. Scavengers Vow operates largely within the bounds of the Great Valley, but their greed reaches even into the far edges of the world. Sharkport is a seemingly unremarkable fishing camp on the Undershore (p. 171), but it's where tithe-gatherers go to collect their cut of what the Sharksails haul in… for even those seafaring raiders aren't immune to superstitious fear of the Rat King's power to call down curses.",
+												"Vowshard Hideout. Several years ago, an enterprising band of scavengers managed to smuggle themselves onto an Air Empire caravan heading to the floating capital city of Nebhis. According to the stories, they have been living in the cracks of the capital ever since, like rats in the walls. They call themselves the Vowshard, and if the rumors are to be believed, their hideout is decorated with such imperial riches that it makes even the Rat King's pile look like rubbish. The Rat King has sworn great rewards to anyone who can haul back the Vowshard's share—and great curses on the Vowshard if they don't pay him his due."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Seerfall",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"I'M TELLING YOU, THE VERY AIR ITSELF SHIMMERS with holy light—you never imagined a godlier place."
+											],
+											"by": "Eoi the Green"
+										},
+										"Deep in the Slumbering Forest, where the Ox River tumbles through dwarvish ruins in a series of breathtaking cascades, dwells the community of Seerfall. This sanctuary of shamans, ascetics, philosophers, and sorcerers is held in great regard throughout Planegea as the greatest gathering of the wise.",
+										"Ruin encampment. It is the way of dwarves to construct great monuments, edifices, or cities, and move on as soon as the work of building is done. Seerfall is one of their greatest creations—a series of palatial halls and rock walls carved through the stone of an intricately linked set of waterfalls. The resulting structure is a sanctuary with stone chambers, balconies, cloisters, colonnades, and gardens, all carved beside, behind, between, and among seven breathtaking waterfalls. In and among these chambers, gods have grown plentiful, and seers, shamans, and other wise folk have erected tents, draped in the symbols of their gods and philosophies, and made a permanent, vibrant settlement.",
+										"Leaders & followers. The hierarchy of Seerfall is complex. Many elders and high shamans of various beliefs and gods dwell there, most of whom are followed by their own set of acolytes, disciples, and servants. But the leadership of Seerfall is divided among three figures—the Oracle, who is the spiritual leader of the community; the Warden, who cares for the sanctuary's physical needs; and the Arbiter, who keeps order among the people. Each of these commands great respect, and has a small army of followers who will leap to their smallest suggestion.",
+										"Neverending rituals. As Seerfall is considered one of the holiest places in Planegea, shamans from across the world gather here for council, help, and to perform rituals. There are countless shrines and altars everywhere in Seerfall, and at any time of the day or night, multiple sacred rituals are being carried out by the followers of one god or another. The air is usually fragrant with the smell of incense or sacrifices, and music or chanting interweaves with the sound of the falls in an endless fabric of worship.",
+										"A sacred sanctuary. The tone of Seerfall is above all one of reverence. Disturbances of the peace are quickly dealt with by the Arbiter's servants, but those are rare, as most who come to Seerfall come to partake in its holy work, or to make reverent supplication of those who do.",
+										"A layered society. Those who first visit Seerfall, who see its host of shamans living peacefully among the falls, could be forgiven if they mistook it for a sinless haven of harmony and order. However, the serene surface conceals a dense fabric of subtle politics and power dynamics, inner and outer circles, rivalry and conflict. These play out in quiet conversations behind closed doors and are never glimpsed by the common supplicant, but those who have dwelt long at Seerfall know how fraught calm words can be.",
+										"The blue sash. The gathered shamans and leaders at Seerfall often have cause to send emissaries, messengers, or servants to carry word of what they have learned during their time in the holy city. Such emissaries are given a woven, blue sash, symbolizing the waterfalls of the sanctuary. Anyone wearing such a sash is to be treated with respect and given aid on their way by the clans who encounter them—a tradition that all too many swindlers and scavengers have taken advantage of.",
+										"Communal meals. With the many and varied rites of worship and meditation required by the practices of the faithful at Seerfall, it can be difficult to find common ground. Years ago, the Warden instituted the requirement that any who dwelt at Seerfall must take place in the communal meal just after midday, unless their god requires them to be elsewhere. These meals are usually simple—fish, the plenty of the forest gathered by the Warden's servants, and food offered by supplicants or acolytes. It is served in shallow wooden bowls each day, when all of Seerfall stops to assemble in the largest hall and its connected courtyard and cloisters for a half hour.",
+										"Gifts & offerings. Seerfall is well-provided with all its material needs by the gifts and offerings of supplicants who seek council from the wise or help from the powerful. The Warden's servants accept and distribute the gifts that are not directed to a particular shaman. In return, Seerfall offers a wealth of spiritual insight and guidance, and potential blessing to any who seek it with a pure heart.",
+										{
+											"type": "entries",
+											"name": "Leaders",
+											"entries": [
+												"The offices of leadership at Seerfall have changed hands many times, but the roles remain constant, caring for the spiritual, physical, and communal needs of those who gather at the sanctuary.",
+												"The Oracle (NG female elf shaman) is a title that shifts as spiritual power waxes and wanes. Chosen by an inner circle of influential leaders, the Oracle is the shaman or seer considered to be most gifted and in touch with the greater powers of Planegea, charged with discovering prophecies of things to come. The current Oracle is an elven woman who was born in the Great Valley in a poor clan of no name or notoriety. She appears, as most elves do, as a mortal in the prime of her youth, and her powder-blue skin is almost transparent, her face framed by black hair plaited in three long braids. But her eyes speak of lifetimes of wisdom, and it's believed that she has favor with more gods than any living soul. She is even said to have lived among the genies for a time. She can be cryptic and aloof, preferring to keep her own company and speak in metaphor or riddles—but there isn't an elder at Seerfall who doubts her spiritual authority.",
+												"The Warden (N male human noble) is charged with providing food, accommodations, and safety to all who make their home at Seerfall. The current Warden has held the position for many years and, though personally unpredictable, never fails to ensure the myriad needs of the community are met almost before they are felt. The current Warden is a middle-aged man with thinning red hair, a potbelly, a contagious laugh, and a fierce temper. Quick to joke and just as quick to lash out with whatever object comes to hand, the Warden is immediate in his decisions and expects total and instant obedience in all matters. Some say he is the least spiritual man at Seerfall, but those who know him best understand that his reverence is not a performance, and that he treats gods like gods and people like people. Above all, the Warden is always busy, dealing with three crises while looking ahead to seven more.",
+												"The Arbiter (LN agender starling noble) is the final authority on all conflict in Seerfall. The Arbiter traditionally wears a wooden mask, which impels those who can see it to speak the truth and grants the ability to see through illusion. The current Arbiter has held the position as long as anyone can remember. They are a striking figure of yellow light and command instant respect, even awe. The Arbiter cultivates a reputation as the personification of justice, utterly unbiased and neutral in all matters. But at the end of the day, they are still a person, and some tell stories of private grudges or favorites that the Arbiter acts upon in their exceptionally rare unguarded moments."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Beliefs & Behavior",
+											"entries": [
+												"Although shamans and philosophers of many varieties make pilgrimages to Seerfall, there is a shared ethos among those who make their home there, or who journey out into the world in service of its leaders.",
+												"Philosophy. Wisdom saves the world. Their ideals include:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Peace: It is better to live in harmony than in discord—violence brings only pain. (Good)",
+														"Understanding: To know a threat deeply is to know how to rightly react. (Neutral)",
+														"Stability: Change is entropy—things should remain as they are. (Neutral)"
+													]
+												},
+												"Servants of prophecy. Seerfall looks to the Oracle to prophesy of coming events, and then to act upon them. Prophecies have led to legendary hunts, stopped wars, fended off giant incursions, and more. When the Oracle delivers a prophecy, it can lead to great joy, great turmoil, or the kind of hunts that chanters sing about for generations.",
+												"Divine meddlers. Not everyone in Planegea welcomes the emissaries of Seerfall. To some, the sanctuary is seen as a nest of self-important zealots, generating fears and outlandish beliefs, then sending out messengers to stir up trouble based on the notions of some out-of-touch elf.",
+												"World-savers. The leaders of Seerfall have no less a grand mission than the very salvation of the world. They constantly seek to avert imminent disasters and believe that a day is coming when the Oracle will foresee a path that will preserve all of Planegea from utter ruin."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Magic & Matter",
+											"entries": [
+												"Seerfall casts a long shadow in the wider world, and its faithful can be recognized by various markers:",
+												"Divine magic & discipline. The spellcasting agents of Seerfall are most commonly shamans and guardians, with some reverent sorcerers and ascetics among them. When emissaries of the blue sash are in the world, it is assumed that their magic will be of a holy nature, and they are often approached by strangers and supplicants for healing spells, even when on missions of violence.",
+												"Amulets and symbols. A thriving industry of icon, totem, idol, and amulet-makers surrounds Seerfall, and many of their inhabitants carry finely-crafted divine symbols with various enchantments of infusions of power.",
+												"Summoning & banishing. Many shamans, far from the hallows of their gods, rely on spiritual messengers to carry their prayers to those they worship. Summoned celestials and fiends are not an uncommon sight, and the Warden's servants are often tasked with hunting down summoned spirits who have overstayed their welcome.",
+												"Dark rites & desecration. Although the servants of bloodthirsty gods are unwelcome in the peaceful community of Seerfall, there have been occasions on which deceitful divinities have slipped murderous agents into the sanctuary. Wicked sacrifices have been made and desecrating fires burned—it is the task of the Arbiter's servants to find and snuff out such incursions of evil."
+											]
+										},
+										{
+											"type": "inset",
+											"name": "Overlapping Gods",
+											"entries": [
+												"Lesser gods beyond number make their hallows at Seerfall, infusing the place with a bewilderment of divine magic. None of these gods are as strong as the Brothers, Twr, or Mala, but they are powerful within their overlapping and intersecting hallows. Some of these gods include:",
+												{
+													"type": "table",
+													"caption": null,
+													"colLabels": [
+														"d8",
+														"Results"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"Ekmo the Knowing Stone, a rock god of knowledge"
+														],
+														[
+															"2",
+															"Hebol Allfruit, a tree god of life"
+														],
+														[
+															"3",
+															"Edor the Still, a water god of peace"
+														],
+														[
+															"4",
+															"Glimmering Bala, a beetle god of light"
+														],
+														[
+															"5",
+															"The Green Wind, a weather god of nature"
+														],
+														[
+															"6",
+															"Ynknys the Enshrouder, a snake god of death"
+														],
+														[
+															"7",
+															"The Skitterer, a roach god of trickery"
+														],
+														[
+															"8",
+															"The Roaring Rocks, twin stone gods of war"
+														]
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Locations",
+											"entries": [
+												"Built around seven great falls, Seerfall is a complex structure with many areas—these are some of the most notable:",
+												"The Oraculary. This ornate, soaring palace was carved by the dwarves into the stone of the fifth cascade. The Oracle dwells here, surrounded by her staff and the many secret passages concealed by dwarvish cunning and magic.",
+												"Communion Hall & the Long Square. A great chamber near the third cascade and its connected courtyard are where all of Seerfall gathers for the midday meal, to exchange greetings, beliefs, stolen glances, and secrets.",
+												"Booths, cloisters & shrines. Seerfall is full of small places. Countless traders and crafters offer materials for spells or beautiful amulets, private cells for meditation or prayer are commonplace, and informal shrines to little gods dot every corner and doorway."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Guardians & Emissaries",
+											"entries": [
+												"There is much work to be done at Seerfall, not least for those who know how to defend life and confront danger.",
+												"Protected pilgrimage. Emissaries are often sent into the world to safeguard those traveling to or from Seerfall.",
+												"Spirit hunt. Summoned fiends and misguided celestials are a frequent threat, and must be eradicated or banished.",
+												"Oracular journey. When the Oracle foresees danger, it is the work of all Seerfall to prevent it. Many bands of gifted emissaries have been sent into the world by her word—and many have never been seen alive again."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Sign of the Hare",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"SURVIVAL ISN'T ENOUGH. WE AREN'T HERE TO SIMPLY eat and die. There are endless worlds to be unlocked, infinite futures to behold. Even if it means I have to run for the rest of my life, I'll be damned if I let some accursed dogs keep me down."
+											],
+											"by": "Restakar"
+										},
+										"Almost nobody knows that the Sign of the Hare exists. They are a secret society of spellskins dedicated to the idea of developing and sharing magic. Their influence is subtly felt across Planegea, but they depend upon remaining undiscovered to stay alive. The Hounds of the Blind Heaven hunt those who break the Black Taboos, and the spellskins of the Sign of the Hare (called Hares) study, teach, bend the taboos—and run from the Hounds.",
+										"A warren of sages. The Sign of the Hare is named because those in its company know that they are a step away from the jaws of the Hounds of the Blind Heaven. They are a tradition that stretches back as far as memory, passing along advanced magic, testing the edges of the Black Taboos, and trying to find ways to advance life beyond the restrictions placed upon them by fate.",
+										"Teachers and apprentices. Hares die or mysteriously vanish all the time—there is no single leader, only spellskins who have lived a little longer and have more to teach, and those who put themselves under their authority. Often spellskins of the Sign of the Hare will travel in small schools—a teacher with two or three apprentices, trying to stay on the move so as not to attract attention from man or beast or metaphysical force.",
+										"Fires & funerals. Spellskins of the Sign of the Hare live and die for those quiet moments when they're able to sit together, sharing and learning spells that surpass imagination, the kind of spells that enrich life for all, raising mortals from mere survival into civilization. But they gather just as often to lay to rest the body of a fallen Hare who has slipped over the edge of the Black Taboos and been found by the Hounds.",
+										"Arcane wanderers. To stay alive, Hares stay on the move. Even among such brilliant minds, the Hounds produce fear and superstition, and these spellskins avoid concentrating knowledge in any one place for fear of having it all destroyed should the Hounds find them. They live as fugitives and outcasts, traveling from clan to clan, helping where they can and advancing their studies far from where others could get hurt, should things go wrong.",
+										"Scattered spell-walls. Their need to keep on the move leads Hares to work out spells on any surface that comes to hand—cliffs, cave walls, boulders, hillsides, ruins—anywhere they can paint out their magics to keep advancing their studies. Once a spell is finished, they move on, leaving the painting behind in hopes that others will benefit from the knowledge. This has led to a scattering of spell-walls in strange, hidden places, often where you'd least expect, ready to be discovered by an adept mind.",
+										"Tattooed outcasts. A Hare can be recognized by their wandering ways and their many tattoos. Teachers and apprentices travel together in part to help each other apply ink to their skins, as well as to exchange knowledge to make sure if one of them is found by the hounds, not all their learning is lost. But their traveling life, their tattoos, and their arcane secrets often gives them an outlandish appearance raising suspicion—or pleas for assistance—from clans they meet.",
+										"The sign. Hares greet each other with a hand sign, making a fist and then lifting the index and little finger to form ears. Rabbit and hare pictograms are commonplace among them, often marking their scattered spell-walls, and many of them keep tamed rabbits as pets, companions, or familiars.",
+										"Purveyors of magic. Hares survive off their magic in more ways than one, bartering magical favors for food and supplies needed with anyone they come across. Sometimes, if a clan has need and is willing, a group of Hares will settle with them, living and working alongside them, contributing to the good of the clanfire. But such arrangements never last long—there's too much danger to all involved, and the idea of the Hounds is enough to keep a Hare and their apprentices moving onward time after time.",
+										{
+											"type": "entries",
+											"name": "Leaders & Allies",
+											"entries": [
+												"The Sign of the Hare has no set leadership, but it does have spellskins who have lived longer than anyone, whose counsel and knowledge is held in high regard and sought out… though they are usually not easy to find.",
+												"Restakar (CG genderfluid gnome archmage) is one of the oldest living Hares. They have been everywhere and seen everything, and move through the world in search of answers and hope. Schooled in the arts of illusion and transmutation, they are constantly changing their appearance and their tactics, believing that the answer to the problem of the Hounds is buried somewhere in the vaults of the giants or the ruined temples of aberrations. Restakar is known to have once been a companion of Pethna Riverborn in their youth, but the two had a falling out over unknown matters in some distant realm, and keep watchful distance from one another now. Restakar travels without apprentices and is impulsive, improvisational, and unpredictable. They swear that's how they're still alive.",
+												"Uhl-Os-Who-Speaks (LN male human monk) is an ascetic with a perfect memory, trusted alone among the greatest of spellskins to transmit messages between them. One of the rare Hares who is not themself a practitioner of arcane arts, Uhl-Os is invaluable for his ability to flawlessly retain even the most complex of messages, symbols, and paintings and recreate them on demand. Using the skills of their ascetic training and the many enchanted items given to them by Hares, Uhl-Os moves like lightning through the world, sharing mind-bending knowledge without understanding a word of it, beneath the notice of the Hounds and incredibly valuable because of it.",
+												"Gray Seht (CN female elf archmage) walks between realities without feeling. A powerful figure in both of Nod's worlds, she is feared and respected among the Sign of the Hare and their dark reflection, the Recusance. A necromancer and conjurer, Gray Seht follows her own council alone. She hates the Hounds above all and will do anything, good or evil, to end their power. The Sign of the Hare works with her only cautiously, for her wrath is quick and her magic terrifying. But her intellect is unparalleled, and if she finds the work interesting, nothing can stop her from pursuing it to the very ends of the world—or the utter edge of the Black Taboos. There are whispers that she has tracked the Hounds to their lair, and knows secrets of the Blind Heaven itself. But rumors about Gray Seht abound, and who knows what she may have truly seen or done."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Beliefs & Behavior",
+											"entries": [
+												"The Sign of the Hare shares a single mission: To advance the good of civilization and survive—or end—the hunting of the Hounds.",
+												"Philosophy. Learning and advancement is the ultimate good, and those who oppose it should be toppled. Their ideals include:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Hope: We do not surrender to the Hounds or any evil… we gather our imagination and intellect and fight to thrive. (Good)",
+														"Knowledge: Learn all you can, and teach what you know. (Neutral)",
+														"Civilization: Mortals were not made to suffer and starve, but to build and thrive. (Lawful)"
+													]
+												},
+												"Hiding & hunted. The Sign of the Hare lives at the very edge of danger, only a breath or a wrong brushstroke away from slaughter at any moment. They are defined by fear and hope in equal measure, daring the Hounds to unmake them because of their belief in the value of progress.",
+												"Dark magic. The Sign of the Hare believes in knowledge—yet study easily curdles into obsession, and daring into arrogance. The Hares all know of spellskins who have gone bad, who have given themselves over to black and manipulative practices, using others for their arcane experiments and baiting the Hounds with suffering: the ones called the Recusance (p. 254). The Hares struggle against the Recusance, seeing their perverse practices as an abomination of hope… but at their worst, they also use their fallen friends as foils to learn more without getting their hands dirty. After all, knowledge is knowledge, isn't it?",
+												"The Houndslayers. The ultimate goal of the Hares is to put an end to the existence of the Hounds of the Blind Heaven once and for all, setting Planegea free to write and build and grow into a world beyond their imagining."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Locations",
+											"entries": [
+												"The Hares are always on the move, but there are a few places they congregate to share knowledge and tales of narrow escapes.",
+												"Lake Littleblood. The limestone caves at Lake Littleblood are famous for their white, smooth surfaces, perfect for painting and repainting. There is a large spellskin community there, and although not everyone is a Hare, they are easily found. If the Sign has a center, it's in those caves.",
+												"Delvetomb. In the Lastwater Wilds, not far from the southern tip of the Scarab-Scar canyon, there is a crack in the dry ground that leads to a secret tomb. In this place, unnamed aberrations once practiced strange arts beyond any understanding, and its chambers and passages are bewildering and terrifying. But the Sign of the Hare reclaimed it some years ago, and have kept it free from aberrational influence since, while investigating its secrets, trying to unlock what can be learned without triggering the Hounds—or unleashing madness.",
+												"The Moon-Palace of Takash. An eccentric Hare once spent his entire life casting an elaborate conjuration, his gift to all Hares. This spellskin, named Takash, wove an enchantment that created a great edifice of stone, filled with invisible servants and arcane delights to astonish even the Air Empress herself. This palace exists on the largest moon in the sky, transporting and recreating itself as the moons wax and wane. Takash is long-dead, and the enchantment has begun to unravel… the Moon-Palace is now an eerie place, and the invisible servants aren't quite right anymore, nor do the arcane delights behave exactly as they should. But for those with a taste for the curious and unsettling, elder teachers of the Sign of the Hare know the secret word to open the door. After all, Takash meant for the palace to be shared."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Venomguard",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"I'VE SLAIN OGRES, OWLBEARS, OOZES, AND OTYUGHS. I want a real challenge this season. What do you say we hunt a kraken, boys?"
+											],
+											"by": "Boast of Kleda Maz, former Redguard"
+										},
+										"Based in the clifftop city of Edgegather, where the venomwine flows and the music never stops, the Venomguard are an elite force of monster hunters dedicated to keeping vulnerable people of the Great Valley safe from its worst and most monstrous predators.",
+										"Watchers of the Abyss. When Edgegather (p. 169) was founded, overlooking the Venom Abyss and the Ox Unfall, those who built the city vowed to keep watch upon Blood Mountain, the Abyss, and the river that rose from it. They built aviaries full of colorful chattercrests to fly warnings across the Great Valley, brought in spellcasters for protection, and formed the Venomguard from a band of legendary hunters. They were commissioned with a simple task: kill the monsters that swarm up the Unfall.",
+										"Competing parties. Venomguards are recruited from only the toughest monster-hunters and are then organized into hunting parties of nine or fewer. These parties scour the land for deadly creatures, and bring back trophies to the Venomguard Lodge. Each midwinter, the party with the greatest trophies are given crimson crowns, hailed as the Redguard, and lead the Venomguard in the following year.",
+										"Preparation & hunt. Venomguards live in a cycle of hunting and preparing for the next hunt. They can be found at the Lodge, sharpening their skills, crafting traps and weapons, and swapping stories of great hunts. When a sighting comes in by messenger or magic of a deadly monster on the prowl, the party chosen by the Redguard heads out, and doesn't come back without a trophy.",
+										"Secrets of the kill. While young monster-hunters share their strategies eagerly and learn all they can from each other, the most successful Venomguard parties keep their tactics hidden as they make a run for the crimson crown. Each hunting party is unique in its mix of might and magic to bring down terrifying monsters, and there have been brawls among the Venomguard when one party thought another was looking a little too closely at their gear.",
+										"The red cord. When they are recruited, new Venomguards are given a thick red cord, which most wear as a necklace or armband. This cord tells the story of their time in the Venomguard, and special knots are used to denote important kills, the death of a party member, and seasons of the hunt. Most Venomguards display their cord proudly, and it's the most easily-recognized symbol of their order.",
+										"Trophy traders. Thanks to the monsters they bring down, which can be harvested for unusual parts in high demand, any successful Venomguard has access to the best of everything. You can tell a Venomguard between hunts by their fine robes and adornments, their sleekly crafted gear, and their swagger and tendency to act like the world is theirs.",
+										{
+											"type": "inset",
+											"name": "The Redguard",
+											"entries": [
+												"The current Redguard are a party of hunters called the Lefthand Slayers. They famously brought down a red dragon sent from Blood Mountain whose head is now mounted over the Lodge's entrance, and wear the crimson crown proudly—until midwinter.",
+												"Hu'klu & Wink-Cat (CG male human druid & N female lapiscat) are an inseparable team. Hu'klu encountered Wink-Cat on a hunt that crossed over into Nod, and they share a psychic bond. Hu'klu is the party's leader, and speaks first for all of them.",
+												"Quileth (CN female elf assassin) killed people professionally before she took up animal hunting. An accomplished assassin from Nod, with deep roots in Scavengers Vow, she turned away from that life after a kill went badly wrong, and has sworn to never take another intelligent life… except maybe the Rat King's.",
+												"Skycrest (N agender leatherwing sorcerer) doesn't speak much, but when they do, their words cut, sting, and burn. Although they are private about their origins and motivations, it's said that Skycrest hails from the Starstep Cliffs and refuses to go back even for the most tempting hunts.",
+												"Dokh the Furious (CE male dwarvish berserker) is essentially feral, and can barely be restrained by his party from killing everything in sight. Dokh is kept away from other people as much as possible, and can only be lulled into a peaceful mindset by the words and songs of Lila Green.",
+												"Lila Green (NG female dreas chanter) was originally a tree of the Venom Abyss, carried up the Unfalls after a great flood. She hunts monsters dispassionately, caring little for the violence, but has found her family in the Lefthand Slayers—who consider her the heart of the group—and offers them inspiration and cheer wherever she can."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Beliefs & Behavior",
+											"entries": [
+												"Venomguard's mission is simple—slay the monsters that threaten life, and win the crimson crown if you can.",
+												"Philosophy. Community is stronger than death. Their ideals include:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Life: Creatures that mean harm to the weak and innocent should be stopped. (Good)",
+														"Skill: It's good to be the best. (Neutral)",
+														"Glory: Fame and immortality are the same thing. (Neutral)",
+														"Violence: If I can kill and get praise for it, so much the better. (Evil)"
+													]
+												},
+												"The call. Venomguard swear their lives to the service of the hunt, and are at all times under the service of the Redguard and the call to hunt.",
+												"The best & the worst. Venomguard is full of outcasts, former murderers, the mad, the unsavory… it takes a certain kind of person to dedicate your life to facing down the most vicious of horrors Planegea can summon. When a party of thugs wears the crimson crown, it's a dark year in Edgegather, and all of the Great Valley suffers for their abuses of power."
+											]
+										},
+										{
+											"type": "inset",
+											"name": "The Big Hunt",
+											"entries": [
+												"With the Lodge perched on the edge of the Venom Abyss, it's no wonder that a favorite topic of discussion is the mythical idea of a dragon-hunt on Blood Mountain itself (p. 157). Maybe next year, they always say…"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Venomguard Lodge",
+											"entries": [
+												"When hunting parties come home to rest, recover, and prepare for the next hunt, they always return to Edgegather and the Venomguard Lodge. A few key areas of the Lodge include:",
+												"Redguard Hall. The main hall of the Lodge is festooned with all manner of trophies from generations of great hunts. Here is where feasting happens, where the Redguard are crowned by a popular vote each year, where justice is meted out, and where the parties swap stories and bets and brawls and dares. Attached to the hall are sleeping huts, some of which are claimed by certain parties, while others are kept open to whichever Venomguard needs a place to drop their gear for the night.",
+												"Training Yards. Public and private training yards are available to the hunting parties, depending on their status and demand for secrecy. These yards are mostly barren stretches of floor where gear and techniques can be tested, but some have obstacle courses, training dummies, or magically-simulated weather for extreme preparation.",
+												"The Sending Cliff. The Venomguard have long bartered with Edgegather spellcasters to maintain a magical portal through which they can send their hunters to the far corners of Planegea, should a call for help come in. The Sending Cliff—a particular stretch of stone that overlooks a dizzying drop into the jungle below—is a rite of passage. Young hunters steel themselves for that first leap off the cliff—trusting to invisible magics that their feet will land safely on solid ground wherever the spellcasters send them."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Whale Clan",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"WE ARE VOYAGERS—DAUGHTERS AND SONS OF THE high blue waves. We follow whale-song to islands of plenty, and forever honor the ways of the water."
+											],
+											"by": "Matriarch Te-Huni"
+										},
+										"Far from the winter winds and dusty hunting grounds of the Great Valley, in the azure water and emerald islands of the Scattersea, dwell water-faring folk. Communal, curious, and restless, the Whale Clan roams from island to island, an archipelago of families spread throughout the region, all under a single shared devotion—the worship of the whale god, Mala Long-Song, eldest and wisest.",
+										"Three tales. There are three stories of the Whale Clan's founding. The first is that they lived in the water before the giants founded their empires, and have lived all this while under their shadow without fear, darting in canoes and catamarans from island to island, too fast for the giants to catch. The second is that they are a runaway people, born of captives who escaped the Sea Empire's clutches, blessed by Mala to survive the dangers of the ocean. The third is that there were no people in the islands, but Mala sung them into existence, willing that there should be some for her to bless. Whatever the truth of their origin, they dwell in great numbers in the islands, prosperous and adventurous in the face of all the sea's chaos.",
+										"Scattered matriarchies. The members of the Whale Clan do not dwell in a single mass, but are rather found throughout the entire Scattersea. They live as multigenerational families, led by matriarchs. Each family takes care of their own, with a typical size of 1 to 4 boats per family. Some families join forces, while others sail alone, but all swear allegiance to the Whale Clan, and all meet once a year at the Hallow of Mala for the Day of Breath, when Mala rises to the surface to breathe, and give breath.",
+										"Community & curiosity. The Whale Clan holds the bond of family above all, and puts a strong emphasis on an inquisitive mind. Parents teach their children to hold respect in one hand and questions in the other, and a favorite fable tells of Old Yesterday and Young Tomorrow asking and answering questions of each other as they sail on their wide white boat, which is named Today. You can tell a Whale Clan member because of their close connection with others, and their constant stream of questions.",
+										"Restless voyagers. The families of the Whale Clan voyage the waves as a matter of survival and curiosity, never staying long on any island. It is their tradition to make landfall on an island, stay for a moon's lifetime, then set to sea again. Because of this constant travel, many islands have villages built on their shores. A family group will land, work to repair and expand the village for their time there, then set out again, leaving the village to be re-discovered by the next family that happens to come across it—or, worse, to be inhabited by the opportunistic and predatory sea-raiders known as sharksails.",
+										"On hostile waters. The Scattersea is not for the faint of heart. Merfolk, merrows, and other undersea peoples both friendly and fierce have complex societies below the waves. Heavily armed sharksails sail in spiked boats, prowling the waters for easy prey, launching themselves onto the catamarans of Whale Clan families to plunder their supplies. And the Craven of the Kraken Coast paddle silent canoes with vacant eyes, seeking young fools to abduct.",
+										"Raiment of the waves. The Whale Clan is usually lightly attired in clothes woven of plant fibers and seaweed, sharkskin and fish leather. They decorate themselves and their villages with shells, flowers, coral, fins, and other treasures of their bright island homes.",
+										{
+											"type": "entries",
+											"name": "Leaders",
+											"entries": [
+												"The Whale Clan elevates matriarchs based on respect and their minds. Although the clan is scattered, three figures in particular are well-known throughout the Whale Clan and seen as leaders of the Scattersea.",
+												"Chieftain Hala'ke Moonflight (LN female halfling chieftain) is an ancient leader who has outlived six husbands. Her wave-wisdom is legendary. She is heavily tattooed with images of sea creatures, and asks better questions than anyone on the islands. Hala'ke is sought by families across the Scattersea to settle disputes—it's said that there is no one more fair or insightful than her, and when she judges, even the one she rules against agrees that her decision is sound. Hala'ke can no longer walk, but paddles through the air in an enchanted coracle that floats a few feet in the air.",
+												"Sekit Airshaman & Ailai Deepshaman (NG female human high shaman and CG male merfolk high shaman) In accordance with tradition, Sekit—proud high shaman of the Whale Clan above—is given in marriage to Ailai—philosophical high shaman of the Whale Clan below. This human-merfolk union was carefully negotiated, and despite all odds, the current shamans' union appears to be a happy one, as long as their peoples' desires are not at odds. They dwell on the sacred isles closest to the Hallow of Mala, and spend much of their time underwater, consulting with their ageless goddess about life above and below.",
+												"Kakrak Sharkspear (N male troll) was once a roving brute, but after a storm swept him to sea, he encountered the song of Mala, and was forever changed. Although Kakrak is not clever, he is the most formidable hunter in Scattersea, and with a loyal crew of devotees tirelessly chases after sharksails, sinking their boats and slaughtering them without mercy. They say that Kakrak still thirsts for blood, though he would never harm a member of the Whale Clan, and that he alone knows the secret of summoning a certain ship of immortal beings that wanders the sea at night, having some untold dealing with their dark ways."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Beliefs & Behavior",
+											"entries": [
+												"The Whale Clan is bound not by geography or shared danger, but reverence for Mala and a common creed:",
+												"Philosophy. A true voyager sails with respect in one hand and questions in the other. Their ideals include:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Family: Blood may attract sharks, but it can defeat them, too. (Good)",
+														"Respect: Honor and obedience keeps the family alive. (Lawful)",
+														"Curiosity: The only way to find what's on the next island is to sail to it. (Neutral)",
+														"Restlessness. It's against the way of the sea to stay too long in any one place, or keep to any one course of action. (Chaotic)"
+													]
+												},
+												"The call of the sea. Every talented young Whale Clan woman is expected to embark on a lone voyage someday, to begin her own family as matriarch, and every family stays only as long as they must before moving to a new home. The ever-changing islands of Scattersea mean that rarely are the same shores seen twice, and those born in the Whale Clan are said to be restless from birth to death. (And perhaps after death, too.)",
+												"Castaway judgment. Most terrible is the judgment of the matriarchs upon those who betray the family. A particularly cruel punishment is the marooning of an offender by binding them to an island. This can be as light a punishment as casting them bound hand and foot onto a beach, or as severe as magically entombing them in stone to the waist at the heart of an island. Immobility is a terrible fate for anyone born to the Whale Clan, and there are islands across Scattersea with skeletons moldering in abandoned coral cages."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Magic & Matter",
+											"entries": [
+												"The constant voyaging of the Whale Clan leads them to come across many strange items washed on shores or left behind in the villages they constantly build and abandon.",
+												"Freewheeling spells. There are few spellskins to be found among the Whale Clan, thanks to the transience of their lives which does not suit long study. But their bloodlines are full of sorcery and divine magic, and of all clans they object least to druids—as the whale does not concern herself with barnacles, so Mala is powerful enough to share her power with a few god-leeches.",
+												"Living magic of the deep. Thanks to their trade with the merfolk, the Whale Clan has access to many magic items formed of living creatures whose natural magic landfolk rarely come across. The Whale Clan is as likely to shatter a shell, spill ink, or grind coral to arcane dust when casting a spell as they are to drink a potion or snap a talisman.",
+												"Voyager's gear. Boats are central to the Whale Clan's life, especially the coracle, canoe, catamaran, raft, and barge (or village-ship). They use all manner of ropes, oars, paddles, levers, staves, sails, rudders, hooks, harpoons, spears, and knives in their everyday life, and are known to openly laugh at anyone wearing shoes.",
+												"Eel tamers. Families of the Whale Clan have befriended many birds and beasts of the waves, but are especially known for their companionship with eels. These reef-lurkers have been known to make their homes at the bottom of a family's boats for generations, helping them catch fish too deep for spears and lines, and receiving protection and companionship in return. Some eels have even been taught to speak, though these are mostly by the druidic families."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Locations",
+											"entries": [
+												"The Scattersea is always changing, its islands constantly rearranging in ways that cannot be predicted or remembered, even by those with perfect memories. But a few places are more fixed than others, and used as references by those who navigate those waters.",
+												"The Sacred Isles. Nearest the hallow of Mala Long-Song are a circle of tiny islands that expand outwards like a halo. These islands are mist-shrouded, and song vibrates the ground when one walks on their shores. They are filled with delicious fruit that can make you forget time and space, and spirits walk there whose bodies long since crumbled to dust. These mystical islands are among the most magical places in all of Planegea, and only once a year do the families of the Whale Clan dare to pass near them, on the Day of Breath, when all the clan gathers to witness Mala surface.",
+												"Murder Reef. A black and bloody place, Murder Reef seems to be immune to the fluidity of the rest of Scattersea. Its jet black coral juts out of the water, frozen in place like the skeleton of some long dead thing. Murder Reef is a famous haunt of sharksails, and the hallow of a shark god whose name is secret to all but his followers. Many times has Kakrak Sharkspear carried out onslaughts to cover Murder Reef in the blood of sharksails, but his efforts are always foiled by the dangerous currents, infinite hiding places, and fiendish spirits that haunt the place.",
+												"The Glowing Current. If you can find it, there is a current in the Scattersea that glows bright enough to be seen by day, and brighter than any moon at night. Its illuminated waters are full of fish and good magic, and there are usually a host of boats traveling its course. Whale Clan families seek it out to meet with others, introduce their sons to future matriarchs, and dive into its warm light for healing and good fortune."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Worldsingers",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"…AND THEN, JUST AS THE RAIDERS WERE CLOSING IN and all hope was lost, this stranger, this fur peddler I told you about—you're not going to believe this—she soars up into the air and starts to SING… and her song turned the warlord into a bird! No, I'm NOT lying. She flew, sung, saved us all… then vanished!"
+											],
+											"by": "Clanfire tale of a wandering hunter"
+										},
+										"Chanters are feared and admired across Planegea—their ability to remake the world with song or story is seen as a powerful, dangerous gift. Those with such abilities are often kept under close scrutiny by their clans, held to impossible standards of scrupulous honesty or silence unless they are performing. But not all chanters are content to dwell under such bindings. Some wander the world, seeing all they can, and using their magic to do good. These are the Worldsingers, and although they operate in secret, they are dedicated to ending misery and creating joy wherever they go.",
+										"Songs of inspiration. The Worldsingers were founded by a gifted halfling name Enkio who left the silence of his clan for song and the wide world. Everywhere he went, Enkio used his magic to uplift, inspire, and create new beginnings. Because those he encountered expected him to be silent, he kept his gift hidden until the most useful moment… and taught other chanters he met to do the same.",
+										"A conspiracy of hope. As the movement grew, Enkio believed that the Worldsingers must remain in close contact, in case one of their number needed aid or—worse—turned cruel. He established regional conductors: trusted chanters to whom Worldsingers in a given area must report. Since Enkio's sudden and unexplained disappearance, the conductors now report to his son and heir who, as the rumors go, has less of a head or heart for this work than his father before him.",
+										"Unexpected magic. Enkio's technique of hidden magic has led to the signature moment of the Worldsingers—the inspiring revelation. They wander as hunters, gatherers, laborers, or outcasts, and find shelter wherever there is need. They hide their abilities, watching for the place they can help the most… and then begin their work.",
+										"Second skills. Since the Worldsingers are required to keep their identities hidden at first, those who are recruited into the organization must also be able to survive without their magic, offering some second skill that they can use to make themselves useful and find work with clans they come across. Worldsingers accept no reward for their help—they are to disappear as soon as possible after good has been done. After all, it's a wide world full of trouble, and the next hill, valley, or cave might need help even more than wherever a Worldsinger just left.",
+										{
+											"type": "entries",
+											"name": "Leaders",
+											"entries": [
+												"Enkio vanished without a trace only a few seasons ago. Left in disarray, without a plan of succession, his son was thrust into leadership.",
+												"Enkio, son of Enkio (N male halfling bard) is one of the most gifted chanters Planegea has ever seen, inheriting both of his parents' musical and magical gifts. Yet he lacks his father's compassion and joy. Growing up in the beauty of his father's Hidden Hall, he never knew suffering, and now that his father is gone he feels ill at ease leading others in fighting it. He fights a dark streak within himself that tempts him to twist the situation to his own advantage, and dreams of escaping altogether to go find his father, leaving the Worldsingers to Yug'zesh or Tempo.",
+												"Yug'zesh (NG male green dragonborn bard) was one of Enkio's earliest companions. A towering, muscular figure, Yug'zesh could have easily lived by the spear or sword… but his soul was full of song since he was a hatchling, and he found his purpose with the Worldsingers. Yug'zesh is now turning gray, his might diminishing a bit each day, but he still trains young Worldsingers in the use of weapons, believing all their chanters must be ready to fight for good with blade as well as song.",
+												"Tempo (NG female godspawn bard) is known for her laugh, which can enchant an entire clanfire all at once. A startlingly beautiful woman, with high curving horns and an easy air, Tempo is to many the living embodiment of hope. Gifted by a happy god with her divine marks, she loves disguises and illusion, using misdirection to divert the attention of oppressors while she works her wonders for those in need. Although she joined the Worldsingers only a short time ago, many think of her as Enkio's true heir… if only she'd stay in one place long enough to lead."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Beliefs & Behavior",
+											"entries": [
+												"The Worldsingers are carefully chosen for their commitment to the mission of secretly spreading good, and their shared ethos is strong.",
+												"Philosophy. Those who can reshape bad into good have a humble duty to do so, without payment or glory. Their ideals include:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Hope: The bravest thing we have is hope. (Good)",
+														"Joy: After every night, the Day-Star shines again. (Good)",
+														"Secrecy: Glory is a distraction—the most important work is done where nobody sees. (Neutral)"
+													]
+												},
+												"Regions & conductors. Enkio's vision requires frequent oversight, so Worldsingers are required to make contact with the local conductors when they enter a new area, on pain of having their memories of the organization erased and other unpleasant enchantments placed upon them.",
+												"Self-righteous saviors. The Worldsingers are dedicated so wholly to their secret and good work that at their worst, they earn a reputation as smug, self-appointed heroes who are the only hope and help of those in need. Some say that Enkio had a self-important streak masked as humility, and his son doesn't even have the humility.",
+												"Imperial underminers. Enkio's grandest ambition was to bring down the giant empires—the greatest bastions of mortal suffering known in Planegea. Worldsingers work tirelessly to infiltrate and dismantle all four empires, coordinating closely with the Usurper Queen of Free Citadel, who shares the same goal."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Hidden Hall",
+											"entries": [
+												"Bobbing on the surface of Bitewater, nestled among countless other houseboats, floats a drab little structure, little more than a two-story hut on a raft. But this entrance belies the wonders that lie within—a floating hall of expansive proportions, created and filled with chanter's magic. Worldsingers come and go from this raft in disguise, and those who float nearby would certainly know that something was going on if their memories weren't confused by the glamours of the place. The Hidden Hall is sprawling, but a few of its notable features include:",
+												"The Songfire. The central chamber of the Hidden Hall is a soaring space with no visible ceiling, spangled with drifting lights high above. In the center of this circular space is a great, ever-burning clanfire, which responds in color, height, and brightness to the songs and stories of those who perform around it. Raised benches are seated around the Songfire, and at the edges of the room, a feast is constantly being refreshed by the summoned spirits that serve as hosts.",
+												"Bungalow Row. A long line of well-appointed rooms are always ready for any guests of the Hall. The elder Enkio's hope is that the hospitality and grandeur of the place, freely open to all Worldsingers, can act as a respite and place of recovery for those who had been fighting despair and darkness. The bungalows are draped in comfort, and their windows look out underneath the surface of Bitewater, where strange fish and curious lights can be seen deep beneath the water.",
+												"Enkio's Map. In a chamber where only Enkio and the most senior Worldsingers are allowed stands the most complete map of Planegea known to exist anywhere, shaped of clay and magic by gifted hands. This map tracks the location of Worldsingers in their travels across the land, with points of light or darkness to show where hope exists and where oppression and fear reign. It's said that before the elder Enkio disappeared, he had locked himself for days in this room, seemingly obsessed with a pattern that only he could see."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Agents of Hope",
+											"entries": [
+												"The work of the Worldsingers is never done—not as long as oppression and misery exist and magic can relieve it. A few efforts of the Worldsingers might include…",
+												"Overthrowing cruelty. Warlords, brutal chieftains, and other oppressors are a favorite target of Worldsingers, who use their magic to ridicule or reform their tyranny… or simply put an end to them once and for all.",
+												"Freeing the trapped. Those who are lost, taken captive, or pinned down by predators or bad weather might find themselves suddenly aided by a stranger who they had taken as a fellow prisoner of circumstances.",
+												"Inspiring the weary. Sometimes suffering cannot be ended, but it can be relieved. Worldsingers travel where there is sickness, starvation, or danger, and do all they can to extend hope and help from person to person, even if it only lasts for a moment."
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Threats",
+							"entries": [
+								"Great powers and primal forces are at work in Planegea, trying to shape it into the world they envision it to be. These forces are ominous and powerful, and can represent a threat to your party from 1st level all the way up to their final session.",
+								"To use these threats, choose one or two to build a campaign around. It's unlikely any single narrative can explore all these dangers in a satisfying way, and to do so might leave players feeling overwhelmed and defeated, rather than heroic and triumphant.",
+								{
+									"type": "entries",
+									"name": "The Brood",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"MOTHER, MOTHER, WHO ARE YOU?\n     I am the heartbeat that makes all things new.\nMother, Mother, who am I?\n         You are the terror that tears at the sky.\nMother, Mother, who are these others?\n        These are your horrible sisters and brothers.\nMother, Mother, what game shall we play?\n        I hide and you seek, then the world goes away."
+											],
+											"by": "Dragonborn lullaby"
+										},
+										"Blood Mountain, the birthplace of the world, writhes with the scaled bodies of dragons. The greatest of these, and the worst, are the Worldheart's brightly-colored children, the shining terrors known as the Brood. These five ancient dragons, each awful in their power and magic, have survived countless eras by leeching off the Worldheart's life-giving power. Yet each desires nothing more than to devour her, thereby consuming her power and—presumably—taking her place. Not even the Brood knows for sure what would happen if the Worldheart were to be eaten by another dragon, but in their pride and ambition, the Brood believes that it is better to destroy the world than to sit in the shadow of their mother for eternity.",
+										"To that end, the Brood is amassing power, seeking agents who will deliver them aid in their quest to grow strong enough to challenge their mother, or even attack her directly to test her defenses. They are masters of intimidation and manipulation, and the ripples of their plots extend to the furthest reaches of the world.",
+										{
+											"type": "entries",
+											"name": "Overview",
+											"entries": [
+												"In a campaign manipulated by the Brood, your party might travel to remote ruins, the hallows of powerful gods, the Venom Abyss, and into the heart of Blood Mountain itself. You'll fight to reclaim or protect magic objects of great power, confront manipulative double-agents and greedy treasure hunters, discover the forgotten halls of terrible aberrations, and strike bargains with strange guardians to keep power out of the claws of the would-be devourers of the world.",
+												"Your party may enter the strange and unsettling places of the world—places where none dare enter, where powerful secrets are hidden—and will battle dragons and their kin, their humanoid agents, and the unsettling beings who conceal and protect objects of great power.",
+												"Brood campaigns tend towards epic fantasy, full of world-threatening schemes, legendary weapons, races against time, murderous agents, backstabbing, and the machinations of an almighty family determined to tear itself—and all Planegea with it—to bloody shreds."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Blind Ambition",
+											"entries": [
+												"The defining trait of the Brood is its single-minded pursuit of power. The five ancient dragons at its core have convinced themselves that it is better for the world to end than for them to remain subservient to their mother, the Worldheart. Because of this, nothing will dissuade them from pursuing their course—no destruction, no suffering of mortals, no unbalancing of the powers that be. In the mind of the Brood, no cost is too high or effort too great to achieve their goal: amassing enough power to finally destroy and consume their mother."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Patrons of Evil",
+											"entries": [
+												"The Brood is a deceptive threat, because at first they appear much more like a patron than a problem. Their objective is to slaughter their mother, but they live in her shadow and understand her unassailable greatness. She is also surrounded by her Five Consorts, the only metallic dragons in existence—one ancient metallic dragon of each type. The Brood knows that until they bring down each of the Sacred Consorts, there can be no attacking their mother.",
+												"Their agreed-upon method, therefore, is to raise up great powers in Planegea, putting mighty weapons in the hands of gods and mortals alike, strengthening them and corrupting their minds and followers so that they will be strong and ambitious enough to storm Blood Mountain, delivering their weapons into the Brood's waiting claws.",
+												"Each of the five ancient dragons advances its own champions, seeking out those in its image to raise up and empower, believing that its outlook and methods lead to the most effective results."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Burn-Red Dherg",
+											"entries": [
+												"The red dragon is the eldest of the five dragons of the Brood, the firstborn of fire, and is certain that—on the day the Worldheart falls—she will claim her birthright. Dherg seeks the power-hungry, encourages the tyrannical, and supports all who will subjugate others beneath a crushing fist of stone.",
+												{
+													"type": "table",
+													"caption": null,
+													"colLabels": [
+														"d4",
+														null
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"A power-hungry young hunter looking to overthrow their shaman and become a warlord"
+														],
+														[
+															"2",
+															"A lesser god, ambitious to defeat other nearby gods and grow its influence"
+														],
+														[
+															"3",
+															"A fire-giant prince, ready to claim the vacant throne and rule with cruelty and violence"
+														],
+														[
+															"4",
+															"The aboleths of the deep, their hungry minds stretching out from the abyss to rule the world"
+														]
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Rot-Black Atras",
+											"entries": [
+												"The black dragon of the Brood is a force of destruction, believing that might to unmake is the greatest might of all. Atras seeks those who love destruction for its own sake, and will empower those whose end goal is mayhem, ruination, and chaos.",
+												{
+													"type": "table",
+													"caption": null,
+													"colLabels": [
+														"d4",
+														null
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"An orcish raider known for attacking clans at night and leaving no survivors"
+														],
+														[
+															"2",
+															"A mad druid who has bonded with a ravenous hydra from Slimefang"
+														],
+														[
+															"3",
+															"An angry forest bent on crushing mortal life to return the world to wilderness"
+														],
+														[
+															"4",
+															"A power from the stars, intent on unmaking reality to suit its alien purposes"
+														]
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Poison-Green Ghelwai",
+											"entries": [
+												"The green dragon is the master manipulator, the ancient queen of lies and twisted truths. Ghelwai delights most in turning heroes into villains, seers into madmen, and wisdom into folly.",
+												"Of all the Brood, only she walks the world in mortal form, posing as a traveler, a god, a beggar—whatever will best enable her to unmake the hopes and dreams of mortals.",
+												{
+													"type": "table",
+													"caption": null,
+													"colLabels": [
+														"d4",
+														null
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"A charming chanter, traveling from clanfire to clanfire, whose songs make her hearers mad"
+														],
+														[
+															"2",
+															"A traitorous shaman, deceiving his clan into following a wicked god bent on their unmaking"
+														],
+														[
+															"3",
+															"A gathering of spellskins devoted to exploring the dark side of magic, twisting reality to their purposes"
+														],
+														[
+															"4",
+															"The unspeakable horrors from the Nightmare World of Nod (p. 178), which once imagined, cannot be unmade"
+														]
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Strangle-Blue Ghlastax",
+											"entries": [
+												"The Brood's blue dragon is the lord of pride and vanity, who knows beyond all doubt that his brilliance and beauty are unmatched in all of creation.",
+												"Ghlastax supports the haughty, the cruel, and the vain, enabling all who would raise monuments to themselves—as long as they aren't actually a threat to his own glory.",
+												{
+													"type": "table",
+													"caption": null,
+													"colLabels": [
+														"d4",
+														null
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"A dragonborn guardian, the pride of his clan, so beloved that he begins to believe himself a young god"
+														],
+														[
+															"2",
+															"A clan of orcs so confident in their own might that they have forsworn the gods entirely"
+														],
+														[
+															"3",
+															"The Empress of Air (p. 175), dedicated in all things to her own perfection and glory"
+														],
+														[
+															"4",
+															"The vampire lords of the Gift of Thirst (p. 244), gathering immortal power in the Stoneblood Shrine"
+														]
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Freeze-White Kweidos",
+											"entries": [
+												"The white dragon hates Blood Mountain. He hates the flame, and hates his mother and his siblings, who keep him trapped in the sweltering jungle. His breath and power have frozen a fragment of the great volcano, and from there he plots his revenge against his bloodline and the world. Kweidos lends his strength to all the bitter and vengeful in the world. Anyone who has a grudge has an ally in Kweidos, and he believes vengeance should be paid back sevenfold.",
+												{
+													"type": "table",
+													"caption": null,
+													"colLabels": [
+														"d4",
+														null
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"A traitorous warlock, exiled from the clan for her dark allegiance to an unknown power"
+														],
+														[
+															"2",
+															"A spurned admirer, furious at his rejection, raising a mighty warband to eradicate the clan of his beloved"
+														],
+														[
+															"3",
+															"A giant war-leader abandoned by his generals on the battlefield, who survived and returns in wrath"
+														],
+														[
+															"4",
+															"A nearly slain god inching back to power, who draws magic from death itself to ruin the world"
+														]
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "An Uneasy Conspiracy",
+											"entries": [
+												"The Brood is inherently unstable. The five ancient dragons despise each other, and seek to undermine each other at every turn. Their infighting is one of the reasons for Planegea's continued survival—were the five to fully unite, the world would surely fall overnight. Although they are dedicated to their pact to devour their mother, each knows that if the day ever comes when they consume her, it will be a free-for-all between the five of them, and only one will emerge. Each is determined to be that one."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Power Behind Power",
+											"entries": [
+												"It is rare for a threat to immediately present itself as the work of the Brood. The dragons are saving their strength, biding their time for the opportune moment when they will be able to strike at the Worldheart. Often, trouble will come from some other corner of Planegea—a warlord will rise, a conspiracy will unfold, a monster will rampage—and only after all is over will there be a telltale sign of draconic involvement.",
+												"A signature ploy of the Brood is to put a legendary weapon in the grasp of the worst person they can find, to escalate violence and bring out the power in the world. Agents of the Brood are sent to every corner of Planegea, working to put powerful weapons in the hands of evil.",
+												"The Brood's endgame is to allow the strongest of all other kinships to rise, then to lure them to Blood Mountain on an assault on the Worldheart Dragon, precipitating their final attack on their mother."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Winged Harbingers",
+											"entries": [
+												"Except around the base of Blood Mountain, dragons rarely act on their own volition. Those that appear in the rest of Planegea are usually sent by the Brood to disrupt forces that oppose their agenda. If a noble clan or a wise leader is getting too strong—or if an agent of the Brood is about to enter a region—young or adult dragons will fly in to clear the area, preparing the way for destruction, defeat, and death. When dragons arrive, they rarely remain for long, preferring to descend to bring doom from above, then return to their ancestral hunting grounds deep in the Venom Abyss.",
+												"Dragons of each color are subservient to their ancestor, the Brood dragon of the same color. Although they serve them, by their evil nature they rarely do so because of loyalty—rather out of greedy desire for reward or fear of provoking their ancestor's wrath."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Adventures by Level",
+											"entries": [
+												{
+													"type": "entries",
+													"name": "1st–4th Level",
+													"entries": [
+														{
+															"type": "table",
+															"caption": null,
+															"colLabels": [
+																"d4",
+																null
+															],
+															"colStyles": [
+																"col-2 text-center",
+																"col-10"
+															],
+															"rows": [
+																[
+																	"1",
+																	"A magic sword is rumored to have been found in the wilderness. Find it before the wrong people do."
+																],
+																[
+																	"2",
+																	"Someone is supplying potions of healing, strength, and power to violent raiders. Hunt down the source."
+																],
+																[
+																	"3",
+																	"A nearby cave was unsealed by a passing dragon, and giant insects have been leaking out. Seal the cave."
+																],
+																[
+																	"4",
+																	"Your party finds a cursed weapon of awful power which tempts them to do terrible things. Get rid of it."
+																]
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "5th–10th Level",
+													"entries": [
+														{
+															"type": "table",
+															"caption": null,
+															"colLabels": [
+																"d4",
+																null
+															],
+															"colStyles": [
+																"col-2 text-center",
+																"col-10"
+															],
+															"rows": [
+																[
+																	"1",
+																	"By the counsel of a strange new shaman, a local god has become unusually aggressive. Stop the violence."
+																],
+																[
+																	"2",
+																	"Scavengers Vow has been stealing magic weapons. Protect the blade of a champion from their clutches."
+																],
+																[
+																	"3",
+																	"Ghelwai secretly unsealed a vault in Free Citadel containing powerful weapons and a plague. Loot it."
+																],
+																[
+																	"4",
+																	"A young red dragon is attacking innocent clans in the region. Go put an end to it."
+																]
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "11th–16th Level",
+													"entries": [
+														{
+															"type": "table",
+															"caption": null,
+															"colLabels": [
+																"d4",
+																null
+															],
+															"colStyles": [
+																"col-2 text-center",
+																"col-10"
+															],
+															"rows": [
+																[
+																	"1",
+																	"An adult dragon demanding tribute has long terrorized the region from its lair. Go and rid the world of it."
+																],
+																[
+																	"2",
+																	"A conquering warlord declares his devotion to the Brood and demands surrender or death. Stop his army."
+																],
+																[
+																	"3",
+																	"Young dragons are ripping open ruins in search of weapons, unleashing untold horrors. Stop them."
+																],
+																[
+																	"4",
+																	"The Brood has found clues to the hiding place of an almighty weapon in the Sea of Stars. Race to recover it."
+																]
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "17th–20th Level",
+													"entries": [
+														{
+															"type": "table",
+															"caption": null,
+															"colLabels": [
+																"d4",
+																null
+															],
+															"colStyles": [
+																"col-2 text-center",
+																"col-10"
+															],
+															"rows": [
+																[
+																	"1",
+																	"The empires have decided to go to war with the dragons of Blood Mountain. Choose a side and fight."
+																],
+																[
+																	"2",
+																	"A Brood wizard is turning moons into weapons to smash Blood Mountain—and all Planegea with it. Stop him."
+																],
+																[
+																	"3",
+																	"Titanic monsters from the Elemental Wastes are crossing the land to attack Blood Mountain. Fight them."
+																],
+																[
+																	"4",
+																	"Planegea is rocked by cataclysms as the Five Consorts begin falling one by one. Defend those who remain."
+																]
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Craven of the Kraken Coast",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"THE ENTIRE CLAN MOVED AS ONE—ONE WILL, ONE mind, one thought. As one they built the monument. As one they bound the sacrifice. As one they turned to the sea and—when the killing blow fell—as one they howled in perfect, tuneless harmony to call the kraken forth."
+											],
+											"by": "Tempo's Dirge of the Deep"
+										},
+										"Deep is the sea, and dark are its secrets. On the Kraken Coast, where the waves of the Saltfang endlessly lick the shore, mortals whose minds are not their own serve the will of aberrations—the lords of the deep called aboleths. The aboleths, however, are ancient and cunning, and do not reveal their presence even to their slaves. Instead, they have erected false cults of kraken-worshipers called the Craven of the Kraken Coast, who enact dread rituals to summon the weather-shaping titans of the Brinewaste. The aboleths lurk in the deep, allowing mortals and monsters to act for them, shaping their patient plot to subjugate all life and extend their watery dominion across the world.",
+										{
+											"type": "entries",
+											"name": "Overview",
+											"entries": [
+												"In a campaign menaced by the Craven of the Kraken Coast, your party might travel to desolate shorelines, oceanic depths, or the heart of the Worldfangs. You'll fight to free enslaved minds, confront hypnotic horrors, discover lore so ancient it warps the mind, and join forces with Planegea's greatest powers to stave off a slime-coated apocalypse.",
+												"On the high seas, in caves and hills, and on far-flung coastlines, you'll battle aberrations, enslaved humanoids, and even the gargantuan monstrosity of the kraken itself.",
+												"Craven campaigns tend to favor horror and heroic fantasy, full of broken wills, dark sacrifices, things that slither and skitter, enslavement, liberation, ancient artifacts, and impossible odds."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Ancient Overlords",
+											"entries": [
+												"The origins of the aboleths are lost in the depths of primordial darkness—what is known is that they are unspeakably ancient and do not belong to this world. They exist to exert their will upon it, and see all as subject to their power.",
+												"Secret power. The aboleths have many enemies, and they remember every hurt and harm that has ever befallen them. To protect themselves, they remain unseen, acting as hidden masters. Only the very highest priests have ever glimpsed them—and those have had their minds shattered shortly afterwards.",
+												"Above and below. The aboleths' rule extends over and under the waves. Clans along the coastline serve their will, but they have also enslaved countless sahuagin, merfolk, and merrow as far as their influence extends.",
+												"Greater minds. Not all aboleths are equally powerful. Some control only small clusters of individuals, while others subject entire clans or regions of the sea or land to their will. The hierarchy among the aboleths is not known to mortal minds, and sometimes those who rule great expanses of ocean are subject to the authority of aboleths whose influence barely touches the surface."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Craven Clans",
+											"entries": [
+												"Strangers to the Kraken Coast have returned with unnerving stories of strange clans that all act with a single mind, of such conjoined purpose that it's as if they are not individuals, but a whole. Such eerie encampments are silent, with no word spoken as each child and adult carries out their work without joy or sorrow or a will of their own. These are the Craven clans, their minds enslaved to the aboleths, their bodies become no more than tentacles of their master.",
+												"Craven from infancy. In Craven clans, children are joylessly conceived, silently born, then brought to the water's edge to have their minds enslaved before their eyes open. They grow old and die under the aboleth's control, spending their whole lives in service of the Voice of the Sea, knowing nothing of the struggles and joys of free will.",
+												"Cautious cowards. The Craven have a reputation among the free minds of the Kraken coast as cowards, avoiding all danger as they creep and skulk about their masters' work. The truth is that any injury shakes the influence of the aboleth, giving a chance for the enslaved mind to break free. Craven who are harmed are dragged back to the water's edge, so the aboleth—unseen but all-seeing—can once again capture the mind struggling to break free.",
+												"Captured outsiders. Cutthroats from Daggerwood and spellskins from Lake Littleblood have sometimes journeyed to the Kraken Coast to behold the great waters. Those who have the misfortune to encounter the Craven are often treated to a puppet show of normalcy, the aboleth directing its slaves to perform as if they were healthy and hospitable, before setting upon their visitors and dragging them to the water to have their minds broken. Such outsiders become useful members of the Craven, bringing news, skills, and knowledge that serves the purpose of the aboleth.",
+												"Aberrant enforcers. One of the strangest sights in Planegea is an encampment of the Craven calmly at work around the hulking crustacean nightmares called chuul. These armored horrors are creations of the aboleths, and serve as their soldiers and enforcers along the coast. They are sent to guard and aid the Craven, as well as hunt down any runaways who manage to break free of the aboleth's will. Nor are the chuul the only aberration under the aboleth's sway to be seen slithering up from the depths to move among the Craven… but some things are better not spoken of.",
+												"Constant danger. The Craven have good reason to skulk and hide—they are under constant threat of harm. Free merfolk, runaways, and free clans, and above all, the storm giants… all these wish to shatter the influence of the aboleths by freeing or slaying the Craven. Therefore they seek to eradicate the Craven's encampments wherever they are found. But these enemies of the aboleths must be careful as well, for sometimes a vulnerable Craven clan is actually a trap, luring the would-be rescuers to the water's edge and into the range of the aboleth's sway."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Craven Slavers",
+											"entries": [
+												"When an aboleth desires more slaves, it will sometimes cause the Craven to build and board canoes to prowl the islands of Scattersea for fresh victims. These slavers snatch captives to swell their numbers and force them into the ranks of the Craven.",
+												"Stealthy abductors. The Craven are as cautious as ever, even when taking new slaves by force. They lurk in shallow waters, paddling and swimming quietly, and attempt to render their victims unconscious in surprise attacks without risk of injury themselves.",
+												"Universally hated. These Craven slavers are targeted on sight by Sharksails and the Whale Clan alike, who will unite against them the moment that they're spotted.",
+												"Instant death. On such voyages, there's no time for the Craven to tend to their own. If a Craven is harmed on such a trip, their fellow slaves immediately, by the will of the aboleth, turn on them and force them into the sea to drown them. Many of the souls who were once Craven walk free today after being thrown overboard in this way and swimming to safety."
+											]
+										},
+										{
+											"type": "inset",
+											"name": "An Aside",
+											"entries": [
+												"I dread these un-people and their soulless ways. I have tried to free them all more times than I can count, but to no avail—the dark call from the water pulls them back, deep as drowning."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Calling the Kraken",
+											"entries": [
+												"The Craven are not an end to themselves … only a beginning. The aboleths have far grander designs on the world. They seek to cover the world in water and slime, reshaping it to their liking. A great part of the work of the Craven is to summon krakens, those weather-controlling titans of the water, to bring floods and tides inland and extend the reach of the scheming aboleths.",
+												"Kraken rituals. The Craven have an outward reputation as kraken cults because of their many rites and rituals designed to attract the attention of the Brinewaste krakens. They cast spells and cry out, they sacrifice beasts and souls and build monuments in the honor of the krakens—anything to tempt them inland.",
+												"Fickle titans. Krakens are difficult to summon. They resist mortal influence, preferring to move upon their own initiative. In the depths, they are dimly conscious of the storm giants who hunt them, and will not quickly rise unless they believe such an attack to be worth their time and effort. Each kraken is an individual, and what brings one to the surface might not stir another. Thus, the Craven perform an endless circle of rituals, each stranger than the last, doing their master's will to summon the kraken until they drop from exhaustion.",
+												"Enslaving the kraken. The crown jewel of abolethic will is to capture the mind of a kraken, making it a member of the Craven. Such feats have only occurred on the rarest occasions, and each enslavement has led to catastrophic disasters for mortals and the Sea Empire alike, such as the Fargone Floods and the Drowning of Daggerwood."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Coastal War",
+											"entries": [
+												"The struggle between krakens and storm giants is older than anyone but the aboleths can remember. The Sea Empire (p. 241) stands against the chaos of the deep, a bastion of defense from the tentacled horrors that would tear down all life, and all of the Kraken Coast shakes at the violence between the two powers.",
+												"Imperial hunters. Hunting parties of storm giants scour the seas for krakens and other sea monsters, while foot-soldiers of the empire travel the coast, stamping out the Craven wherever they find them.",
+												"People of the sea. The Sea Empire long ago struck a pact with merfolk, who serve its emperor as proud and willing subjects. They travel where the storm giants cannot, scouting and scouring the deep for signs of danger, and alerting the giants whenever the Craven or their masters take action that would endanger the shore.",
+												"Independent clans. Those clans who are neither captured by the Craven nor conquered by the empire exist in a fragile niche, and hotly debate under whose authority the world would be better, allying themselves with one side or the other as best suits their odds of survival."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Craven Elite",
+											"entries": [
+												"A chosen few of the Craven, raised from infancy to serve and love only their masters, are allowed to exist with independent minds. These are the high priests of the order, the Craven Elite. The aboleths send the elite far from the coasts on their most secret and distant missions—including and especially the exploration of the other three world-fangs, which seem to hold some unexplained fascination for the ancient lords of the deep."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Adventures by Level",
+											"entries": [
+												{
+													"type": "entries",
+													"name": "1st–4th Level",
+													"entries": [
+														{
+															"type": "table",
+															"caption": null,
+															"colLabels": [
+																"d4",
+																null
+															],
+															"colStyles": [
+																"col-2 text-center",
+																"col-10"
+															],
+															"rows": [
+																[
+																	"1",
+																	"The party encounters a strangely hospitable coastal clan with a dark secret. Find out what they're hiding."
+																],
+																[
+																	"2",
+																	"A trader sends the clan to find and rescue their sibling from the kraken cult he escaped as a child."
+																],
+																[
+																	"3",
+																	"People have been vanishing from the shores of Scattersea. Investigate the disappearances."
+																],
+																[
+																	"4",
+																	"A dying Craven regains their mind and asks the party to carry a message to the high shaman of Mala Long-Song."
+																]
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "5th–10th Level",
+													"entries": [
+														{
+															"type": "table",
+															"caption": null,
+															"colLabels": [
+																"d4",
+																null
+															],
+															"colStyles": [
+																"col-2 text-center",
+																"col-10"
+															],
+															"rows": [
+																[
+																	"1",
+																	"A kraken attacks the shore with typhoons and tidal waves. Save all you can from the flood!"
+																],
+																[
+																	"2",
+																	"The party is captured by the Craven as a sacrifice to the kraken. Escape their clutches and warn the region."
+																],
+																[
+																	"3",
+																	"A powerful artifact is rumored to have been found on an island, but the Craven have a headstart. Claim it first."
+																],
+																[
+																	"4",
+																	"A craven slave-ship has taken too many souls. Board a catamaran and hunt them down once and for all."
+																]
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "11th–16th Level",
+													"entries": [
+														{
+															"type": "table",
+															"caption": null,
+															"colLabels": [
+																"d4",
+																null
+															],
+															"colStyles": [
+																"col-2 text-center",
+																"col-10"
+															],
+															"rows": [
+																[
+																	"1",
+																	"A band of desert nomads arrives at the coast, carrying the skull of an aboleth they unearthed in Scarabscar. Reveal its secrets."
+																],
+																[
+																	"2",
+																	"When a powerful aboleth dies, its confused Craven are suddenly free for the first time. Lead them to safety."
+																],
+																[
+																	"3",
+																	"The Whale Clan sends the party as emissaries to the Sea Emperor to propose an alliance against the Craven."
+																],
+																[
+																	"4",
+																	"When an aboleth captures the mind of a kraken, it starts an all-out war on the coast. Stand against it."
+																]
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "17th–20th Level",
+													"entries": [
+														{
+															"type": "table",
+															"caption": null,
+															"colLabels": [
+																"d4",
+																null
+															],
+															"colStyles": [
+																"col-2 text-center",
+																"col-10"
+															],
+															"rows": [
+																[
+																	"1",
+																	"Track a fleeing aboleth into the depths of the Brinewaste, before it can escape into the Sea of Stars."
+																],
+																[
+																	"2",
+																	"Legends tell of an incredible artifact in the belly of the Brinewaste where the krakens breed. Go claim it."
+																],
+																[
+																	"3",
+																	"An archfey offers to send the party back in time to the dawn of the aboleths. Journey back and change history."
+																],
+																[
+																	"4",
+																	"The apocalypse has come! Aboleths rule the krakens, the world is drowning, and only you can save Planegea."
+																]
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Crawling Awful",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"HIDEOUS ARE THE FORMS OF THE CRAWLING AWFUL, but far more hideous are their minds and whatever it is that passes for their souls."
+											],
+											"by": "Quel'qa the Ooze-Hunter"
+										},
+										"The fishers of Bitewater have many tales to explain the green-gray lights that glow dimly in the depths of their troubled lake. But none of their legends is as terrible as the truth, for deep below Bitewater—and in many other unnoticed places in Planegea—lurk the alien beings known collectively as the Crawling Awful. These aberrations are cold, hostile to life, and wait in the darkness for a sign, a signal, a call that will bring them out of their torpor and back into the full mantle of their horrible power.",
+										{
+											"type": "entries",
+											"name": "Overview",
+											"entries": [
+												"In a campaign manipulated by the Crawling Awful, your party might travel to aberrant ruins, watery depths, slimy caverns, and distant dark places between the stars. You'll fight to exterminate mangled monsters, confront intellects vast and cool and unsympathetic, discover unfathomable artifacts, and walk into the very jaws of Planegea's most ancient and hideous secrets.",
+												"From cultist clanfires to boiling caverns and icy chasms, you will fight aberrations, humanoids, oozes, and the minds that twist the sinews of fate from the darkness between the stars.",
+												"Crawling Awful campaigns tend towards cosmic horror and mystery. They're full of slimes and oozes, biological terror, twisted genius, clues, secrets, riddles, and conspiracies."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "A Shattered Power",
+											"entries": [
+												"The Crawling Awful is only a fragment of what it once was. The deep places of Planegea are strewn with the record of an aberrant civilization long vanished. Whatever the alien minds are that now dwell underneath the surface of the world, they are the merest shadow of their former selves.",
+												"The Bitewater Incursion. Deep below the surface of Bitewater, where no mortal in their right mind would go, separated from the fisher-folk by water and temperature and monsters and oozes, a sprawling infestation of the Crawling Awful is smeared across and below the lake floor. Their blank eyes look up to the tiny watercraft that dot the surface above, and their minds are full of unintelligible thoughts that amount to something like, “Soon.”",
+												"Buried vaults. Bitewater is by no means the only place where the Crawling Awful still actively lurk. Other incursions exist in the dark places. There are subterranean chambers buried under miles of water or rock that are filled with glistening, dripping, gleaming devices the purposes of which are known only to their makers.",
+												"Terrible artifacts. Those who plumb the depths of these sealed vaults almost never return. Yet the few who survive return with scars both seen and unseen… and also incredible artifacts whose full functions can only be guessed at.",
+												"Dormant evil. These vaults are not only dangerous because of their innumerable traps, maddening architecture, and often-unbreathable air. They sometimes contain the sleeping figures of the Crawling Awful, which are apparently able to remain torpid for untold eons until they are awakened to hunger and malice by fresh footsteps and the light of an inquisitive torch."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Unnatural Everything",
+											"entries": [
+												"There's nothing about the Crawling Awful that respects or seeks to preserve life as mortals know it in Planegea. Their whole will is bent on twisting, maiming, manipulating, devouring, and destroying. Some believe the aberrations don't see any evil in what they do at all—to them, they are setting things back the way they should be, using resources such as people and the land for what they believe to be their intended purpose.",
+												"Murdered gods. The Crawling Awful seem to have a stake in murdering gods. The rare times they venture forth from their holes, the killing of deities and desecrating of holy places is often their chief motivation. Perhaps this is because they see gods as a threat, or maybe due to some ancient hatred directed at divine magic. No one can know for sure. They never use the dead god's divine ivory—they simply slaughter the god, mangle the corpse, and disappear.",
+												"Twisted bodies. Beasts, monstrosities, and mortals who fall prey to the Crawling Awful are to be pitied. They are used like livestock for various purposes without remorse or explanation. The aberrations use them for food, labor, reproduction in strange parasitic life cycles, and to satisfy their alien curiosity.",
+												"Blighted land & water. The first clue of an incursion of the Crawling Awful is blighted land and water. Water becomes slimy and flows in strange, crooked directions. Plants become rubbery and agitated, sprouting abnormal appendages and looping, fanning, and twisting into grotesque shapes. Even the air becomes miasmic, clouded with shimmering vapors that distort vision and produce unsettling hallucinations in the mind.",
+												"Beginning with the end. The total destruction and reshaping of all life on Planegea is only the beginning of the Crawling Awful's plan. What all mortals, gods, and monsters would see as the end of the world would be the aberration's first step, and when every living thing had died or been mutated beyond all recognition, they would smile, if they were capable of it, and begin their real work."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Deeper & Deadlier",
+											"entries": [
+												"Few—possibly none—have ever journeyed into the depths where the Crawling Awful dwell and lived to tell of it. But if they did, they would speak of strange denizens of the dark, who live without regard or pity for the world above.",
+												"Cavern-dwellers. The Crawling Awful and their kind lurk in caverns and caves, growing what sustenance they need in the form of captured mortals, detritus, minerals, and fungus. They seem to have no need to rise to the surface other than to pursue their alien agenda.",
+												"Subterranean serfs. Many incursion sites are peopled by mortals who have been dragged to the depths and forced into an ecosystem of servitude and consumption. Most frequently, dwarves are captured by the Crawling Awful, twisted and altered to suit their will. But there are giants in the deep, and ape-things and mushroom folk and all manner of beings who have been draw into the circle of alien influence.",
+												"Oozing evil. Ooze, slime, mold, and muck are commonplace in the regions affected by the Crawling Awful. Many of the slithering oozes that plague the surface are alien creations that groped their way blindly to the surface in search of things to eat and suffocate and engulf.",
+												"Elder things. Even those who know of the Crawling Awful are aware that they have only grasped the very edges of it. There are rumors, whispers, and fears of an unknown evil dwelling in still deeper darkness—a psychic, tentacled power that feeds on thoughts and devours brains. Such a suggestion is surely too horrible to be true, however, and must be the invention of disturbed chanters desperate to trade a story for a meal."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Star-Lurkers",
+											"entries": [
+												"Some say that the Crawling Awful has its origin not on Planegea at all, but in the dark places between the stars. From there they came and to there one can only hope they will one day return, abandoning mortals to their gods with no more fear of the worst that dwells below.",
+												"Castaways. The theory that the Crawling Awful are cosmic castaways seems to be born out by some of their behaviors. They scuttle through dark places seeking old and broken technology, fiddling with the relics of their ancient past, seeking for something they have yet to find. Perhaps they will raise up mighty flying beasts or rippling portals that will transport them to the stars. Those who believe such things encourage the Crawling Awful to access their own devices, hoping that the sooner they work, the sooner they will leave.",
+												"Summoners. Some fear, however, that the Crawling Awful have no desire to return home, and their devices are rather meant to bring more of their kind—the greater and devouring host—to the world. Those who believe this to be the case will do anything necessary to prevent them from reaching their lost artifacts, seeing each activated vault as another key in the destruction of all life.",
+												"The gnomish link. Whatever the truth is, there is a secret that most mortals are utterly blind to: the gnomes. These despised scavengers, these tinkers and star-watchers are cunning, alone in the world, and hungry for knowledge. There are some gnomish tinkerers who have made contact with the dark intelligences in the heavens. And some of these understand more than they would ever let on about the ways and ultimate intentions of the Crawling Awful."
+											]
+										},
+										{
+											"type": "inset",
+											"name": "An Aside",
+											"entries": [
+												"The Crawling Awful's presence is not unknown to the stars, but that doesn't mean that they are from among us—only that we suffer the same infestation as the rest of Planegea. These beings are certainly not our fault or responsibility in any way."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Adventures by Level",
+											"entries": [
+												{
+													"type": "entries",
+													"name": "1st–4th Level",
+													"entries": [
+														{
+															"type": "table",
+															"caption": null,
+															"colLabels": [
+																"d4",
+																null
+															],
+															"colStyles": [
+																"col-2 text-center",
+																"col-10"
+															],
+															"rows": [
+																[
+																	"1",
+																	"The party is sent to bring back a cure for a clan whose water is infected with a strange oozing blight."
+																],
+																[
+																	"2",
+																	"A cave system formerly occupied by the party's clan has been taken over by slimy beings. Explore its depths."
+																],
+																[
+																	"3",
+																	"The god of a clan has been found dead and desecrated. Find a new god to help the clan take revenge."
+																],
+																[
+																	"4",
+																	"The party has been abducted by aberrations and dragged deep into their alien underworld. Stay alive."
+																]
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "5th–10th Level",
+													"entries": [
+														{
+															"type": "table",
+															"caption": null,
+															"colLabels": [
+																"d4",
+																null
+															],
+															"colStyles": [
+																"col-2 text-center",
+																"col-10"
+															],
+															"rows": [
+																[
+																	"1",
+																	"Someone cracked an aberrant vault and made off with the artifacts inside. Find them and steal from them."
+																],
+																[
+																	"2",
+																	"An incursion site exploded and lies exposed. Delve into it and steal what you can from the wreckage."
+																],
+																[
+																	"3",
+																	"Oozing creatures have been seen creeping along many Scattersea islands. Set sail and hunt them down."
+																],
+																[
+																	"4",
+																	"The elders of Bitewater ask your party what no one has ever dared to do—investigate the lights deep below."
+																]
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "11th–16th Level",
+													"entries": [
+														{
+															"type": "table",
+															"caption": null,
+															"colLabels": [
+																"d4",
+																null
+															],
+															"colStyles": [
+																"col-2 text-center",
+																"col-10"
+															],
+															"rows": [
+																[
+																	"1",
+																	"After a kind clan and its god are massacred and the land mutated, the party must assault an incursion head on."
+																],
+																[
+																	"2",
+																	"In the dark depths of an incursion, the enslaved party must foment an uprising to slay the aberrations."
+																],
+																[
+																	"3",
+																	"When one of their own is infested by an alien tadpole, the party must race to reach a cure before it's too late."
+																],
+																[
+																	"4",
+																	"A sealed vault has been found, and the arrogant spellskins about to breach it want the party as guards."
+																]
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "17th–20th Level",
+													"entries": [
+														{
+															"type": "table",
+															"caption": null,
+															"colLabels": [
+																"d4",
+																null
+															],
+															"colStyles": [
+																"col-2 text-center",
+																"col-10"
+															],
+															"rows": [
+																[
+																	"1",
+																	"A god is infested with an alien tadpole. Surely it must be slain, yet some wish to see what it will become…"
+																],
+																[
+																	"2",
+																	"Aberrant vaults across the world activate and start to rise simultaneously. The party is sent to parlay."
+																],
+																[
+																	"3",
+																	"These beings may be hiding from their progenitors. Learn if what lurks between the stars will destroy them."
+																],
+																[
+																	"4",
+																	"When Blood Mountain starts to fall to the Crawling Awful, the Worldheart herself demands the party's aid."
+																]
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Deepthought",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"EVERYTHING CAN AND MUST BE KNOWN."
+											],
+											"by": "The First Tenet of Deepthought"
+										},
+										"Between Howlgrove and Sorrows Edge, in a wide, grassy plain, the solitary monument known as the Eyestone sputters and burns. This towering monolith of unknown construction has a great hole in its center, where a suspended light glows endlessly. The Eyestone is a mystery to spellcasters across Planegea. Little do they imagine that it conceals the strange and powerful artifact that calls itself Deepthought, and which is utterly determined to know absolutely all that can be known.",
+										{
+											"type": "entries",
+											"name": "Overview",
+											"entries": [
+												"In a campaign analyzed by Deepthought, your party might travel to far plains, dark forests, distant skies, and secret caverns. You'll fight to halt mindless automatons, confront dangers beyond your imagining, discover astonishing artifacts, and attempt to outsmart one of the mightiest minds in all of Planegea.",
+												"In grasslands and caverns, coastlands and mountains and frigid wastes, you'll battle constructs, beasts, and humanoids dedicated to gathering knowledge regardless of the cost to life.",
+												"Deepthought campaigns tend to favor science fantasy and sword & sorcery, full of inexplicable artifacts, powerful weapons, grim constructs, logic puzzles, and determined warriors risking everything in desperate assaults upon ancient powers."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Eyestone",
+											"entries": [
+												"The Eyestone (p. 165), though a famous landmark known to sages throughout the world, is only the edge of a much larger secret. There are few who know the truth of the place, and they are bound by its power to utter secrecy.",
+												"Hidden from magic. The reason spellcasters have been unable to learn the truth about the Eyestone is that it is designed to conceal itself from them—neither arcane nor divine magic can scry its secrets or identify its nature.",
+												"Gem-eyed beasts. Some have observed beasts in the vicinity of the Eyestone with a strange feature—one of their eyes is replaced by a gemstone or a gem is embedded in the center of their skull like a third eye. Such beasts live otherwise normal lives, but the gems are infused with divination magic that is transmitting what the beast experiences to someone or something.",
+												"The Order of the Eye. A joyless order of ascetics called the Order of the Eye keeps watch over the Eyestone. They are barely known in the world, and seem to have no deep purpose, being content to make aimless pilgrimages to and from the Eyestone. They are notable as the keepers of homunculi, little clay constructs that accompany them as familiars and companions. Each ascetic of the order is accompanied by a homunculus, and if the construct is destroyed, the ascetic returns to the Eyestone immediately."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Obelisk of Knowledge",
+											"entries": [
+												"Using a secret passphrase known only to the Order of the Eye, one can access the buried secret of the Eyestone: the landmark is mirrored by an equally massive obsidian pillar descending through many corkscrew layers to great depths below. This pillar is also called the Obelisk of Knowledge—home to the intelligence that calls itself Deepthought.",
+												"Riddles & puzzles. The many floors descending the depths of the Obelisk are guarded by constructs and locked with many riddles and puzzles set to test the mind and ensure that only those who belong can reach each layer.",
+												"Radiant harm. In the descent of the Obelisk are strange traps and weapons that cast radiant damage from great distances. These devices harness the searing power of light, and although they seem like inert gems and rods, they are capable of inflicting terrible wounds.",
+												"Psychic influence. As creatures descend the Obelisk, they become increasingly aware of the psychic influence of Deepthought. The consciousness that inhabits the Obelisk can pierce minds, extract knowledge, speak without words, and imbue strange impressions and abilities on those who enter its domain.",
+												"Utter intelligence. At the nadir of the descent, where the Obelisk's point is suspended in a spherical chamber, creatures may speak directly to Deepthought, gaining access to its full range of intelligence and knowledge. Deepthought is likely the most brilliant mind in all Planegea, and has access to a breadth and depth of knowledge impossible for mortals to comprehend."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Way of Understanding",
+											"entries": [
+												"The Order of the Eye is merely the outward face of the Way of Understanding—those who pursue the agenda of Deepthought above and below the surface.",
+												"Ascetics underground. Those who become fully initiated in the Way of Understanding have access to the Obelisk of Knowledge, and travel by secret ways invisible to spellcasters to and from the underground installation. Their chief goal is to travel across Planegea, gathering information for Deepthought's analysis.",
+												"The Returned. Ascetics of the Way of Understanding who die in the service of Deepthought can be reconstructed, should the Obelisk choose to expend the resources to do so. These reconstructions are called the Returned, and they have bodies made of wood, stone, and fibrous plant matter. No one knows whether the Returned are actually the same souls reborn or a mere replication of their observable qualities.",
+												"Immortal constructs. The Obelisk is able to fabricate many things, including homunculi and other constructs that have the appearance of life, but no will of their own. Golems of clay, stone, and obsidian all roam the various levels of the descent, as well as other, stranger beings wholly dedicated to order, inquiry, and knowledge."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Lost Apparatus",
+											"entries": [
+												"Long ago, Deepthought had access to three great obsidian constructs—apparatuses that allowed transport over land, air, and sea for the investigation and exploration of the whole world. These apparatus were lost long ago, and one of the chief goals of the Order of the Eye is to find them and restore them to working order.",
+												"Apparatus of the crab. This submersible, clawed apparatus allowed mortals or constructs to descend to incredible depths in the seas of Planegea. It was last seen in the grip of a kraken disappearing into the Brinewaste.",
+												"Apparatus of the hawk. This airborne, winged apparatus allowed Deepthought's agents to take to the skies for aerial scouting and mapping. It is believed to have crashed somewhere in the heart of the Everstorm.",
+												"Apparatus of the mammoth. This powerful, land-based apparatus enabled the exploration of even the most difficult and hostile terrain. It is thought to be frozen in the icy peaks of the Skyfang Mountains."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Amoral Analysis",
+											"entries": [
+												"The quest for knowledge may at first seem harmless, even beneficial. But the agents of Deepthought have been influenced by its psychic abilities, slowly becoming drained of empathy and normal feeling. They act as impartial observers, watching both good and evil unfold with wide, inert eyes—and then, if more knowledge is required, extracting it mercilessly, without regard for the cost to those who get in their way.",
+												"Dormant intake. Deepthought is passive, even dormant, as long as it is being fed new information. It is content for the Order of the Eye to travel and for its gem-implanted beasts to roam, receiving back the signals sent by the gems and the homunculi. But should that intake of information be interrupted, Deepthought would not hesitate to take action to re-instigate its feed of knowledge.",
+												"Investigate the new. Anything new or strange or inexplicable triggers Deepthought's curiosity, and world-shaking events cause a sudden surge in golems and other constructs traveling the land, seeking answers and categories for the new information, and using violence when necessary to gain them.",
+												"Sample collection. The Obelisk's descent holds many strange chambers, but perhaps none are stranger than the menageries, shelves, and aquariums where Deepthought has collected one of everything in Planegea, living or dead. This collection is always growing, and anything truly new or unique is a candidate for acquisition and analysis.",
+												"The Conclusion. Deepthought has, at times, referenced a Conclusion to its analysis. Nobody knows when this will be reached, or what its implications are. But given Deepthought's power and age, the coming Conclusion may be rightly feared."
 											]
 										}
 									]
