@@ -21437,6 +21437,1157 @@
 										"Natural Defense. The spiny creature gains a +1 to its AC.",
 										"Spiny Body. A creature that touches the spiny creature or hits it with a melee attack while within 5 feet of it takes piercing damage based on the creature's size: Tiny, 1; Small or Medium, 1d4; Large, Huge or Gargantuan, 2d4."
 									]
+								},
+								{
+									"type": "entries",
+									"name": "Tentacled",
+									"entries": [
+										"Whether by aberrant influence or natural selection, some creatures develop tentacles which can be used to ensnare and entangle. Such creatures are often harvested for their tentacles, which can be used as cords, whips, or other crafting components.",
+										"When a creature is tentacled, it retains its statistics except as described below.",
+										"Grasping Tendrils. The tentacled creature can have up to six tendrils at a time. Each tendril can be attacked (AC 20; 5 (1d10) hit points; immunity to poison and psychic damage). Destroying a tendril deals no damage to the tentacled creature. A tendril can also be broken if a creature takes an action and succeeds on a DC 15 Strength check against it.",
+										"New Action: Multi-Attack. The tentacled creature makes as many Tendril attacks as it has tendrils.",
+										"New Action: Tendril. As an action, the tentacled creature can make a melee weapon attack against one creature it can see within 25 feet. On a hit, the target is grappled (escape DC 15). Until the grapple ends, the target is restrained and has disadvantage on Strength checks and Strength saving throws, and the tentacled creature can't use the same tendril on another target.",
+										"New Action: Reel. The tentacled creature pulls each creature grappled by it up to 25 feet straight toward it."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Tunneling",
+									"entries": [
+										"Some creatures burrow through the earth, leaving behind tunnels through which they can escape or drag their prey. Such creatures are often harvested for their powerful digging claws.",
+										"When a creature is tunneling, it retains its statistics except as described below.",
+										"Speed. If the tunneling creature did not already have a burrowing speed, it gains one equal to its base walking speed.",
+										"Tunneler. The tunneling creature can burrow through solid rock at half its burrow speed and leaves a tunnel of its own size in its wake.",
+										{
+											"type": "inset",
+											"name": "An Aside",
+											"entries": [
+												"I do NOT care for tunneling beasts. Stars were certainly never made to be beneath the ground. Even my beloved Seerfall gives me the chills if I do not emerge every few hours to glimpse the sky."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Undead",
+									"entries": [
+										"Through dark magic, especially near doorways to the Nightmare World of Nod, some creatures can lurch back into a fearful semblance of life after death. Such creatures are rarely harvested, except for components for dark spells and evil curses.",
+										"When a creature is undead, it retains its statistics except as described below.",
+										"Undead Nature. The creature gains the undead type and doesn't require air, food, drink, or sleep.",
+										"Toxic. The undead creature gains immunity to poison damage and the Poisoned condition.",
+										"Undead Fortitude. If damage reduces the undead creature to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the undead creature drops to 1 hit point instead."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Winged",
+									"entries": [
+										"Flight is a great advantage, and one that many creatures develop as a means of survival. Winged creatures are often harvested for their plumage or membranes, both of which are useful for decoration and crafting.",
+										"When a creature is winged, it retains its statistics except as described below.",
+										"Flight. The winged creature gains a flying speed equal to its base walking speed."
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Gods",
+							"entries": [
+								"Before the great gods of classic fantasy—dwelling in Upper Planes, surrounded by hosts of celestials—the proto-gods of prehistory rule the lands where mortals dwell. These gods are not abstractions, nor the personified expression of universal forces. They are beasts, plants, places, or elements that have—through some combination of longevity, power, and reverence—acquired divine authority.",
+								"These gods are local, tied to their environments. They dwell in holy places called hallows. They draw magic from the surrounding region and glory from its inhabitants.",
+								"Although some Planegea adventures may be little entangled with divine politics, most campaigns are likely to cross the paths of the gods, especially in central ring of land known as the Great Valley.",
+								"This section explores the nature and powers of the gods, and gives you guidance to create your own gods. Later in the chapter, stat blocks are given for a number of known gods from the world of Planegea.",
+								{
+									"type": "entries",
+									"name": "Divine Magic & the Gods",
+									"entries": [
+										"All magic in Planegea flows from the Worldheart Dragon in her eternal dwelling place at the center of Blood Mountain. Some of her magic erupts in fire, sparks, and smoke, rising into the heavens where it mingles with stars and moons and dreams. This far-flung power is called arcane magic. It is magic of power, inspiration, and destruction and it affects the minds and bodies of all those who learn or draw magic from their minds or by force of will.",
+										"The Worldheart has another, subtler magic—one which flows in the magma and water running through the foundations of the world, seeping through rock and stone and rising upward from the soil. This is the magic of creation, healing, and change, and it is called divine magic. This divine magic, as it flows through the world, gets caught or hooked or pooled on certain creatures, places, and things. Over time, these hooks or pools of magic, if allowed to grow, can develop into what we call gods—powerful beings with the ability to command great reserves of divine magic, to the point where they become indistinguishable from the magic itself. Their power is drawn from the magic of the land or water in which they live, concentrated in a single small area (their divine hallow) but extending great distances, as far as they can draw and exert power, based on their greatness."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Origins",
+									"entries": [
+										"Nobody—perhaps not even the gods—knows what particular moment or effect sets off the divine spike of transformation, raising a creature or thing into divinity. As such, gods can develop from almost anywhere. Strangely, no gods have arisen from a humanoid background… at least, not yet.",
+										"Some of the most common divine origins are:",
+										"Beasts. A great bear. A massive swarm of rats. An ancient whale. Many of the most powerful gods of Planegea were originally beasts who developed divine attributes over time, and are now tied integrally to the land and their hallow. Mammals, birds, fish, reptiles, even creeping creatures—any beast can become a god, given sufficient time and glory.",
+										"Plants. A mighty oak. A hushed grove. A grassy battlefield. Plants may grow unnoticed, drinking in the magic of the world through their leaves and roots until they are no longer mere plants. Or they may be anointed by some significant event and acquire divine power abruptly.",
+										"Places. An eerie cave. An empty road. A towering statue. Sometimes places themselves are mystical and significant enough to take on godhood, with the power of the land flowing through them and their boundaries becoming sacred hallows in their own right.",
+										"Elements. An endless fog. A floating flame. A shaft of light. Some effects that are neither living beings nor locations can grow in power until they become divine. Examples include:",
+										{
+											"type": "list",
+											"style": "list",
+											"items": [
+												"Weather: From a storm to a wind to a burning heat, weather that does not diminish, but grows in strength and remains in one place can become divine over time.",
+												"Stone: Boulders, mud pits, and sand dunes can become divine, imbued with the power of the surrounding region and sufficient glory.",
+												"Water: From pools and marshes to streams and waterfalls, water easily takes on divine power.",
+												"Fire: Whether contained or spreading, when a flame does not die but lives on to continually consume, it can become godlike.",
+												"Light: A beam of moonlight with no moon to cast it, a glow in the heart of a cave, a glimmer at the bottom of a well—such lights inspire curiosity and reverence, and can acquire divine natures."
+											]
+										},
+										"To create your own god randomly, roll on the following table to inspire a divine origin:",
+										{
+											"type": "table",
+											"caption": "Divine Origin",
+											"colLabels": [
+												"d8",
+												"Divine Origin"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Beast. Roll 1d4: 1. Mammal; 2. Bird; 3. Reptile; 4. Manylegs"
+												],
+												[
+													"2",
+													"Plant. Roll 1d4: 1. Tree; 2. Grass; 3. Flower; 4. Fungus"
+												],
+												[
+													"3",
+													"Place. Roll 1d4: 1. Height; 2. Depth; 3. Void; 4. Landmark"
+												],
+												[
+													"4",
+													"Weather. Roll 1d4: 1. Storm; 2. Fog; 3. Wind; 4. Calm"
+												],
+												[
+													"5",
+													"Stone. Roll 1d4: 1. Boulder; 2. Mud; 3. Dune; 4. Crystal"
+												],
+												[
+													"6",
+													"Water. Roll 1d4: 1. Running; 2. Still; 3. Ice; 4. Steam"
+												],
+												[
+													"7",
+													"Fire. Roll 1d4: 1. Blaze; 2. Ember; 3. Heat; 4. Smoke"
+												],
+												[
+													"8",
+													"Light. Roll 1d4: 1. Bright; 2. Dim; 3. Colorful; 4. Pale"
+												]
+											]
+										},
+										{
+											"type": "inset",
+											"name": "An Aside",
+											"entries": [
+												"Ah, now we come to it at last! Divine lore. This is where I truly shine, if you'll pardon the expression."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Manifestation",
+									"entries": [
+										"Gods are always found in their hallows, and can appear in all shapes, sizes, and visual expressions. It is almost always readily apparent what their divine origins were—unless the god is actively seeking to deceive those who enter its hallow. Many gods have a greater and lesser form, using their lesser form to interact with mortals on a daily basis and their greater form for ceremony, intimidation, or combat. Their greater form usually appears as a larger and more obviously magical expression of their divine origin.",
+										"Size. Most gods appear at least one size category larger than the size category of their origin, even in their lesser forms. For example, a wolf god might be Large, a bear god might be Huge, and a tree god might be Gargantuan. Size is easily changed, however, and it is a minor feat for most gods to alter their size category at will.",
+										"Appearance. The appearance of gods varies wildly. Some choose to conceal any outward manifestation of magic, seeming like a larger version of a natural entity. Others are constantly surrounded by swirls of magic or summoned creatures in attendance to the god's needs and desires. These appearances can vary depending on the god's will, mood, and power.",
+										"Unseen qualities. Most gods have unseen qualities that are felt, rather than seen. This might be sensed as an emotion, an impression of immensity or claustrophobia, a skin-prickling current of magic, or a feeling of confusion or unusual clarity, for example. Although gods can increase or dampen these effects, they are generally inherent to the god's hallow, and rarely disappear altogether. To inspire your god's unseen qualities, roll 1d4 times on this table:",
+										{
+											"type": "table",
+											"caption": "Unseen Qualities",
+											"colLabels": [
+												"d4",
+												"Unseen Qualities"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Emotion. Roll 1d6: 1. Joy; 2. Fear; 3. Sadness; 4. Disgust; 5. Anger; 6. Calm."
+												],
+												[
+													"2",
+													"Sense of scale. Roll 1d4: 1. Vertigo; 2. Immensity; 3. Claustrophobia; 4. Crowded"
+												],
+												[
+													"3",
+													"Physical effect. Roll 1d4: 1. Chills; 2. Warmth; 3. Pain; 4. Relief"
+												],
+												[
+													"4",
+													"Mental effect. Roll 1d4: 1. Confusion; 2. Clarity; 3. Obsession; 4. Distraction"
+												]
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Domains & Abstractions",
+									"entries": [
+										"Planegea exists long before the time of gods who embody universal abstractions, such as the God of Love or the Goddess of War. Instead, proto-gods begin as entities that accrue divine magic, and though they may develop reputations as being focused on certain aspects, they are often known by their names and attributes, rather than a particular concept that they might someday come to represent.",
+										"That said, there are recognizable manifestations of divine influence, called domains, which the shamans of Seerfall have categorized. These domains are the same as those found in the rules of 5E. Gods may have only one domain or multiple domains, depending on their age, power, and personality.",
+										"Single Domain. Some gods operate only in a single domain, either because they are newly divine and lack power, or because they are narrowly focused on certain concerns. Such gods are only able to commune with their neighboring gods and other gods who share their domains, and are seen as somewhat lesser, reclusive, or obsessive by other gods. However, a god with only one domain is often able to hone their gifts, gathering more focused and dedicated followers.",
+										"Multiple Domains. Most established gods operate in more than one domain, expressing their personality through multiple areas of interest. Shamans of these gods generally choose one domain with which they align their particular worship, serving the god's needs and wishes in a focused area with expertise and dedication. These gods are able to speak to their neighbors as well as any other god who shares one or more of their domains, making them hubs of communication in the divine network.",
+										"Gods who share at least one domain are able to communicate at any distance, and there are often loose alliances or a kind of family relationship between gods with shared domains.",
+										{
+											"type": "inset",
+											"name": "Before Pantheons",
+											"entries": [
+												"In Planegea, gods are solitary entities and pantheons are a thing scarce conceived. But in the city of Seerfall (p. 209), where the hallows of many gods are clustered within the holy caves, there may be something like a proto-pantheon beginning to form. Or, at least, the potential for such. If you want your Planegean campaign to explore a new era of godhood, that might be the place to begin!"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Alignment",
+									"entries": [
+										"As they express their power and will, gods fall into certain alignments. A god may change its alignment through its actions, but gods are slow to change, and the cycle of worship and glory tends to cement them into certain behaviors and beliefs that correspond with one of the three basic moral alignments:",
+										"Good (Celestial). A good god has the celestial creature type, and beings that it summons or magic items it creates have a celestial appearance and nature. Good gods are chiefly concerned with the wellbeing of others—although their ideas of wellbeing and the creatures they choose to care about can vary greatly from god to god.",
+										"Neutral (Choose type). A neutral god can have any of the following creature types: Beast, Construct, Dragon, Elemental, Fey, Monstrosity, Ooze, Plant, or Undead. Beings and objects summoned or created by its power reflect its type. Neutral gods are chiefly concerned with survival and balance—though who survives or where the balance lies is a different question altogether.",
+										"Evil (Fiend). An evil god is of the fiend creature type, and summoned or created objects and creatures are of the same nature. An evil god can be demonically chaotic or devilishly lawful, but in either case they are selfish and cruel—but even an evil god can give great gifts if it serves their own interests."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Divine Hallows",
+									"entries": [
+										"An octopus-god's undersea grotto; a jackal-god's echoing cave; a cricket-god's grassy field—a divine hallow is a god's home, its throne room, its seat of power. It is the part of the world most affected by the god's will, personality, and magic. Gods are unable to leave their hallows, which serve as their anchor to the divine magic of the world. Hallows shape and define the god even as the god shapes the hallow—the one is a reflection of the other.",
+										"Sacred ground. Hallows are usually confined, roughly spherical areas with defined edges. When you cross over the border of a hallow, you can feel a change in the world around you as you enter the lair of the god. The god can usually be found roughly at the center of the hallow, although some gods prowl at the edges like a tiger in a cage.",
+										"The hallow serves as the god's lair, and the area of the hallow is permanently affected by the hallow spell, cast by the god. The effects of that spell cannot be dispelled except by the wish spell. If the god is killed, the hallow spell fades after 6d10 days. Regional effects caused by the god fade slowly over the same amount of time.",
+										"Use this table to randomly choose an effect of the hallow spell on your god's hallow:",
+										{
+											"type": "table",
+											"caption": "Hallow Effect",
+											"colLabels": [
+												"d10",
+												"Hallow Effect",
+												"d10",
+												"Hallow Effect"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-4",
+												"col-2 text-center",
+												"col-4"
+											],
+											"rows": [
+												[
+													"1",
+													"Courage",
+													"6",
+													"Everlasting Rest"
+												],
+												[
+													"2",
+													"Darkness",
+													"7",
+													"Extradimensional Interference"
+												],
+												[
+													"3",
+													"Daylight",
+													"8",
+													"Fear"
+												],
+												[
+													"4",
+													"Energy Protection",
+													"9",
+													"Silence"
+												],
+												[
+													"5",
+													"Energy Vulnerability",
+													"10",
+													"Tongues"
+												]
+											]
+										},
+										"Divine demiplanes. Planegea is a world in which the planes have not yet separated, and a creature can walk from one plane of existence into another. A hallow is not only a physical location, but also a divine demiplane aligned with the god's domain or domains.",
+										"It is through these divine demiplanes that gods of the same domain are able to communicate over any distance, and willing gods of the same domain are able to link their hallows, allowing quick travel for their favored mortals—although gods are far too proud to allow their sacred ground to become a common doorway for everyday travel. If a creature knows spells such as plane shift or demiplane, they can transport themselves directly to a god's hallow—at their own risk, should the god prove hostile.",
+										"Visitants. Some gods are solitary beings, but most prefer attendants to serve their will and bring them news of the world. Shamans and acolytes can often be found at the edges of divine hallows, offering worship or communing with the god. Gods can also summon creatures of their own type into existence to serve their will. To do so, they must divest some of their divine magic into the summoned creature, which is known as a visitant. Most gods only summon weak visitants, who sap less of their power, although occasionally a god will create a mighty visitant to enact judgment outside its hallow.",
+										"Once summoned, visitants may leave the hallow, and are usually—but not always—faithful servants of the god who summoned them. A visitant in a hallow can be reabsorbed into the god, restoring its divine magic. For this reason, visitants almost never enter the hallow of a god other than their summoner, for fear of being absorbed and empowering the other god with their summoner's magic.",
+										"When creating a hallow, use this table to inspire the visitants that inhabit it:",
+										{
+											"type": "table",
+											"caption": "Visitants",
+											"colLabels": [
+												"d100",
+												"Visitants"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1–20",
+													"No visitants"
+												],
+												[
+													"21–50",
+													"4d10 visitants no greater than CR 1/2"
+												],
+												[
+													"51–70",
+													"2d8 CR 1 visitants"
+												],
+												[
+													"71–85",
+													"1d6+1 CR 2 visitants"
+												],
+												[
+													"86–90",
+													"1d4 CR 3 visitants"
+												],
+												[
+													"91–95",
+													"1 CR 4 or greater visitant"
+												],
+												[
+													"96–100",
+													"Roll twice on this table and use both results"
+												]
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Names & Titles",
+									"entries": [
+										"A god's name is powerful, inspiring fear and awe in the hearts of those who hear it. Gods are usually known by a proper name and a title, although some only go by one or the other. Their proper name is often a remnant of the time before they reached godhood.",
+										"A god's title is usually more closely associated with their divine qualities. Use this table to inspire your god's title:",
+										{
+											"type": "table",
+											"caption": "Unseen Qualities",
+											"colLabels": [
+												"d6",
+												"Unseen Qualities"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Status. Above-All. Exalted One. The Forgotten. Status titles refer to the god's relationship with others."
+												],
+												[
+													"2",
+													"Condition. She-Who-Burns. Echoing One. The Invisible. Condition titles refer to the physical state of the god."
+												],
+												[
+													"3",
+													"Ability. Wind-Caller. Giver of Salt. Death-For-Eyes. Ability titles refer to the god's signature show of power."
+												],
+												[
+													"4",
+													"Demeanor. Merciful. The Angered. Sorrowful One. Demeanor titles refer to the god's mood or outlook."
+												],
+												[
+													"5",
+													"Paradox. Undying Death. The White Dark. Fire Swimmer. Paradox titles refer to an inherent contradiction in the god's nature."
+												],
+												[
+													"6",
+													"None. Some gods have been given no title, or have no need of one."
+												]
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Spiritual Forms",
+									"entries": [
+										"Gods are both physical and spiritual. What mortals see of them is only an aspect of their true nature. Through certain ceremonies, gods can reveal their spiritual being to mortal creatures; usually to their trusted shamans through elaborate and costly ceremonies. Their spiritual being is how gods see each other, and it can be difficult for one god to describe another to a mortal, unless one of their shamans or visitants have explained how the other god appears to mortal eyes.",
+										"Should a god be slain, its spiritual being is always revealed in its death throes, usually in a final burst of power as the barrier between physical and spiritual is broken. Such a revelation is incredibly dangerous for all creatures in the god's hallow.",
+										"Aspects of the god's spiritual form can include:",
+										"Scale. A god's spiritual form is almost always larger than its physical form, sometimes by several size categories. On rare occasions it can be smaller, but in that case it is usually much more intense, as it is a concentration of the god's essence.",
+										"Emphasis. The spiritual form of a god emphasizes and exaggerates what is most essential to the god's physical nature. A bull god might become a storm of horns and hooves, a fire god could become a blast of pure heat and light, and a bird god might transform into a whirlwind of flying feathers and piercing song.",
+										"Unseen qualities. A god's spiritual form makes its unseen qualities manifest, through swirls and shards of magic giving shape, color, and force to the feelings and impressions that, previously, mortals could only intuit.",
+										"Emotion. In its spiritual form, and especially in its final revelation at death, a god manifests as its most concentrated, focused emotion. Whatever a god's primary concern is becomes all-consuming in its death, and many gods perish with a final burst of rage or woe or joy unconnected to their actual demise."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Strata",
+									"entries": [
+										"The sages of Seerfall have categorized the gods into four levels of might, called strata.",
+										{
+											"type": "table",
+											"caption": "Strata",
+											"colLabels": [
+												"Strata",
+												"Range",
+												"Spell Level Limit",
+												"Gifts",
+												"Visitant Max CR"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-2",
+												"col-3",
+												"col-2",
+												"col-3 text-center"
+											],
+											"rows": [
+												[
+													"1st",
+													"Sight",
+													"3rd-level",
+													"Uncommon",
+													"2"
+												],
+												[
+													"2nd",
+													"Local",
+													"6th-level",
+													"Rare",
+													"6"
+												],
+												[
+													"3rd",
+													"Regional",
+													"9th-level",
+													"Very Rare",
+													"12"
+												],
+												[
+													"4th",
+													"Remote",
+													"—",
+													"Legendary",
+													"18"
+												]
+											]
+										},
+										"These strata are not precise, but serve as a rough guide to the different power levels that a god can occupy. The elements that make up each strata are:",
+										"Range. The greater a god is, the farther it can stretch its influence. A god's range defines the extent of its regional effects. A god can see, hear, and cast spells within its range, but most gods are not actively aware of all that is happening within their range. They must choose where to focus their attention, and rely on shamans and other servants to keep them abreast of the news across their range.",
+										"Lesser gods might only be able to influence the land they can see from their hallow (which is why so many hallows are first formed in high places), while greater gods can extend their reach to a local or regional area. The most powerful gods can see and exert power to distant places, but do so only sparingly, aware that acting in the range of other gods will arouse their ire. Additionally, if a willing creature with which the god is familiar casts the hallow spell, the god can extend its range into the area affected by the spell.",
+										"Spell level limit. The gods of Planegea are not the all-powerful beings of later epochs—many know fewer spells than the great chanters and spellskins. A god may only cast spells up to the level limit of its strata. However, gods are beings formed of magic, and have unlimited spell slots, casting any spells they know at-will, making the wrath of even lesser gods truly terrible. As for gods of the 4th strata—which are exceedingly rare—there seem to be no limits to their magic, and they are able to improvise wonders at-will within their spheres of influence.",
+										"Gifts. To create a magical item is a small thing to a god, and many of the magic items in the world were first created in the hallow of a god. The higher a god's strata, the more rare and powerful its gifts. In addition, gods can bless those with whom they are pleased, gifting them with summoned nonmagical items and even the bestowing of boons in the form of feats. Some gods of the 2nd or higher strata even use the reincarnate spell to transform those with whom they are truly pleased into their own image—a chosen godmarked, shown by the god as forever favored.",
+										"Visitants. The more powerful a god is, the more divine magic it can spare to siphon into visitants. Gods of different strata can only create visitants whose total CR does not exceed their strata's visitant max CR. For example, a god of the 3rd strata could summon 1 CR 12 visitant, 6 CR 2 visitants, or 12 CR 1 visitants.",
+										{
+											"type": "inset",
+											"name": "Substrata Gods",
+											"entries": [
+												"There are some gods who are so minor that they hardly even qualify as divine—although they are tied to a hallow and have some godlike qualities. Such gods are only powerful within their own hallow (usually no larger than a radius of 25 feet), can only cast spells up to 2nd level, are only able to offer common magical gifts, and can only create up to three CR 0 visitants.",
+												"These lesser gods, though tiny compared to their kin, are nonetheless capable of growing into mightier powers over time, and should be carefully dealt with, lest their wrath be kindled against future generations."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Glory",
+									"entries": [
+										"All creatures require sustenance, and gods are no exception. Rather than food or water, however, gods need glory to thrive. Glory arises from mortals, primarily in the form of worship and reverence.",
+										"A god with more glory is more powerful—their reach extends farther, they have more access to divine magic, and they are able to grant greater boons.",
+										"Some gods are content to linger in hidden places with little to no glory. But most hunger for it, and will actively work for the good of clans or individuals who increase their glory, creating special bonds with shamans who lead others into their glorification and service.",
+										{
+											"type": "entries",
+											"name": "Glory Points",
+											"entries": [
+												"The glory a god gains or loses depends on the acts of mortals within its reach. When characters or NPCs take actions to affect the glory of a god, you can assign it a value of up to 100 glory points.",
+												"Generally, for a god to change strata, they must gain or lose glory equal to their strata level × 1,000 glory points. However, this is flexible, and should you choose to alter a god's strata based on a single action, that is entirely within the bounds of your storytelling as a DM."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Affecting Glory",
+											"entries": [
+												"When a god is honored by mortals within its range, it receives glory. If mortals within its range honor another god, it loses glory. (The other god does not automatically gain the glory. Glory must be given within a god's range in order to affect the god's strata.) Most gods are aware of glory won or lost, feeling it in the same way that mortals feel hunger or satiety, but any single act must be very significant for the god to be aware of its direct affect on its glory.",
+												"The most common ways for a god to receive glory are listed here—but the gods are greatly varied, and there may be acts particular to your god's worship that fall outside these categories. To design such an act, simply assign a rough amount of glory you deem appropriate. That said, here are the ways god usually receive glory:",
+												"Thanksgiving. The most common means of giving a god glory is by giving it thanks for its bounty, protection, guidance, etc.",
+												"Storytelling. Telling tales of a god's history, feats, virtues, or favored servants brings glory to that god. Likewise, telling stories about a god's foibles, weakness, mistakes, or enemies drains a god's glory.",
+												"Offerings. Gifts of a god's favorite foods, goods, or objects of great value increase its glory. Likewise, offerings made to other gods within its range diminish its glory.",
+												"Shrines. Constructing a permanent structure, called a shrine, gives a god glory. Likewise, destroying its shrines or building shrines dedicated to another god inside of its range lessens its glory. Shrines can range from simple stacked stones to elaborate totems, statues, monuments, or temples.",
+												"Rites. Rites are acts particular to the worship of a god, and usually refer to its unique nature, personality, or proclivities. These rites can be as simple as planting a tree or hunting a creature hated by the god. They can also be elaborate, such as undergoing an ordeal, holding a vigil, or winning a competition. Such rites vary greatly in potency; determine their worth by considering their difficulty and how time-consuming or expensive they are to enact.",
+												"Ceremonies. Ceremonies do not give gods glory in and of themselves. Rather, they serve to amplify the amount of glory given during the performance of the ceremony, through focus, pageantry, and tradition. Any glory earned or lost during a ceremony is usually doubled, but can be multiplied even further if the ceremony takes place on a day of great significance, has a long duration, or is performed under other special circumstances.",
+												"Druids. Druids leech divine magic from the land, and are hated by the gods. When a druid casts a spell within a god's range, the god loses glory points equal to the spell's level. When a druid is killed within a god's range, the god gains glory. For this reason, hunting druids is one of the chief duties of a god's guardians.",
+												"Visitants. When a god creates visitants, it loses glory points equal to the created visitants' total CR. If the god reabsorbs the visitants, the glory points are restored. Powerful visitants are rare indeed—if they should die or turn against the god, that glory could be lost forever, perhaps representing enough of a loss to drop the god to a lower strata. For this reason, gods will only form powerful visitants on occasion, usually for a single mission, and order them strictly to return directly to the hallow once their work is done.",
+												"Divine ivory. The greatest single act that can affect a god's glory is the consumption of another god's divine ivory. Divine ivory is the core of a god's essence. For gods with beasts' origins, it is part or all of their skeleton, but for other gods it might be a delicate lattice, a handful of fine particles, or a geometric solid. Regardless of its shape, divine ivory is the strongest material known in Planegea, and if one god consumes the ivory of another, it usually gains glory equal to the consumed god's strata × 100.",
+												"When a god consumes divine ivory, its appearance changes, becoming a hybrid its original form and that of the god it devoured. Strangely, this hybrid form is always slightly more humanoid in shape than what came before it. However, this act of divine cannibalism is considered a wicked act by most gods, and the allied gods of a dead deity will often unite their followers to punish any god who transgresses in such a way."
+											]
+										},
+										{
+											"type": "inset",
+											"name": "Milestone Glory",
+											"entries": [
+												"Divine glory is an abstract system meant to help DMs decide what impact mortal actions might have on the gods, if any. Generally, a particular act will not alter a god's strata, and therefore glory need not be precisely tracked—rather, these values are given to suggest how important an act may or may not be to gods in the area. If you want to prepare an adventure where glory makes a difference to the story, consider either having the god on the verge of changing strata or else use what we like to call Milestone Glory—deciding glory not by individual acts, but rather by major achievements that shift the balance of awe in a particular god's favor."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Negotiating with a God",
+											"entries": [
+												"The relationship between a shaman and a god is often transactional, particularly if they are merely negotiating with the god for safe passage. Use the ideas below as inspiration for what a god might ask of a shaman or other supplicant.",
+												{
+													"type": "table",
+													"caption": "What the God Wants",
+													"colLabels": [
+														"d12",
+														"What the God Wants"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"Slay a nearby druid or capture a rogue visitant"
+														],
+														[
+															"2",
+															"Craft a shrine, altar, or memorial in an elevated or magical place"
+														],
+														[
+															"3",
+															"Destroy the shrine of a rival god"
+														],
+														[
+															"4",
+															"Retrieve a magic item the god desires"
+														],
+														[
+															"5",
+															"Resolve a conflict or soothe a dispute with an aggrieved party"
+														],
+														[
+															"6",
+															"Prepare a feast for the god, either symbolic or literal"
+														],
+														[
+															"7",
+															"Slay a beast in their honor or to protect their faithful"
+														],
+														[
+															"8",
+															"Alter the landscape in a way that pleases the god"
+														],
+														[
+															"9",
+															"Slay a rival god and bring back the divine ivory"
+														],
+														[
+															"10",
+															"Make a personal sacrifice of something the character holds dear"
+														],
+														[
+															"11",
+															"Endure a harrowing mystical vigil or vision"
+														],
+														[
+															"12",
+															"Convince local mortals to swear their fealty to the god"
+														]
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Creating a God",
+									"entries": [
+										"When running a Planegea campaign, you may want to create your own gods—as a benevolent patron, a deadly adversary, or simply a neutral power in the world. As beings of immense magic and might, gods aren't simple to design, and their ultimate challenge ratings can vary wildly depending on the choices you make. But to enable you as the DM to spin your own adventures into being, this section offers guidance for how to make your very own proto-god stat block.",
+										{
+											"type": "entries",
+											"name": "1. Start with a Name & Concept",
+											"entries": [
+												"To create a god, it's a good idea to start with a name and a big-picture idea of how you want this god to operate in the world, the scope of its power, and the way it interacts with others. Here are some elements to consider:",
+												"Strata. How powerful is your god in Planegea? Gods of the 1st strata are gods over only what they can see. 2nd-strata gods rule local areas, like specific forests or hills, and are very common. 3rd-strata gods are rare and rule entire regions, while those of the 4th strata are almost unheard of, and powerful enough to stretch their influence across the world.",
+												"Personality. Is your god kind or wrathful, eerie or playful, curious or passive? Is it quick to anger or stoic and unresponsive? Is it quick to grant gifts but also quick to make demands, or does it only reluctantly encounter outsiders? Choosing the overall demeanor of your god will help you make decisions through the rest of this process.",
+												"Origin. What was your god at first? In Planegea, gods are not abstract concepts, but creatures, places, or things where the world's magic knots and pools through some quirk of mortal reverence. Where did your god begin and how did it become a god? Was it simply very old and honored by a local clan, or was there a strange and sudden event that brought into godhood?",
+												"Hallow. The hallow is the place in the world most shaped by your god's will. Consider its location, layout, and shape. What are its entrances and exits? Is it easy to get to or hard? How do its worshipers get there? Does your god tend to remain in the center of the hallow or prowl its edges? Are there any environmental hazards within the hallow? It may be helpful to sketch a simple map for your notes.",
+												"Domain(s). A god's domain is a description of its personality and the types of magic it favors. Some gods are easily described with a single domain, while others have multiple. What domain expresses your god's personality? Do different followers of your god revere different aspects of its nature?",
+												"Regional effects. Gods of different strata can influence the world beyond their hallow to different extents. How does your god affect the world within its reach? Does it bless the area surrounding its hallow or curse it? Do its visitants regularly roam the land, or do plants and animals wither and creep far away from its seat of power? How is the water and air affected by the god's nature? Are there particular creatures it favors that thrive near it?",
+												{
+													"type": "inset",
+													"name": "Example: Making Gheim Shadow-Whisper",
+													"entries": [
+														"Let's make a god called Gheim Shadow-Whisper. We'll make him a 2nd-strata god, because we want him to rule part of the Cult Riverlands as a villainous idol that our PCs will eventually encounter.",
+														"His name sounds ominous, so let's go ahead and say that's his personality: he's creepy and loves to cause fear and dismay in his cult and especially outsiders.",
+														"For his origin, let's use the name as our inspiration… maybe he's literally a whispering shadow from the interior of a cave. Imagine a cave, carved by a long-dried river, where dark magic pooled and the shadows started to whisper secrets and threats. Over time, it became so feared that it became a god.",
+														"For his hallow, we'll choose an existing map of a small cave system. Let's say the map shows some deep, dark pits, has three entrances, and we'll say it sits in a little canyon. That'll do for a hallow for now.",
+														"Let's choose Trickery and Death for his domains. Since we want Gheim Shadow-Whisper to be our villain, those should give us good options for both him and his followers.",
+														"Lastly, what regional effects should Gheim give us? Well, his name suggests an obvious one—when you stand in shadows within his reach, you hear whispering voices, whose words you can't quite make out. Let's say also that birds and beasts nearby seem frightened and thin, and when you sleep in his reach, you're prey to bad dreams of whispering dark."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "2. Choose a Base Stat Block",
+											"entries": [
+												"Now that you have an overall schema for your god, the next stage is to build a stat block so your characters can encounter the deity. Note that not every god needs a stat block—some gods are so powerful, mysterious, or distant that only a name is required. But if your characters are going to fight a god or enter its hallow, it's a good idea to work out the mechanics of its interaction with them—that's what steps 2 thru 9 are for.",
+												"To get started, choose an existing creature with features and abilities that fit the vibe of the god you're creating. Don't worry about appearance, creature type, or alignment yet—we'll get to those. Instead, look at creatures by CR and think about whether their attacks and abilities match up with your concept. If you want a god who's mostly a dominating physical bruiser, you might choose a different stat block than you would for a god full of trickery and mischief.",
+												"Look at creatures with these CRs for each strata level:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"1st strata: CR 10–15",
+														"2nd strata: CR 16–20",
+														"3rd strata: CR 21–25",
+														"4th strata: CR 26–30"
+													]
+												},
+												"If you are more confident in creature design, you can also use the ability scores of a creature of the recommended CR and put them onto a different stat block. But be aware that has downstream implications, and will require you to recalculate ability checks, saving throw, and attack and damage rolls.",
+												{
+													"type": "inset",
+													"name": "Example (continued)",
+													"entries": [
+														"Gheim is 2nd strata, which means we need a CR 16–20 monster. After considering a few options, we're going to go with the Mummy Lord. It's a relatively rare monster to encounter and our players haven't fought one yet, so its abilities should surprise them.",
+														"A lot of his spells and abilities will need to be tweaked for our theme, but that's just fine! Most of that can be done with simple flavor changes."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "3. Re-skin the Basics",
+											"entries": [
+												"The next step is to adjust the basic elements of the stat block to suit your concept. These changes won't have too much of an impact on the math of your god's stat block, but may require some tinkering.",
+												"Size. Most gods appear as larger than life. Consider whether you want to increase the size of your god for visual and story impact. (This will also increase its hit dice: Small, d6; Medium, d8; Large, d10; Huge, d12; Gargantuan, d20.)",
+												"Alignment. Choose your god's alignment. Good gods in Planegea have the celestial creature type, and evil gods have the fiend type. Neutral gods are by far the most common, and can have any creature type other than celestial, fiend, humanoid, or giant. Think about law and chaos as they fit your adventure and how they relate to mortal clans—a lawful god will likely exercise more direct dominion and judgment than a chaotic god, who might encourage more individual choice and chance.",
+												"Creature type. Now that you have your alignment, change the creature type of your chosen stat block if necessary, and add the (god) tag. Look at other monsters with the same creature type. If they have any standard features such as undead nature, add those (and remove standard features from the creature's former type, if any).",
+												{
+													"type": "inset",
+													"name": "Example (continued)",
+													"entries": [
+														"Gheim's Mummy Lord base stat block is Medium undead, lawful evil. We'll make Gheim a Large fiend (god), lawful evil: His lawful nature and his in-world role as a Riverlands idol will make him a devil, not a chaotic demon.",
+														"The Mummy Lord doesn't seem to have any features that wouldn't work for Gheim—even his Rejuvenation feature seems like something that could work well, if re-skinned. We'll keep all his features as they are."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "4. Add Basic Divine Traits",
+											"entries": [
+												"Gods in Planegea have some basic traits that they all share in common. Add the following, if the base stat block doesn't already have them:",
+												"Resistance. Give your god resistance to bludgeoning, piercing, and slashing from nonmagical weapons.",
+												"Senses. Give your god truesight to a range of 15 feet.",
+												"Languages. Give your god telepathy within the hallow, Common, and any languages usually granted by your creature type (such as Celestial for celestials, Abyssal for demons, Infernal for devils, Primordial for elementals, etc).",
+												"Charisma score. Gods are powerful forces of personality. Increase your god's Charisma score to a number within a given range, based on their strata: 1st strata, 14–17; 2nd strata, 18–21; 3rd strata, 22–25; 4th strata, 26–30. If their Charisma score is already in this range or higher, no change is necessary.",
+												{
+													"type": "inset",
+													"name": "Example (continued)",
+													"entries": [
+														"The Mummy Lord already had plenty of resistances, so we'll leave that alone. We'll add truesight and Infernal, but leave Common off the list. This seems fun because maybe those whispers are in Infernal, which are generally scary and maddening and meaningless to those who don't speak the language. Gheim can use telepathy to communicate with the characters once they enter his hallow. Since the Mummy Lord already had high Charisma, we'll put Gheim's Charisma at 20, near the top of his range."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "5. Add Innate Spellcasting",
+											"entries": [
+												"All gods in Planegea have the same spellcasting method—they can innately prepare and cast any spells from shaman (cleric) or guardian (paladin) spell lists, as well as spells granted to clerics of their domain(s). They don't require any material components to cast these spells, and can prepare different spells at the end of a long rest or by using their Gather Magic feature, which we'll look at in the next step.",
+												"Use your god's strata to determine the number of spells they can prepare, and choose prepared spells as those it favors in general, special circumstances aside. If your chosen stat block has other innate spellcasting, replace it with these spells.",
+												"Your god's spellcasting ability is Charisma. Their spellcasting attack modifier is equal to their Charisma modifier + their proficiency bonus, and their spell save DC is equal to 8 + their Charisma modifier + their proficiency bonus.",
+												{
+													"type": "entries",
+													"name": "1st Strata",
+													"entries": [
+														{
+															"type": "list",
+															"style": "list",
+															"items": [
+																"At-will: Six cantrips, 1st-, or 2nd-level spells",
+																"1/Day: Three 3rd-level spells"
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "2nd Strata",
+													"entries": [
+														{
+															"type": "list",
+															"style": "list",
+															"items": [
+																"At-will: Nine cantrips, 1st-, or 2nd-level spells",
+																"3/Day: Six 3rd- to 5th-level spells",
+																"1/Day: Three 6th-level spells"
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "3rd Strata",
+													"entries": [
+														{
+															"type": "list",
+															"style": "list",
+															"items": [
+																"At-will: Twelve cantrips, 1st-, or 2nd-level spells",
+																"6/Day: Nine 3rd- to 6th-level spells",
+																"3/Day: Six 7th- to 8th-level spells",
+																"1/Day: Three 9th-level spells"
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "4th Strata",
+													"entries": [
+														{
+															"type": "list",
+															"style": "list",
+															"items": [
+																"At-will: Twelve cantrips or 1st- to 6th-level spells",
+																"6/Day: Nine 7th- or 8th-level spells",
+																"3/Day: Six 9th-level spells",
+																"1/Day: A miracle (not governed by the limits of normal magic or spellcasting)"
+															]
+														}
+													]
+												},
+												{
+													"type": "inset",
+													"name": "Example (continued)",
+													"entries": [
+														"Since Gheim is 2nd strata and uses the Trickery and Death domains, we'll have him prepare the following spells:",
+														"At-will: bane, blindness/deafness, charm person, command, false life, ray of sickness, silence, thaumaturgy",
+														"3/Day: blight, dispel magic, vampiric touch, banishment, geas, scrying",
+														"1/Day: dominate person, modify memory, cloudkill"
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "6. Add Standard Divine Features",
+											"entries": [
+												"Next, we'll add a few features that are standard for all gods in Planegea. Many high-level monsters will already have the Legendary Resistance feature, but if not, add it as well:",
+												"Legendary Resistance (3/Day). If the god fails a saving throw, it can choose to succeed instead.",
+												"Gather Magic (Recharge 5–6). The god focuses on their connection to the world's magic. If they have cast any spells with a per-day limit, the limit is reset as if they had not cast any such spells yet. When using this action, they can also exchange prepared spells for other known spells.",
+												"Spiritual Form. When the god would be reduced to 0 hit points, they are instead reduced to 1 hit point. They gain a number of temporary hit points equal to half of their maximum hit points and end all conditions affecting them.",
+												"They then take on their Spiritual Form, and their features and actions change accordingly. They retain their hit dice and hit point maximum, and features with limited uses that are present across multiple forms—such as Legendary Resistance, do not regain spent uses. While in their Spiritual Form, the god cannot take Lair Actions.",
+												{
+													"type": "inset",
+													"name": "Example (continued)",
+													"entries": [
+														"Surprisingly, the Mummy Lord doesn't have Legendary Resistance, so we'll add that to Gheim along with Gather Magic and Spiritual Form!"
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "7. Adjust Attacks & Features",
+											"entries": [
+												"Now that you have your god mostly built, it can be helpful to look through its features and attacks to ensure they fit your concept well. Here are three tools for aligning anything that's missing, from simplest to most complex:",
+												"Reflavor. Ideally, you'll be able to make your god feel unique just by adjusting the language or flavor of what its attacks and features can do. This might include changing damage type (say, from cold to radiant), or simply expressing the exact same mechanical effect through a different visual experience. Reflavoring is best whenever you can get away with it, as you know it won't affect the final creature's balance too much.",
+												"Borrow. If you can't find the feature or attack you want, look at other monsters of the same CR or the same creature type and borrow their abilities. This may require some careful examination of where their numbers are coming from (if it's a melee attack, do the Strength scores between the original monster and your new stat block match?), but borrowing is relatively safe, as 5E mechanics are carefully constructed for game balance.",
+												"Invent. If you're careful and confident, you can invent wholly new features and attacks from scratch. This can be lots of fun and make your god feel wholly unique—but it also runs the risk of seriously challenging your players to a potentially unwinnable fight. Do this thoughtfully and rarely, unless it's something you're comfortable with.",
+												{
+													"type": "inset",
+													"name": "Damage by Strata",
+													"entries": [
+														"When deciding on average damage per round, consider the god's other capabilities. Does it boast a higher or lower AC? Are they especially tough or fragile? Do their attacks and effects debilitate their enemies? If a god is weaker in other categories, then the damage should be on the upper end of the range. If it's stronger, the damage should probably be on the lower end of the range or right in the middle:",
+														{
+															"type": "list",
+															"style": "list",
+															"items": [
+																"1st strata: 60–99",
+																"2nd strata: 100–140",
+																"3rd strata: 141–230",
+																"4th strata: 231–320"
+															]
+														},
+														"If your god has legendary actions that allow it to make attacks (most do), this should have an impact on the calculated damage of the god's attacks."
+													]
+												},
+												{
+													"type": "inset",
+													"name": "Example (continued)",
+													"entries": [
+														"Looking through the Mummy Lord's features one at a time, we'll make Rejuvenation refer to its divine ivory, turn its Rotting Fist into a Shadow Fist, and keep its Dreadful Glare exactly as it is.",
+														"Under legendary actions, we'll call Blinding Dust “Swirling Shadow,” but keep the mechanics the same. Let's make Blasphemous Word target non-fiendish creatures, leave Channel Negative Energy the same, and make Whirlwind of Sand into “Living Darkness.”",
+														"And just like that, with a few simple name changes and one minor targeting adjustment, we've turned our Mummy Lord into a living shadow god!"
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "8. Create Lair Actions",
+											"entries": [
+												"Referring back to your hallow sketch from Step 1, add three lair actions. If the base creature already has lair actions, you can choose your two favorites and adjust those just like the tweaks you made in Step 6. But all gods need to have the Visitants lair action:",
+												"Visitants. The god destroys and creates visitants. The visitants may only have the same creature type as their god, and the combined challenge rating of all visitants cannot exceed the strata's maximum visitant CR: 1st strata, 2; 2nd strata, 6; 3rd strata, 12; 4th strata, 18. (CR 0 visitants count as ¼ for this calculation.) Newly created visitants appear at locations of the god's choosing within their hallow and immediately roll initiative. Any visitants the god destroys vanish. All effects maintained by destroyed visitants instantaneously end.",
+												"Control. For one of your god's lair actions, choose an effect that allows it to move things or creatures around the battlefield. This action might not cause direct harm to the characters, but enables the god to take control of a fight that's not going their way by shifting the field of battle. Examples might be creating blinding effects, teleporting creatures, teleporting the god, or creating difficult terrain.",
+												"Offense. For the final lair action, create an offensive action that directly deals damage to players who fail a saving throw. Many lair actions in 5E fit this model. Skim through high-CR creatures in lairs to get an idea of the kind of offensive action that might fit your god.",
+												{
+													"type": "inset",
+													"name": "Example (continued)",
+													"entries": [
+														"We'll give Gheim Shadow-Whisper the Visitants lair action, obviously. As for its other two actions, we'll give Gheim an action that allows him to switch the locations of two creatures (including himself) in the darkness, and one based on the idea of Maddening Whispers that deals 3d6 psychic damage to creatures who fail a saving throw versus his spell save DC."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "9. Create Its Spiritual Form",
+											"entries": [
+												"All gods have the Spiritual Form feature, which—when they would reach 0 hit points—unleashes their hidden spiritual nature into its final death throes, which are incredibly dangerous for the PCs. This form replaces all features and attacks with the following:",
+												"Thematic transformation. Consider how you want to flavor the god's transformation into this, their final form. It should be an awe-inspiring moment, and may reshape the lair around the god for a last round of combat.",
+												"Size increase. Usually, the spiritual form is at least 1 size category bigger than the god's physical form.",
+												"Creature type change. Some gods may change creature types when they transform, becoming more like an elemental, monstrosity, etc. Adjust their type as you see fit, but keep the (god) tag.",
+												"End spellcasting, lair actions, and visitants. Gods in their spiritual forms are creatures of pure emotion and instinct, and cannot cast complex spells or command their lairs. All visitants are destroyed as the god sucks all of its magic back into itself for a final onslaught.",
+												"Nova attacks. Using the god's spiritual form for inspiration, add an attack meant to be used in a large burst, harming the most creatures it can. Creatures within range should make a saving throw versus the god's spell save DC. On a failure, they should take damage of a type you choose, using the Damage By Strata sidebar. Difficulty in 5E is generally balanced around a party of four player characters, so a safe bet when calculating damage for nova effects is to take the expected damage per round and divide by four. Creatures who fail the saving throw may also suffer additional effects, such as being knocked prone, briefly blinded, or restrained. On a success, they should take half damage, and not suffer an additional effect.",
+												"Slaughter attacks. If there's one character that has sufficiently enraged a god, it may only want to target that character. Give your god a slaughter attack, where it's targeting a specific creature. Its attack roll will be based on an ability score that you choose + its proficiency bonus, and its damage on a hit should be of a type you choose, using the Damage By Strata sidebar. When the god takes the attack action, the action's total damage should fall within the expected damage range. The target may suffer other harmful effects on a hit, and the god may also do splash damage to other creatures.",
+												"Deadly presence. Consider whether to give your god a harmful effect simply when moving through or occupying another creature's space. The damage for this effect should be low, but now that the god is unbound and unpredictable, even standing near it might be dangerous.",
+												"Legendary Resistance. The spiritual form retains any remaining uses of Legendary Resistance the god has not yet used.",
+												"Other attacks and features. Since the spiritual form is so brief, usually only lasting a single round, it's okay to throw some experimental attacks and features into this moment. Be careful not to overload your god—they'll probably not survive long enough to use too many abilities. But having some fun with the final moment of your god's existence will make their death stick in the minds of your players long after the battle ends.",
+												{
+													"type": "inset",
+													"name": "Example (continued)",
+													"entries": [
+														"Let's say that when Gheim is finally dealt the killing blow, the shadow drops away and all that's left is the madness. To disorient our players, we'll have him turn into a chaotic swirl of lights, formed of colors no mortal eye has ever seen or imagined. He'll go from Large to Gargantuan and fill his hallow, occupying the same space as all the PCs. We'll keep the Fiend creature type, and drop spellcasting, lair actions, and all visitants.",
+														"We'll add the following three abilities: For his nova attack, we'll say that he can deal psychic damage to all players in his space (which is everyone). For his Deadly Presence, we'll say he can try to shatter an individual mind with insane screams. We've already dealt with his Deadly Presence in the nova attack, but just to make things interesting, we'll add a final feature that says that as a legendary action, he can cause a player to make a Wisdom saving throw versus his spell save DC or attack the nearest friendly creature, chosen randomly.",
+														"And just like that, Gheim Shadow-Whisper is complete, and ready to menace our characters from the gloom of his deadly cavern!"
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Creating a Substrata God",
+											"entries": [
+												"If you want to build a god below CR 11, choose a creature to base it on. Adjust its alignment and creature type, giving it the “god” creature type tag. Give it the basic divine traits and increase its Charisma up to 12 (if needed). Give it innate spellcasting, with 3/Day 1st-level spells and a 1/day 2nd level spell.",
+												"Give it Legendary Resistance and Gather Magic, but not Spiritual Form. Leave all attacks and features as they are. Grant it a hallow (no larger than 25 ft. in diameter), and allow it to create up to 12 visitants with a combined CR of no more than 1. It does not have regional effects."
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Gods of Planegea",
+							"entries": [
+								{
+									"type": "quote",
+									"entries": [
+										"To fight a god is to know true fear. The divinities of Planegea, although they are not the cosmos-spanning entities of later epochs, are beings of immense magical and physical power, and are always encountered within their hallows, which bend and warp reality itself to the will of the god."
+									]
+								},
+								"The gods are as varied as the land and the creatures that inhabit it. And any single god can present many faces—one to its worshipers and another to its enemies. But gods are always powerful, and should not be lightly stirred to wrath.",
+								{
+									"type": "entries",
+									"name": "Divine Forms",
+									"entries": [
+										"These pages describe two forms of each god. In truth, a god can have many forms, but these represent the main ways they express themselves in their hallows.",
+										"Physical Form. A god's physical form is the face they show to mortals. This form usually resembles their pre-divine nature—although they are almost always larger and more wondrous than before they ascended to godhood.",
+										"Spiritual Form. Glimpsing a god's spiritual form is the rarest and most awe-inspiring of experiences. When a god is brought low by sword or spell, its very being begins to splinter and break apart, and the magic that bound it together unravels into a final expression of power. The spiritual form is the god's essence made manifest, and it is terrible to behold—and difficult to survive."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Divine Strata",
+									"entries": [
+										"The shamans of Seerfall have roughly classified the known gods into four categories called strata. These are not strict categories, and gods move through them fluidly as they gain and lose glory—yet they are useful for discussing the relative might and power of divine beings.",
+										"First Strata. Gods of the 1st strata are demigods, able to act only as far as they can physically see, with limited spells and relatively weak visitants (created servants). Even a god of the 1st strata is a deadly challenge to most mortals, but these are usually gods who have either only recently manifested their divinity, or who have waned after a long lack of worship into a shadow of their former selves.",
+										"Second Strata. The 2nd strata is perhaps the most common classification of gods. Deities of the 2nd strata have powerful magic at their command, and can create daunting visitants. They rule local areas such as particular forests, valleys, or mountains, and are honored by a sufficient stream of glory from mortals. Some gods are content to remain in the 2nd strata. Indeed rising above it is difficult, requiring great devotion from followers, such that only a few gods have achieved it.",
+										"Third Strata. Few indeed are the gods of the 3rd strata. In fact, only four are commonly known: the Brothers (Urhosh, Kho, and Glelh) and their southern sister, Twr the Tyrant. These gods have influence that stretches across an entire region, and their visitants are legendary in their might. 3rd-strata gods are capable of the most powerful magic known to mortals, and once a god ascends to this level, it is almost unthinkable that they should descend to a lower order of being.",
+										"Fourth Strata. The 4th strata is practically theoretical. Only one god could claim to even approach this strata—Mala Long-Song, whale god of Scattersea. A 4th-strata god would have power to work wonders indescribable, bring forth visitants of titanic might, and could stretch their influence across the surface of Planegea. But even a god of the 4th strata would be confined to their hallow, and ultimately capable of death or descent, given sufficient loss of health or glory."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Divine Alignment",
+									"entries": [
+										"A god's alignment is both a description and a definition. Most gods do not enter the world with a particular alignment—it's far more common to find a neutral god than one which is particularly evil or good. But as glory accrues, gods of higher strata are more likely to take on evil or good qualities, depending on the nature of their worship and followers.",
+										"Evil. Evil gods are those whose worship takes the form of wicked rites and dark devotion. Such gods take on the fiend creature type, and can become either chaotic demons or hierarchical devils. Once a god has become evil, its redemption is almost impossible, as violence begets violence and its legacy is saturated with fear.",
+										"Neutral. Neutrality is the natural alignment of most deities, for they are not particularly concerned with good or evil, but rather focused on survival, like most creatures in Planegea. Neutral gods may favor order or chaos, but generally are not devoted to grand principles of any kind. Their creature type is tied to their pre-divine origin.",
+										"Good. Good gods are beloved by their followers, and exercise their power for blessing and justice. Such honorable beings acquire the celestial creature type. A good god is still unpredictable—such beings are good, but not tame—and good gods can prefer law or chance, depending on their personality and history. Happy are the people who serve a celestial… but beware, for in a world of violence and danger, even a good god can be tempted to rage and wrath.",
+										{
+											"type": "inset",
+											"name": "An Aside",
+											"entries": [
+												"I have spent more years than can be named on Planegea fighting against the dark gods, beating them back and binding their powers. Without those of us who oppose them, surely their chaos and cruel laws would blot out the very Day-Star's light in a matter of a few short years."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Glelh the Unblinking",
+									"entries": [
+										"Deep in the hill country of the Lion Clan, a circle of stones juts from atop a steep rise. The hill is decorated with colored paints and powders, fluttering flags and feathers, and carved chimes that rattle in the wind. This is the hill-hallow of Glelh the Unblinking, god of the Lion Clan.",
+										"Those who are bidden to approach Glelh describe first and foremost, his eyes—unwavering amber depths, like staring into the Day-Star. Those eyes transfix the weak and the mighty, and sink into the soul like claws. Glelh takes the form of a mighty lion, long saber-teeth bared at any sign of disrespect or folly, yellow mane dusted with the powders of sacred pigments brought as offerings by the hypnotized shamans. Glelh is almost never seen outside his circle of stones, from which it is said that he watches the whole world, seeing all in stony silence.",
+										"Beauty & serenity. Glelh is best pleased with that which is pleasant to gaze upon, and his worshipers fashion bright colors and beautiful patterns to honor him. He is unforgiving towards weakness, believing that those who are worthy will endure even terrible suffering, and his rites can be truly cruel as they weed the weak from the stoic. But to those in whom he delights, Glelh gives great visions of far places, enabling glimpses into the very edges of reality and beyond.",
+										"The Feast of Longest Day. Glelh's high holy day is the Feast of Longest Day, in the heart of summer. On the day when there is the most sun to behold color and light and beauty, the Lion Clan engages in many ceremonies and artistic celebrations and voyages deep into the far places of the mind's eye on vision-walks. On the Feast of Longest Day, Glelh invests nearly all his power into visitants in the form of powerful lions. They walk among the people, beholding their artwork closely and testing their fortitude with deadly glares and radiant claws.",
+										"Piercing eyes, rending claws. Glelh's hypnotic power is perhaps most dangerous when causing one to forget that, in his heart, Glelh is a ravenous beast. The hilltop of his hallow is stained red with the blood of prey drawn from afar—even though as a god he has no physical hunger. His claws and teeth are terrible, and his might is immense when he is aroused to anger—as is his roar, which is said to only be heard once in a generation.",
+										{
+											"type": "entries",
+											"name": "Glelh's Hallow",
+											"entries": [
+												"As a 3rd-strata god, Glelh has influence over an entire region. The epicenter of his power is his stone-encircled hilltop. The entire hill, however, is the hallow of Glelh, and a creature who steps foot onto that hill immediately feels an overwhelming sense of being fully seen and fully known, and judged guilty or favored in a moment.",
+												"The hilltop is strewn with colored art pieces of all sorts, some of which conceal cleverly-constructed traps and tricks hidden by shamans to protect their god against fools and the unfaithful. Its top is slick with the blood that coats the base of the standing stones, where Glelh feasts in the darkness, his eyes all that can be seen in the shadows."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Lair Actions",
+											"entries": [
+												"On initiative count 20 (losing initiative ties), Glelh takes a lair action to cause one of the following effects:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Glelh creates visitants. His visitants may only have a combined challenge rating of CR 12 or less. Newly created visitants appear at locations of Glelh's choosing within his hallow and immediately roll initiative. Visitants remain until they die, Glelh chooses to dismiss them (no action required), or Glelh's spiritual form activates. All effects maintained by visitants end when they disappear.",
+														"A beam of blinding light cast by a celestial body (Day-Star during day, moon during night) illuminates a 20-foot-radius, 60-foot-high cylinder within 120 feet of Glelh (and in his line of sight). All creatures in that area must make a DC 18 Constitution saving throw, becoming blinded on a failure. A blinded creature can repeat the saving throw at the end of subsequent turns, ending the effect on a success. The effect also ends if Glelh uses this lair action again or when Glelh enters his spiritual form.",
+														"A pride of celestial lions briefly apparate and attack creatures in a 20-foot-square centered on a point Glelh can see within 120 feet. The lions attack each creature of Glelh's choice in the area with a +10 bonus to hit, dealing 10 (3d6) slashing damage and 10 (3d6) radiant damage on a hit."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Regional Effects",
+											"entries": [
+												"Throughout the hilly domain of the Lion Clan, Glelh's influence can be clearly felt.",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"People within his reach are inspired to create art, infatuated with color and pattern. Visions of great works of art often appear in dreams, stirring those who have such dreams to throw themselves into trying to recreate what they have seen.",
+														"Aside from music or the jangling of wind chimes, the land is quiet. The DC for Wisdom (Perception) checks made with hearing is decreased by 2.",
+														"Glelh sees all in his domain unless creatures make a DC 20 Wisdom saving throw to shake off his vision. If creatures he can see act in a way that displeases him, he sends word to his shamans or visitants, and 1d6 guards or 1 visitant arrives to punish wrongdoing in 1d4–1 hours after a crime against his will is committed."
+													]
+												},
+												"If Glelh dies, these effects end in 2d4 weeks."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Mala Long-Song",
+									"entries": [
+										"Planegea's most powerful god may also be its most elusive. Mala Long-Song, deity of the Whale Clan, dwells at the very edge of the mortal world, at the far reaches of Scattersea. There, from her underwater hallow, she watches over all the islands in her vast domain, and she is worshiped by landfolk and merfolk alike.",
+										"Mala is an ancient whale-goddess, the size of an island. She ascends to the surface only once a year for air, and her ascension marks the holiest day in all of Scattersea. At all other times, she remains far below the waters, in her cylindrical hallow of light and song. Her skin is patterned with barnacles and scars that form graceful whirls and swirls, reminiscent of wave patterns and the tides.",
+										"Firstborn. Some say Mala Long-Song was the first god that mortals ever knew, in days nearly forgotten, when the sea was almost all there was. Mala protected the young clans as they tried to cling to life on the surface of the waters, and was repaid with gratitude and reverence. Her songs and island shrines have made her name great over the generations, and now there is no known god on land or sea who exceeds her in glory.",
+										"Above & Below. Mala is worshiped not only by the mortals who sail in canoes and catamarans, dwelling in coves and caves, but also by the merfolk below. These bring their offerings from the bounty of the sea, and news of the movements of the deep. The merfolk are proud and quarrelsome, and have little to do with the “dry people,” except for their high shaman, who by law is wedded to the high shaman from the world above in united worship of Mala.",
+										"The Day of Breath. Once a year, Mala rises from her swirling depths in a shining beam of light to breach the surface of the waters. Merfolk sing as she swims, and every canoe and catamaran in Scattersea gathers to hail her ascent on the Day of Breath. The moments she spends above the water are most mortals' only glimpse of the great goddess, and it's said that she blesses all who share in the one great breath that sustains her for the year to come.",
+										"Long Reach. Of all the gods in Planegea, only Mala is able to see across the entire world, and exert her will even in distant and dry places where other gods hold sway. Yet Mala is patient and wise, and has not lived as long as she has by encroaching on others' domains. Mala is slow to act, preferring to allow her followers to learn wisdom over their lifetimes and pass along their knowledge from parent to child. But when she is stirred to action, the song of her magic can pierce rock and bone, air and fire and shadow.",
+										{
+											"type": "entries",
+											"name": "Mala's Hallow",
+											"entries": [
+												"The hallow of Mala Long-Song is a cylinder of water near the very last islands of Scattersea. These islands are sacred places, where only shamans and their chosen acolytes may travel, and where divine magic seeps from every stone and rises from every drop of water. The hallow stretches from the ocean's surface to an amphitheater of shells far below. Within the cylinder, shining lights from Mala's countless visitants circle and echo a never-ending song. It's said that those who hear Mala's choir hear the song of themselves, of all those who came before, and visions of what will come to pass in long years ahead."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Lair Actions",
+											"entries": [
+												"On initiative count 20 (losing initiative ties), Mala takes a lair action to cause one of the following effects:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Mala creates visitants. Her visitants may only have a combined challenge rating of CR 18 or less. Newly created visitants appear at locations of Mala's choosing within her hallow and immediately roll initiative. Visitants remain until they die, Mala chooses to dismiss them (no action required), or Mala's spiritual form activates. All effects maintained by visitants end when they disappear.",
+														"A swarming school of celestial fish appear in a 20-foot sphere centered on a point Mala can see within 120 feet. Creatures that start their turn in the area or move into it for the first time on a turn must make a DC 20 Wisdom saving throw or become stunned until the end of their turn. The school remains until Mala enters her spiritual form or Mala uses this lair action again.",
+														"Phantoms of the dead apparate and attack a creature that Mala can see within 120 feet. The creature must make a DC 20 Constitution saving throw, taking 42 (12d6) necrotic damage on a failure, or half as much on a success. Additionally, a creature that failed their saving throw begins drowning, provided it was holding its breath. The phantoms then disappear."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Regional Effects",
+											"entries": [
+												"Scattersea is full of Mala's magic, but it grows more intense closer to her hallow, near the Shaman Isles.",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Floating song can be heard in the air, soothing emotion and giving creatures advantage on Wisdom (Insight) checks, Intelligence (History) checks, and Wisdom saving throws.",
+														"Groups of 2d6 merfolk travel through the water, bringing offerings on a pilgrimage to Mala's hallow, or returning home after an audience with the goddess.",
+														"Soft, white flowers appear from nowhere, blossoming in midair and drifting down to float on the ocean's surface. At night they glow with a gentle radiance, casting dim light in for 1 foot.",
+														"Creatures unable to breathe water are able to hold their breath for twice as long."
+													]
+												},
+												"If Mala dies, these effects end after 2d8 months."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Kho Many-Arms",
+									"entries": [
+										"The Oldest Brother. The Weary One. The Many-Armed Ape-God. Generous in his slumber and dangerous when he wakes, Kho is a difficult god with many names. The Ape Clan seeks to surround him in the drumbeats that soothe his mind, keeping him asleep—for in his sleep, he is kind.",
+										"Kho appears as a massive ape, covered in dark hair and amulets. True to his name, he has many arms—some physical, some spiritual, formed of golden light. He moves slowly, unless he is aroused to wrath. As long as the drums thunder and glory flows towards him, Kho can be seen resting in the branches of his gargantuan tree-hallow, slumbering the seasons away as he dreams of long ago.",
+										"Ancient torpor. Except for Mala Long-Song, Kho is the most ancient god in Planegea. His years have wearied him, and he takes no pleasure in the gone-in-a-blink concerns of mortals. Kho wants nothing more than to sleep, and the Ape Clan scurries to serve his unconscious will, working magic to bind him in his dreams and holding their breath at the least sign of his awakening.",
+										"Dreams of youth. Kho dreams of the living forests of his youth, when he was a mere apeling, leaping through high branches without worry or power. His dreams are full of fun, adventure, and good spirits. Because of his magic, his dreams are often made manifest, and those who approach his tree-hallow can be caught up in them, carried into the past with their god on the slippery surface of time. Kho can bring objects from the past of his dreams into the present, and—if he is pleased—make almost anything real.",
+										"Wrathful waking. When the drumming stops, or his dream is interrupted, Kho descends from his tree in dark spirits. Those within reach of his power tremble, for his waking is full of unbridled rage at time and the world. Each year, when the Ape Clan travels through the passages of Nod to Wintersouth, the year's worst criminal is left behind as punishment, the last person banging the drum to keep Kho asleep. And though they try to bang on the drum as long as they can, eventually they tire and the beat falters—and then the titanic tree begins to shake with the rage of the waking god…",
+										{
+											"type": "entries",
+											"name": "Kho's Hallow",
+											"entries": [
+												"Kho sleeps in a gargantuan tree, as ancient as himself, whose roots are so deep and so powerfully thirsty that they bend the Ape River towards it. The tree is a landmark that can be seen for miles. Its lowest branches are filled with gifts and toys that dangle from leather straps, which Kho's followers toss up from below as offerings. Every now and then, Kho will stir, and a toy will catch his eye—a massive finger will reach out from the tree, touch the toy, and the god will go back to sleep again, mollified for the moment.",
+												"The tree and the ground surrounding its base are the hallow of Kho, and to enter his hallow is to step inside either his dreamworld or the epicenter of his waking wrath. As long as he sleeps, the hallow occupies a different time than the outer world—it may be day inside and night outside, or vice versa. Inside the dream, what mortals see can shift according to Kho's whim, but the great tree always remains at the center of the hallow, unchanged."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Lair Actions",
+											"entries": [
+												"On initiative count 20 (losing initiative ties), Kho takes a lair action to cause one of the following effects:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Kho creates visitants. His visitants may only have a combined challenge rating of CR 12 or less. Newly created visitants appear at locations of Kho's choosing within his hallow and immediately roll initiative. Visitants remain until they die, Kho chooses to dismiss them (no action required), or Kho's spiritual form activates. All effects maintained by visitants end when they disappear.",
+														"An arm formed from spirit energy appears at a point Kho can see on a surface within 120 feet. The arm has an AC of 16, 35 hit points, and shares Kho's damage resistances. When it appears and on each of Kho's turns, the arm makes a melee weapon attack against a creature of Kho's choice (+16 to hit, reach 30 ft., one target). On a hit, it deals 23 (4d6 + 9) force damage. The arm disappears if it is reduced to 0 hit points, if Kho uses this lair action again, or if Kho's spiritual form triggers.",
+														"Kho's hollow briefly shifts, merging the realms of the physical and dream worlds. Each creature in Kho's hollow must make a DC 18 Wisdom saving throw. On a failure, the creature is affected as by the confusion spell. If Kho uses this lair action again or enters his spiritual form, the effect ends on any affected creatures."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Regional Effects",
+											"entries": [
+												"Throughout Ape Clan territory, Kho's dreaming or waking is clearly felt, an ever-present reassurance or terrifying threat, depending on the mood of the god.",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Families of apes wander freely, unchallenged and sacred to the Ape Clan. These apes are allowed to go where they please and take or eat whatever they wish.",
+														"A creature who presses their ear to the ground and succeeds on a DC 10 Wisdom (Perception) check can hear the faint rumble of Kho's sleeping breath.",
+														"Doorways to Nod are commonplace while Kho sleeps. In places of shadow or mist, a doorway can be found on a successful DC 18 Intelligence (Investigation) check. When a door is found, roll 1d20. On a 5 or lower, the door opens to the Nightmare World. On a 6 or higher, the door opens to the Dream World.",
+														"Creatures and places glimmer and change slightly according to Kho's dreams. While his dreams are pleasant, translucent flowers and fey beings can be briefly glimpsed, but vanish if approached. If Kho's dreams are troubled, shadowy forms of malice flicker at the edges of vision, disappearing when examined.",
+														"When Kho awakes, all other regional effects end (except for the wandering apes), and the land shakes in an earthquake. Creatures must succeed on a DC 12 Dexterity saving throw or be knocked prone, and all structures take 10 points of bludgeoning damage."
+													]
+												},
+												"If Kho dies, these effects end in 2d4 weeks."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Twr the Tyrant",
+									"entries": [
+										"The winter gods are violent and chaotic, thriving on the fear and misery of mortals, drawing their glory from the desperation that comes at the edge of death. Of all these dark deities, one stands head and shoulders above the rest—Twr the Tyrant, a powerful goddess of fire and water, ruler of the Ox River and dread power of the Wintersouth.",
+										"Cult paintings of Twr depict her as a towering female form with sweeping, batlike wings, clad in shadow, fire, smoke, and steam. She has long, sharp horns like an ox, and her mouth, eyes, and skull-like nostrils burn with shimmering red flame. Twr wears bone armor, cracked and blackened from the heat of her blazing body, and her symbol is a flaming whip and a raging bull.",
+										"The Boiling River. Twr is a goddess of flame, bound to the Ox River and the arid Wintersouth. It is said that long ago a frenzied she-ox was bound to a rock by the river, and so great was her fury that she survived on rage alone, boiling the water with the heat of her anger. Over time, the legend grew, the magic of the world pooled with the fear of mortals, and Twr took form as a goddess. Her hallow is a fork in the river, wrapped in perpetual darkness, where the water scalds any who touches it. For miles in each direction, the water bubbles and steams, one of the only reliable sources of heat in all of the wintry lands that surround it.",
+										"Sister Cults. The Brothers of the Great Valley—the Bear, Ape, and Lion gods and their clans—are rivaled in power only by Twr, goddess of the third strata, who could look any of them in the eye and laugh in defiance. Calling herself the Sister, Twr exerts great influence over the clans who travel south to escape the Great Valley's harsh winter. Some clans see her as their primary god, since it is by her whim and craving for power that they are allowed to live under her shadow for the long winter months. These Ox Clans or Sister Cults dwell by the boiling river and serve Twr's will in a hallowcamp built of skulls and black pelts.",
+										"Ivory Eater. Since early in her divinity, Twr has aggressively sought out the divine ivory of other gods, sending her best warriors and most powerful visitants to assault weak winter gods in nearby hallows. Her hunger for ivory is nearly as endless as her hunger for glory. When a god devours divine ivory, they take on aspects of the god they consume, and the merging of the forms occurs in such a way as to make the god take on a slightly more humanoid or giantish form. Twr has eaten the divine ivory of a great bat and gained spreading wings, as well as the divine ivory of a lizard god, granting her clawed hands and a long, lashing tail, Twr stands upright, like a giant she-minotaur, and sends out her worshipers for more of the ivory she craves.",
+										"Endless Menace. Twr's pride and tyranny are a never-ending threat to the greater powers of the region. Her claws and ambitions stretch northward towards Edgegather, and southward towards Seerfall. Sister Cults erect shrines and propagate her worship in those cities, which are quickly torn down by those opposed to her worship. It is not uncommon for her to send a violent visitant into the midst of mortals to inspire terror and awe.",
+										{
+											"type": "entries",
+											"name": "Twr's Hallow",
+											"entries": [
+												"There is a place where the Ox River splits and where shadows grow to blot out the sun. There is no sound of bird or beast, only the bubbling roar of the boiling river and the crackle of fire as it burns on the shore. This steaming darkness is the Hallow of Twr. It is a terrifying place, unsuitable for any but her shamans, who are granted protection if they please her, and searing death if they do not."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Lair Actions",
+											"entries": [
+												"On initiative count 20 (losing initiative ties), Twr takes a lair action to cause one of the following effects:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Twr creates visitants. Her visitants may only have a combined challenge rating of CR 12 or less. Newly created visitants appear at locations of Twr's choosing within her hollow and immediately roll initiative. Visitants remain until they die, Twr chooses to dismiss them (no action required), or Twr's spiritual form activates. All effects maintained by visitants end when they disappear.",
+														"A 30-foot-radius cloud of steam rises from the surface of Twr's river hollow, centered on a point Twr can see within 90 feet. The cloud's area is heavily obscured for all creatures except Twr, and when a creature starts their turn within or enters the cloud's area, they must make a DC 18 Constitution saving throw or take 10 (3d6) fire damage. The cloud remains until it is dispersed, Twr uses this lair action again, or her spiritual form triggers.",
+														"Mud superheats and hardens in a 20-foot square centered on a point on the ground that Twr can see within 120 feet. All creatures in the area must make a DC 18 Dexterity saving throw or be restrained by hardened mud. At the start of their turn, a restrained creature takes 7 (2d6) fire damage. A restrained creature can be freed if it or another creature takes an action to make a DC 18 Strength check. If Twr uses this lair action again or her spiritual form triggers, the mud liquifies, releasing any trapped creatures."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Regional Effects",
+											"entries": [
+												"A wide region surrounding the Ox River is under the sway of Twr the Tyrant. Travelers through her lands should be cautious, for her wrath simmers just out of sight…",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Steam rises from underground pools, drawing creatures seeking relief from the frigid winter nights. The steam scalds any who touch it, dealing 1d6 fire damage on a failed DC 14 Dexterity saving throw.",
+														"Roaming visitants threaten and harass mortals. Every 24 hours, roll 1d20. On a 5 or lower, 1d6 quasits attempt to intimidate the characters in the name of Twr.",
+														"Domesticated beasts turn bad-tempered, and are liable to injure their masters and break free of their bonds. Freed beasts have a 50% chance of attacking their former masters, otherwise they seek to escape into the wild.",
+														"Those who sleep have dreams about drowning in scalding water or being lost in fiery darkness without end."
+													]
+												},
+												"If Twr dies, these effects end in 2d4 weeks."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Unkillable Urhosh",
+									"entries": [
+										"Excess in all things is the mark of Unkillable Urhosh, cave-bear god of the Brothers. An unstoppable force of life, Urhosh began his existence long ago as a massive cave bear whom no hunter, predator, or natural disaster could topple—and over the years, as tales of his hardiness grew, so did the respect and reverence of the mortals of the region, who started to swear by Urhosh's name and call upon his power.",
+										"Urhosh is a huge, shaggy brown cave bear. His back and flanks bristle with snapped spears and arrows, fired by hunters from years ago, which have stuck into his matted pelt, but that he never even felt. His eyes glow with white light, and he seems to feel neither pain nor heat nor cold.",
+										"Lord of Feasts & Honey. Urhosh is a god of plenty, providing bounty for his people and expecting bounty in return. He is most pleased by great feasts held at the mouth of his cave-hallow, and blesses his followers with friendly beehives and powerful magic. From revelry to wrestling, boasting matches to bold raids on the clan's enemies, Urhosh's clan pour their hearts into all they do.",
+										"Fearless Immortality. On the rare occasions where Urhosh is stirred to violence, there is no subtlety in his approach. He is a god who has lived all his days unable to die, and he charges into combat without the slightest fear of pain or defeat. Urhosh knows that he will live, and grants that confidence and life force to his hunters and warriors, preparing them to rush headlong into danger just as he does.",
+										"Winter's Rest. When the Bear Clan departs southward on the Winterwalk, the gregarious Urhosh retreats to his cave to hibernate. For many years, his high shaman—the tiny, white-haired Lak'hayel—has entered the hallow with him at autumn's end to great ceremony. There she falls into a magical slumber and rests by the side of her god until spring comes, and the returning clan reawakens both god and high shaman.",
+										{
+											"type": "entries",
+											"name": "Urhosh's Hallow",
+											"entries": [
+												"The hallow of Urhosh is a deep cave set into the side of a rocky hill, as well as its threshold, where a great stone feasting table has been set up for time immemorial, and dozens of hives of honeybees buzz their endless honeysong. Entering Urhosh's hallow bestows a feeling of deep wellbeing, of bold recklessness and invincibility. His cave descends deep into the earth, and Urhosh has many curiosities of his long life hidden far within its recesses. Few ever pass beyond the threshold, though, and Urhosh is usually eager to come out and spend time with his people as they feast in his presence."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Lair Actions",
+											"entries": [
+												"On initiative count 20 (losing initiative ties), Urhosh takes a lair action to cause one of the following effects. The god can't use the same effect two rounds in a row:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Urhosh creates visitants. His visitants may only have a combined challenge rating of CR 12 or less. Newly created visitants appear at locations of Urhosh's choosing within his hollow and immediately roll initiative. Visitants remain until they die, Urhosh chooses to dismiss them (no action required) or Urhosh's spiritual form activates. All effects maintained by visitants end when they disappear.",
+														"A wave of protective magic washes through Urhosh's hollow. All creatures of Urhosh's choice gain 24 (4d8 + 6) temporary hit points. These temporary hit points remain until they are depleted, until Urhosh uses this lair action again, or until Urhosh's spiritual form activates.",
+														"Visions of a grand feast that occupy a 5-foot cube appear centered on a point that Urhosh can see within 60 feet. All creatures within 30 feet of that point must make a DC 18 Wisdom saving throw or become charmed and use their movement on each of their turns to move as close as possible to the illusory feast. Creatures can repeat the Wisdom saving throw before they would pass through obviously harmful terrain, when they take damage, or when they end their turn within 5 feet of the illusion. If Urhosh deals damage to a charmed creature, the effect on them ends. The illusory feast lasts until Urhosh uses this lair action again or until Urhosh's spiritual form activates."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Regional Effects",
+											"entries": [
+												"Urhosh's power extends far and wide, thanks to the boldness of the Bear Clan in building his hive shrines for miles in every direction.",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Honeybees swarm plentifully, providing natural bounty everywhere. A creature that succeeds on a DC 10 Wisdom (Survival) check can find a nearby hive with fresh honeycomb.",
+														"Wild vegetables grow doubly large here, infused by the lifegiving power of the god. Creatures who gather plant food collect twice as much as usual.",
+														"After three days in Urhosh's domain, a creature must make a DC 8 Wisdom saving throw. On a failure, they believe themselves invincible to pain or harm. The effect ends when they take damage.",
+														"When taking a short rest, creatures gain an additional 1d4 hit points."
+													]
+												},
+												"If Urhosh dies, these effects end in 2d4 weeks."
+											]
+										}
+									]
 								}
 							]
 						}
@@ -29928,6 +31079,1652 @@
 				"This flail was originally recovered from a vault of aberrations, and features 8 short rubbery tendrils with hooks and barbs at the end. The tendrils writhe slightly when the flail is touched.",
 				"When you hit a creature with the writhing flail, instead of doing damage, you can choose to attempt to grapple the creature using the flail's Dexterity bonus, which is +1. If the flail successfully grapples the creature, it wraps its tendrils around the creature's head. The creature is blinded and cannot breathe while grappled by the flail. While grappling a creature in this way, the writhing flail cannot be used to attack another creature.",
 				"If the flail has a creature grappled at the start of your turn, it will attempt to extract the creature's brain. The creature must make a DC 13 Constitution saving throw or take 2d10 piercing damage. If this damage reduces the creature's health to 0, the flail extracts the creature's brain (if any), and releases the grapple."
+			]
+		}
+	],
+	"monster": [
+		{
+			"name": "Glelh the Unblinking",
+			"source": "SSSOP",
+			"size": [
+				"H"
+			],
+			"type": {
+				"type": "celestial",
+				"tags": [
+					"god"
+				]
+			},
+			"alignment": [
+				"N",
+				"G"
+			],
+			"ac": [
+				{
+					"ac": 21,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 300,
+				"formula": "24d12+144"
+			},
+			"speed": {
+				"walk": 60
+			},
+			"str": 26,
+			"dex": 16,
+			"con": 22,
+			"int": 14,
+			"wis": 19,
+			"cha": 20,
+			"cr": "23",
+			"page": 303,
+			"save": {
+				"dex": "+10",
+				"int": "+9",
+				"wis": "+11",
+				"cha": "+12"
+			},
+			"skill": {
+				"athletics": "+22",
+				"insight": "+18",
+				"perception": "+18",
+				"stealth": "+17"
+			},
+			"resist": [
+				"radiant",
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical weapons"
+				}
+			],
+			"conditionImmune": [
+				"charmed",
+				"frightened"
+			],
+			"senses": [
+				"truesight 120 ft.",
+				"darkvision 120 ft."
+			],
+			"passive": 26,
+			"languages": [
+				"Common",
+				"Celestial",
+				"telepathy 120 ft."
+			],
+			"trait": [
+				{
+					"name": "Spiritual Form.",
+					"entries": [
+						"When Glelh would be reduced to 0 hit points, he is instead reduced to 1 hit point. He gains a number of temporary hit points equal to half of his maximum hit points and ends all conditions affecting him. He then takes on his Spiritual Form, and his features and actions change accordingly."
+					]
+				},
+				{
+					"name": "Keen Senses.",
+					"entries": [
+						"Glelh has advantage on Wisdom (Perception) checks."
+					]
+				},
+				{
+					"name": "Running Leap.",
+					"entries": [
+						"With a 10-foot start, Glelh can long jump up to 50 feet."
+					]
+				},
+				{
+					"name": "Pounce.",
+					"entries": [
+						"If Glelh moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 23 Strength saving throw or be knocked prone. If the target is prone, Glelh can make one bite attack against it as a bonus action."
+					]
+				},
+				{
+					"name": "Unblinking Gaze.",
+					"entries": [
+						"As a bonus action, Glelh chooses one creature within 60 feet that he can see and subjects it to one of the following gazes:",
+						{
+							"type": "list",
+							"style": "list-hang-notitle",
+							"items": [
+								{
+									"type": "item",
+									"name": "1. Fiery Gaze.",
+									"entry": "The creature must make a DC 20 Dexterity saving throw, taking 35 (10d6) radiant or fire damage on a failure, or half as much on a success (Glelh's choice)."
+								},
+								{
+									"type": "item",
+									"name": "2. Blinding Gaze.",
+									"entry": "The creature must make a DC 20 Constitution saving throw, becoming blinded for 1 minute on a failure."
+								},
+								{
+									"type": "item",
+									"name": "3. Paralyzing Gaze.",
+									"entry": "The creature must make a DC 20 Wisdom saving throw, becoming paralyzed until the end of Glelh's next turn on a failure."
+								},
+								{
+									"type": "item",
+									"name": "4. Shunting Gaze.",
+									"entry": "The creature must make a DC 20 Charisma saving throw. On a failure, the creature is magically teleported to an unoccupied space within 60 feet of Glelh."
+								},
+								{
+									"type": "item",
+									"name": "5. Hypnotic Gaze.",
+									"entry": "The creature must make a DC 20 Wisdom saving throw, becoming charmed for 1 minute on a failure. While charmed, the creature is incapacitated and must spend its movement on each of its turns moving towards Glelh in the most direct manner possible, making no attempts to avoid attacks of opportunity. When the creature takes damage from a source other than Glelh, the target can repeat the Wisdom saving throw, ending the charm effect on a success."
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Innate Spellcasting.",
+					"entries": [
+						"Glelh's spellcasting ability is Charisma (spell save DC 20). Glelh can innately cast any spell from the guardian (paladin) or shaman (cleric) spell list, requiring no material components, and has the following spells prepared:",
+						"At-will: aid, command, cure wounds, detect evil and good, detect magic, guidance, guiding bolt, healing word, hold person, lesser restoration, sacred flame (4d8), silence",
+						"6/day: banishment, daylight, dispel evil and good, flamestrike, greater restoration, hallow, heal, mass healing word, remove curse",
+						"3/day: control weather, divine word, firestorm, holy aura, planeshift, regenerate",
+						"1/day: gate, foresight, mass heal"
+					]
+				},
+				{
+					"name": "Magic Resistance.",
+					"entries": [
+						"Glelh has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				{
+					"name": "Legendary Resistance (3/day).",
+					"entries": [
+						"If Glelh fails a saving throw, he can choose to succeed instead."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"Glelh uses unblinking gaze and makes three attacks: two with his claws and one with his bite."
+					]
+				},
+				{
+					"name": "Claw.",
+					"entries": [
+						"Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 22 (4d6 + 8) slashing damage."
+					]
+				},
+				{
+					"name": "Bite.",
+					"entries": [
+						"Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 30 (4d10 + 8) piercing damage and the target is grappled (escape DC 19)."
+					]
+				},
+				{
+					"name": "Hunt God's Fury (Recharges 5–6).",
+					"entries": [
+						"Glelh makes six claw attacks."
+					]
+				},
+				{
+					"name": "Gather Magic (2/Day).",
+					"entries": [
+						"Glelh focuses on his connection to the world's magic. If he has cast any spells with a per-day limit, the limit is reset as if he had not cast any such spells yet."
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "Claw.",
+					"entries": [
+						"Glelh makes a claw attack."
+					]
+				},
+				{
+					"name": "Maneuver.",
+					"entries": [
+						"Glelh moves up to half his speed without provoking attacks of opportunity."
+					]
+				},
+				{
+					"name": "Gaze (Costs 2 Actions).",
+					"entries": [
+						"Glelh uses Unblinking Gaze."
+					]
+				},
+				{
+					"name": "Lunging Bite (Costs 2 Actions).",
+					"entries": [
+						"Glelh moves up to half his speed and makes a bite attack."
+					]
+				}
+			],
+			"legendaryHeader": [
+				"Glelh can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Glelh regains spent legendary actions at the start of his turn."
+			]
+		},
+		{
+			"name": "Glelh, Spiritual Form",
+			"source": "SSSOP",
+			"size": [
+				"H"
+			],
+			"type": {
+				"type": "celestial",
+				"tags": [
+					"god"
+				]
+			},
+			"alignment": [
+				"N",
+				"G"
+			],
+			"ac": [
+				{
+					"ac": 21,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 300,
+				"formula": "24d12+144"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": 40,
+				"canHover": true
+			},
+			"str": 26,
+			"dex": 15,
+			"con": 22,
+			"int": 14,
+			"wis": 19,
+			"cha": 20,
+			"cr": "23",
+			"page": 304,
+			"save": {
+				"dex": "+10",
+				"int": "+9",
+				"wis": "+11",
+				"cha": "+12"
+			},
+			"skill": {
+				"athletics": "+22",
+				"insight": "+18",
+				"perception": "+18",
+				"stealth": "+17"
+			},
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical weapons"
+				}
+			],
+			"immune": [
+				"radiant"
+			],
+			"conditionImmune": [
+				"charmed",
+				"frightened"
+			],
+			"senses": [
+				"truesight 120 ft.",
+				"darkvision 120 ft."
+			],
+			"passive": 26,
+			"languages": [
+				"Common",
+				"Celestial",
+				"telepathy 120 ft."
+			],
+			"trait": [
+				{
+					"name": "Spiritual Form.",
+					"entries": [
+						"When Glelh takes on his spiritual form, he retains his hit dice and hit point maximum from his previous form. Features with limited uses that are present across multiple forms, such as Legendary Resistance, do not regain spent uses. While in his Spiritual Form, Glelh cannot take lair actions."
+					]
+				},
+				{
+					"name": "Shattered Silence.",
+					"entries": [
+						"When Glelh enters his spiritual form, he uses Resonating Roar and his physical body is consumed by inner light, leaving behind a silhouette of divine energy. All magical darkness in Glelh's hollow is dispelled, and all creatures within 120 feet of Glelh must make a DC 20 Constitution saving throw or be blinded until the end of their next turn. Glelh can maintain this form for 1 minute, after which he returns to his physical form, loses his temporary hit points, and takes 5 points of exhaustion, which can only be removed by resting or a wish spell."
+					]
+				},
+				{
+					"name": "Avatar of Light.",
+					"entries": [
+						"Glelh sheds bright light in a 50-foot radius and dim light for an additional 50 feet. When a creature starts their turn within 10 feet of Glelh or comes within 10 feet of Glelh for the first time on a turn, they must make a DC 20 Constitution saving throw or become blinded until the start of their next turn."
+					]
+				},
+				{
+					"name": "Radiant Form.",
+					"entries": [
+						"When a creature touches Glelh or hits him with a melee attack while within 10 feet of him, they take 14 (4d6) radiant damage. Whenever Glelh would take radiant damage, he instead takes no damage and regains hit points equal to the radiant damage dealt."
+					]
+				},
+				{
+					"name": "Magic Resistance.",
+					"entries": [
+						"Glelh has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				{
+					"name": "Legendary Resistance (3/day).",
+					"entries": [
+						"If Glelh fails a saving throw, he can choose to succeed instead."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"Glelh makes two searing touch attacks and uses either Sunglimpse or Resonating Roar, if available."
+					]
+				},
+				{
+					"name": "Searing Touch.",
+					"entries": [
+						"Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 32 (7d6 + 8) radiant or fire damage (Glelh's choice)."
+					]
+				},
+				{
+					"name": "Sunglimpse (Recharge 5-6).",
+					"entries": [
+						"Burning light erupts in a 30-foot sphere centered on a point Glelh can see within 60 feet of him. All creatures in the area must make a DC 21 Dexterity saving throw, taking 42 (12d6) radiant damage on a failure, or half as much on a success. Additionally, creatures that fail their saving throw are blinded until the end of Glelh's next turn."
+					]
+				},
+				{
+					"name": "Resonating Roar (Recharge 5-6).",
+					"entries": [
+						"Glelh releases a roar laced with divine energy. Each time he roars before his Spiritual Form ends, the roar evolves, as shown below. Once Glelh has used his final roar, he cannot roar for the remainder of his spiritual form.",
+						{
+							"type": "list",
+							"style": "list-hang-notitle",
+							"items": [
+								{
+									"type": "item",
+									"name": "1. First Roar.",
+									"entry": "Glelh gains resistance to damage until the start of his next turn, and all other creatures within 300 feet must make a DC 21 Wisdom saving throw, becoming incapacitated until the end of Glelh's next turn on a failure."
+								},
+								{
+									"type": "item",
+									"name": "2. Second Roar.",
+									"entry": "All other creatures in Glelh's hallow must make a DC 21 Strength saving throw. On a failure, a creature is knocked prone and their movement speed is reduced to 0 for 1 minute. At the end of a prone creature's turn, they can repeat the saving throw, standing up and regaining their movement speed on a success."
+								},
+								{
+									"type": "item",
+									"name": "3. Third Roar.",
+									"entry": "All other creatures in Glelh's hallow must make a DC 21 Constitution saving throw, becoming stunned for 1 minute on a failure. A stunned creature can repeat the saving throw at the end of each of their turns, ending the effect on a success."
+								},
+								{
+									"type": "item",
+									"name": "4. Final Roar.",
+									"entry": "All other creatures in Glelh's hallow must make a DC 21 Wisdom saving throw, taking 55 (10d10) force damage on a failure, or half as much on a success. If a creature that failed their saving throw has 100 hit points or less, they instead die."
+								}
+							]
+						}
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "Searing Touch.",
+					"entries": [
+						"Glelh makes a searing touch attack."
+					]
+				},
+				{
+					"name": "Unsight (Costs 2 Actions).",
+					"entries": [
+						"All blinded creatures within 60 feet of Glelh must make a DC 21 Constitution saving throw, becoming blinded for an additional 1 minute on a failure."
+					]
+				},
+				{
+					"name": "Roar (Costs 3 Actions).",
+					"entries": [
+						"Glelh uses Resonating Roar."
+					]
+				}
+			],
+			"legendaryHeader": [
+				"Glelh can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Glelh regains spent legendary actions at the start of his turn."
+			]
+		},
+		{
+			"name": "Mala Long-Song",
+			"source": "SSSOP",
+			"size": [
+				"G"
+			],
+			"type": {
+				"type": "celestial",
+				"tags": [
+					"god"
+				]
+			},
+			"alignment": [
+				"N",
+				"G"
+			],
+			"ac": [
+				{
+					"ac": 22,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 615,
+				"formula": "30d20 + 300"
+			},
+			"speed": {
+				"walk": 0,
+				"swim": 60
+			},
+			"str": 30,
+			"dex": 12,
+			"con": 30,
+			"int": 22,
+			"wis": 24,
+			"cha": 26,
+			"cr": "30",
+			"page": 306,
+			"save": {
+				"dex": "+10",
+				"int": "+15",
+				"wis": "+16",
+				"cha": "+17"
+			},
+			"skill": {
+				"arcana": "+15",
+				"history": "+15",
+				"insight": "+16",
+				"perception": "+16",
+				"religion": "+15"
+			},
+			"resist": [
+				"radiant",
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks"
+				}
+			],
+			"immune": [
+				"cold"
+			],
+			"conditionImmune": [
+				"frightened"
+			],
+			"senses": [
+				"truesight 120 ft.",
+				"darkvision 120 ft."
+			],
+			"passive": 26,
+			"languages": [
+				"all",
+				"telepathy 120 ft."
+			],
+			"trait": [
+				{
+					"name": "Spiritual Form.",
+					"entries": [
+						"When Mala would be reduced to 0 hit points, she is instead reduced to 1 hit point. She gains a number of temporary hit points equal to half of her maximum hit points and ends all conditions affecting her. She then takes on her Spiritual Form, and her features and actions change accordingly."
+					]
+				},
+				{
+					"name": "Reflective Hide.",
+					"entries": [
+						"Any time Mala is targeted by a magic missile spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, Mala is unaffected. On a 6, Mala is unaffected, and the effect is reflected back at the caster as though it originated from Mala, turning the caster into the target."
+					]
+				},
+				{
+					"name": "Magic Resistance.",
+					"entries": [
+						"Mala has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				{
+					"name": "Innate Spellcasting.",
+					"entries": [
+						"Mala's spellcasting ability is Charisma (spell save DC 25). Mala can innately cast any spell from any spell list, requiring no material components, and has the following spells prepared:",
+						"At-will: aid, bane, bless, command, cure wounds, detect evil and good, detect magic, faerie fire, fog cloud, healing word, hold person, lesser restoration, light, sacred flame (4d8), spare the dying",
+						"9/day: arcane eye, banishment, bestow curse, blade barrier, call lightning, daylight, death ward, dispel magic, greater restoration, harm, heal, speak with dead",
+						"6/day: divine word, feeblemind, forcecage, holy aura, planeshift, regenerate, sunburst, symbol, teleport",
+						"3/day: foresight, gate, imprisonment, power word kill, timestop, wish"
+					]
+				},
+				{
+					"name": "Legendary Resistance (3/Day).",
+					"entries": [
+						"If Mala fails a saving throw, she can choose to succeed instead."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"Mala uses Deepsong. She then makes two attacks: one with her tail and one with her Divine Gaze. Mala can use Prison Realm in place of her Divine Gaze."
+					]
+				},
+				{
+					"name": "Tail.",
+					"entries": [
+						"Melee Weapon Attack: +19 to hit, reach 20 ft., up to three targets that are not grappled by Mala. Hit: 28 (4d8 + 10) bludgeoning damage. This damage is magical."
+					]
+				},
+				{
+					"name": "Divine Gaze.",
+					"entries": [
+						"Ranged Spell Attack: +17 to hit, range 120 ft., one target. Hit: 29 (6d6 + 8) radiant damage, and the target must make a DC 24 Constitution saving throw or be stunned until the end of their next turn."
+					]
+				},
+				{
+					"name": "Prison Realm.",
+					"entries": [
+						"Mala makes a Divine Gaze attack against a stunned, restrained, paralyzed, or blinded creature. If the attack hits, the target takes the Divine Gaze's damage and must make a DC 24 Charisma saving throw or be affected as by the maze spell."
+					]
+				},
+				{
+					"name": "Deepsong (6/day).",
+					"entries": [
+						"Mala sings a divine note that reverberates with magic. Mala chooses one of the following effects:",
+						{
+							"type": "list",
+							"style": "list-hang-notitle",
+							"items": [
+								{
+									"type": "item",
+									"name": "1. Song of Creation's Fire.",
+									"entry": "Creatures of Mala's choice within 120 feet must make a DC 24 Dexterity saving throw, taking 33 (6d10) fire damage on a failure, or half as much on a success."
+								},
+								{
+									"type": "item",
+									"name": "2. Song of the Captive.",
+									"entry": "Creatures of Mala's choice within 120 feet must make a DC 24 Strength saving throw or become restrained for 1 minute. A restrained creature can repeat the saving throw at the end of each of their turns, ending the restrained effect on a success."
+								},
+								{
+									"type": "item",
+									"name": "3. Song of the Starry Traveler.",
+									"entry": "Creatures of Mala's choice within 120 feet must make a DC 24 Charisma saving throw or be transported to a random location as if by the plane shift spell. The plane of existence to which they are sent is randomly determined by the DM."
+								}
+							]
+						},
+						"Mala cannot use the same song two times in a row."
+					]
+				},
+				{
+					"name": "Crushing Vortex (Recharge 5-6).",
+					"entries": [
+						"Mala creates a swirling vortex in a 60-foot sphere centered on a point Mala can see within 120 feet. Creatures in the area must make a DC 24 Strength saving throw, taking 44 (8d10) bludgeoning damage and being dragged 30 feet towards the center of the vortex on a failure, or taking half as much damage and being dragged only 15 feet on a success."
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "Swim.",
+					"entries": [
+						"Mala moves up to her swim speed without provoking attacks of opportunity."
+					]
+				},
+				{
+					"name": "Tail.",
+					"entries": [
+						"Mala makes a tail attack."
+					]
+				},
+				{
+					"name": "Deepsong (Costs 2 Actions).",
+					"entries": [
+						"Mala uses Deepsong."
+					]
+				},
+				{
+					"name": "Show of Power (Costs 3 Actions).",
+					"entries": [
+						"Mala uses one of her rechargeable abilities, if available."
+					]
+				},
+				{
+					"name": "Cast a Spell (Costs 3 Actions).",
+					"entries": [
+						"Mala casts a spell from her list of prepared spells, consuming a spell slot as normal."
+					]
+				}
+			],
+			"legendaryHeader": [
+				"Mala can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Mala regains spent legendary actions at the start of her turn."
+			]
+		},
+		{
+			"name": "Mala, Spiritual Form",
+			"source": "SSSOP",
+			"size": [
+				"L"
+			],
+			"type": {
+				"type": "celestial",
+				"tags": [
+					"god"
+				]
+			},
+			"alignment": [
+				"N",
+				"G"
+			],
+			"ac": [
+				{
+					"ac": 22,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 615,
+				"formula": "30d20 + 300"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": 60
+			},
+			"str": 30,
+			"dex": 12,
+			"con": 30,
+			"int": 22,
+			"wis": 24,
+			"cha": 26,
+			"cr": "30",
+			"page": 307,
+			"save": {
+				"dex": "+10",
+				"int": "+15",
+				"wis": "+16",
+				"cha": "+17"
+			},
+			"skill": {
+				"arcana": "+15",
+				"history": "+15",
+				"insight": "+16",
+				"perception": "+16",
+				"religion": "+15"
+			},
+			"resist": [
+				"acid",
+				"radiant",
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks"
+				}
+			],
+			"immune": [
+				"cold",
+				"radiant",
+				"necrotic"
+			],
+			"conditionImmune": [
+				"frightened",
+				"charmed"
+			],
+			"senses": [],
+			"passive": 26,
+			"languages": [
+				"all",
+				"telepathy 120 ft."
+			],
+			"trait": [
+				{
+					"name": "Spiritual Form.",
+					"entries": [
+						"When Mala takes on her spiritual form, she retains her hit dice and hit point maximum from her previous form. Features with limited uses that are present across multiple forms, such as Legendary Resistance, do not regain spent uses. While in her Spiritual Form, Mala cannot take Lair Actions."
+					]
+				},
+				{
+					"name": "The Keeper's Heart.",
+					"entries": [
+						"When Mala's spiritual form feature activates, Mala's physical form swells even as it dissipates, and all creatures in Mala's hollow are drawn into the realm of Mala's spiritual heart; an ethereal place where darkness meets light and life meets death. What remains of Mala is her spiritual heart, an orb of swirling black-and-white essence. While within Mala's heart realm, creatures are always within range of Mala's attacks, spells, and magical abilities. Mala can maintain this form for 1 minute, after which she returns to her physical form, loses her temporary hit points, and takes 5 points of exhaustion, which can only be removed by resting or a wish spell."
+					]
+				},
+				{
+					"name": "Presence of the First Keeper.",
+					"entries": [
+						"Creatures that start their turn within 30 feet of Mala must make a DC 25 Constitution saving throw, taking 10 (3d6) radiant or necrotic damage (Mala chooses) on a failure, or half as much on a success. Creatures that fail their saving throw are also deafened and unable to speak until the start of their next turn."
+					]
+				},
+				{
+					"name": "Magic Resistance.",
+					"entries": [
+						"Mala has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				{
+					"name": "Magic Weapons.",
+					"entries": [
+						"Mala's weapon attacks are magical."
+					]
+				},
+				{
+					"name": "Legendary Resistance (3/Day).",
+					"entries": [
+						"If Mala fails a saving throw, she can choose to succeed instead."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"Mala uses Terrible Revelation and Extinguish Soul. She then makes two attacks: one with Touch of Life and one with Touch of Death."
+					]
+				},
+				{
+					"name": "Touch of Death.",
+					"entries": [
+						"Melee Spell Attack: +17 to hit, reach 5 ft., one target. Hit: 29 (6d6 + 8) necrotic damage."
+					]
+				},
+				{
+					"name": "Touch of Life.",
+					"entries": [
+						"Melee Spell Attack: +17 to hit, reach 5 ft., one target. Hit: 29 (6d6 + 8) radiant damage."
+					]
+				},
+				{
+					"name": "Extinguish Soul.",
+					"entries": [
+						"Mala chooses a creature that she can see within 120 feet. That creature must make a DC 24 Constitution saving throw, taking 44 (8d10) necrotic damage on a failure. If this damage reduces the creature to 0 hit points, the creature dies, and cannot be returned to life by any means short of a wish spell until Mala dies."
+					]
+				},
+				{
+					"name": "Terrible Revelation.",
+					"entries": [
+						"Mala shares a piece of terrible knowledge with a creature of her choice that she can see within 120 feet. The creature must make a DC 24 Intelligence saving throw, taking 28 (8d6) psychic damage on a failure, or half as much on a success. A creature that fails its saving throw becomes wracked with a passing madness until the end of its next turn. A maddened creature rolls a d6 to determine what it will do with its turn. On a 1-3, the creature does nothing. On a 4-5, the creature takes no action but spends its movement to move in a random direction, determined by a d8. On a 6, the creature takes the attack action against a random creature, or it does nothing if no creature is within reach."
+					]
+				},
+				{
+					"name": "Mass Dispel (Recharge 5-6).",
+					"entries": [
+						"All creatures of Mala's choice within her hallow must make a DC 24 Charisma saving throw. When a creature fails their saving throw, any spells affecting the creature end. Additionally, any magical items the creature is carrying or has equipped are suppressed, becoming nonmagical for 1 minute. An affected creature can repeat the saving throw at the end of each of their turns, ending the magic suppression on a success."
+					]
+				},
+				{
+					"name": "Baleful Star (Recharge 5-6).",
+					"entries": [
+						"All creatures of Mala's choice within her hollow must make a DC 24 Constitution saving throw, taking 33 (6d10) cold damage and 33 (6d10) radiant damage on a failure, or half as much on a success. Creatures that fail their saving throw by 5 or more are blinded for 1 minute. Blind creatures can repeat the saving throw at the end of each of their turns, ending the blind effect on a success."
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "Attack.",
+					"entries": [
+						"Mala makes an attack with Touch of Death or Touch of Life."
+					]
+				},
+				{
+					"name": "Extinguish Soul (Costs 2 Actions).",
+					"entries": [
+						"Mala uses Extinguish Soul."
+					]
+				},
+				{
+					"name": "Revelation (Costs 2 Actions).",
+					"entries": [
+						"Mala uses Terrible Revelation."
+					]
+				},
+				{
+					"name": "Unleashed Power (Costs 3 Actions).",
+					"entries": [
+						"Mala uses one of her rechargeable abilities, if available."
+					]
+				}
+			],
+			"legendaryHeader": [
+				"Mala can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Mala regains spent legendary actions at the start of her turn."
+			]
+		},
+		{
+			"name": "Kho Many-Arms",
+			"source": "SSSOP",
+			"size": [
+				"G"
+			],
+			"type": {
+				"type": "celestial",
+				"tags": [
+					"god"
+				]
+			},
+			"alignment": [
+				"C",
+				"G"
+			],
+			"ac": [
+				{
+					"ac": 20,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 350,
+				"formula": "20d20 + 140"
+			},
+			"speed": {
+				"walk": 50,
+				"climb": 50
+			},
+			"str": 29,
+			"dex": 15,
+			"con": 24,
+			"int": 18,
+			"wis": 20,
+			"cha": 24,
+			"cr": "25",
+			"page": 309,
+			"save": {
+				"dex": "+10",
+				"con": "+15",
+				"wis": "+13",
+				"cha": "+15"
+			},
+			"skill": {
+				"athletics": "+23",
+				"insight": "+13",
+				"perception": "+21"
+			},
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical weapons"
+				}
+			],
+			"conditionImmune": [
+				"charmed",
+				"frightened"
+			],
+			"senses": [
+				"truesight 30 ft.",
+				"darkvision 120 ft."
+			],
+			"passive": 27,
+			"languages": [
+				"Common",
+				"Celestial",
+				"telepathy 120 ft."
+			],
+			"trait": [
+				{
+					"name": "Spiritual Form.",
+					"entries": [
+						"When Kho would be reduced to 0 hit points, he is instead reduced to 1 hit point. He gains a number of temporary hit points equal to half of his maximum hit points and ends all conditions affecting him. He then takes on his Spiritual Form, and his features and actions change accordingly."
+					]
+				},
+				{
+					"name": "Wakeful Rage (1/day).",
+					"entries": [
+						"When Kho starts his turn with half or less of his hit points, he flies into a wakeful rage. While raging, Kho has advantage on ability checks and saving throws that use Strength, he has resistance to piercing, slashing, and bludgeoning damage, and when he makes a weapon attack, he gains a +7 bonus to the damage roll. This rage lasts for 1 minute, until Kho is incapacitated, or until his Spiritual Form feature triggers."
+					]
+				},
+				{
+					"name": "Vigilance of the Many-Armed God.",
+					"entries": [
+						"Kho can take four extra reactions per round, which can only be used to make attacks of opportunity with his arms of many or use spirit guard. Additionally, creatures trigger attacks of opportunity from Kho if they move 15 or more feet while within his reach."
+					]
+				},
+				{
+					"name": "Innate Spellcasting.",
+					"entries": [
+						"Kho's spellcasting ability is Charisma (spell save DC 23, +15 to hit with spell attacks). Kho can innately cast any spell from the Paladin or Cleric spell list, requiring no material components, and has the following spells prepared:",
+						"At-will: blindness/deafness, blink, calm emotions, command, cure wounds, faerie fire, healing word, hold person, mirror image, sleep, silence, remove curse",
+						"6/day: arcane eye, banishment, dimension door, dream, geas, hallow, harm, hold monster, modify memory",
+						"3/day: control weather, divine word, etherealness, maze, mirage arcane, planeshift",
+						"1/day: astral projection, gate, weird"
+					]
+				},
+				{
+					"name": "Legendary Resistance (3/day).",
+					"entries": [
+						"If Kho fails a saving throw, he can choose to succeed instead."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"Kho uses Manifest Missile twice or makes four melee attacks, two of which can be fist attacks."
+					]
+				},
+				{
+					"name": "Fist.",
+					"entries": [
+						"Melee Weapon Attack: +17 to hit, reach 15 ft., one creature. Hit: 31 (4d10 + 9) bludgeoning damage. If the target is a creature, Kho can choose to grapple the creature (escape DC 20) instead of dealing damage. While grappled, a medium or smaller creature is restrained. Kho can grapple up to two creatures this way."
+					]
+				},
+				{
+					"name": "Arm of Many.",
+					"entries": [
+						"Melee Weapon Attack: +17 to hit, reach 30 ft., one target. Hit: 23 (4d6 + 9) force damage."
+					]
+				},
+				{
+					"name": "Manifest Missile.",
+					"entries": [
+						"Kho hurls a missile of spiritual energy to a point that he can see within 120 feet, where it explodes in a 10-foot radius. All creatures in the area must make a DC 23 Dexterity saving throw, taking 28 (8d6) force damage on a failure, or half as much on a success."
+					]
+				},
+				{
+					"name": "Fearsome Display (Recharge 5-6).",
+					"entries": [
+						"If Kho is in a wakeful rage, he beats his chest and lets out a roar. All creatures within 150 feet of Kho that can see or hear him must make a DC 23 Wisdom saving throw, becoming frightened until the end of Kho's next turn on a failure. While a creature is frightened by this effect, the creature is also paralyzed."
+					]
+				},
+				{
+					"name": "Gather Magic (2/Day).",
+					"entries": [
+						"Kho focuses on his connection to the world's magic. If he has cast any spells with a per-day limit, the limit is reset as if he had not cast any such spells yet."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Spirit Guard.",
+					"entries": [
+						"Kho adds 7 to his AC against one attack that would hit him, provided he can see the attacker."
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "Move.",
+					"entries": [
+						"Kho moves up to his walk or climb speed."
+					]
+				},
+				{
+					"name": "Arm of Many.",
+					"entries": [
+						"Kho makes an attack with his Arm of Many."
+					]
+				},
+				{
+					"name": "Fist (Costs 2 Actions).",
+					"entries": [
+						"Kho makes a fist attack."
+					]
+				},
+				{
+					"name": "Manifest Missile (Costs 2 Actions).",
+					"entries": [
+						"Kho uses Manifest Missile."
+					]
+				},
+				{
+					"name": "Show of Power (Costs 3 Actions).",
+					"entries": [
+						"Kho uses one of his rechargeable abilities."
+					]
+				},
+				{
+					"name": "Cast a Spell (Costs 3 Actions).",
+					"entries": [
+						"Kho casts a spell from his list of prepared spells, consuming a spell slot as normal."
+					]
+				}
+			],
+			"legendaryHeader": [
+				"Kho can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Kho regains spent legendary actions at the start of his turn."
+			]
+		},
+		{
+			"name": "Kho, Spiritual Form",
+			"source": "SSSOP",
+			"size": [
+				"G"
+			],
+			"type": {
+				"type": "celestial",
+				"tags": [
+					"god"
+				]
+			},
+			"alignment": [
+				"C",
+				"G"
+			],
+			"ac": [
+				{
+					"ac": 20,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 350,
+				"formula": "20d20 + 140"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": 60,
+				"canHover": true
+			},
+			"str": 29,
+			"dex": 15,
+			"con": 24,
+			"int": 18,
+			"wis": 20,
+			"cha": 24,
+			"cr": "25",
+			"page": 310,
+			"save": {
+				"dex": "+10",
+				"con": "+15",
+				"wis": "+13",
+				"cha": "+15"
+			},
+			"skill": {
+				"athletics": "+23",
+				"insight": "+13",
+				"perception": "+21"
+			},
+			"resist": [
+				"poison",
+				"radiant",
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical weapons"
+				}
+			],
+			"immune": [
+				"psychic"
+			],
+			"conditionImmune": [
+				"charmed",
+				"frightened",
+				"exhaustion",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained",
+				"unconscious"
+			],
+			"senses": [
+				"truesight 30 ft.",
+				"darkvision 120 ft."
+			],
+			"passive": 27,
+			"languages": [
+				"Common",
+				"Celestial",
+				"telepathy 120 ft."
+			],
+			"trait": [
+				{
+					"name": "Spiritual Form.",
+					"entries": [
+						"When Kho takes on his Spiritual Form, he retains his hit dice and hit point maximum from his previous form. Features with limited uses that are present across multiple forms, such as Legendary Resistance, do not regain spent uses. While in his Spiritual Form, Kho cannot take lair actions."
+					]
+				},
+				{
+					"name": "Soul of Serenity.",
+					"entries": [
+						"When Kho enters his spiritual form, his physical form melts away, dissolving into celestial light that scatters and dissipates. Kho teleports to an unoccupied space within 60 feet and uses Dreamwave. Kho can maintain this form for 1 minute, after which he returns to his physical form, loses his temporary hit points, and takes 5 points of exhaustion, which can only be removed by resting or a wish spell."
+					]
+				},
+				{
+					"name": "Intangible.",
+					"entries": [
+						"Kho is invisible, and he can occupy a creature's space and vice versa without treating it as difficult terrain. If any effect would cause Kho to become visible, he appears as a vaguely ape-shaped nebula of celestial light and stardust-like material."
+					]
+				},
+				{
+					"name": "Magic Resistance.",
+					"entries": [
+						"Kho has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				{
+					"name": "Legendary Resistance (3/day).",
+					"entries": [
+						"If Kho fails a saving throw, he can choose to succeed instead."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"Kho makes two Dreamtouch attacks and uses Induce Slumber or Tormented Awakening."
+					]
+				},
+				{
+					"name": "Dreamtouch.",
+					"entries": [
+						"Melee Weapon Attack: +14 to hit, reach 30 ft., one target. Hit: 13 (2d6 + 6) psychic damage, and for 1 minute, the target has disadvantage on Wisdom ability checks and saving throws."
+					]
+				},
+				{
+					"name": "Dreamwave (Recharge 5-6).",
+					"entries": [
+						"Kho releases a wave of sleep-weave magics in a 30-foot radius centered on himself. All other creatures must make a DC 23 Wisdom saving throw or fall unconscious until the end of Kho's next turn on a failure."
+					]
+				},
+				{
+					"name": "Induce Slumber.",
+					"entries": [
+						"Kho chooses one creature he can see within 120 feet. The creature must make a DC 23 Wisdom saving throw or fall unconscious for 1 minute and be subjected to a dream of Kho's choice. Up to six creatures can be under the effects of a dream at a time, and while at least one creature is dreaming, Kho is concentrating as if concentrating on a spell. Creatures who are unconscious but not yet in a dream automatically fail this saving throw.",
+						{
+							"type": "list",
+							"style": "list-hang-notitle",
+							"items": [
+								{
+									"type": "item",
+									"name": "1. Dreams of Deep Waters",
+									"entry": "While asleep, the creature dreams of deep, frozen waters. At the start of each of their turns, the creature must make a DC 23 Constitution saving throw, taking 22 (4d10) cold damage on a failure, or half as much on a success."
+								},
+								{
+									"type": "item",
+									"name": "2. Dreams of Spreading Fire",
+									"entry": "While asleep, the creature dreams of engulfing flames. At the start of each of their turns, the creature must make a DC 23 Dexterity saving throw, taking 22 (4d10) fire damage on a failure, or half as much on a success."
+								},
+								{
+									"type": "item",
+									"name": "3. Dreams of Crushing Rock",
+									"entry": "While asleep, the creature dreams of being crushed by falling rocks. The creature must make a DC 23 Strength saving throw, taking 18 (4d8) bludgeoning damage on a failure, or half as much on a success."
+								},
+								{
+									"type": "item",
+									"name": "4. Dreams of a Cage in the Darkness",
+									"entry": "While asleep, the creature dreams of lightless imprisonment. The creature must make a DC 23 Intelligence saving throw, taking 18 (4d8) necrotic damage on a failure, or half as much on a success."
+								}
+							]
+						},
+						"If an unconscious creature succeeds on two of the saving throws against the dream, the creature wakes up, ending the dream. The dream also ends if the creature is reduced to 0 hit points or if Kho's concentration is broken."
+					]
+				},
+				{
+					"name": "Tormented Awakening.",
+					"entries": [
+						"Kho chooses up to six sleeping creatures that he can see within 60 feet. Each creature wakes up and must make a DC 23 Wisdom saving throw, taking 36 (8d8) psychic damage on a failure, or half as much on a success."
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "Dreamtouch.",
+					"entries": [
+						"Kho makes a Dreamtouch attack."
+					]
+				},
+				{
+					"name": "Dreamwalk.",
+					"entries": [
+						"Kho moves up to half his fly speed."
+					]
+				},
+				{
+					"name": "Slumber (Costs 2 Actions).",
+					"entries": [
+						"Kho uses Induce Slumber."
+					]
+				},
+				{
+					"name": "Awakening (Costs 2 Actions).",
+					"entries": [
+						"Kho uses Tormented Awakening."
+					]
+				}
+			],
+			"legendaryHeader": [
+				"Kho can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Kho regains spent legendary actions at the start of his turn."
+			]
+		},
+		{
+			"name": "Twr the Tyrant",
+			"source": "SSSOP",
+			"size": [
+				"H"
+			],
+			"type": {
+				"type": "fiend",
+				"tags": [
+					"god"
+				]
+			},
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 23,
+					"from": [
+						"bone armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 324,
+				"formula": "24d12 + 168"
+			},
+			"speed": {
+				"walk": 40,
+				"fly": 80
+			},
+			"str": 29,
+			"dex": 16,
+			"con": 24,
+			"int": 22,
+			"wis": 18,
+			"cha": 24,
+			"cr": "25",
+			"page": 312,
+			"save": {
+				"str": "+17",
+				"con": "+15",
+				"wis": "+12",
+				"cha": "+15"
+			},
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks"
+				},
+				"cold",
+				"lightning"
+			],
+			"immune": [
+				"fire",
+				"poison"
+			],
+			"conditionImmune": [
+				"poisoned"
+			],
+			"senses": [
+				"truesight 120 ft."
+			],
+			"passive": 13,
+			"languages": [
+				"Abyssal",
+				"telepathy 120 ft."
+			],
+			"trait": [
+				{
+					"name": "Spiritual Form.",
+					"entries": [
+						"When Twr would be reduced to 0 hit points, she is instead reduced to 1 hit point. She gains a number of temporary hit points equal to half of her maximum hit points and ends all conditions affecting her. She then takes on her Spiritual Form, and her features and actions change accordingly."
+					]
+				},
+				{
+					"name": "Fire Aura.",
+					"entries": [
+						"At the start of each of Twr's turns, each creature within 5 feet of her takes 10 (3d6) fire damage, and flammable objects in the aura that aren't being worn or carried ignite. A creature that touches Twr or hits her with a melee attack while within 5 feet of her takes 10 (3d6) fire damage."
+					]
+				},
+				{
+					"name": "Magic Resistance.",
+					"entries": [
+						"Twr has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				{
+					"name": "Magic Weapons.",
+					"entries": [
+						"Twr's weapon attacks are magical."
+					]
+				},
+				{
+					"name": "Innate Spellcasting.",
+					"entries": [
+						"Twr's spellcasting ability is Charisma (spell save DC 23). Twr can innately cast the following spells, requiring no material components:",
+						"At-will: blindness/deafness, command, cure wounds, healing word, hold person, inflict wounds, lesser restoration, pass without trace, scorching ray, shatter, silence, suggestion",
+						"6/day: banishment, bestow curse, blade barrier, contagion, control water, dimension door, dispel magic, harm, wall of fire",
+						"3/day: antimagic field, control weather, divine word, earthquake, firestorm, symbol",
+						"1/day: gate, imprisonment, meteor swarm"
+					]
+				},
+				{
+					"name": "Legendary Resistance (3/Day).",
+					"entries": [
+						"If Twr fails a saving throw, she can choose to succeed instead."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"Twr uses Scalding Spout and makes two attacks: one with her longsword and one with her whip. She can use Bolt of Flame in place of either or both of these attacks."
+					]
+				},
+				{
+					"name": "Longsword.",
+					"entries": [
+						"Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 22 (3d8 + 9) slashing damage plus 13 (3d8) lightning damage."
+					]
+				},
+				{
+					"name": "Whip.",
+					"entries": [
+						"Melee Weapon Attack: +17 to hit, reach 30 ft., one target. Hit: 16 (2d6 + 9) slashing damage plus 7 (2d6) fire damage, and the target must succeed on a DC 24 Strength saving throw or be knocked prone and pulled up to 25 feet toward Twr."
+					]
+				},
+				{
+					"name": "Scalding Spout.",
+					"entries": [
+						"Twr creates a spout of scalding water in a 10-foot-radius cylinder that is 30 feet high. All creatures in the area must make a DC 23 Dexterity saving throw, taking 35 (10d6) fire damage on a failure, or half as much on a success."
+					]
+				},
+				{
+					"name": "Bolt of Flame.",
+					"entries": [
+						"Ranged Spell Attack: +15 to hit, range 120 ft., one target. Hit: 21 (4d6 + 7) fire damage."
+					]
+				},
+				{
+					"name": "Teleport.",
+					"entries": [
+						"Twr magically teleports, along with any equipment she is wearing or carrying, up to 120 feet to an unoccupied space she can see."
+					]
+				},
+				{
+					"name": "Steam Breath (Recharge 5-6).",
+					"entries": [
+						"Twr exhales scalding steam in a 60-foot cone. Each creature in the area must make a DC 23 Constitution saving throw, taking 70 (20d6) fire damage on a failure, or half as much on a success."
+					]
+				},
+				{
+					"name": "Whipcrack (Recharge 5-6).",
+					"entries": [
+						"Twr cracks her whip, creating a wave of concussive sound. All creatures of Twr's choice within 60 feet of her must make a DC 23 Constitution saving throw, taking 22 (4d10) thunder damage and becoming stunned for 1 minute on a failure, or taking half as much damage on a success. A stunned creature can repeat the saving throw at the end of each of their turns, ending the effect on a success."
+					]
+				},
+				{
+					"name": "Gather Magic (2/Day).",
+					"entries": [
+						"Twr focuses on her connection to the world's magic. If she has cast any spells with a per-day limit, the limit is reset as if she had not cast any such spells yet."
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "Fly.",
+					"entries": [
+						"Twr moves up to half her fly speed."
+					]
+				},
+				{
+					"name": "Tyrant's Strike.",
+					"entries": [
+						"Twr makes a longsword or whip attack."
+					]
+				},
+				{
+					"name": "Bolt of Flame.",
+					"entries": [
+						"Twr uses Bolt of Flame."
+					]
+				},
+				{
+					"name": "Scalding Spout (Costs 2 Actions).",
+					"entries": [
+						"Twr uses Scalding Spout."
+					]
+				},
+				{
+					"name": "Teleport (Costs 2 Actions).",
+					"entries": [
+						"Twr uses Teleport."
+					]
+				},
+				{
+					"name": "Show of Power (Costs 3 Actions).",
+					"entries": [
+						"Twr uses one of her rechargeable abilities, if available."
+					]
+				}
+			],
+			"legendaryHeader": [
+				"Twr can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Twr regains spent legendary actions at the start of her turn."
+			]
+		},
+		{
+			"name": "Twr, Spiritual Form",
+			"source": "SSSOP",
+			"size": [
+				"H"
+			],
+			"type": {
+				"type": "fiend",
+				"tags": [
+					"god"
+				]
+			},
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 23,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 324,
+				"formula": "24d12 + 168"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": 40,
+				"canHover": true
+			},
+			"str": 29,
+			"dex": 16,
+			"con": 24,
+			"int": 22,
+			"wis": 18,
+			"cha": 24,
+			"cr": "25",
+			"page": 313,
+			"save": {
+				"str": "+17",
+				"con": "+15",
+				"wis": "+12",
+				"cha": "+15"
+			},
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks"
+				},
+				"cold",
+				"lightning"
+			],
+			"immune": [
+				"fire",
+				"poison"
+			],
+			"conditionImmune": [
+				"poisoned"
+			],
+			"senses": [
+				"truesight 120 ft."
+			],
+			"passive": 13,
+			"languages": [
+				"Abyssal",
+				"telepathy 120 ft."
+			],
+			"trait": [
+				{
+					"name": "Spiritual Form.",
+					"entries": [
+						"When Twr takes on her spiritual form, she retains her hit dice and hit point maximum from her previous form. Features with limited uses that are present across multiple forms, such as Legendary Resistance, do not regain spent uses. While in her Spiritual Form, Twr cannot take lair actions."
+					]
+				},
+				{
+					"name": "Soul of Water and Flame.",
+					"entries": [
+						"When Twr enters her spiritual form, her physical form is disintegrated in a burst of flame. All other creatures within 60 feet must make a DC 23 Dexterity saving throw, taking 70 (20d6) fire damage on a failure and falling prone on a failure, or taking half as much on a success. Twr's river hallow dries up as the water rises into Twr's spiritual form: a mass of roiling water that crudely imitates Twr's physical form. Twr can maintain this form for 1 minute, after which she returns to her physical form, loses her temporary hit points, and takes 5 points of exhaustion, which can only be removed by resting or a wish spell."
+					]
+				},
+				{
+					"name": "Scalding Aura.",
+					"entries": [
+						"Twr is heavily obscured by a veil of perpetual steam, and when a creature starts their turn within 15 feet of her, they take 14 (4d6) fire damage. A creature that touches Twr or hits her with a melee attack while within 5 feet of her takes 14 (4d6) fire damage."
+					]
+				},
+				{
+					"name": "Magic Resistance.",
+					"entries": [
+						"Twr has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				{
+					"name": "Magic Weapons.",
+					"entries": [
+						"Twr's weapon attacks are magical."
+					]
+				},
+				{
+					"name": "Legendary Resistance (3/Day).",
+					"entries": [
+						"If Twr fails a saving throw, she can choose to succeed instead."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"Twr makes two furylash attacks and uses either Grasping Current or Essence Bolt."
+					]
+				},
+				{
+					"name": "Furylash.",
+					"entries": [
+						"Melee Weapon Attack: +17 to hit, reach 30 ft., one target. Hit: 19 (4d6 + 9) bludgeoning damage plus 14 (4d6) fire damage."
+					]
+				},
+				{
+					"name": "Essence Bolt.",
+					"entries": [
+						"Ranged Spell Attack: +15 to hit, range 120 ft., one target. Hit: the target is subject to one of the following effects:",
+						{
+							"type": "list",
+							"style": "list-hang-notitle",
+							"items": [
+								{
+									"type": "item",
+									"name": "1. Essence of Fire",
+									"entry": "The target takes 33 (6d10) fire damage and must make a DC 23 Dexterity saving throw or ignite and burn for 1 minute. At the end of a burning creature's turn, they can repeat the Dexterity saving throw, taking 16 (3d10) fire damage on a failure and ending the burning effect on a success."
+								},
+								{
+									"type": "item",
+									"name": "2. Essence of Water",
+									"entry": "The target takes 33 (6d10) bludgeoning damage and must make a DC 23 Strength saving throw or be restrained by watery tethers. At the end of a restrained creature's turn, they can repeat the Strength saving throw, ending the restrained effect on a success."
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Grasping Current.",
+					"entries": [
+						"Twr chooses a creature within 60 feet. That creature must make a DC 23 Strength saving throw, taking 21 (6d6) bludgeoning damage and being moved up to 30 feet in a direction Twr chooses on a failure, or taking half as much damage and not being moved on a success."
+					]
+				},
+				{
+					"name": "Teleport.",
+					"entries": [
+						"Twr magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space she can see."
+					]
+				},
+				{
+					"name": "Wrath of the Boiling One (Recharge 5-6).",
+					"entries": [
+						"Scalding water erupts in five 10-foot-radius cylinders that are 60 feet high at points of Twr's choosing within 120 feet. Each creature in a cylinder's area must make a DC 23 Dexterity saving throw, taking 66 (12d10) fire damage on a failure, or half as much on a success."
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "Fly.",
+					"entries": [
+						"Twr moves up to half her fly speed."
+					]
+				},
+				{
+					"name": "Flamelash.",
+					"entries": [
+						"Twr makes a Furylash attack."
+					]
+				},
+				{
+					"name": "Unleashed Power (Costs 2 Actions).",
+					"entries": [
+						"Twr uses either Essence Bolt or Grasping Current"
+					]
+				},
+				{
+					"name": "Teleport (Costs 2 Actions).",
+					"entries": [
+						"Twr uses Teleport."
+					]
+				},
+				{
+					"name": "Wrath (Costs 3 Actions).",
+					"entries": [
+						"Twr uses Wrath of the Boiling One, if available."
+					]
+				}
+			],
+			"legendaryHeader": [
+				"Twr can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Twr regains spent legendary actions at the start of her turn."
 			]
 		}
 	]
