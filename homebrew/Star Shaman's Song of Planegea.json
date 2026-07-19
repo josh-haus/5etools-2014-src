@@ -488,6 +488,593 @@
 							]
 						}
 					]
+				},
+				{
+					"type": "section",
+					"name": "Clanfire & Wilderness",
+					"page": 17,
+					"entries": [
+						{
+							"type": "quote",
+							"entries": [
+								"Smoke, drums, wild howling filled the night. An enormous fire burned in the center of a ring of tents, and a crowd was gathered to watch the ceremony. Beside the fire knelt a man with shell-and-chitin armor, beard roughly shaved. Above him stood a tall figure with bare arms and an antlered mask, made taller by the fire and the magic she cast through its power. \"When you take the sword,\" said the shaman, her mask red and yellow and blue in the firelight, \"you become the sword of the clan.\"",
+								"\"I become the sword of the clan,\" echoed the young guardian.",
+								"The shaman reached her bare arm into the fire, which glowed green where she touched it. From its heart she drew out an obsidian sword, its surface alight with green swirls and angles. \"When you become the sword of the clan,\" said the shaman, her mask green and yellow and red in the spell-light, \"you fear nothing but harm to the clan.\"",
+								"\"I fear nothing but harm to the clan,\" repeated the young guardian, and reached out his hands to receive the sword.",
+								"The shaman raised the weapon as a howl echoed from somewhere outside the camp, and the clan roared in hope and sorrow and rage. At last they would have a guardian. At last the killing would end.",
+								"With a ceremonial shriek, the shaman swung the sword at the guardian's heart. He caught it with his bare hands, and blood splattered the blade, the dirt, the shaman, and the fire, where it hissed and popped.",
+								"\"The sword has tasted your blood,\" said the shaman, as the wincing guardian took the weapon's handle. She reached out and healed the wound. \"Now you and the sword are one!\"",
+								"\"I and the sword are one!\" shouted the guardian, rising to his feet.",
+								"The shaman removed her mask and smiled, her eyes aglow as a blood-freezing howl split the night. \"Well done. Now… hunt down those werewolves.\""
+							]
+						},
+						"When you set foot in Planegea, you enter a wilderness world. This is a place of darkness and light, beauty and terror, death and the raw will to survive just one more day. Planegea is a world without famed heroes: to live is heroic enough. Yet never has a land been in more need of those with heroes' hearts—those ready to fight the powerful to defend the weak, risk impossible odds to stave off darkness for one more night. These qualities are essential when entering a primal world of prehistoric fantasy.",
+						"And what a world it is! Filled with strange monsters, secret mysteries, untouched landscapes, swirling stars, living forests, magical volcanoes, writhing seas, giant empires, doors to dream and nightmare, Planegea is a world that crackles with possibility for adventure.",
+						"This chapter will serve as an introduction to basic survival in the world, focusing on the center of mortal life—the clanfire—as well as the wilderness that lies just beyond its light. Use it as a guide to begin getting acquainted with life in a magical Stone Age, to spark ideas for adventure, and orient you for all that lies ahead.",
+						{
+							"type": "entries",
+							"name": "Three Themes",
+							"entries": [
+								"The world of Planegea is made for imaginative, exciting campaigns full of every kind of adventure. From pulpy dungeon crawls to political intrigue, from gritty monster hunts to mythical, world-shaping campaigns, from urban skulduggery to wars in the darkest depths, it can all happen here. Each group has their own Planegea, and every one is different, uniquely tailored to the play style of that party. To hold all of these together, Planegea is built on three themes that run throughout this book:",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Kinetic Action.",
+											"entry": "In Planegea, you don't stand still and hit things. Battles are fought on the backs of mammoths, on racing ice floes, on trees bent before a magical gale. The battlefield is never constant here—fires fill the air with smoke, hungry scavengers gather at the edge of combat, and enemies leap through the air, bodies and blades twisting as they throw themselves at you without regard for life and limb. Planegea is built for over-the-top action, where combat is never just a combat, but a story in itself and an explosion of dangerous, chaotic energy."
+										},
+										{
+											"type": "item",
+											"name": "Primordial Horror.",
+											"entry": "Sometimes there isn't a name for the thing that slithers by your skin in the shadows. Sometimes you can't control the voice you hear whispering your name at night, scratching at your tent flap, begging to be let in. In Planegea, mortals have barely any control over the world around them. You are surrounded on all sides by the unknowable, the unstoppable, and that which means you harm. The fundamental horror of Something Out There in the Dark is ever-present here, requiring great courage—or a little darkness of your own—to confront it."
+										},
+										{
+											"type": "item",
+											"name": "Mystic Awe.",
+											"entry": "Wonder isn't about what you see… it's about what you feel. It's about coming to the edge of the infinite and discovering how small you have always been. It's about the beauty of losing yourself in something greater. Planegea is a world of countless gods, of immaculate natural wonders, and of stars that spin above and whisper stories to the mortals below. In Planegea, you can fall into astonishment, seeing the world with fresh eyes, beholding everything as if for the very first time. And as you do so, all is made new again, and stories you thought you knew become strange and wonderful once more, like painted deer on a cave wall in flickering firelight."
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Prehistoric Fantasy",
+							"entries": [
+								"For many of us, our first voyages into fantasy were set in a medieval world full of knights and castles, royalty and wizards. Those fairytale lands gave way to stranger stories as we grew, but our grounding was always in that middle-time of iron swords and besieged battlements.",
+								"Planegea falls backwards through history to a much earlier era, before the bronze age of sword and sandal into a world without any idea of metal whatsoever. Medieval fantasy often talks about a previous era—\"a time before memory\" or \"the dawn of the world.\" That's exactly where Planegea exists.",
+								"When you enter a world of prehistoric fantasy, you bring some things with you and leave others behind.",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "What you bring.",
+											"entry": "Bring your sense of possibility, your appetite for adventure, your ingenuity and wit. Bring your curiosity, your daring, your thirst for a good story and a good battle. Bring your instincts for friendship and mistrust of too-friendly strangers, and bring above all your sense of discovery—there's far more in Planegea than meets the eye, for those willing to encounter it."
+										},
+										{
+											"type": "item",
+											"name": "What you leave behind.",
+											"entry": "Leave behind your ideas of stability and predictability, confidence in the established order of things and a hierarchy of kings and nobles. Leave behind images of dusty temples and ancient religions—all is new here at the start of the world. Leave behind scholars of ancient histories. You are living the first stories, the ones that will be told in stars and tomes in the eras to come—if you are brave enough to change the world by your force of will."
+										},
+										{
+											"type": "item",
+											"name": "What you find again.",
+											"entry": "There are many elements of classical fantasy that still exist in prehistoric fantasy, slightly altered to fit a world without writing and ore. Use the Prehistoric Fantasy table to suggest how you might encounter familiar tropes in a new way in the world of Planegea."
+										}
+									]
+								},
+								{
+									"type": "quote",
+									"entries": [
+										"Do not let the strangeness of this world hinder you from discovering its wonders. When I fell from the sky, I had to learn everything again, as if I were a newborn child. Had I not plummeted into the land of a unicorn, I certainly would have been lost for—though I did not know it then—trolls have a special taste for star-flesh."
+									]
+								},
+								{
+									"type": "table",
+									"caption": "Prehistoric Fantasy",
+									"colLabels": [
+										"Medieval Fantasy",
+										"Prehistoric Fantasy"
+									],
+									"colStyles": [
+										"col-6",
+										"col-6"
+									],
+									"rows": [
+										["Ancient kingdom", "Powerful, ritualistic clan"],
+										["Airship", "Tamed flying behemoth"],
+										["Blacksmith", "Master crafter"],
+										["Book or tome", "Painting or song"],
+										["Carriage", "Beast of burden"],
+										["Castle", "Cave system"],
+										["City", "Gathering of clans"],
+										["Dungeon or prison", "Cave, pit, or guarded camp"],
+										["Guard or knight", "Clan hunter or warrior"],
+										["Gold or coins", "Salt or trade goods"],
+										["House or mansion", "Tent or fortress"],
+										["Innkeeper or server", "Elder, host, or drink-master"],
+										["King, noble, or mayor", "God, chieftain, or elder"],
+										["Library", "Gathering of elders or chanters"],
+										["Lock", "Knot, spell, or guard"],
+										["Ruin", "Cursed or taboo place"],
+										["Sailing ship", "Catamaran or great-canoe"],
+										["School or monastery", "Hidden sanctuary"],
+										["Spell scroll", "Talisman"],
+										["Secret cult", "Secret cult"],
+										["Shop", "Clanfire or crafter's tent"],
+										["Shop, magic", "God's hallow"],
+										["Tavern", "Clanfire or shady pool"],
+										["Temple", "God's hallow or shaman's tent"],
+										["Thieves guild", "Scavengers or secret alliance"],
+										["Tomb or crypt", "Burial ground or catacombs"],
+										["Tower", "Tower, cliff, or tree"],
+										["Trapdoor", "Disguised tunnel or tent flap"],
+										["Wizard's tower", "Spellskin's cliff-sanctum"],
+										["Village", "Small clan"]
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Five Senses",
+									"entries": [
+										"Planegea is no drab place of brown furs and dull grunts—it's a sensory world, alive with color and noise, scent and feeling. In Planegea, you might…",
+										{
+											"type": "list",
+											"items": [
+												"See brightly-painted tents adorned with dyed fur and patterned feathers, swirling stars overhead in infinite dancing patterns, or a herd of towering beasts on the move in the mist, each the size of a fortress.",
+												"Hear drums and the music of pipes and harps, songs and stories, wind and rain, choruses of birds, whispers of stars, and howls of hunger from the echoing wild.",
+												"Smell the intoxicating scent of giant flowers, the comforting smoke of the clanfire, the tang of magic, and the purest of fresh air, mingled with the musk of beasts on the prowl and rot on the wind.",
+												"Taste smoked meat fresh off the bone, salt on the lips, blood running from a fresh wound, sweet and tart fruits growing in abundance, and bitter herbs ground between teeth in divine ceremony.",
+												"Feel worked leather and knapped stone, warm furs and icy winds, shimmering heat rising from volcanoes and geysers, dizzying magic both arcane and divine, and the pounding of your pulse as you hunt and are hunted."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Six Abilities",
+									"entries": [
+										"Every ability comes into play in prehistoric fantasy, not just the physical ones. You'll need all your cunning, intuition, and charm to survive. In Planegea, you'll use…",
+										{
+											"type": "list",
+											"items": [
+												"{@skill Strength} to grapple monstrous beasts, outrun meteor strikes, scale cliffs, plunge into dark depths, wrench bone from bone, and carry the clan on your back.",
+												"{@skill Dexterity} to leap from height to height, dance out of harm's way, hide from hungry predators, stalk unsuspecting prey, and scavenge what you need to survive.",
+												"{@skill Constitution} to withstand bitter winter and volcanic heat, poisonous plants and stinging megafauna, endless days, deadly nights, and potent venomwine.",
+												"{@skill Intelligence} to read the secrets of the stars, remember the shape of an ever-moving land, rediscover forgotten songs and stories, recognize the familiar in the bewildering, and study the ways of gods and monsters.",
+												"{@skill Wisdom} to read a stranger's intent, harvest kills and heal wounds, scout the land ahead, smell danger on the wind, track your quarry, intuit the elements, and find food and water to stave off starvation for one more day.",
+												"{@skill Charisma} to talk your way out of trouble, intimidate mortals and monsters alike, dance and sing the rites and rituals of gods old and new, and forge friendships to stand between you and death."
+											]
+										},
+										{
+											"type": "quote",
+											"entries": [
+												"Of course, these are hardly all the abilities required to survive. I'd add to these honor, courage, a sense of humor, and hope. Those four qualities have kept me alive when everything else was lost."
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Clanfire",
+							"entries": [
+								"Wherever you go in Planegea, you find adventure, and not always at the snarling fangs of a saber-toothed cat. Sometimes it's the false smile of a lying advisor, their eyes glittering with subtle malice. Sometimes it's in a tense negotiation between clans on the brink of all-out war. And then sometimes—rarely, but every now and then—life in Planegea is good, peaceful, and worth fighting to protect. As you take your seat around the clanfire, you'll discover these keys of life in Planegea:",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Protect the clan.",
+											"entry": "Mortals in Planegea—humans, elves, dwarves, orcs, and other folk—live in nomadic hunter-gatherer groups called clans. These clans roam the land in search of food, water, fuel for their fires, and a safe place to lay their heads at night. A clan is the closest family a mortal can have, and survival depends on knowing that the others in your clan would die for you, and you for them."
+										},
+										{
+											"type": "item",
+											"name": "Honor the clanfire.",
+											"entry": "The clanfire is the heart of clan life—a symbol of vitality and survival. This large fire is usually found at the center of a mortal camp. It burns low and hot during the day when it's used for crafting and cooking, but as night falls, it is raised up to a roaring bonfire around which the clan gathers to eat, talk, perform rituals and magic, and tell stories. To extinguish a clanfire is an act of war, a death threat against every member of the clan. The fire is kept burning above all, and honored by those who keep it."
+										},
+										{
+											"type": "item",
+											"name": "Appease the gods.",
+											"entry": "Gods in Planegea are not distant abstractions—they are the great bear in the cave, the lion on the hill, the whisper in the dark in the dead tree you dare not approach. Gods are powerful, but local, bound to their divine lair, called their hallow. As clans travel, they move between divine domains, and seek to curry favor with the local gods, relying on their shamans (and those the shamans recruit) to do all it takes to earn the favor of the nearest, most powerful god."
+										},
+										{
+											"type": "item",
+											"name": "Craft what you need.",
+											"entry": "In this primal world, mortals make what they need from a hunt's harvest or what they can gather from the wild. The land and its monsters bristle with parts that can be used in all manner of surprising combinations, from the simplest knife to elaborate flying constructs built from driftstone, leathery wings, scavenged ribcages, and arcane gems. It's a make-do land, where cunning and ingenuity are as valuable as brawn and stamina, and every hunt is an opportunity for invention."
+										},
+										{
+											"type": "item",
+											"name": "Make friends & enemies.",
+											"entry": "Only a fool dwells trustingly with the enemy. As powerful clans, dangerous raiders, unstable gods, ravaging monsters, and the ever-present Giant Empires loom on all sides, it's essential to make allies you can trust—and to know who your enemies are. Many forces move through the world, some unmissable, some unseen. The secrets in a stranger's eyes in the firelight may mean the difference between life and death… or worse."
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Clan Life",
+									"entries": [
+										"Every clan is different, with its own customs, local taboos, duties to its god, struggles, and joys. But most mortal societies in the Great Valley have at least a few similarities that unite them.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Complex societies.",
+													"entry": "The clans of Planegea are as layered, dynamic, and active as the villages and cities of future eras. Members of the clan vie for status, push their vision and agendas, nurse secrets and grudges, worry about the future, and long for better days."
+												},
+												{
+													"type": "item",
+													"name": "Hunter-gatherers.",
+													"entry": "Because farming attracts the ire of roving forests, the clans of Planegea are forced to survive in other ways. The clans are nomadic, traveling with the prey animals they depend on, setting traps, fishing, and gathering the produce of the land to stay alive."
+												},
+												{
+													"type": "item",
+													"name": "Shamans, chieftains, & elders.",
+													"entry": "Most clans are jointly led by a shaman and a chieftain, and counseled by elders. The shaman's role is to deal with gods, culture, and divine magic. The chieftain's role is to deal with survival, justice, and arcane magic. They are mediated by a group of elders, whose role is to deal with tradition, lore, and conflicts between the chieftain and shaman."
+												},
+												{
+													"type": "item",
+													"name": "Local gods.",
+													"entry": "Clans live in relation to the gods, depending on their favor to survive. Clans might have a single god they primarily follow, or might split their reverence between a variety of gods as they travel. And some clans—those led by orcs, especially—want nothing to do with the gods, preferring to make their own way through the world."
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Resources",
+											"entries": [
+												"Every clan has basic needs for survival. The search for these resources is what keeps them traveling from place to place. As a resource dwindles, the clan begins to grow restless and prepares to move on.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Food.",
+															"entry": "Herd animals are always moving, and the clan follows the hunter's quarry. But the gatherers know how to trap, fish, dig, climb, and collect the bounty of the land even when game is scarce. With too little food, morale diminishes and fights break out or, worse, people simply abandon the clan and are never seen again."
+														},
+														{
+															"type": "item",
+															"name": "Water.",
+															"entry": "In the dry northern winter and southern summer, the land cries out in thirst. Rivers and watering holes are commonplace, but attract dangerous predators, while ponds and pools are known for disease, parasites, and more malignant magical effects that can linger far longer."
+														},
+														{
+															"type": "item",
+															"name": "Safety.",
+															"entry": "Caves offer natural defenses, but can house dangerous pests and predators. Trees and cliffs provide vantage points but leave the clan exposed to attack. The search for a secure location is an essential part of making camp; the clan never knows whether the place they lay their heads will be the site of a desperate last stand."
+														},
+														{
+															"type": "item",
+															"name": "Materials.",
+															"entry": "Many clans have a craft, a trade, or a specialty. They require components for magic, minerals for crafting, ivory, wood, chitin, feathers, or other goods for ceremonies, survival, or prosperity. Such resources keep clans searching, no matter how good an encampment might seem."
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Movement",
+											"entries": [
+												"Winter is cruel in the Great Valley. It stalks like a fanged predator, and wise mortals know to flee or find shelter before the worst of it is upon them. But the landscape of Planegea is immense, and only the outermost clans can escape the jaws of ice and snow that close around them each year—except for those who find secret ways through the world.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Migration.",
+															"entry": "The surest sign that winter is coming is not the drop in temperature. By then it's already too late. Rather, clans watch for the departure of their prey southwards, and travel with them. But even animals can be tricked by an unseasonal heat wave or a capricious god who doesn't want their worshipers to leave just yet."
+														},
+														{
+															"type": "item",
+															"name": "Distance.",
+															"entry": "Planegea is unknowably vast, its horizons unmeasured by any being, even the gods. For northern clans, traveling south in time to evade the winter is an impossibility. There are only three choices when winter is coming quickly for such a clan—die, endure, or find a passageway through Nod to somewhere warmer."
+														},
+														{
+															"type": "item",
+															"name": "Portals.",
+															"entry": "Nod, that hidden land of dreams and nightmares, exists just on the other side of waking. But there are also doorways throughout the world which mortals can walk through, if they know where to look. Such passages are typically underground or hidden out of sight in strange, eerie, or abnormal places. They usually reveal themselves when least expected or in response to particular behaviors, such as the singing of a certain song, walking with closed eyes, or when those who would find them are in a certain emotional state such as fear, love, rage, or calm. Portals can take many forms—dark canyons, shining pools, glowing tunnels—or an unsuspecting traveler might not know that they've passed into the Dreamworld at all."
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Travel Through Nod",
+													"entries": [
+														"Once you step through a portal, you find yourself in one of Nod's twin worlds—the World of Dreams or the World of Nightmares. Often, it's hard to tell which one until it's too late. Only the foolish, the desperate, or those with the most experienced of guides travel through these lands. In Nod, you're always a breath away from losing yourself to charms, eternal sleep, madness, illusion, tricks, spells, and even outright attacks. Nod is a place of infinite ways and twisting turns, and a wrong step could leave a clan wandering forever through a landscape from which there is no return. Those clans who make such a harrowing journey yearly rely on their leaders to guide them through the twin worlds using their magic, experience, and the gifts of their gods… if they even have sway in such places.",
+														{
+															"type": "list",
+															"style": "list-hang-notitle",
+															"items": [
+																{
+																	"type": "item",
+																	"name": "Alliances.",
+																	"entry": "Some, such as the Ape Clan of the Great Valley, have labored for generations to maintain an alliance with the Throne of Dreams, whose elvish scouts act as guards and guides as the clan travels through Nod to warmer lands every autumn. Such alliances come at dear cost, for the elves of Nod are fickle, vain, and take offense easily. But their guarantee of safe travel through Nod is worth maintaining at any cost… isn't it?"
+																},
+																{
+																	"type": "item",
+																	"name": "Shifting passages.",
+																	"entry": "Planegea doesn't stay still. Even a clan who has found passways through the world may find that they change from year to year. All most clans know is that certain ways in the world lead to warmth and good hunting. But it is the work of such clans to relocate the passages each year as the seasons shift. Magical portals, forest trails, and mountain passes alike can close or relocate, or the conditions of opening them alter. Such a change too late in the year can spell disaster for even a powerful clan, leaving them at the mercy of the elements without warning."
+																},
+																{
+																	"type": "item",
+																	"name": "Endurance.",
+																	"entry": "Sometimes there's no escaping the winter. In these years, a clan must hope they have dried and salted enough prey, and built strong enough storage huts to endure the long, dark cold. Winter in the north is a season of hardship and starvation—not only for mortals, but also for predators who, emboldened by their hunger, may attack even by the light of a brightly burning clanfire. Some clans adapt to this, making winter endurance part of their culture… but most are simply gone when spring comes."
+																}
+															]
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Rhythms of the Clan",
+											"entries": [
+												"Although every clan is different, there are some typical rhythms and expectations mortals bring as they encounter each other—work-filled days focused on survival, long nights focused on magic and ceremony, as well as certain hierarchies and activities that bind the clans together.",
+												{
+													"type": "entries",
+													"name": "Magic",
+													"entries": [
+														"Planegea crackles with magic, raw and untamed. It is the dawn of many worlds, and magic is mysterious, scarcely understood, feared, and revered. The clans wield magic as best they can to survive and to create a future for themselves, but they do so knowing that they are touching the edge of something far larger and far more dangerous than they can possibly imagine.",
+														{
+															"type": "list",
+															"style": "list-hang-notitle",
+															"items": [
+																{
+																	"type": "item",
+																	"name": "Before the planes.",
+																	"entry": "In Planegea, the planes of existence have not yet separated, and all the magic of the elements, the world's birth, and the potential of the multiverse exists in one great land. From the volcanic fires of creation in Blood Mountain to the raw power of the Elemental Wastes and—beyond that—the Sea of Stars, magic is everywhere. The Kingdom of the Dead and the Worlds of Dreams and Nightmares are a step away, and their magic seeps into the world as well. All things are possible, close, full of promise and menace."
+																},
+																{
+																	"type": "item",
+																	"name": "Divine magic.",
+																	"entry": "The divine magic of Planegea seeps from the land, starting at Blood Mountain and flowing outward. Gods are creatures, places, or things around which the magic of the world has pooled or snagged, filling them with divine power. Shamans and guardians work with and wield divine magic with the blessing of the gods on behalf of the clans, and are trusted to mediate between gods and mortals for the protection and prosperity of all."
+																},
+																{
+																	"type": "item",
+																	"name": "Arcane magic.",
+																	"entry": "The arcane magic of Planegea drifts from the sky, starting with the stars and radiating inward. It is magic that cares little for the natural order, shaping it and reforming it according to the will of its caster. Warlocks, chanters, and sorcerers wield the power of the arcane on behalf of the clan, and though their ways are little understood, the clans rely on their abilities to bend reality for the good of their people."
+																},
+																{
+																	"type": "item",
+																	"name": "Frightful arts.",
+																	"entry": "There are those who use divine and arcane magic in ways that displease the gods and summon the Hounds, and these are to be feared and hated by the clans. Druids—called god-leeches—sap magic away from the domain of gods to give it back to the land. Rangers defy the gods' divine order, stealing magic and glory from the gods to empower mortals. And the tattooed cave-painters called spellskins—while tolerated by some clans because of their many uses and deep knowledge of the arcane—are looked at askance, seen as a risk. Everyone has heard stories of the spellskin who went too far in their studies and attracted the attention of the Hounds."
+																},
+																{
+																	"type": "item",
+																	"name": "Strange lore.",
+																	"entry": "There is much in the world that is not understood—taboo places with weird magical energies that shamans and sorcerers can't explain. Strange pits or doors into the earth conceal buried secrets, cultists practice unknowable rites at the edges of the world, giants work strange, too-powerful magics, elemental spirits of the Wastes spin new realities from whims… such things are beyond the understanding of the clans. Yet there are those who are drawn by such mysteries, and certain wanderers spend their lives delving into these exact secrets to discover what good or evil they hold."
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Full Days",
+													"entries": [
+														"An average day is busy, full of bustle and industry for every member of the clan.",
+														"Children are responsible for gathering fuel for the clanfire, cleaning the encampment, watching and teaching younger children, and aiding the adults as any has need.",
+														"Low-status clan members are assigned heavy labor—beating hides for tanning, carrying stones or lumber for construction, digging latrines, and so on.",
+														"Able adults informally divide themselves by mood, preference, and natural ability into hunters and gatherers. Hunters typically rest until prey is spotted, and may at first seem lazy. But when scouts (often young hunters with something to prove) return with word of game on the horizon, the hunters spring into action and may go for days and nights without rest to bring down a kill that will feed the entire tribe. Gatherers travel as far as half a day's journey from the encampment, checking traps and fishing lines and filling large baskets and satchels with whatever food and useful materials they can find for the clan.",
+														"Elders, seers, shaman's aides, and crafters remain at the camp, engaging in council, adjudicating conflict, preparing for the night's magic, cooking, tanning leather, crafting needed tools and supplies, or repairing and expanding the encampment.",
+														"The shaman usually sleeps or meditates for much of the day, preparing for the night's magic, but may consult with the elders, resolve disputes, perform minor rites, or travel to the local god's hallow if summoned or in need of divine aid."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Magic Nights",
+													"entries": [
+														"After the work of the day, as sun sets, the clan gathers and the clanfire is built high. Sentries are posted outside the ring of firelight to watch for danger, and the rest of the clan gathers to eat, drink, tell stories, sing songs, and do magic.",
+														"By gathering the inherent magic of the land and people together, even clans with weak shamans can create magical effects, sometimes surprisingly strong. However, given its ritual nature, magic is not performed lightly, and some clans utterly shun any magic but that which is performed at the clanfire ceremonies.",
+														{
+															"type": "entries",
+															"name": "Shamanic Magic",
+															"entries": [
+																"Once the sun has set, the shaman casts spells, drawing from the shaman (cleric) spell list based on the needs of the clan. Shamanic magic usually has a strong performance aspect to it, and is often supported by music from chanters and the hushed attention of the whole clan."
+															]
+														},
+														{
+															"type": "entries",
+															"name": "Clan Magic",
+															"entries": [
+																"Sometimes a clan has need of more powerful magic than that of a single caster, even one as powerful as a shaman, and will unite to perform clan magic. In order to perform clan magic, a fire must be lit, with a cleared perimeter around the fire for ceremonial movements. These may be dances, re-enactments, speeches, etc. A ceremony takes 1 hour to begin, requires 9 or more participants, and must be led by the shaman of a clan who has been trained in clan magic rituals with a high shaman. Once a ceremony has begun, any clan member partaking in the ceremony can cast spells from the shaman (cleric) spell list, but must share the spell slots among themselves. The number of spell slots is limited by the shaman's level or the god's strata (whichever is lower) as follows:",
+																{
+																	"type": "table",
+																	"caption": "Clan Magic",
+																	"colLabels": [
+																		"Shaman Level",
+																		"God Strata",
+																		"Spell Level",
+																		"Magic Weapon"
+																	],
+																	"colStyles": [
+																		"col-2 text-center",
+																		"col-2 text-center",
+																		"col-6",
+																		"col-2 text-center"
+																	],
+																	"rows": [
+																		["1–4", "1st", "Cantrips (Unlimited), 1st level (4 slots), 2nd level (2 slots)", "—"],
+																		["5–10", "2nd", "1st level (4 slots), 2nd level (3 slots), 3rd level (3 slots), 4th level (3 slots), 5th level (2 slots)", "+1"],
+																		["11–16", "3rd", "1st level (4 slots), 2nd level (3 slots), 3rd level (3 slots), 4th level (3 slots), 5th level (2 slots), 6th level (1 slot), 7th level (1 slot), 8th level (1 slot)", "+2"],
+																		["17–20", "4th", "1st level (4 slots), 2nd level (3 slots), 3rd level (3 slots), 4th level (3 slots), 5th level (3 slots), 6th level (2 slots), 7th level (2 slots), 8th level (1 slot), 9th level (1 slot)", "+3"]
+																	]
+																},
+																{
+																	"type": "quote",
+																	"entries": [
+																		"Ah, clan magic! That wild, joyous, fearful, frightful, terrible, profound thing. Have you seen it yet? When as a body they dance, they sing, they call forth the magic of their will to live? It is an astonishment. Even after seeing it a thousand times, it remains an astonishment."
+																	]
+																},
+																"For casting these spells, each ceremonial participant is considered a 4th, 10th, 16th, or 20th-level spellcaster who uses Wisdom as their spellcasting ability. The spell save DC is 12 + the participant's Wisdom modifier, and the spell attack bonus is 4 + the participant's Wisdom modifier.",
+																"After a clan magic ceremony, all participants suffer one level of exhaustion, and the shaman suffers two levels of exhaustion.",
+																"Clan Weapon. Rather than casting other spells, a clan ceremony can enchant a weapon with magic to strike truer and deeper. Such magical weapons are typically made by the clan's best artisan, and feature special decoration, patterning, or exceptional craftsmanship. Each clan weapon requires an entire ceremony to enchant, and requires 12 hours to complete. If any participant leaves the ceremony for more than 1 minute, the ceremony fails and the weapon is destroyed. A clan can have only one clan weapon at a time, and cannot create a second clan weapon while the first one exists. The clan weapon receives a bonus to attack and damage rolls depending on the level of the shaman who led the ceremony, as shown in the table."
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Status",
+													"entries": [
+														"Within a clan or a region, it's possible to gain status through your deeds. Higher status grants benefits such as greater access to elders, chieftains, shamans, and gods, as well as new opportunities for adventures, such as characters confiding in you, coming to you with requests for aid, or regarding you as rivals. Status can also give you an advantage in bartering, acting as a bargaining chip to get what you want more easily.",
+														"If your party decides to measure status, work with your DM to determine your character's starting status, from –10 to +10. You can raise or lower your status through your actions. Your DM can then set certain interactions (such as being summoned by a god, approached by a trader, or stalked by a rival) at appropriate status levels. Earning or losing status can then trigger those interactions, opening up new avenues for roleplay, exploration, and combat. Use the guidelines below to track status.",
+														{
+															"type": "entries",
+															"name": "Role",
+															"entries": [
+																"A typical hunter-gatherer clan has the following status hierarchy:",
+																{
+																	"type": "table",
+																	"caption": "Role",
+																	"colLabels": [
+																		"Clan Role",
+																		"Status"
+																	],
+																	"colStyles": [
+																		"col-8",
+																		"col-4 text-center"
+																	],
+																	"rows": [
+																		["Shaman, chieftain", "+10"],
+																		["Elder", "+9"],
+																		["Guardian or ascetic", "+8"],
+																		["Lead hunter", "+7"],
+																		["Lead crafter or builder, senior trader", "+6"],
+																		["Lead gatherer, senior crafter", "+5"],
+																		["Shaman's aid, senior hunter", "+4"],
+																		["Hunter, senior gatherer", "+3"],
+																		["Crafter, builder, or trader", "+2"],
+																		["Gatherer, young hunter", "+1"],
+																		["Child", "+0"],
+																		["Weak or distrusted adult", "–3"],
+																		["Scavenger", "–6"],
+																		["Outcast", "–9"]
+																	]
+																},
+																"This hierarchy varies from clan to clan, and in some communities (such as a clan of scavengers or crafters, druid groves, or spellskin enclaves) may be totally different. Still, you can use the list above as a general guideline. In most cases, if you prove yourself in any of these roles, you will be treated with appropriate status by anyone who believes you are a match for that role. Some may challenge your status due to suspicion, hostility, or rivalry, and you must continue to perform the expected duties of a positive status in order to maintain it."
+															]
+														},
+														{
+															"type": "entries",
+															"name": "Deeds",
+															"entries": [
+																"Various deeds can increase your status within a community. In general, acts of heroism, self-sacrifice, communal spirit, and expertise will increase your status. Generally, raising status through deeds is a matter of doing the right things for the right people, so you'll need to carefully determine who you need to impress in order to elevate your status in any given clan or community."
+															]
+														},
+														{
+															"type": "entries",
+															"name": "Names",
+															"entries": [
+																"Winning names is a way to alter your status in places you haven't visited yet. Your DM may award you names through your heroic actions—such as Hunts-Trolls, Cure-Finder, Mammoth-Friend, and so on. You can also earn names of ill repute through misdeeds. If you announce a name or are recognized by it, your status may raise or lower accordingly."
+															]
+														},
+														{
+															"type": "entries",
+															"name": "Scars",
+															"entries": [
+																"Scars are much like names—they speak for you. Your DM may choose to award scars after significant encounters (see pg. 265)."
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Taming & Training",
+													"entries": [
+														"Befriending a beast can be a worthwhile endeavor… provided you can manage it without being torn apart by your would-be ally. Humans are known across Planegea for their talent for living in community with other types of creatures, but anyone can make the attempt to trap, tame, and train a creature."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Feasts & Festivals",
+													"entries": [
+														"Whenever hunters bring back a large kill or gatherers discover a large food supply, as well as at certain holidays such as the equinox or solstice, the clan celebrates with a feast. These can last several days, depending on how plentiful the food and drink are and how safe their encampment is.",
+														{
+															"type": "list",
+															"style": "list-hang-notitle",
+															"items": [
+																{
+																	"type": "item",
+																	"name": "Feasts.",
+																	"entry": "Celebrations of bounty are less formal and less predictable, but represent occasions of great joy when they happen. A feast occurs when the clan finds more food than they can eat or preserve. Horns are blown and messengers are sent out to neighboring clans to gather as many as possible to partake of the bounty, as it is considered a great shame to waste the plenty of a feast in selfish hoarding. Since feasts are unplanned, there are rarely ritualistic activities, but when clans come together there are often hastily-organized games, competitions, dances, performances, feats of magic, and the like. Feasts are known for their joyous, chaotic nature—a feeling that anything could happen at any moment."
+																},
+																{
+																	"type": "item",
+																	"name": "Festivals.",
+																	"entry": "These seasonal occasions mark celestial events, important remembrances, and divinely ordained celebrations. Festivals are carefully planned and prepared for, often for weeks or months in advance, and feature displays of pageantry, ritual, and shamanic rites of great importance. Young people who have married into other clans will often make perilous journeys across great distances to join their families for festivals. Festivals are known for their elaborate performances, ornate costumes, rare delights of food and craftsmanship requiring skilled labor to create, and a sense of anticipation as the festival builds to its ultimate crescendo."
+																}
+															]
+														}
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Rites & Rituals",
+													"entries": [
+														"Certain events mark the passage of time and life in the memory of a clan. These serve as moments for the clan to come together and witness something of significance.",
+														{
+															"type": "list",
+															"style": "list-hang-notitle",
+															"items": [
+																{
+																	"type": "item",
+																	"name": "Namings.",
+																	"entry": "When a child is born, the parents ask the clan's shaman for a name. Shamans treat this duty with utmost gravity, for a child's name is said to have great magical power over its destiny. When a name is chosen, the entire clan is gathered, the name is announced, and the infant is officially adopted into the clan."
+																},
+																{
+																	"type": "item",
+																	"name": "Weddings.",
+																	"entry": "Usually following long courtships and exchanges of gifts and promises (sometimes begun at feasts or festivals years before), a wedding is the moment when the shaman publicly blesses a union before the entire clan, usually requiring the clan to take an oath to safeguard and strengthen the marriage."
+																},
+																{
+																	"type": "item",
+																	"name": "Funerals.",
+																	"entry": "Death and burial practices vary from region to region and god to god—sometimes destroying the body, sometimes preserving it, sometimes committing it to the sea or air or soil. In any case, the shaman leads the clan in remembrance and honoring the soul of the departed."
+																},
+																{
+																	"type": "item",
+																	"name": "Punishments.",
+																	"entry": "Transgression against the clan is rare, but it does happen. When justice must be meted out, the entire clan gathers. This is the rare rite that is not overseen by the shaman. Rather, the elders of the clan mete out punishments as they see fit. Theft, greed, and the breaking of taboo are the most serious offenses in most clans. The worst punishment is to be cast out and shunned by the clan, condemned to the ravages of predators and denied funeral rites at death."
+																},
+																{
+																	"type": "item",
+																	"name": "Vigils.",
+																	"entry": "Before important hunts or in response to various milestones or dangers, the shaman or elders may call for a vigil, requiring some or all of the clan to stay awake and ceremonially focus their attention in meditation, supplication, concentration, and so on."
+																},
+																{
+																	"type": "item",
+																	"name": "Initiations.",
+																	"entry": "The inauguration of a new shaman, the appointing of an elder, the recognition of a child as an adult or a scout as a full-blooded hunter—the clan gathers to mark such passages from one status to another, with various levels of ceremony depending on the occasion."
+																}
+															]
+														},
+														{
+															"type": "quote",
+															"entries": [
+																"An initiation is a kind of birth and a kind of death. It is a becoming and a leaving-behind. A child is lost, a hunter gained, and who can say which has more meaning in the life of a clan?"
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
 				}
 			]
 		}
