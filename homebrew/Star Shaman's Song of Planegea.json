@@ -8886,6 +8886,1218 @@
 							]
 						}
 					]
+				},
+				{
+					"type": "section",
+					"name": "Equipment & Trade",
+					"page": 97,
+					"entries": [
+						{
+							"type": "quote",
+							"entries": [
+								"The air shimmered with heat as the chieftain brushed sand off the blade and sighted down its length. \"And where did you get this?\"",
+								"The trader leaned forward, beads jingling on her bright cloak. \"I'm telling you, I came across a giant raiding party slain by… something. It was a mess. I didn't wait around to ask questions, but I did risk life and limb to bring you the very best of what the scavengers left. This, if you can believe it,\" she tapped the huge shard of obsidian, \"was a dagger for them. Should make quite a sword for anyone our size.\"",
+								"\"Yes, quite…\"",
+								"She could see the chieftain was taken by the blade. She knew he needed it. Rumors from neighboring clans said his authority was slipping away, but wielding a giant's blade would be a show of power. All she needed now was the final push. \"I call it Greatgrip. And I'm no spellcaster, but at night, sometimes I think it glows a bit.\"",
+								"That did it. The chieftain met her gaze. \"What do you want for it?\"",
+								"She looked around the wide, dry valley, the cracked land streaked with white crystals, blowing off the dead lake. \"Well… I was thinking… you wouldn't happen to have any salt on hand, would you?\""
+							]
+						},
+						"Every item in Planegea is made by hand or by magic. There is no mass industry here—each knife, bowl, water skin, and rope is the result of careful and individual attention by craftspeople, or else summoned into existence by magic. As a result, even common objects tend to have names, histories, and quirks unique to them. When you barter for a sword, its maker might tell you about the monster whose teeth line the edge. When you are given a talisman, the spellcaster who prepared it may introduce you to it as to an old friend.",
+						"Name what matters. Every sword, shield, and cloak can be named—but most especially weapons and armor that save your life. Take time when making trades or during rests to become familiar with the quirks of your gear, and call them by names that are true to their nature. Use the table below to inspire some of your items' names:",
+						{
+							"type": "table",
+							"caption": "Example Gear Names",
+							"colLabels": [
+								"Inspiration",
+								"Example Gear Names"
+							],
+							"colStyles": [
+								"col-3",
+								"col-9"
+							],
+							"rows": [
+								[
+									"Appearance",
+									"Blacktip, Twisthandle, Spotty, Old Gray, Short-Edge, Sawtooth, Notchblade"
+								],
+								[
+									"Materials",
+									"Oldshell, Horsehair, Liontooth, Firewood, Creekstone, Shardlight, Firgrip"
+								],
+								[
+									"Behavior",
+									"Quickend, Ribfinder, Little Misser, Trusty, Goodshelter, Balance, Skullbreaker"
+								],
+								[
+									"History",
+									"Godgift, Huntprize, Dragonharvest, Thieftaken, Wagerblade, Ruinfound"
+								]
+							]
+						},
+						"Things have histories. There's no such thing as \"a typical shield\" in Planegea. One adventurer might use a giant shell, green from scum where its old turtle lay for seven generations at the bottom of a pond. Another might take a stone-studded lattice, its wood gathered from a haunted forest and the stones from the side of a yeti-infested mountain gathered at great peril. Learn the stories of the gear you carry—it may save your life and open up strange new roads that you had never considered before.",
+						{
+							"type": "entries",
+							"name": "Barter",
+							"entries": [
+								"Planegea is a world without coin, and barter is the most common form of exchange. However, if you don't want to haggle over every purchase, salt is often accepted as a standard form of trade, since it's useful for preserving and flavoring all kinds of food. A useful rule of thumb is that 1 coin-sized portion of salt is equal in value to 1 gp in other 5th Edition materials. This coin-sized portion of salt is written as 1 ps (portion salt).",
+								"That said, in regions where salt is plentiful or extremely scarce, salt loses almost all value and other exchanges are more common. Use this table as a rough guide to common transactions in the Great Valley.",
+								{
+									"type": "table",
+									"caption": "Currency Conversion",
+									"colLabels": [
+										"Type",
+										"Equivalent of 1 Gold Piece"
+									],
+									"colStyles": [
+										"col-4",
+										"col-8"
+									],
+									"rows": [
+										[
+											"Salt",
+											"1 portion"
+										],
+										[
+											"Food",
+											"5 meals; 1 skin of wine"
+										],
+										[
+											"Raw goods",
+											"25 bundles of dry sticks; 1 sack of flint, plants, or feathers; 10 common skins or sets of bones; 1 rare skin or set of bones; 1/4 very rare skin or set of bones"
+										],
+										[
+											"Crafted goods",
+											"1 knife; 5 jars; 10 pouches; 1 tanned leather hide; 25 fishhooks; 1 temporary shelter (1 person)"
+										],
+										[
+											"Easy Labor",
+											"15 hours"
+										],
+										[
+											"Hard/Skilled Labor",
+											"5 hours"
+										]
+									]
+								},
+								"Names & scars. Some don't rely on goods alone to gain advantage in bartering, but also on their reputation or appearance. Work with your DM to determine what names and scars you have earned, which may act as passive modifiers to your wealth with some trading partners."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Languages",
+							"entries": [
+								"Planegea uses the languages commonly found in 5th Edition without their written aspect. If a feature, ability, or spell allows you to read or write a language, disregard that aspect. Languages that share a script in standard 5th Edition are part of the same language family, and have related sounds and structures.",
+								"To communicate with a creature who does not speak your language, you must rely on Charisma (Performance) and Wisdom (Insight) checks, with the DC for each increasing the more complex the idea being communicated. If creatures are attempting to communicate using languages in the same family, they have advantage on these checks.",
+								{
+									"type": "entries",
+									"name": "Dialects",
+									"entries": [
+										"You may speak a dialect belonging to a larger family of languages. Creatures that speak different dialects of the same language can communicate with one another.",
+										"Divine. This new language encompasses the tongues of both good and evil-aligned gods. It has three dialects: Abyssal (spoken by the winter gods), Celestial (spoken by most good-aligned or neutral gods), and Infernal (spoken by the idols of the Cult Riverlands).",
+										"Common. Common is divided into four regional dialects: Stonespeech, Airspeech, Firespeech, and Seaspeech. Each dialect is spoken in the region surrounding its corresponding giant empire as a shared trade language, and each dialect has similarities with its corresponding dialect in Primordial."
+									]
+								},
+								{
+									"type": "inset",
+									"name": "Variation: Limited Languages",
+									"entries": [
+										"To explore the idea of a world where everything is less universal, isolate your characters further by making language more of an obstacle. There are three options for this variation:",
+										{
+											"type": "list",
+											"items": [
+												"Fewer languages. The total number of languages known at character creation is halved, to a minimum of 1. If a character option such as a feat or class level ability grants the ability to learn new languages, the number added is also halved, to a minimum of 1.",
+												"Human tongue. Remove Common from the language list, and give humans a new language called Human. Planegea takes place before a single tongue has evolved, and you must rely on the languages of elves, dwarves, or other races to communicate.",
+												"No Common. Remove Common from the language list and elevate its dialects to full languages."
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Armor",
+							"entries": [
+								"Armor can vary greatly in appearance and construction. It is often made from simple materials, such as woven material, wood, or stone, or else from the natural armor of creatures, such as fur, hide, shell, antler, scales, or chitin. Bringing down dangerous prey is often worth the struggle for the opportunity to craft new armor from its parts.",
+								"Armor qualities are described here:",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Bone shirt & bone mail.",
+											"entry": "This armor is made from interlocking pieces of bone, antler, or shell stitched closely together with cord to deflect missiles and blows."
+										},
+										{
+											"type": "item",
+											"name": "Scale mail.",
+											"entry": "This is often literally made of the scales of dinosaurs or other creatures with natural armor."
+										},
+										{
+											"type": "item",
+											"name": "Half plate & plate.",
+											"entry": "Plate mail is often made of stone, dense bone from large creatures, or monstrous plating, held together with bands and straps to make bulky armor."
+										},
+										{
+											"type": "item",
+											"name": "Ringmail.",
+											"entry": "Rings can be fashioned of wood, antler, coral, shell, chitin, or other workable material."
+										},
+										{
+											"type": "item",
+											"name": "Splint.",
+											"entry": "Splint armor is often made from wood or from chitin, tusks, other monstrous parts that can be set in curving bands."
+										}
+									]
+								},
+								{
+									"type": "inset",
+									"name": "Stone Age Armor & Weapons",
+									"entries": [
+										"To protect combat balance, Planegea does not alter the bonuses or penalties of armor or weapons in any way. Mechanically, they are identical to published weapons. Thematically, the assumption is that combat is relative, and that as most creatures are using natural materials for both attack and defense, the overall scale of damage should be similar.",
+										"If you want to alter these numbers, to reduce the effectiveness of natural armor and weapons, be aware that this will make almost all monsters deadlier and harder to kill. To implement this option, make the following changes:",
+										{
+											"type": "list",
+											"items": [
+												"On all edged or bladed weapons, decrease the damage by 1 die size (d6 becomes d4 etc), to a minimum of 1 point of damage",
+												"On all armor that was made of metal in 5th Edition (chain shirt, scale mail, breastplate, half plate, ring mail, chain mail, splint, plate), decrease AC by 2."
+											]
+										}
+									]
+								},
+								{
+									"type": "table",
+									"caption": "Stone Age Armor",
+									"colLabels": [
+										"Armor",
+										"Cost",
+										"Armor Class (AC)",
+										"Strength",
+										"Stealth",
+										"Weight"
+									],
+									"colStyles": [
+										"col-2",
+										"col-2 text-center",
+										"col-3 text-center",
+										"col-2 text-center",
+										"col-2 text-center",
+										"col-1 text-center"
+									],
+									"rows": [
+										[
+											"Padded",
+											"5 ps",
+											"11 + Dex modifier",
+											"—",
+											"Disadvantage",
+											"8 lb."
+										],
+										[
+											"Leather",
+											"10 ps",
+											"11 + Dex modifier",
+											"—",
+											"—",
+											"10 lb."
+										],
+										[
+											"Studded leather",
+											"45 ps",
+											"12 + Dex modifier",
+											"—",
+											"—",
+											"13 lb."
+										],
+										[
+											"Hide",
+											"10 ps",
+											"12 + Dex modifier (max 2)",
+											"—",
+											"—",
+											"12 lb."
+										],
+										[
+											"Bone shirt*",
+											"50 ps",
+											"13 + Dex modifier (max 2)",
+											"—",
+											"—",
+											"20 lb."
+										],
+										[
+											"Scale mail*",
+											"50 ps",
+											"14 + Dex modifier (max 2)",
+											"—",
+											"Disadvantage",
+											"45 lb."
+										],
+										[
+											"Chestpiece",
+											"400 ps",
+											"14 + Dex modifier (max 2)",
+											"—",
+											"—",
+											"20 lb."
+										],
+										[
+											"Half plate*",
+											"750 ps",
+											"15 + Dex modifier (max 2)",
+											"—",
+											"Disadvantage",
+											"40 lb."
+										],
+										[
+											"Ringmail*",
+											"30 ps",
+											"14",
+											"—",
+											"Disadvantage",
+											"40 lb."
+										],
+										[
+											"Bone mail*",
+											"75 ps",
+											"16",
+											"Str 13",
+											"Disadvantage",
+											"55 lb."
+										],
+										[
+											"Splint",
+											"200 ps",
+											"17",
+											"Str 15",
+											"Disadvantage",
+											"60 lb."
+										],
+										[
+											"Plate*",
+											"1,500 ps",
+											"18",
+											"Str 15",
+											"Disadvantage",
+											"65 lb."
+										],
+										[
+											"Shield",
+											"10 ps",
+											"+2",
+											"—",
+											"—",
+											"6 lb."
+										]
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Weapons",
+							"entries": [
+								"Any weapon in 5th Edition can be used in Planegea with DM approval. Weapons are handmade with stone tools. Knives are made of knapped stone, axes are stone knives affixed to wooden shafts, and swords are usually poles, bats, or clubs with sharpened objects lining the edges, such as knapped stone, obsidian, or the teeth of monsters.",
+								{
+									"type": "table",
+									"caption": "Stone Age Weapons",
+									"colLabels": [
+										"Name",
+										"Cost",
+										"Damage",
+										"Weight",
+										"Properties"
+									],
+									"colStyles": [
+										"col-2",
+										"col-2 text-center",
+										"col-3 text-center",
+										"col-2 text-center",
+										"col-3"
+									],
+									"rows": [
+										[
+											"Antlerclaw",
+											"1/4 ps",
+											"1d4 slashing",
+											"1 lb.",
+											"Finesse, light"
+										],
+										[
+											"Gripstone",
+											"2 ps",
+											"1d6 bludgeoning",
+											"10 lb.",
+											"Thrown (range 20/60)"
+										],
+										[
+											"Atlatl",
+											"5 ps",
+											"1d8 piercing",
+											"2 lb.",
+											"Ammunition (range 30/120), loading"
+										],
+										[
+											"Clubsword",
+											"50 ps",
+											"1d8 bludgeoning",
+											"3 lb.",
+											"Versatile (1d10 slashing)"
+										],
+										[
+											"Hammerstone",
+											"1 ps",
+											"1d10 bludgeoning",
+											"36 lb.",
+											"Heavy, two-handed, thrown (range 20/60)"
+										],
+										[
+											"Saw",
+											"30 ps",
+											"1d6 piercing, 1d6 slashing",
+											"6 lb.",
+											"Heavy, two-handed"
+										],
+										[
+											"Warclub",
+											"10 ps",
+											"1d12 bludgeoning",
+											"20 lb.",
+											"Heavy, two-handed"
+										],
+										[
+											"Bolas",
+											"10 ps",
+											"1d6 bludgeoning",
+											"5 lb.",
+											"Special, thrown (range 10/30)"
+										],
+										[
+											"Boomerang",
+											"25 ps",
+											"1d8 bludgeoning",
+											"2 lb.",
+											"Thrown (range 30/120), special"
+										]
+									]
+								},
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Antlerclaw.",
+											"entry": "A sharpened antler with leather grips."
+										},
+										{
+											"type": "item",
+											"name": "Gripstone.",
+											"entry": "A handheld stone with grooves for fingerholds, used as a striking tool or weapon."
+										},
+										{
+											"type": "item",
+											"name": "Atlatl.",
+											"entry": "Also known as a spear-thrower, this short shaft features a cup or spur at the end where the butt of a javelin or spear is placed, allowing the wielder to launch the projectile farther and straighter than if thrown by hand."
+										},
+										{
+											"type": "item",
+											"name": "Clubsword.",
+											"entry": "A thick club with jagged stones, teeth, or shards of obsidian lining its edges, which can be used to smash or cut by a skilled wielder."
+										},
+										{
+											"type": "item",
+											"name": "Hammerstone.",
+											"entry": "Also known as a hav or lifting stone, this stone sphere is often used in mammoth hunts, hurled or dropped from a height onto prey, or thrown with great force from a short distance."
+										},
+										{
+											"type": "item",
+											"name": "Saw.",
+											"entry": "A serrated blade, used to hook and tear at wood, harvested prey, or enemies."
+										},
+										{
+											"type": "item",
+											"name": "Warclub.",
+											"entry": "A huge bludgeoning weapon, usually made from a combination of bone, leather, wood, and stone."
+										},
+										{
+											"type": "item",
+											"name": "Bolas.",
+											"entry": "Two or more stones attached by a length of cord (usually leather) used to entangle prey from a distance. A Large or smaller creature hit by bolas is restrained until it is freed. Bolas have no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 2 slashing damage to the bolas (AC 8) also frees the creature without harming it, ending the effect and destroying the bolas. When you use an action, bonus action, or reaction to attack with bolas, you can make only one attack regardless of the number of attacks you can normally make."
+										},
+										{
+											"type": "item",
+											"name": "Boomerang.",
+											"entry": "A flat, curved club, thrown in an arc. When you miss on an attack with the boomerang, it returns to you at the end of your turn unless its returning path is heavily obstructed."
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Adventuring Gear",
+							"entries": [
+								"Most items in 5th Edition can be used as they are by simply describing them as made of bone, wood, stone, hide, rope, etc. A few particular items are more specifically modern, and are converted to Planegea in the Gear Conversion table. Where metal is called for in equipment, armor, weapons, or spells, use the Metal Conversion table.",
+								{
+									"type": "table",
+									"caption": "Gear Conversion",
+									"colLabels": [
+										"Medieval",
+										"Stone Age"
+									],
+									"colStyles": [
+										"col-6",
+										"col-6"
+									],
+									"rows": [
+										[
+											"Abacus",
+											"Counting sticks"
+										],
+										[
+											"Ball bearings",
+											"Smooth pebbles"
+										],
+										[
+											"Bottle, flask, tankard, or vial",
+											"Skin or jar (made of clay, wood, stone, bone, etc.)"
+										],
+										[
+											"Caltrops",
+											"Knuckle-bones or vertebrae"
+										],
+										[
+											"Chain",
+											"Knotted rope studded with wood, stone, or bone"
+										],
+										[
+											"Crowbar",
+											"Lever"
+										],
+										[
+											"Hourglass",
+											"Notched, slow-burning stick"
+										],
+										[
+											"Ink",
+											"Paint"
+										],
+										[
+											"Ink pen",
+											"Paintbrush"
+										],
+										[
+											"Lantern",
+											"Skull"
+										],
+										[
+											"Lock",
+											"Specialized knot, with stone needles or other complications worked in"
+										],
+										[
+											"Magnifying glass",
+											"Crafting hoop*"
+										],
+										[
+											"Paper",
+											"Smooth hide"
+										],
+										[
+											"Parchment",
+											"Rough hide"
+										],
+										[
+											"Pot, iron",
+											"Pot, stone"
+										],
+										[
+											"Spellbook",
+											"Spellskin's sanctum*"
+										],
+										[
+											"Spikes, iron",
+											"Tusks"
+										],
+										[
+											"Spyglass",
+											"Scouting hoop*"
+										]
+									]
+								},
+								{
+									"type": "table",
+									"caption": "Metal Conversion",
+									"colLabels": [
+										"Metal",
+										"Equivalent"
+									],
+									"colStyles": [
+										"col-6",
+										"col-6"
+									],
+									"rows": [
+										[
+											"Metal (any)",
+											"Stone, bone, antler, or wood (any)"
+										],
+										[
+											"Adamantine",
+											"Divine ivory*"
+										],
+										[
+											"Copper",
+											"Wood"
+										],
+										[
+											"Gold",
+											"Glass"
+										],
+										[
+											"Iron",
+											"Granite"
+										],
+										[
+											"Lead",
+											"Black clay*"
+										],
+										[
+											"Mercury",
+											"Oil"
+										],
+										[
+											"Mithral",
+											"Gemweave*"
+										],
+										[
+											"Platinum",
+											"Dragon tooth*"
+										],
+										[
+											"Silver",
+											"Polished wood"
+										],
+										[
+											"Zinc",
+											"Clay"
+										]
+									]
+								},
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Crafting and scouting hoops.",
+											"entry": "Glass is rare and crude throughout most of Planegea, usually only formed by volcanic or elemental forces. Magnifying glasses and spyglasses, while theoretically possible to create given proper time and tools, are much easier obtained as common magic items, usually in the form of wood or bone hoops enchanted by spellcasters or gods to aid in crafting or scouting."
+										},
+										{
+											"type": "item",
+											"name": "Spellskin's sanctum.",
+											"entry": "Spellskins (p. 71) use large areas to design their spells, then transfer those spells as tattoos onto their bodies. The only way for another spellcaster to learn a spellskin's spell is to locate the place where their spells are painted, which is usually secret and often guarded."
+										},
+										{
+											"type": "item",
+											"name": "Divine ivory.",
+											"entry": "The bones of a god are the hardest substance known in all of Planegea and are exceedingly rare and difficult to obtain. They can only be cut or shaped by magic."
+										},
+										{
+											"type": "item",
+											"name": "Black clay.",
+											"entry": "Whether naturally obtained or created through the infusion of dyes and darkening agents, black clay has the rare property of blocking magical perception. In order for this to work, though, the clay must be pure and profoundly black, which generally requires a rare natural source or else a skilled and patient crafter to prepare."
+										},
+										{
+											"type": "item",
+											"name": "Gemweave.",
+											"entry": "A fine mesh of cord and tiny gemstones, knotted intricately after the dwarven fashion. Gemweave is light, yet offers great protection and beauty."
+										},
+										{
+											"type": "item",
+											"name": "Dragon tooth.",
+											"entry": "Dragons are rare in the Great Valley, but where they have attacked or roosted, their teeth can be found, as they have many and some are lost in biting or grooming. They are extremely precious and usually reserved as the personal talismans of chieftains or shamans."
+										}
+									]
+								},
+								{
+									"type": "quote",
+									"entries": [
+										"Pray that you do not ever meet an enemy bearing a weapon made of divine ivory. Such weapons are fearsome and not only shatter armor and blades—but are a sign of one who has outlived a god."
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Crafting Armor, Weapons, & Gear",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "Tools",
+									"entries": [
+										"Many of the artisan's tools from 5E need adjustments in order to make sense in prehistoric fantasy. Use the table below to convert them into common Stone Age tool sets. It's also still possible that the original tool sets could exist in the world, although with primitive materials. If your character concept requires one of the original artisan's tool sets, talk to your DM about converting it to fit the world of Planegea.",
+										"Most tool sets are made of specialized implements, typically made from wood, antler, or ivory, into which stone blades can be fitted in various specialized assortments, as well as stones or containers of particular shapes or qualities and ingredients such as powders, spices, salts, liquids, scales, or other consumable materials.",
+										{
+											"type": "table",
+											"caption": "Tool Conversion",
+											"colLabels": [
+												"Artisan's Tools",
+												"Stone Age Tools"
+											],
+											"colStyles": [
+												"col-6",
+												"col-6"
+											],
+											"rows": [
+												[
+													"Alchemist's supplies",
+													"Ceremonial supplies*"
+												],
+												[
+													"Brewer's supplies",
+													"Winemaker's supplies"
+												],
+												[
+													"—",
+													"Butcher's tools*"
+												],
+												[
+													"Calligrapher's supplies",
+													"Artist's supplies"
+												],
+												[
+													"Carpenter's tools",
+													"Woodcrafter's tools"
+												],
+												[
+													"Cartographer's tools",
+													"Mapmaker's tools"
+												],
+												[
+													"Cobbler's tools",
+													"Bootmaker's tools"
+												],
+												[
+													"Cook's utensils",
+													"Cook's utensils"
+												],
+												[
+													"—",
+													"Gatherer's supplies*"
+												],
+												[
+													"Jeweler's tools",
+													"Jeweler's tools"
+												],
+												[
+													"Leatherworker's tools",
+													"Leatherworker's tools"
+												],
+												[
+													"Mason's tools",
+													"Stonecrafter's tools"
+												],
+												[
+													"Painter's supplies",
+													"Painter's supplies"
+												],
+												[
+													"Potter's tools",
+													"Potter's tools"
+												],
+												[
+													"Smith's tools",
+													"Bonecrafter's tools"
+												],
+												[
+													"Tinker's tools",
+													"Mender's tools"
+												],
+												[
+													"Weaver's tools",
+													"Weaver's tools"
+												]
+											]
+										},
+										"When crafting simple items, after the required materials are assembled, the DM may require characters to make a series of checks such as:",
+										{
+											"type": "list",
+											"items": [
+												"Intelligence: To understand the nature of materials and what they can be used for.",
+												"Wisdom: To evaluate materials and decide the best way to combine them.",
+												"Strength: To bend, twist, or shape materials into the correct form for the desired item.",
+												"Dexterity: To craft components into the finished item."
+											]
+										},
+										"Each of these checks may have a separate DC, based on the DM's evaluation of the complexity of the project and the ability of the character. For more complex crafting projects, other skills (such as Arcana, History, Investigation, Medicine, Religion, Sleight of Hand, Survival, etc.) may come into play, or a check or series of checks may need to be made for the various components before the project is finished.",
+										"There may also be items which are simply too complex or require special skill or knowledge to craft correctly, requiring characters to seek experts who are willing to teach them or craft the materials on their behalf. Such expertise is rarely without cost, and may require Charisma checks, favors, barter, or entire adventures to convince the experts to help at all.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Ceremonial supplies.",
+													"entry": "These are sets of implements commonly used by practitioners of divine magic to prepare and enact various rites and rituals. The contents of the toolkit can vary depend on the worship practices, but they often include such materials as blindfolds, candles, paint, glass or ceramic chimes, incense, and feathers."
+												},
+												{
+													"type": "item",
+													"name": "Butcher's tools.",
+													"entry": "A butcher's toolkit is used to harvest a kill, preserving every part of the animal for use later. This includes specialized hooks, knives and shears, salt, small bowls and bags, a water skin, a wooden slab, a small hammer, and clean, broad leaves."
+												},
+												{
+													"type": "item",
+													"name": "Gatherer's supplies.",
+													"entry": "The supplies used by a gatherer include a large satchel with many sections, a knife, a digging blade, hand-wraps, dried leaves and berries, a grinding bowl and stone, and a scraper."
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Spells",
+					"page": 102,
+					"entries": [
+						{
+							"type": "quote",
+							"entries": [
+								"In a limestone cave at the edge of Lake Littleblood, dancing lights illuminated a shuffling figure. Arudek, the old tattooed magician, daubed more of the ochre paint on his fingertips, squinting at the geometry he was painting on the wall. He hummed tunelessly as he worked, never ceasing to scuttle back and forth, shifting his weight from one foot to the other.",
+								"\"How long does this go on?\" asked Mizca, who sat against the other wall with her companion. Her axe had been sharpened, her arrows double-checked, her tusks polished, and she was long past bored.",
+								"\"All night, easily,\" whispered Sushesh. \"Maybe into tomorrow. It depends on what he's working on. Did he tell you?\"",
+								"\"He said 'something to do with binding.'\"",
+								"\"Then we'd better get comfortable.\"",
+								"As Mizca groaned, Sushesh chuckled. \"You think this is bad. Once he worked for seven days without sleep, forgot to eat, collapsed, hit his head, forgot everything, and had to start all over.\"",
+								"\"Spellskins.\"",
+								"\"Yes. Spellskins. But if you want to kill a god, you couldn't ask for a more brilliant mind.\"",
+								"Mizca's tusks seemed to grow as a slow smile spread over her face. \"Well. I do want to kill a god.\""
+							]
+						},
+						"The world is still largely unformed and unknown, with magical essences roving across the land, sea, and air. But just as animals can be tamed, so can spells, and many of the intelligent kinships of Planegea have coaxed one kind of magic or another into a more or less predictable pattern. Any character of any kinship has access to whatever magic is granted by their features and abilities, but the origins of magic are visible in the casting of spells, and different types of magic show the culture of those who first discovered its secrets.",
+						"Use the Magical Origins table to inspire the verbal and somatic effects used to bring about the spells your character casts. Use the material column to inspire how your components or focus are moved or how materials that are consumed may be destroyed in the process of casting. This table is only for flavor and should not alter the mechanics of spellcasting in any way. If a racial ability grants you access to a spell from a different primal origin, use the verbal, somatic, and material behaviors of your own kinship (if applicable) to cast it.",
+						{
+							"type": "table",
+							"caption": "Magical Origins",
+							"colLabels": [
+								"School",
+								"Kinship",
+								"Verbal",
+								"Somatic",
+								"Material"
+							],
+							"colStyles": [
+								"col-2",
+								"col-2",
+								"col-3",
+								"col-3",
+								"col-2"
+							],
+							"rows": [
+								[
+									"Abjuration",
+									"Dwarves",
+									"Deep, rolling syllables in monotone chants that rise to a thundering crescendo",
+									"Constricted motion, with short, sharp movements in geometric forms",
+									"Carving, etching, burying or unearthing, stacking, or polishing"
+								],
+								[
+									"Conjuration",
+									"Genies",
+									"Clear, commanding calls with crisp annunciation of complex syllables",
+									"Fluid, unpredictable motion of the whole body, twisting and turning",
+									"Burning, dousing, throwing, dropping, breaking, scattering, or twisting"
+								],
+								[
+									"Divination",
+									"Giants",
+									"Short, deep cries of harsh monosyllables invoked at set rhythms",
+									"Vertical motions, stooping and elongating, pulling and pushing movements",
+									"Stretching, crushing, throwing, raising or lowering, stomping, or breaking"
+								],
+								[
+									"Enchantment",
+									"Elves",
+									"Whispering circular stanzas of rhyming syllables, full of sounds like running water",
+									"Subtle gestures of the hand, foot, shoulders, and neck in circular movements",
+									"Twisting, knotting, juggling, winding, waving, weaving, or spinning"
+								],
+								[
+									"Evocation",
+									"Dragons",
+									"Wordless cries in rising and falling tones, punctuated by short, sharp syllables",
+									"Primal, animalistic motions, aggressive stances and forceful gestures",
+									"Ripping, devouring, circling, embracing, burning, or throwing"
+								],
+								[
+									"Illusion",
+									"Gnomes",
+									"Rapid, ticking syllables tumbling out almost too quickly to comprehend",
+									"Quick movements of the hand and wrist, turning and obscuring the face or body",
+									"Hiding, concealing, revealing, turning, spinning, juggling, fanning, or dropping"
+								],
+								[
+									"Necromancy",
+									"Saurians",
+									"Hushed, croaking chants and deep throat sounds with glottal stops and clicks",
+									"Hunching and crouching, limbs low over the ground, bowed head",
+									"Mixing, spinning, twisting, pulling, cutting, stabbing, or crushing"
+								],
+								[
+									"Transmutation",
+									"Orcs",
+									"Rhythmic chanting and singing, broken by loud cries and commands",
+									"Confident motions of the whole body in disciplined, triangular forms",
+									"Lifting, gathering, throwing, waving, drumming, clasping, or rolling"
+								]
+							]
+						},
+						{
+							"type": "inset",
+							"name": "Optional Rule: Spell Discovery",
+							"entries": [
+								"Since magic is still being shaped for the first time, you can increase the feeling of discovery by assuming that all spells over 4th level are yet to be created. Individual gods or powerful spellcasters may be able to create the effects of a spell of 5th level or higher, but they are not known or shared as commonly recognized spells. If your spellcasting character gains a spell of 5th level or higher, rather than learning the spell, they invent it, and may need to perform rituals or take time to craft it so that it can be cast again in the future. Also, since schools of magic originate from various cultures, you may need to seek out high-level spellcasters in those cultures to learn sufficient lore to create spells of those schools."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Altered Spells",
+							"entries": [
+								"Some spells in 5th Edition refer to metal specifically. In a world without metal, use the Metal Conversion table (p. 100) for alternate components. Additionally, use the following guidelines for other spells that may be altered by the setting:",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Heat metal.",
+											"entry": "Since there is no metal in Planegea, this spell can be substituted with a heat stone spell, which works in exactly the same way, but targets stone instead."
+										},
+										{
+											"type": "item",
+											"name": "Commune and other divine spells.",
+											"entry": "Spells that call upon the power of gods may have one of two effects outside the range of your primary god: they can extend the range of your primary god to your current location, or they can compel a local god to respond. Work with your DM to determine which effect comes into play for your spells."
+										},
+										{
+											"type": "item",
+											"name": "Plane shift and other planar spells.",
+											"entry": "The planes of this world are all geographically linked, but they're still separate realms. You can use {@spell plane shift} to travel from the mortal realm (the Great Valley, Wintersouth, and Giant Empires) to the Elemental Wastes, the Sea of Stars, Nod, the Kingdom of the Dead, or other locations at your DM's discretion, including the hallows of some gods."
+										},
+										{
+											"type": "item",
+											"name": "Resurrect and other necromancy.",
+											"entry": "Spells that bring the dead back to life are considered a personal affront by Nazh-Agaa (p. 251), and should only be undertaken with extreme caution. There are no mechanical limitations or alterations to these spells, but be warned that the King of the Dead is not to be trifled with."
+										}
+									]
+								},
+								{
+									"type": "quote",
+									"entries": [
+										"It is better not to speak too much of the old titan Nazh-Agaa. His valkyries are swift, and he does not suffer any offense against his law of inevitability."
+									]
+								},
+								"New God and Defiant creature tags. Gods have a new creature tag: \"god.\" You cannot use {@spell polymorph}, wildshape or any other transformation spell (including {@spell wish}) to transform into a creature with the god tag, even temporarily.",
+								"Some beasts have the new \"defiant\" tag. Creatures with this tag are not valid creatures to transform into for the purpose of spells and features that enable shapechanging, such as a druid's Wild Shape or a wizard's Polymorph. Additionally, creatures with the defiant tag are unaffected by {@spell dominate beasts} unless cast at 7th level or higher, or by {@spell animal friendship} unless cast at 3rd level or higher."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Blood Magic",
+							"entries": [
+								"Not every hunt in Planegea is for food. Shamans often send seasoned hunters into the wild to bring back certain components that have been spilled with the blood of prey, which the shamans use for the magic power inherent in the blood of living things.",
+								"Many higher-level spells in 5th Edition have a material cost listed in gold pieces (gp). Since gold doesn't exist in Planegea, when a spell calls for gp as part of a material cost, you can instead use blood. Where the object lists a worth in gp—e.g., \"10 gems worth 100 gp each\"—substitute spilled with hp of blood—e.g., \"10 gems spilled with 100 hp of blood each.\" This means that the objects have been touched with the blood of one or more creatures equivalent to 100 hp of damage. This might be the blood of 1 creature with 100 hp, or 100 creatures with 1 hp each, or any other combination totaling 100 hp.",
+								"Such magic requires spilling liquid blood, and therefore cannot be fulfilled with constructs, oozes, elementals, spectral undead, or other non-bleeding creatures. It is not required that the caster be the one to have spilled the blood, or that the blood be spilled at the same time, only that the object in question has been touched with the requisite amount of hp's worth of blood. Blood used to touch one object cannot be re-used for another object. An object can be reused for such magic as long as it is not consumed by the spell.",
+								{
+									"type": "inset",
+									"name": "Named Spells",
+									"entries": [
+										"In 5th Edition, some spells are named for their so-called inventors. Little do the wizards of the great cities of the future know that their most famous works were not invented at all—merely rediscovered. You can cast {@spell acid arrow} or {@spell hideous laughter} or {@spell tiny hut} without reference to other wizards. There's time enough for them to rediscover and name such spells in the far future."
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Spell Lists",
+							"entries": [
+								"The following lists show which new spells can be cast based on class. If a spell can be cast as a ritual, it is noted alongside the spell's school of magic. If your character's subclass allows access to spells that typically come from another class, work with your DM to determine which of these spells you would have access to.",
+								{
+									"type": "table",
+									"caption": "Shaman (Cleric) Spells",
+									"colLabels": [
+										"Level",
+										"Spells"
+									],
+									"colStyles": [
+										"col-3",
+										"col-9"
+									],
+									"rows": [
+										[
+											"Cantrips",
+											"{@spell Form Weapon|SSSOP} (conjuration), {@spell Sense Whispers|SSSOP} (divination)"
+										],
+										[
+											"2nd",
+											"{@spell Stormscrying|SSSOP} (divination, ritual)"
+										],
+										[
+											"3rd",
+											"{@spell Aggravate Wounds|SSSOP} (necromancy), {@spell Smoke Breathing|SSSOP} (transmutation, ritual), {@spell Stonebone|SSSOP} (transmutation)"
+										],
+										[
+											"4th",
+											"{@spell Bury|SSSOP} (conjuration)"
+										],
+										[
+											"6th",
+											"{@spell Dream of Kho|SSSOP} (conjuration, ritual), {@spell Fury of Twr|SSSOP} (evocation), {@spell Gaze of Glelh|SSSOP} (enchantment, ritual), {@spell Heart of Urhosh|SSSOP} (necromancy), {@spell Song of Mala|SSSOP} (evocation)"
+										]
+									]
+								},
+								{
+									"type": "table",
+									"caption": "Spellskin (Wizard) Spells",
+									"colLabels": [
+										"Level",
+										"Spells"
+									],
+									"colStyles": [
+										"col-3",
+										"col-9"
+									],
+									"rows": [
+										[
+											"1st",
+											"{@spell Time Slip|SSSOP} (enchantment)"
+										],
+										[
+											"2nd",
+											"{@spell Mage Skis|SSSOP} (transmutation, ritual), {@spell Quillburst|SSSOP} (evocation), {@spell Steal Speed|SSSOP} (transmutation), {@spell Weight|SSSOP} (transmutation)"
+										],
+										[
+											"4th",
+											"{@spell Bury|SSSOP} (conjuration), {@spell Disorient|SSSOP} (enchantment)"
+										],
+										[
+											"5th",
+											"{@spell Deflect Magic|SSSOP} (abjuration), {@spell Possess Steed|SSSOP} (transmutation), {@spell Tilt|SSSOP} (transmutation), {@spell Traitor's Kiss|SSSOP} (illusion)"
+										],
+										[
+											"9th",
+											"{@spell Spellblinding|SSSOP} (illusion)"
+										]
+									]
+								},
+								{
+									"type": "table",
+									"caption": "Chanter (Bard) Spells",
+									"colLabels": [
+										"Level",
+										"Spells"
+									],
+									"colStyles": [
+										"col-3",
+										"col-9"
+									],
+									"rows": [
+										[
+											"1st",
+											"{@spell Time Slip|SSSOP} (enchantment)"
+										],
+										[
+											"2nd",
+											"{@spell Mage Skis|SSSOP} (transmutation, ritual), {@spell Nightmare Bind|SSSOP} (enchantment), {@spell Ridicule|SSSOP} (enchantment), {@spell Steal Speed|SSSOP} (transmutation), {@spell Weight|SSSOP} (transmutation)"
+										],
+										[
+											"3rd",
+											"{@spell Stonebone|SSSOP} (transmutation)"
+										],
+										[
+											"4th",
+											"{@spell Disorient|SSSOP} (enchantment)"
+										],
+										[
+											"5th",
+											"{@spell Possess Steed|SSSOP} (transmutation), {@spell Traitor's Kiss|SSSOP} (illusion), {@spell Tilt|SSSOP} (transmutation)"
+										]
+									]
+								},
+								{
+									"type": "table",
+									"caption": "Guardian (Paladin) Spells",
+									"colLabels": [
+										"Level",
+										"Spells"
+									],
+									"colStyles": [
+										"col-3",
+										"col-9"
+									],
+									"rows": [
+										[
+											"1st",
+											"{@spell Bite Back|SSSOP} (conjuration)"
+										],
+										[
+											"2nd",
+											"{@spell Ridicule|SSSOP} (enchantment), {@spell Stormscrying|SSSOP} (divination, ritual)"
+										],
+										[
+											"3rd",
+											"{@spell Aggravate Wounds|SSSOP} (necromancy), {@spell Lava Leap|SSSOP} (conjuration), {@spell Stonebone|SSSOP} (transmutation)"
+										],
+										[
+											"4th",
+											"{@spell Disorient|SSSOP} (enchantment)"
+										]
+									]
+								},
+								{
+									"type": "table",
+									"caption": "Druid Spells",
+									"colLabels": [
+										"Level",
+										"Spells"
+									],
+									"colStyles": [
+										"col-3",
+										"col-9"
+									],
+									"rows": [
+										[
+											"Cantrips",
+											"{@spell Form Weapon|SSSOP} (conjuration), {@spell Sense Whispers|SSSOP} (divination)"
+										],
+										[
+											"1st",
+											"{@spell Bite Back|SSSOP} (conjuration)"
+										],
+										[
+											"2nd",
+											"{@spell Quillburst|SSSOP} (evocation), {@spell Stormscrying|SSSOP} (divination, ritual)"
+										],
+										[
+											"3rd",
+											"{@spell Aggravate Wounds|SSSOP} (necromancy), {@spell Lava Leap|SSSOP} (conjuration), {@spell Smoke Breathing|SSSOP} (transmutation, ritual), {@spell Stonebone|SSSOP} (transmutation)"
+										],
+										[
+											"4th",
+											"{@spell Bury|SSSOP} (conjuration)"
+										]
+									]
+								},
+								{
+									"type": "table",
+									"caption": "Ranger Spells",
+									"colLabels": [
+										"Level",
+										"Spells"
+									],
+									"colStyles": [
+										"col-3",
+										"col-9"
+									],
+									"rows": [
+										[
+											"1st",
+											"{@spell Bite Back|SSSOP} (conjuration)"
+										],
+										[
+											"2nd",
+											"{@spell Mage Skis|SSSOP} (transmutation, ritual), {@spell Nightmare Bind|SSSOP} (enchantment)"
+										],
+										[
+											"3rd",
+											"{@spell Aggravate Wounds|SSSOP} (necromancy), {@spell Lava Leap|SSSOP} (conjuration), {@spell Smoke Breathing|SSSOP} (transmutation, ritual), {@spell Stonebone|SSSOP} (transmutation)"
+										],
+										[
+											"4th",
+											"{@spell Disorient|SSSOP} (enchantment)"
+										]
+									]
+								},
+								{
+									"type": "table",
+									"caption": "Sorcerer Spells",
+									"colLabels": [
+										"Level",
+										"Spells"
+									],
+									"colStyles": [
+										"col-3",
+										"col-9"
+									],
+									"rows": [
+										[
+											"Cantrips",
+											"{@spell Form Weapon|SSSOP} (conjuration)"
+										],
+										[
+											"2nd",
+											"{@spell Mage Skis|SSSOP} (transmutation, ritual), {@spell Nightmare Bind|SSSOP} (enchantment), {@spell Quillburst|SSSOP} (evocation), {@spell Ridicule|SSSOP} (enchantment), {@spell Steal Speed|SSSOP} (transmutation), {@spell Weight|SSSOP} (transmutation)"
+										],
+										[
+											"3rd",
+											"{@spell Lava Leap|SSSOP} (conjuration)"
+										],
+										[
+											"4th",
+											"{@spell Bury|SSSOP} (conjuration)"
+										],
+										[
+											"5th",
+											"{@spell Deflect Magic|SSSOP} (abjuration), {@spell Tilt|SSSOP} (transmutation), {@spell Traitor's Kiss|SSSOP} (illusion)"
+										],
+										[
+											"8th",
+											"{@spell Bolt of Ush|SSSOP} (conjuration)"
+										]
+									]
+								},
+								{
+									"type": "table",
+									"caption": "Warlock Spells",
+									"colLabels": [
+										"Level",
+										"Spells"
+									],
+									"colStyles": [
+										"col-3",
+										"col-9"
+									],
+									"rows": [
+										[
+											"1st",
+											"{@spell Time Slip|SSSOP} (enchantment)"
+										],
+										[
+											"2nd",
+											"{@spell Quillburst|SSSOP} (evocation), {@spell Nightmare Bind|SSSOP} (enchantment), {@spell Ridicule|SSSOP} (enchantment), {@spell Steal Speed|SSSOP} (transmutation), {@spell Weight|SSSOP} (transmutation)"
+										],
+										[
+											"3rd",
+											"{@spell Aggravate Wounds|SSSOP} (necromancy)"
+										],
+										[
+											"4th",
+											"{@spell Bury|SSSOP} (conjuration)"
+										],
+										[
+											"5th",
+											"{@spell Possess Steed|SSSOP} (transmutation), {@spell Traitor's Kiss|SSSOP} (illusion)"
+										]
+									]
+								}
+							]
+						},
+						"Spell Descriptions. The spells below are born from the primal fury of the world of Planegea, but can easily be used to add excitement to any 5th Edition campaign. The spells are presented in alphabetical order in this book; see the {@filter spell list|spells.html|source:SSSOP} to see which classes can access each spell."
+					]
 				}
 			]
 		}
@@ -14398,6 +15610,1741 @@
 								]
 							]
 						}
+					]
+				}
+			]
+		}
+	],
+	"spell": [
+		{
+			"name": "Aggravate Wounds",
+			"level": 3,
+			"school": "N",
+			"page": 106,
+			"time": [
+				{
+					"number": 1,
+					"unit": "bonus"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 90
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "a smear of blood, a pinch of salt"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Cleric",
+						"source": "PHB"
+					},
+					{
+						"name": "Paladin",
+						"source": "PHB"
+					},
+					{
+						"name": "Druid",
+						"source": "PHB"
+					},
+					{
+						"name": "Ranger",
+						"source": "PHB"
+					},
+					{
+						"name": "Warlock",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"Weaving a painful blood curse, you choose a creature within range that you can see. That creature must make a Constitution saving throw. On a failed save, whenever the affected target takes bludgeoning, piercing, or slashing damage, the target takes an additional {@damage 1d6} necrotic damage."
+			],
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this spell using a spell slot of 4th level or higher, increase the damage by {@dice 1d6} for each two spell levels above 3rd."
+					]
+				}
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Bite Back",
+			"level": 1,
+			"school": "C",
+			"page": 106,
+			"time": [
+				{
+					"number": 1,
+					"unit": "reaction",
+					"condition": "which you take in response to being damaged by a melee attack"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "touch"
+				}
+			},
+			"components": {
+				"v": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Paladin",
+						"source": "PHB"
+					},
+					{
+						"name": "Druid",
+						"source": "PHB"
+					},
+					{
+						"name": "Ranger",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"When you are damaged by a melee attack, a spiritual beast rises from the wound to sink its teeth into the creature that harmed you. The creature must make a Dexterity saving throw. On a failed save it takes {@damage 2d8} piercing damage, and is restrained until the end of your next turn if it is no larger than one size bigger than you. On a successful save, it takes half damage and is not restrained."
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Bolt of Ush",
+			"level": 8,
+			"school": "C",
+			"page": 106,
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 40
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "a sapphire worth 2,000 ps or spilled with 2,000 hp of blood"
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Sorcerer",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"You summon a storm directly overhead, flashing with magical lightning. At your command, the lightning strikes a sphere with a radius of 20 feet, centered on you. You and up to 8 willing creatures in range are magically transported to a location with which you are familiar on the same plane. Your familiarity with the destination determines whether you arrive there successfully as by the {@spell teleport} spell. You arrive via lightning strike at your chosen location. The spell fails if you can't see a point in the air where the storm cloud could appear, or if the destination lacks a similar point in the air.",
+				"Any creatures within a 20-foot sphere centered on you when you land must make a Dexterity saving throw. On a failed save they take {@damage 10d8} lightning damage, and half as much on a successful save. Any structures in range take 50 points of lightning damage, and flammable objects in range ignite.",
+				"None of the creatures transported by the spell are harmed by the lightning, although you smell faintly of ozone for 10 minutes."
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Bury",
+			"level": 4,
+			"school": "C",
+			"page": 106,
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 90
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "a bit of dust"
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Cleric",
+						"source": "PHB"
+					},
+					{
+						"name": "Wizard",
+						"source": "PHB"
+					},
+					{
+						"name": "Druid",
+						"source": "PHB"
+					},
+					{
+						"name": "Sorcerer",
+						"source": "PHB"
+					},
+					{
+						"name": "Warlock",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"Choose a creature you can see within range that is within 5 feet of the ground. The creature must succeed on a Strength saving throw. On a failure, the creature takes {@damage 6d8} bludgeoning damage and is forced just below the surface of the ground. On a success, the target takes half damage and is knocked prone. A target standing on stone or a similar solid material automatically succeeds on their saving throw.",
+				"While buried the target is restrained, blinded, deafened, and unable to breathe. The target or an allied creature can spend an action on their turn to make a Strength check versus your spell save DC, digging the target out on a success. If the target has a burrowing speed, they automatically succeed on their Strength check to escape."
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Deflect Magic",
+			"level": 5,
+			"school": "A",
+			"page": 106,
+			"time": [
+				{
+					"number": 1,
+					"unit": "reaction",
+					"condition": "when you succeed on a saving throw against a spell targeting only you"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"components": {
+				"s": true,
+				"m": "a flat, brightly polished stone"
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Wizard",
+						"source": "PHB"
+					},
+					{
+						"name": "Sorcerer",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"You attempt to reflect a spell that targets you back towards its caster. If you are the only target of a spell of 5th level or lower, the spell has no effect on you, and instead targets the caster, using the slot level, spell save DC, attack bonus, and spellcasting ability of the caster.",
+				"If the spell targeting you is of 6th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect."
+			],
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this spell using a spell slot of 6th level or higher, the spell targeting you is reflected if its level is less than or equal to the level of the spell slot you used. When you cast this spell using a spell slot of 7th level or higher, you can choose the target of the reflected spell as if the spell was cast from your location."
+					]
+				}
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Disorient",
+			"level": 4,
+			"school": "E",
+			"page": 106,
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 300
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "a small brown bag"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 8
+					}
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Wizard",
+						"source": "PHB"
+					},
+					{
+						"name": "Bard",
+						"source": "PHB"
+					},
+					{
+						"name": "Paladin",
+						"source": "PHB"
+					},
+					{
+						"name": "Ranger",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"Choose up to 10 creatures you can see within range. Targeted creatures must make a Wisdom saving throw. On a failure, until the spell ends, a creature is magically lost, and unable to find their way to any intended location unless they can see it. They have disadvantage on Wisdom and Intelligence checks to gain their bearings or discern their current location.",
+				"While affected by the spell, if a creature attempts to cast a spell that allows them to magically find their way, they encounter a mental block and must succeed on a Wisdom saving throw versus your spell save DC or their spell fails.",
+				"This spell can be ended by restorative magic like {@spell lesser restoration} or {@spell dispel magic}."
+			],
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"If you cast this spell using a spell slot of 5th level or higher, the duration is 24 hours. If you use a spell slot of 6th level or higher, the duration is 1 week. If you use a spell slot of 7th level or higher, the duration is 1 month. If you use a spell slot of 8th level or higher, the duration is 1 year. If you use a 9th-level spell slot, the spell lasts until it is dispelled."
+					]
+				}
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Dream of Kho",
+			"level": 6,
+			"school": "C",
+			"page": 107,
+			"meta": {
+				"ritual": true
+			},
+			"time": [
+				{
+					"number": 1,
+					"unit": "hour"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 120
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "a carved ivory drumstick and a drum worth 300 ps or with 300 hp worth of blood spilled on it"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Cleric",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"You drum a hypnotic rhythm, weaving a dream state around all willing creatures within range. As the tempo rises towards a crescendo, willing creatures begin to see a phantom forest sprout around them. The forest conforms to the shape of the space the creatures inhabit, but may introduce phantom obstacles such as large trees, creeks or waterfalls, rock piles, and so on. These are real for creatures affected by the spell. Somewhere within range is a huge celestial ape. The ape understands all languages, but does not speak.",
+				"The ape is capable of summoning any beast or object from the same plane that is not bound by magic or currently attuned to another person. This includes generic beasts or objects such as \"cat\" or \"sword,\" or named requests such as \"the cat Skelka\" or \"Fangblade.\" However, the ape is under no compulsion to behave in any particular way, and will usually not agree to summon anything unless he is satisfied that he has been offered something in fair payment.",
+				"If the ape is especially pleased with the payment offered, he may summon the desired object and additional items as well. If he is displeased, he may fly into a rage and attack. All creatures affected by the spell must make a DC 18 Wisdom saving throw. On a failed save, creatures take {@damage 8d10} radiant damage and cease to be affected by the spell. On a successful save, creatures take half damage."
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Form Weapon",
+			"level": 0,
+			"school": "C",
+			"page": 107,
+			"time": [
+				{
+					"number": 1,
+					"unit": "bonus"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					}
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Cleric",
+						"source": "PHB"
+					},
+					{
+						"name": "Druid",
+						"source": "PHB"
+					},
+					{
+						"name": "Sorcerer",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"You reach out and summon a weapon from the environment around you. Raw materials uproot themselves and form in your hands into a magical simple weapon of your choice with which you have proficiency. The style of weapon reflects the materials in the environment, creating a bone sword in a graveyard or a grass sling in an open field, for example. You can only have one weapon formed by this spell at a time. When the spell ends, the weapon falls apart."
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Fury of Twr",
+			"level": 6,
+			"school": "V",
+			"page": 108,
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 120
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "sulfur, ash, an ox horn worth 100 ps or spilled with 100 hp of blood, which is consumed by the spell"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Cleric",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"You unleash a fury of fiendish rage all around you. All creatures within range must make a Dexterity saving throw. Each creature takes {@damage 5d10} fire damage on a failed save, or half as much damage on a successful one.",
+				"All water in range immediately boils and releases jets of superheated steam, which last for the spell's duration, and any creature that ends its turn in or above more than 1 inch of water must make a Dexterity save. The creature takes {@damage 3d10} fire damage from the superheated steam on a failed save, or half as much on a successful one."
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Gaze of Glelh",
+			"level": 6,
+			"school": "E",
+			"page": 108,
+			"meta": {
+				"ritual": true
+			},
+			"time": [
+				{
+					"number": 1,
+					"unit": "hour"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "touch"
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "an ivory mortar & pestle, and colorful pigments worth 200 ps, which are consumed by the spell"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 24
+					}
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Cleric",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"You anoint a ceremonial square 10 feet in diameter with bright colors and symbols of a lion with wide, staring eyes. For the spell's duration, any creature within the ceremonial square can see everything up to 10 miles away within line of sight of the square with telescopic vision of perfect clarity, no matter how small or far away.",
+				"Creatures within 10 miles may be drawn to the ceremonial square by the spell's power. As an action, you can target a creature within range. Targeted creatures must make a Wisdom saving throw, and targets who can see the ceremonial square or creatures or structures inside it make their saving throw with disadvantage. On a failure, they must use their movement to approach the ceremonial square and, upon reaching the edge of the square, lie paralyzed next to it until the spell ends.",
+				"The spell ends if the ceremonial square contains no conscious creatures with a Wisdom score of 4 or greater."
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Heart of Urhosh",
+			"level": 6,
+			"school": "N",
+			"page": 108,
+			"time": [
+				{
+					"number": 1,
+					"unit": "reaction",
+					"condition": "when you or a creature you can see within range would drop to 0 hit points or die"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 120
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Cleric",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"You cry out to spirits of survival to preserve the life of a creature you can see within range. The creature drops to 1 hit point instead of dying. Until the end of the target's next turn, they cannot be reduced to below 1 hit point. In addition, effects that would kill the target instantaneously have no effect."
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Lava Leap",
+			"level": 3,
+			"school": "C",
+			"page": 108,
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "a chunk of pumice"
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Paladin",
+						"source": "PHB"
+					},
+					{
+						"name": "Druid",
+						"source": "PHB"
+					},
+					{
+						"name": "Ranger",
+						"source": "PHB"
+					},
+					{
+						"name": "Sorcerer",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"You summon the fury of the volcano to hurl yourself into the air. When you cast this spell, you can make a standing leap to any point you can see within range. Immediately after you leap, a surge of magma explodes outward, and each creature in a 15-foot radius of the place you just left must make a Dexterity saving throw, taking {@damage 3d10} fire damage on a failed save and half as much on a successful one.",
+				"The magma cools instantly, but the cooled magma makes the ground difficult terrain in a 30-foot-diameter circle around the spot you left."
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Mage Skis",
+			"level": 2,
+			"school": "T",
+			"page": 108,
+			"meta": {
+				"ritual": true
+			},
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "pine needles, water"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					}
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Wizard",
+						"source": "PHB"
+					},
+					{
+						"name": "Bard",
+						"source": "PHB"
+					},
+					{
+						"name": "Ranger",
+						"source": "PHB"
+					},
+					{
+						"name": "Sorcerer",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"You summon long strips of arcane energy that grant you the ability to move quickly over frozen terrain. Until the spell ends, up to 6 willing creatures you can see within range gain a speed of 60 feet when traveling over snowy or frozen terrain. Frozen or snowy terrain is not considered difficult terrain for anyone affected by this spell."
+			],
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each spell level above 2nd."
+					]
+				}
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Nightmare Bind",
+			"level": 2,
+			"school": "E",
+			"page": 109,
+			"time": [
+				{
+					"number": 1,
+					"unit": "minute"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 10
+				}
+			},
+			"components": {
+				"s": true,
+				"m": "a piece of cobweb"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 8
+					}
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Bard",
+						"source": "PHB"
+					},
+					{
+						"name": "Ranger",
+						"source": "PHB"
+					},
+					{
+						"name": "Sorcerer",
+						"source": "PHB"
+					},
+					{
+						"name": "Warlock",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"You choose a sleeping creature within range, attempting to sink them deeper into sleep while troubling their mind with dark dreams. The creature must make a Wisdom saving throw. On a successful save, the target awakes. On a failure, the target is trapped in restless sleep until the spell ends, and does not gain the benefits of a long rest. You do not choose the content of their dreams, nor are you aware of their nature. Each time the target takes damage, it makes a new Wisdom saving throw against the spell. If the saving throw succeeds, the spell ends."
+			],
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this spell using a spell slot of 3rd or 4th level, the spell lasts for up to 24 hours. When you use a spell slot of 5th level or 6th level, the spell lasts for up to 1 week. When you use a spell slot of 7th level or 8th level, the spell lasts for up to 1 month. When you use a spell slot of 9th level, the spell lasts until dispelled."
+					]
+				}
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Possess Steed",
+			"level": 5,
+			"school": "T",
+			"page": 109,
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "touch"
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "a carrot"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 8
+					}
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Wizard",
+						"source": "PHB"
+					},
+					{
+						"name": "Bard",
+						"source": "PHB"
+					},
+					{
+						"name": "Warlock",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"You and up to 10 willing creatures each touch a separate willing steed of at least one size larger than yourself. All affected creatures become immaterial spirits, along with all their carried gear, and possess their steeds, controlling them. Until the spell ends, affected creatures use the steed's Strength, Dexterity, and Constitution scores, but retain their own Intelligence, Wisdom, and Charisma scores.",
+				"The steeds outwardly appear unaffected by this change, and the possession cannot be detected by visual inspection of their outward appearance, although unusual behavior may raise suspicion.",
+				"If an affected creature's steed drops to 0 hit points, the creature reverts to their physical form within 5 feet of the steed."
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Quillburst",
+			"level": 2,
+			"school": "V",
+			"page": 110,
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "sphere",
+				"distance": {
+					"type": "feet",
+					"amount": 20
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "a quill"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Wizard",
+						"source": "PHB"
+					},
+					{
+						"name": "Druid",
+						"source": "PHB"
+					},
+					{
+						"name": "Sorcerer",
+						"source": "PHB"
+					},
+					{
+						"name": "Warlock",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"Arcane quills bristle around you, then burst outward in sudden violence. Each creature in a 20-foot sphere centered on you must make a Dexterity saving throw, taking {@damage 2d6} piercing damage on a failed save and half as much on a successful one.",
+				"Until the spell ends, if you would take damage from an attack, you can release a second burst with the same effects as the first, ending the spell."
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Ridicule",
+			"level": 2,
+			"school": "E",
+			"page": 110,
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "a sprig of herbs"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 8
+					}
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Bard",
+						"source": "PHB"
+					},
+					{
+						"name": "Paladin",
+						"source": "PHB"
+					},
+					{
+						"name": "Sorcerer",
+						"source": "PHB"
+					},
+					{
+						"name": "Warlock",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"You ridicule a humanoid you can see within range, lacing your words with magical disdain. The target must succeed on a Charisma saving throw. On a failed save, the target has disadvantage on Charisma checks until the spell ends, and others who encounter them will find them laughable, though they may not express it outwardly if the target is in a position of authority over them."
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Sense Whispers",
+			"level": 0,
+			"school": "D",
+			"page": 110,
+			"time": [
+				{
+					"number": 1,
+					"unit": "minute"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Cleric",
+						"source": "PHB"
+					},
+					{
+						"name": "Druid",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"You listen carefully for the subtle whispers of unseen spirits. Within range, you sense the location of any friendly undead creatures."
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Smoke Breathing",
+			"level": 3,
+			"school": "T",
+			"page": 110,
+			"meta": {
+				"ritual": true
+			},
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "a piece of waterlogged fabric"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 24
+					}
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Cleric",
+						"source": "PHB"
+					},
+					{
+						"name": "Druid",
+						"source": "PHB"
+					},
+					{
+						"name": "Ranger",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"This spell grants up to ten willing creatures you can see within range the ability to breathe nonmagical harmful gas until the spell ends. Affected creatures also retain their normal mode of respiration. Additionally, until the spell ends, affected creatures can exhale smoke at will as a harmless visual effect. This smoke dissipates immediately and does not provide cover."
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Steal Speed",
+			"level": 2,
+			"school": "T",
+			"page": 110,
+			"time": [
+				{
+					"number": 1,
+					"unit": "bonus"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "a length of braided twine"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 10
+					},
+					"concentration": true
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Wizard",
+						"source": "PHB"
+					},
+					{
+						"name": "Bard",
+						"source": "PHB"
+					},
+					{
+						"name": "Sorcerer",
+						"source": "PHB"
+					},
+					{
+						"name": "Warlock",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"A creature you can see within range must make a Wisdom saving throw. On a failure, their speed is halved, and any speeds you possess are increased by the amount by which their speed is reduced."
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Song of Mala",
+			"level": 6,
+			"school": "V",
+			"page": 110,
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "miles",
+					"amount": 10
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "an oyster shell containing a pearl worth 750 ps or spilled with 750 hp of blood"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Cleric",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"You raise your voice, and begin to sing with the blessing of divine spirits. Your song is magically enhanced and carries over incredible distances.",
+				"You can choose to have your song heard by all creatures within range, any number of specific creatures within range, or any number of specific type(s) of creatures you select within range. (For example, the song might be heard by every undead creature and every elf; or every undead elf.)",
+				"Using this song you can communicate a message up to 25 words, which will be understood by any hearer regardless of what languages they speak (as long as they speak at least one language).",
+				"As long as you concentrate on this spell, any creature that heard your song can pinpoint your location."
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Spellblinding",
+			"level": 9,
+			"school": "I",
+			"page": 110,
+			"time": [
+				{
+					"number": 1,
+					"unit": "hour"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "wool, feathers, rare inks worth 1,000 ps or mixed with 1,000 hp of spilled blood, which is consumed by the spell"
+			},
+			"duration": [
+				{
+					"type": "permanent",
+					"ends": [
+						"dispel"
+					]
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Wizard",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"You choose a creature or object in range that you can see, and render it invisible to spellcasters. Any creature capable of casting a cantrip or spell of 1st-level or higher is unable to see the target you choose until the spell ends, nor can they be detected by spellcasters using magical means. Creatures who cannot cast cantrips or spells can see the target as before."
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Stonebone",
+			"level": 3,
+			"school": "T",
+			"page": 111,
+			"time": [
+				{
+					"number": 1,
+					"unit": "bonus"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "touch"
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "a stone and a bone"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					}
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Cleric",
+						"source": "PHB"
+					},
+					{
+						"name": "Bard",
+						"source": "PHB"
+					},
+					{
+						"name": "Paladin",
+						"source": "PHB"
+					},
+					{
+						"name": "Druid",
+						"source": "PHB"
+					},
+					{
+						"name": "Ranger",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"You touch a willing creature. Their bones harden and become dense as stone, and their knuckles, elbows, shoulders, and knees sprout rocky protrusions. Until the spell ends, they have resistance to bludgeoning damage, and their unarmed attacks deal an extra {@damage 1d4} bludgeoning damage."
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Stormscrying",
+			"level": 2,
+			"school": "D",
+			"page": 111,
+			"meta": {
+				"ritual": true
+			},
+			"time": [
+				{
+					"number": 1,
+					"unit": "minute"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "a needle and a jar of water"
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Cleric",
+						"source": "PHB"
+					},
+					{
+						"name": "Paladin",
+						"source": "PHB"
+					},
+					{
+						"name": "Druid",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"You name a location with which you are familiar. You sense the current weather at that location, detecting temperature, precipitation, wind, time of day, and so on. If you use this spell to detect the weather of a large region, you gain a more general indication of the weather, such as \"scattered thunderstorms\" or \"partly foggy.\""
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Tilt",
+			"level": 5,
+			"school": "T",
+			"page": 111,
+			"time": [
+				{
+					"number": 10,
+					"unit": "minute"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "an angled rock or twig"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 8
+					}
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Wizard",
+						"source": "PHB"
+					},
+					{
+						"name": "Bard",
+						"source": "PHB"
+					},
+					{
+						"name": "Sorcerer",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"Choose up to 8 willing creatures within range. Until the spell ends, affected creatures' sense of gravity shifts by up to 90 degrees in the direction of your choice. Affected creatures fall in your chosen direction, as does any gear worn or carried by affected creatures at the time of casting. As an action, you can change the direction of gravity for all affected creatures while the spell is active."
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Time Slip",
+			"level": 1,
+			"school": "E",
+			"page": 112,
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Wizard",
+						"source": "PHB"
+					},
+					{
+						"name": "Bard",
+						"source": "PHB"
+					},
+					{
+						"name": "Warlock",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"A creature you can see within range must make a Wisdom saving throw. On a failure, they become confused about time, believing it to be whatever hour of the day you choose. They remain convinced of the time until the spell ends, rationalizing explanations for unusual darkness or light based on the enchantments of the spell."
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Traitor's Kiss",
+			"level": 5,
+			"school": "I",
+			"page": 112,
+			"time": [
+				{
+					"number": 1,
+					"unit": "bonus"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "touch"
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "a dab of paint and a serpent's tongue"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 8
+					}
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Wizard",
+						"source": "PHB"
+					},
+					{
+						"name": "Bard",
+						"source": "PHB"
+					},
+					{
+						"name": "Sorcerer",
+						"source": "PHB"
+					},
+					{
+						"name": "Warlock",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"You touch a willing creature and grant them the appearance of another's trusted companion. Choose a humanoid with whom you are familiar, and give your target the appearance, voice, and scent of their most trusted humanoid friend, relative, or confidante. The DM determines the form based on who the target is most likely to trust. The target has advantage on Charisma checks to influence the chosen humanoid, and magically learns general information about the illusory persona, including their name, relation to the target, and personality."
+			],
+			"source": "SSSOP"
+		},
+		{
+			"name": "Weight",
+			"level": 2,
+			"school": "T",
+			"page": 112,
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "powdered hoof"
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Wizard",
+						"source": "PHB"
+					},
+					{
+						"name": "Bard",
+						"source": "PHB"
+					},
+					{
+						"name": "Sorcerer",
+						"source": "PHB"
+					},
+					{
+						"name": "Warlock",
+						"source": "PHB"
+					}
+				]
+			},
+			"entries": [
+				"Choose an object in range no larger than a 5-foot cube. You cause the object to become unbearably heavy. The object does not bounce, roll, or slide unless it is on a steep incline. A creature can attempt a Strength check against your spell save DC to lift the object, ending the spell on a success.",
+				"If you target an object held or worn by a hostile creature, that creature must succeed on a Strength saving throw to avoid the spell. On a failure, the creature takes {@damage 2d6} bludgeoning damage, dropping the object if it is held, or falling prone if it is worn."
+			],
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this spell at higher levels, you can target objects of an additional 5 feet in size per spell level above 2nd."
+					]
+				}
+			],
+			"source": "SSSOP"
+		}
+	],
+	"baseitem": [
+		{
+			"name": "Antlerclaw",
+			"source": "SSSOP",
+			"page": 99,
+			"type": "M",
+			"rarity": "none",
+			"weight": 1,
+			"value": 25,
+			"weaponCategory": "simple",
+			"property": [
+				"F",
+				"L"
+			],
+			"dmg1": "1d4",
+			"dmgType": "S",
+			"weapon": true,
+			"entries": [
+				"A sharpened antler with leather grips."
+			]
+		},
+		{
+			"name": "Gripstone",
+			"source": "SSSOP",
+			"page": 99,
+			"type": "M",
+			"rarity": "none",
+			"weight": 10,
+			"value": 200,
+			"weaponCategory": "simple",
+			"property": [
+				"T"
+			],
+			"range": "20/60",
+			"dmg1": "1d6",
+			"dmgType": "B",
+			"weapon": true,
+			"entries": [
+				"A handheld stone with grooves for fingerholds, used as a striking tool or weapon."
+			]
+		},
+		{
+			"name": "Atlatl",
+			"source": "SSSOP",
+			"page": 99,
+			"type": "R",
+			"rarity": "none",
+			"weight": 2,
+			"value": 500,
+			"weaponCategory": "simple",
+			"property": [
+				"A",
+				"LD"
+			],
+			"range": "30/120",
+			"dmg1": "1d8",
+			"dmgType": "P",
+			"weapon": true,
+			"entries": [
+				"Also known as a spear-thrower, this short shaft features a cup or spur at the end where the butt of a javelin or spear is placed, allowing the wielder to launch the projectile farther and straighter than if thrown by hand."
+			]
+		},
+		{
+			"name": "Clubsword",
+			"source": "SSSOP",
+			"page": 99,
+			"type": "M",
+			"rarity": "none",
+			"weight": 3,
+			"value": 5000,
+			"weaponCategory": "martial",
+			"property": [
+				"V"
+			],
+			"dmg1": "1d8",
+			"dmgType": "B",
+			"dmg2": "1d10",
+			"weapon": true,
+			"entries": [
+				"A thick club with jagged stones, teeth, or shards of obsidian lining its edges, which can be used to smash or cut by a skilled wielder."
+			]
+		},
+		{
+			"name": "Hammerstone",
+			"source": "SSSOP",
+			"page": 99,
+			"type": "M",
+			"rarity": "none",
+			"weight": 36,
+			"value": 100,
+			"weaponCategory": "martial",
+			"property": [
+				"H",
+				"2H",
+				"T"
+			],
+			"range": "20/60",
+			"dmg1": "1d10",
+			"dmgType": "B",
+			"weapon": true,
+			"entries": [
+				"Also known as a hav or lifting stone, this stone sphere is often used in mammoth hunts, hurled or dropped from a height onto prey, or thrown with great force from a short distance."
+			]
+		},
+		{
+			"name": "Saw",
+			"source": "SSSOP",
+			"page": 99,
+			"type": "M",
+			"rarity": "none",
+			"weight": 6,
+			"value": 3000,
+			"weaponCategory": "martial",
+			"property": [
+				"H",
+				"2H"
+			],
+			"dmg1": "1d6",
+			"dmgType": "P",
+			"dmg2": "1d6",
+			"weapon": true,
+			"entries": [
+				"A serrated blade, used to hook and tear at wood, harvested prey, or enemies. It deals {@dice 1d6} piercing damage or {@dice 1d6} slashing damage, at the wielder's choice."
+			]
+		},
+		{
+			"name": "Warclub",
+			"source": "SSSOP",
+			"page": 99,
+			"type": "M",
+			"rarity": "none",
+			"weight": 20,
+			"value": 1000,
+			"weaponCategory": "martial",
+			"property": [
+				"H",
+				"2H"
+			],
+			"dmg1": "1d12",
+			"dmgType": "B",
+			"weapon": true,
+			"entries": [
+				"A huge bludgeoning weapon, usually made from a combination of bone, leather, wood, and stone."
+			]
+		},
+		{
+			"name": "Bolas",
+			"source": "SSSOP",
+			"page": 99,
+			"type": "R",
+			"rarity": "none",
+			"weight": 5,
+			"value": 1000,
+			"weaponCategory": "martial",
+			"property": [
+				"S",
+				"T"
+			],
+			"range": "10/30",
+			"dmg1": "1d6",
+			"dmgType": "B",
+			"weapon": true,
+			"entries": [
+				"Two or more stones attached by a length of cord (usually leather) used to entangle prey from a distance.",
+				{
+					"type": "entries",
+					"name": "Special",
+					"entries": [
+						"A Large or smaller creature hit by bolas is {@condition restrained} until it is freed. Bolas have no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a {@dc 10} Strength check, freeing itself or another creature within its reach on a success. Dealing 2 slashing damage to the bolas (AC 8) also frees the creature without harming it, ending the effect and destroying the bolas.",
+						"When you use an action, bonus action, or reaction to attack with bolas, you can make only one attack regardless of the number of attacks you can normally make."
+					]
+				}
+			]
+		},
+		{
+			"name": "Boomerang",
+			"source": "SSSOP",
+			"page": 99,
+			"type": "M",
+			"rarity": "none",
+			"weight": 2,
+			"value": 2500,
+			"weaponCategory": "martial",
+			"property": [
+				"T",
+				"S"
+			],
+			"range": "30/120",
+			"dmg1": "1d8",
+			"dmgType": "B",
+			"weapon": true,
+			"entries": [
+				"A flat, curved club, thrown in an arc.",
+				{
+					"type": "entries",
+					"name": "Special",
+					"entries": [
+						"When you miss on an attack with the boomerang, it returns to you at the end of your turn unless its returning path is heavily obstructed."
 					]
 				}
 			]
