@@ -22760,6 +22760,151 @@
 											]
 										}
 									]
+								},
+								{
+									"type": "entries",
+									"name": "Glunch",
+									"entries": [
+										"Deep in the Ghostmire, where undead lights glimmer and giant manylegs slither through the muck, weary wanderers far from the clanfire have stumbled across strange clusters of swamp dwellings inhabited by a green-skinned, black-eyed people known as Glunch.",
+										"Glunch are quiet and guarded, slow to interact with outsiders. They prefer to remain hidden, and their naturally slimy green bodies allow them to blend easily into the swamps they inhabit. Their short, muscular forms are topped with large bony spines, used in shows of dominance and a peculiar style of whirling attack in single combat.",
+										{
+											"type": "entries",
+											"name": "Ghost-Gardeners",
+											"entries": [
+												"The Glunch have long lived in harmony with the undead spirits that haunt the Ghostmire. They know more ways to pacify angry spirits than any other living thing, and expertly weave subtle enchantments into nets with which they catch the will-o'-the-wisps that illuminate their village clusters. Their mud-and-chitin dwellings are filled with dried roots and herbs, wards, colored cords, and other charms against vengeful ghosts."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Manylegs Riders",
+											"entries": [
+												"The Glunch language is a gurgling, clicking sound unintelligible to most. Yet strangely, it enables them to form a rudimentary communication with the giant insects, arthropods, worms, and other creatures collectively known as manylegs. Glunch patrols frequently travel the swamps on the backs of giant millipedes or the huge crabs known as ku-zug. A Glunch rider's bond with its manylegs steed is a strange one—not affectionate, but powerfully codependent."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Fungal Memory",
+											"entries": [
+												"The Glunch are known to fear mushrooms and fungus of all kinds. Long ago, their kind had something to do with the mysterious Temple of the Mushroom Lord, and to this day they stay far from that foreboding structure. Glunch ghosts from long ago remember the days when their people served in the temple, and the terrible rites that were enacted there in service of their psychic masters."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Horse-Ape (Chalicotherium)",
+									"entries": [
+										"Horse-apes are the unnerving inhabitants of treant groves, traveling alongside the moving forests of Planegea as their companions and protectors. The horse-apes have a rudimentary society, speaking to each other in grunts and whinnies, and glaring with wary, wide-set eyes at any who would approach their beloved trees.",
+										"The horse-ape has one of the strangest forms in all Planegea. It towers roughly nine feet tall, with a body much like a ground-sloth or gorilla, topped with the head and neck of a horse. Their coats are striped or spotted with many patterns, and some wear rudimentary crowns or cloaks of leaves and vines given to them by the trees.",
+										{
+											"type": "entries",
+											"name": "Tree guards",
+											"entries": [
+												"The horse-apes are by nature gentle grazers, who enjoy ripe fruit and tender grass. Posing no threat to the trees, they were long ago befriended by the forests and their rudimentary intelligence enhanced by the oldest and wisest of the treants, who saw use in their tall and powerful builds. Horse-apes now dwell in and among awakened groves, ready to hurl boulders and bray fiercely at any who come too close to the trees."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Reverent followers",
+											"entries": [
+												"Horse-apes are subservient to the trees, worshiping them as gods, and following their orders without questioning. They live simple lives in small family groups, grooming one another and enjoying the bounty of their protected groves, and—when not actively defending the grove—can always be found eating. They are also known to be fond of druids, who share a kinship with some of the trees, and druid groves are not uncommonly guarded by a horse-ape or two bound in service to the trees of that place."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Fire-crushers",
+											"entries": [
+												"Through long generations of service to the trees, horse-apes have developed an instinctive fear and hatred of fire, and any whiff of smoke or glimpse of firelight sets them into a warlike rage. Those who would manipulate horse-apes have sometimes surrounded them with rings of torches, which the simple creatures treat as impregnable cages. It's said that there are warlords who have used fire to drive captured horse-apes mad, using these usually docile creatures as berserkers to smash through enemy defenses."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Iramuk (Indricotherium)",
+									"entries": [
+										"“Lonely as an iramuk.” That's how the saying goes. These immense beasts tower huge and solitary, dwarfing even the mighty mammoth and tyrantmaw. They move through the world stately and slow, covering huge distances in their lifetime, rarely ever aroused to more than a gentle plod.",
+										"In shape, the iramuk is like a rhinoceros with a neck like a giraffe and a long, prehensile upper lip, which they use to dig for roots and strip leaves. Their hide is gray and tough, and their footsteps shake the ground when they pass by.",
+										{
+											"type": "entries",
+											"name": "Lonely wanderers",
+											"entries": [
+												"The iramuk is among the most solitary of creatures, only coming together briefly with others of its kind to mate for a few days each year. The rest of its life is spent traversing enormous distances, searching for enough food to sustain its bulk. If two iramuks come across any sign of each other, both will turn perpendicularly outward away from the other, putting as much distance as possible between itself and others of its kind."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Living murals",
+											"entries": [
+												"Because of an iramuk's wide range and docile disposition, many of them are painted by various human tribes who encounter them. It is a boast for many young spellskins to draft a spell on the side of an iramuk—a feat that usually requires dangling from a nearby tree or hovering in midair with a long brush. But the act of painting an iramuk is not reserved for spellskins. Druids, shamans, and even ambitious hunters seek to make their mark on the beasts, and most iramuks are patterned with years of paint and dye splashed around their lower bodies, where mortals can reach."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Cautious mothers",
+											"entries": [
+												"Iramuks calve only rarely—their mating season is so short that conception is infrequent, and an iramuk spends three years in the womb. Because of the great difficulty of raising offspring and their otherwise solitary lives, iramuk mothers are terrifying when defending their calves, using their incredible size and their long necks as weapons to trample and bash any predator who would threaten their young."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Trail makers",
+											"entries": [
+												"Unless they encounter another of their kind, iramuks tend to travel the same path year after year. Their enormous weight and slow steps carve deep furrows in the earth after only a few seasons, and since iramuks plow through brush and hills and open places without slowing their step, their pathways make excellent trails for mortals. Iramuk trails are well known to the local clans that dot their length, and traders favor them to quickly move over long distances in a straight line."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Kelodhrosians",
+									"entries": [
+										"The Kelodhrosians are newcomers to the world, emerging from unknown origins in the Venom Abyss. Although they have only existed for a few short generations, they have already created a sprawling network of jungle ziggurats, hastily constructed for their rituals. Their kind is naturally gifted in harnessing the power of primordial evolution, and have learned—whether by instinct or some secret of their creation—how to ritually extract physical aspects from bound victims, stealing bodies to empower their own.",
+										"In their natural form, Kelodhrosians are small, hairless, and slender, with long, awkward limbs and white, mask-like faces. Their bulging blue eyes and lipless mouths complete their unsettling visage. But these weak bodies are only the beginning for the Kelodhros—a blank wall on which their story of ascendance will be painted.",
+										{
+											"type": "entries",
+											"name": "Unembraced",
+											"entries": [
+												"Kelodhrosians who have yet to Embrace a victim are feeble things, with no natural defenses except their cunning. Unembraced seek to live out of sight in well-camouflaged huts, their white bodies a giveaway for predators in the dark green jungle. From a young age, they are taught to protect themselves with venomous darts—and how to ritually bind a captured victim for the Embrace."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Aspecter",
+											"entries": [
+												"Those Kelodhrosians who have Embraced only one or two victims are called aspecters, so called because they display a single aspect of their chosen form. An aspecter looks like an unembraced with some mutation. Some may be stronger, or faster, or have wings, gills, scales, or whatever other aspect they have chosen to extract from their victims."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Priest",
+											"entries": [
+												"There are two types of priests, or Kelodhrosians who have Embraced many victims: hybrid priests—who select their preferred aspects from many forms—and monoform priests, who choose to only Embrace a single kind of favored creature, the better to emulate its perfection.",
+												"Both are menacing foes, for while hybrid priests have many strengths at their disposal, monoform priests represent discipline, focus, and absolute dedication to their chosen path of ascension."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Archpriest",
+											"entries": [
+												"A Kelodhrosian archpriest is one who has completed their ascension, and of whom nothing remains of their original body except their blue eyes. Archpriests rule all lesser Kelodhrosians, and their command of magic and ascension is unparalleled among their own kind."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Lost Soul",
+											"entries": [
+												"Some Kelodhrosians lose themselves in the Embrace, due to an interrupted ceremony, an unfit victim, or some other corruption of mind, body, or spirit. Such beings become misshapen monsters, their bodies amorphous and mismatched, their minds broken. The Kelodhros watch over their lost souls, holding their community accountable for the failed Embrace. Such beings often serve archpriests, who are the only ones strong enough to soothe their wild hearts."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Infiltrator",
+											"entries": [
+												"A Kelodhros infiltrator is a specialized priest who only Embraces humanoids, the better to blend into a society. Although Kelodhrosians cannot rid themselves of their telltale blue eyes, infiltrators excel at slipping in amongst the clans, finding suitable victims for the Embrace, and scouting out the best locations for advancing colonies of Kelodhros to construct their ritual ziggurats."
+											]
+										}
+									]
 								}
 							]
 						}
@@ -34587,6 +34732,1109 @@
 					"name": "Drown.",
 					"entries": [
 						"If the sailstalker is in or adjacent to a body of water at least 5 feet deep, it can plunge a creature grappled by it into the water. The creature must make a DC 17 Constitution saving throw, taking 15 (2d8 + 6) slashing damage on a failure, or half as much on a success. A creature that fails its saving throw begins to suffocate as water fills its lungs unless it can breathe underwater or does not need to breathe. A suffocating creature can repeat the Constitution saving throw at the end of subsequent turns, coughing up the water and no longer suffocating on a success. Alternatively, the creature can spend an action to cough up the water, ending the suffocation."
+					]
+				}
+			]
+		},
+		{
+			"name": "Glunch",
+			"source": "SSSOP",
+			"page": 337,
+			"size": [
+				"M"
+			],
+			"type": "humanoid",
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"natural armor",
+						"shield"
+					]
+				}
+			],
+			"hp": {
+				"average": 16,
+				"formula": "3d8 + 3"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 15,
+			"dex": 12,
+			"con": 12,
+			"int": 10,
+			"wis": 12,
+			"cha": 10,
+			"skill": {
+				"perception": "+5",
+				"stealth": "+3",
+				"survival": "+3"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 15,
+			"languages": [
+				"Glunch"
+			],
+			"cr": "1/2",
+			"trait": [
+				{
+					"name": "Swamp Sneak",
+					"entries": [
+						"The Glunch can hide as a bonus action in swampy terrain, and when it does, its stealth bonus is improved to +5."
+					]
+				},
+				{
+					"name": "Ghost Coax",
+					"entries": [
+						"The Glunch has advantage on ability checks and saving throws to interact with undead."
+					]
+				},
+				{
+					"name": "Manylegs Speech",
+					"entries": [
+						"The Glunch can communicate simple ideas, concepts, and emotions to insects, spiders, worms, and other bug-like creatures."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The Glunch makes two attacks: one with its spear and one with its spines."
+					]
+				},
+				{
+					"name": "Spear",
+					"entries": [
+						"Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage plus 3 (1d6) poison damage, or 6 (1d8 + 2) piercing damage plus 3 (1d6) poison damage if used with two hands to make a melee attack."
+					]
+				},
+				{
+					"name": "Spines",
+					"entries": [
+						"Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage plus 3 (1d6) poison damage."
+					]
+				},
+				{
+					"name": "Blowgun",
+					"entries": [
+						"Ranged Weapon Attack: +3 to hit, range 25/100 ft., one target. Hit: 1 piercing damage plus 7 (2d6) poison damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Glunch Manylegs Rider",
+			"source": "SSSOP",
+			"page": 337,
+			"size": [
+				"M"
+			],
+			"type": "humanoid",
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 16,
+					"from": [
+						"natural armor",
+						"shield"
+					]
+				}
+			],
+			"hp": {
+				"average": 33,
+				"formula": "5d8 + 10"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 15,
+			"dex": 14,
+			"con": 14,
+			"int": 10,
+			"wis": 12,
+			"cha": 10,
+			"skill": {
+				"athletics": "+5",
+				"perception": "+5",
+				"stealth": "+3",
+				"survival": "+3"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 15,
+			"languages": [
+				"Glunch"
+			],
+			"cr": "2",
+			"trait": [
+				{
+					"name": "Swamp Sneak",
+					"entries": [
+						"The Glunch can hide as a bonus action in swampy terrain, and when it does, its stealth bonus is improved to +5."
+					]
+				},
+				{
+					"name": "Ghost Coax",
+					"entries": [
+						"The Glunch has advantage on ability checks and saving throws to interact with undead."
+					]
+				},
+				{
+					"name": "Manylegs Speech",
+					"entries": [
+						"The Glunch can communicate simple ideas, concepts, and emotions to insects, spiders, worms, and other bug-like creatures."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The Glunch makes two melee attacks: two with its lance or one with its shortsword and one with its spines."
+					]
+				},
+				{
+					"name": "Lance",
+					"entries": [
+						"Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 9 (1d12 + 3) piercing damage plus 3 (1d6) poison damage."
+					]
+				},
+				{
+					"name": "Spines",
+					"entries": [
+						"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 3 (1d6) poison damage."
+					]
+				},
+				{
+					"name": "Blowgun",
+					"entries": [
+						"Ranged Weapon Attack: +4 to hit, range 25/100 ft., one target. Hit: 1 piercing damage plus 5 (2d4) poison damage, and the target must make a DC 13 Constitution saving throw or become paralyzed with manylegs toxin for 1 minute. A paralyzed creature can repeat the saving throw at the end of each of their turns, ending the paralysis on a success."
+					]
+				}
+			]
+		},
+		{
+			"name": "Horse-Ape",
+			"source": "SSSOP",
+			"page": 338,
+			"size": [
+				"L"
+			],
+			"type": "monstrosity",
+			"alignment": [
+				"L",
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 11,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 51,
+				"formula": "6d10 + 18"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"str": 19,
+			"dex": 10,
+			"con": 17,
+			"int": 7,
+			"wis": 13,
+			"cha": 6,
+			"skill": {
+				"athletics": "+6",
+				"perception": "+3"
+			},
+			"senses": [
+				"passive Perception 13"
+			],
+			"passive": 13,
+			"languages": [
+				"Horse-Ape"
+			],
+			"cr": "2",
+			"trait": [
+				{
+					"name": "Fire Frenzy",
+					"entries": [
+						"If the horse-ape sees fire or smoke emitted from a flame within 60 feet of it, it flies into a rage, gaining the following effects until the end of its next turn.",
+						{
+							"type": "list",
+							"items": [
+								"The horse-ape has advantage on melee attack rolls",
+								"The horse-ape deals an additional 5 (1d10) damage when it hits with a weapon attack.",
+								"The horse-ape has disadvantage on Wisdom, Intelligence, and Charisma saving throws."
+							]
+						}
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The horse-ape makes two fist attacks."
+					]
+				},
+				{
+					"name": "Fist",
+					"entries": [
+						"Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Rock",
+					"entries": [
+						"Ranged Weapon Attack: +6 to hit, range 30/60 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Iramuk",
+			"source": "SSSOP",
+			"page": 339,
+			"size": [
+				"G"
+			],
+			"type": "beast",
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 170,
+				"formula": "11d20 + 55"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 23,
+			"dex": 9,
+			"con": 20,
+			"int": 3,
+			"wis": 13,
+			"cha": 6,
+			"senses": [
+				"passive Perception 11"
+			],
+			"passive": 11,
+			"languages": [],
+			"cr": "7",
+			"trait": [
+				{
+					"name": "Trailmaker",
+					"entries": [
+						"The iramuk's movement is unaffected by difficult terrain, and when the iramuk moves through terrain made difficult by snow, vegetation, or uneven ground, it becomes simple terrain."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The iramuk makes two attacks: one with its neck and one with its stomp."
+					]
+				},
+				{
+					"name": "Neck",
+					"entries": [
+						"Melee Weapon Attack: +9 to hit, reach 10 ft., one target that isn't prone. Hit: 23 (5d6 + 6) bludgeoning damage and the target must make a DC 17 Strength saving throw or be knocked prone."
+					]
+				},
+				{
+					"name": "Stomp",
+					"entries": [
+						"Melee Weapon Attack: +9 to hit, reach 5 ft., one prone target or one Medium or smaller target. Hit: 33 (5d10 + 6) bludgeoning damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Unembraced",
+			"source": "SSSOP",
+			"page": 340,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "monstrosity"
+			},
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 11
+				}
+			],
+			"hp": {
+				"average": 9,
+				"formula": "2d8"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 9,
+			"dex": 13,
+			"con": 11,
+			"int": 10,
+			"wis": 11,
+			"cha": 8,
+			"skill": {
+				"stealth": "+3",
+				"perception": "+2"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 12,
+			"languages": [
+				"Kelodhrosian"
+			],
+			"cr": "1/8",
+			"trait": [
+				{
+					"name": "Pack Tactics",
+					"entries": [
+						"The unembraced has advantage on an attack roll against a creature if at least one of the unembraced's allies is within 5 feet of the creature and the ally isn't incapacitated."
+					]
+				},
+				{
+					"name": "Ascended Leadership",
+					"entries": [
+						"If the unembraced can see an ally of a higher Challenge Rating within 60 feet, it adds 1d4 to its attack and damage rolls."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Dagger",
+					"entries": [
+						"Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage."
+					]
+				},
+				{
+					"name": "Poison Blowgun",
+					"entries": [
+						"Ranged Weapon Attack: +3 to hit, range 30/120 ft., one target. Hit: 1 piercing damage plus 7 (2d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way."
+					]
+				},
+				{
+					"name": "Net",
+					"entries": [
+						"Ranged Weapon Attack: +3 to hit, ranged 10/20 ft., one Medium or smaller creature. Hit: The target is restrained until it escapes the net. Any creature can use its action to make a DC 12 Strength check to free itself or another creature in the net, ending the effect on a success. Dealing 10 slashing damage to the net (AC 10) destroys the net and frees the target."
+					]
+				}
+			]
+		},
+		{
+			"name": "Aspecter Warrior",
+			"source": "SSSOP",
+			"page": 340,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "monstrosity"
+			},
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 37,
+				"formula": "5d8 + 15"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 16,
+			"dex": 16,
+			"con": 16,
+			"int": 10,
+			"wis": 11,
+			"cha": 10,
+			"skill": {
+				"athletics": "+5",
+				"perception": "+2"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 12,
+			"languages": [
+				"Kelodhrosian; the languages of any creature it has embraced"
+			],
+			"cr": "1",
+			"trait": [
+				{
+					"name": "Pack Tactics",
+					"entries": [
+						"The aspecter has advantage on an attack roll against a creature if at least one of the aspecter's allies is within 5 feet of the creature and the ally isn't incapacitated."
+					]
+				},
+				{
+					"name": "Embraced Adaptation",
+					"entries": [
+						"The aspecter has a burrow, swim, or climbing speed equal to half its walk speed (choose one)."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The aspecter makes two attacks: one with its battleaxe and one with its embraced weapons."
+					]
+				},
+				{
+					"name": "Battleaxe",
+					"entries": [
+						"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage."
+					]
+				},
+				{
+					"name": "Embraced Weapons",
+					"entries": [
+						"The aspecter has one or more of the following attack options, provided it has embraced the appropriate creature:",
+						{
+							"type": "list",
+							"items": [
+								"Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.",
+								"Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage, and the creature must make a DC 13 Constitution saving throw or lose 3 (1d6) hit points per turn due to heavy bleeding. Each time the aspecter hits the bleeding target with this attack, the damage dealt by the bleeding increases by 3 (1d6). Any creature can take an action to stanch the bleeding with a successful DC 10 Wisdom (Medicine) check. The bleeding also ends if the target receives magical healing.",
+								"Slam. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage, and the creature must make a DC 13 Strength saving throw or be knocked prone.",
+								"Spit. Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit: 10 (3d6) acid damage."
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Aspecter Mystic",
+			"source": "SSSOP",
+			"page": 341,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "monstrosity"
+			},
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 12,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 27,
+				"formula": "5d8 + 5"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"str": 10,
+			"dex": 12,
+			"con": 12,
+			"int": 12,
+			"wis": 14,
+			"cha": 16,
+			"skill": {
+				"stealth": "+2",
+				"perception": "+3"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 13,
+			"languages": [
+				"Kelodhrosian; the languages of any creature it has embraced"
+			],
+			"cr": "1",
+			"trait": [
+				{
+					"name": "Embraced Adaptation",
+					"entries": [
+						"The aspecter has a burrow, swim, or climbing speed equal to half its walk speed (choose one)."
+					]
+				},
+				{
+					"name": "Spellcasting",
+					"entries": [
+						"The aspecter is a 4th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). The aspecter has the following sorcerer spells prepared:",
+						"Cantrips (at-will): fire bolt, ray of frost, chill touch",
+						"1st-level: burning hands, fog cloud, ray of sickness",
+						"2nd-level: hold person, scorching ray, shatter"
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The aspecter makes two attacks: one with mystic bolt and one with its embraced magic."
+					]
+				},
+				{
+					"name": "Dagger",
+					"entries": [
+						"Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Mystic Bolt",
+					"entries": [
+						"Ranged Weapon Attack: +5 to hit, range 120 ft., one target. Hit: 7 (1d8 + 3) force damage."
+					]
+				},
+				{
+					"name": "Embraced Magic",
+					"entries": [
+						"The aspecter has one or more of the following attack options, provided it has embraced the appropriate creature:",
+						{
+							"type": "list",
+							"items": [
+								"Arcane Bindings. The aspecter chooses a creature within 30 feet that it can see and attempts to magically bind it. The creature must make a DC 13 Constitution saving throw or take 7 (2d6) force damage and become restrained for 1 minute. A restrained creature can repeat the saving throw at the end of each of their turns, ending the effect on a success.",
+								"Burning Ray. Ranged Spell Attack: +5 to hit, range 120 ft., one target. Hit: 8 (1d10 + 3) fire damage.",
+								"Noxious Touch. Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) poison damage."
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Hybrid Warrior Priest",
+			"source": "SSSOP",
+			"page": 342,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "monstrosity"
+			},
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 16,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 72,
+				"formula": "8d8 + 36"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 18,
+			"dex": 18,
+			"con": 18,
+			"int": 12,
+			"wis": 12,
+			"cha": 16,
+			"skill": {
+				"athletics": "+7",
+				"perception": "+4",
+				"stealth": "+8"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 14,
+			"languages": [
+				"Kelodhrosian; the languages of any creature it has embraced"
+			],
+			"cr": "5",
+			"trait": [
+				{
+					"name": "Hybrid Adaptations",
+					"entries": [
+						"The priest gains a fly, swim, or climbing speed equal to half its walk speed (choose two)."
+					]
+				},
+				{
+					"name": "Embraced Advantage",
+					"entries": [
+						"The priest deals an additional 4 (1d8) damage when it hits a creature with a weapon attack, provided it has advantage on the attack roll."
+					]
+				},
+				{
+					"name": "Blood Frenzy",
+					"entries": [
+						"The priest has advantage on melee attack rolls against any creature that doesn't have all its hit points."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The priest makes three attacks: one with each of its hybrid weapons."
+					]
+				},
+				{
+					"name": "Hybrid Weapons",
+					"entries": [
+						"The priest has three of the following attack options, provided it has embraced the appropriate creature:",
+						{
+							"type": "list",
+							"items": [
+								"Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.",
+								"Claws. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage.",
+								"Slam. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage, and the target must make a DC 14 Strength saving throw or be knocked prone.",
+								"Tail. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage.",
+								"Gore. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage.",
+								"Spike. Ranged Weapon Attack: +7 to hit, range 60/180 ft., one target. Hit: 8 (1d8 + 4) piercing damage."
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Monoform Priest Template",
+			"source": "SSSOP",
+			"page": 342,
+			"_copy": null,
+			"isNpc": false,
+			"entries": [
+				"A monoform priest has taken on nearly all the aspects of a singular creature. A monoform priest is represented by the embraced creature's stat block with the following changes:",
+				{
+					"type": "list",
+					"items": [
+						"The creature's type changes to monstrosity.",
+						"The creature adds Kelodhrosian to known languages.",
+						"The creature's eyes are bright blue."
+					]
+				}
+			]
+		},
+		{
+			"name": "Hybrid Mystic Priest",
+			"source": "SSSOP",
+			"page": 343,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "monstrosity"
+			},
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 16,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 52,
+				"formula": "8d8 + 16"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 13,
+			"dex": 13,
+			"con": 15,
+			"int": 14,
+			"wis": 16,
+			"cha": 18,
+			"skill": {
+				"arcana": "+5",
+				"perception": "+6",
+				"stealth": "+4"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 16,
+			"languages": [
+				"Kelodhrosian; the languages of any creature it has embraced"
+			],
+			"cr": "5",
+			"trait": [
+				{
+					"name": "Hybrid Adaptations",
+					"entries": [
+						"The priest gains a fly, swim, or climbing speed equal to half its walk speed (choose two)."
+					]
+				},
+				{
+					"name": "Spellcasting",
+					"entries": [
+						"The mage is a 9th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The mage has the following wizard spells prepared:",
+						"Cantrips (at will): chill touch, fire bolt, mage hand, ray of frost",
+						"1st level (4 slots): detect magic, fog cloud, shield",
+						"2nd level (3 slots): misty step, suggestion",
+						"3rd level (3 slots): counterspell, fireball, hypnotic pattern"
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The priest uses three of its hybrid magic options. It cannot use the same option twice."
+					]
+				},
+				{
+					"name": "Hybrid Magics",
+					"entries": [
+						"The priest has three of the following spell or attack options, provided it has embraced the appropriate creature:",
+						{
+							"type": "list",
+							"items": [
+								"Elemental Orb. Ranged Spell Attack: +7 to hit, range 90 ft., one target. Hit: 11 (2d6 + 4) acid, cold, fire, or lightning damage (priest's choice).",
+								"Stormgrasp. Melee Spell Attack: +7 to hit, range 5 ft., one target. Hit: 13 (2d8 + 4) lightning damage.",
+								"Corrosive Seeker. The priest chooses a creature that it can see within 60 feet. The creature must make a DC 15 Dexterity saving throw, taking 14 (4d6) acid damage on a failure.",
+								"Mind-Venom. The priest chooses a creature that it can see within 60 feet. The creature must make a DC 15 Wisdom saving throw, taking 13 (3d8) psychic damage on a failure."
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Archpriest Warrior",
+			"source": "SSSOP",
+			"page": 343,
+			"size": [
+				"L"
+			],
+			"type": {
+				"type": "monstrosity"
+			},
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 19,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 133,
+				"formula": "14d8 + 70"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"str": 20,
+			"dex": 20,
+			"con": 20,
+			"int": 14,
+			"wis": 15,
+			"cha": 19,
+			"skill": {
+				"athletics": "+9",
+				"perception": "+6",
+				"stealth": "+9"
+			},
+			"senses": [
+				"truesight 15 ft.",
+				"darkvision 60 ft."
+			],
+			"passive": 16,
+			"languages": [
+				"Kelodhrosian; the languages of any creatures it has embraced"
+			],
+			"cr": "9",
+			"trait": [
+				{
+					"name": "Magic Diffusion",
+					"entries": [
+						"The archpriest has resistance to damage dealt by spells, and when the archpriest fails a saving throw against a spell, roll a d6. If the result is a 4 or higher, the archpriest warrior instead succeeds."
+					]
+				},
+				{
+					"name": "Apex Adaptations",
+					"entries": [
+						"The archpriest gains a fly, swim, or climbing speed equal to its walk speed (choose two)."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The archpriest makes three attacks, using each of its chosen weapons at least once."
+					]
+				},
+				{
+					"name": "Poisonous Breath",
+					"entries": [
+						"Recharge 5-6. The archpriest exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 35 (10d6) poison damage on a failed save, or half as much damage on a successful one. Creatures that fail their saving throw by 5 or more are paralyzed until the end of the archpriest's next turn."
+					]
+				},
+				{
+					"name": "Chosen Weapons",
+					"entries": [
+						"The archpriest has two or more of the following attack options, provided it has embraced the appropriate creature:",
+						{
+							"type": "list",
+							"items": [
+								"Bite. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 18 (3d8 + 5) piercing damage, and the target is grappled (escape DC 16).",
+								"Claws. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 19 (4d6 + 5) slashing damage.",
+								"Slam. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage, and the target must make a DC 17 Strength saving throw or be knocked prone.",
+								"Tail. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage."
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Archpriest Mystic",
+			"source": "SSSOP",
+			"page": 344,
+			"size": [
+				"L"
+			],
+			"type": {
+				"type": "monstrosity"
+			},
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 16,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 105,
+				"formula": "14d8 + 42"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"str": 14,
+			"dex": 12,
+			"con": 16,
+			"int": 19,
+			"wis": 19,
+			"cha": 20,
+			"skill": {
+				"arcana": "+8",
+				"investigation": "+8",
+				"nature": "+8",
+				"perception": "+8",
+				"religion": "+8",
+				"stealth": "+5"
+			},
+			"senses": [
+				"truesight 15 ft.",
+				"darkvision 60 ft."
+			],
+			"passive": 16,
+			"languages": [
+				"Kelodhrosian; the languages of any creatures it has embraced."
+			],
+			"cr": "9",
+			"trait": [
+				{
+					"name": "Apex Adaptations",
+					"entries": [
+						"The archpriest gains a fly, swim, or climbing speed equal to its walk speed (choose two)."
+					]
+				},
+				{
+					"name": "Spellcasting",
+					"entries": [
+						"The archpriest is an 11th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). The archpriest can innately cast the following sorcerer spells, requiring no material components:",
+						"Cantrips (at-will): chill touch, mage hand, ray of frost, shocking grasp",
+						"1st-level (4 slots): detect magic, fog cloud, shield",
+						"2nd-level (3 slots): darkness, hold person, invisibility",
+						"3rd-level (3 slots): counterspell, fireball, slow",
+						"4th-level (3 slots): confusion, dimension door",
+						"5th-level (2 slots): cone of cold, hold monster"
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The archpriest uses its paralyzing gaze. It then uses two of its chosen magic options. It cannot use the same option twice. In place of using a chosen magic, the archpriest can cast a spell of 2nd level or lower."
+					]
+				},
+				{
+					"name": "Paralyzing Gaze",
+					"entries": [
+						"The archpriest targets one creature it can see within 30 feet of it. If the target can see the archpriest, the target must succeed on a DC 18 Wisdom saving throw or be paralyzed until the end of the archpriest's next turn."
+					]
+				},
+				{
+					"name": "Chosen Magic",
+					"entries": [
+						"The priest has three spell or attack options, provided it has embraced the appropriate creature:",
+						{
+							"type": "list",
+							"items": [
+								"Acid Jet. Ranged Spell Attack: +9 to hit, range 30 ft., one target. Hit: 27 (4d10 + 5) acid damage",
+								"Hurl Flame. Ranged Spell Attack: +9 to hit, range 90 ft., one target. Hit: 26 (6d6 + 5) fire damage.",
+								"Ruinous Touch. Melee Spell Attack: +9 to hit, reach 5 ft., one target. Hit: 31 (4d12 + 5) necrotic damage."
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Lost Soul",
+			"source": "SSSOP",
+			"page": 344,
+			"size": [
+				"H"
+			],
+			"type": {
+				"type": "monstrosity"
+			},
+			"alignment": [
+				"C",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 17,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 175,
+				"formula": "14d12 + 84"
+			},
+			"speed": {
+				"walk": 50
+			},
+			"str": 25,
+			"dex": 18,
+			"con": 22,
+			"int": 12,
+			"wis": 19,
+			"cha": 5,
+			"skill": {
+				"athletics": "+11",
+				"stealth": "+8",
+				"perception": "+8"
+			},
+			"senses": [
+				"truesight 30 ft.",
+				"darkvision 120 ft."
+			],
+			"passive": 18,
+			"languages": [],
+			"cr": "12",
+			"trait": [
+				{
+					"name": "Maddening Presence",
+					"entries": [
+						"When a creature starts their turn within 30 feet of the lost soul and can see it, the creature must make a DC 18 Wisdom saving throw or become seized by a madness that lasts until the end of its turn. A maddened creature rolls a d6 to determine what it will do with its turn. On a 1-3, the creature does nothing. On a 4-5, the creature takes no action but spends its movement to move in a random direction, determined by a d8. On a 6, the creature takes an attack action against a random creature within reach (or does nothing if no creature is within reach)."
+					]
+				},
+				{
+					"name": "Rampage",
+					"entries": [
+						"When the lost soul reduces a creature to 0 hit points with a melee attack on its turn, the lost soul can take a bonus action to move up to half its speed and make a bite attack."
+					]
+				},
+				{
+					"name": "Excessive Adaptation",
+					"entries": [
+						"The lost soul gains a burrowing, climbing, swimming, or flying speed equal to its walking speed (choose three)."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The lost soul makes one attack with each of the following weapons:"
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 24 (5d6 + 7) piercing damage, and the target is grappled (escape DC 17). While grappled, a target is restrained, and the lost soul cannot bite another target."
+					]
+				},
+				{
+					"name": "Rending Claws",
+					"entries": [
+						"Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 21 (6d4 + 6) slashing damage, and nonmagical armor worn by the target is partly shredded, taking a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10."
+					]
+				},
+				{
+					"name": "Sapping Tendril",
+					"entries": [
+						"Melee Weapon Attack: +11 to hit, reach 20 ft., one target. Hit: 20 (3d8 + 7) bludgeoning damage and the target must make a DC 18 Strength saving throw or have its movement speed reduced to 0 until the end of its next turn."
+					]
+				},
+				{
+					"name": "Stinging Tail",
+					"entries": [
+						"Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 17 (3d6 + 7) piercing damage, and the target must make a DC 18 Constitution saving throw, taking 21 (6d6) poison damage and becoming poisoned for 1 hour on a failure, or taking half as much damage on a success."
 					]
 				}
 			]
