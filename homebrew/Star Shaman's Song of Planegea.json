@@ -72,6 +72,18 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "Beast Tamer",
+			"source": "SSSOP",
+			"page": 43,
+			"featureType": [
+				"OTH"
+			],
+			"entries": [
+				"Optional human racial feature.",
+				"Whenever you make a Wisdom ({@skill Animal Handling}) check related to interacting with an undomesticated beast, you are considered proficient in the Animal Handling skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus."
+			]
 		}
 	],
 	"book": [
@@ -2609,6 +2621,589 @@
 											"100",
 											"A black quill that can scratch marks in solid stone"
 										]
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Kinships",
+					"page": 39,
+					"entries": [
+						{
+							"type": "quote",
+							"entries": [
+								"The young shaman gaped, her eyes wide. The countless brightly colored tents of the Seerfall shrine markets spread in every direction, the constant noise of the falls mingling with cries of the makers of totems, incense bundles, amulets, baskets, pots, things of ivory and antler, flutes, drums, clay bells, and every kind of food offered to every kind of god.",
+								"The noise was overwhelming, but the people! She had never imagined seeing so many kinds of people—short, tall, strangely colored; some had fire for hair and others leaves. There were the half-translucent elves, the half-stone dwarves, ominous quietkin, and even an orc or two, although their people typically disdained the gods. She saw an ascetic with a shaved head that oozed through the crowd as if they had no bones, saurians with wings and fangs, hammerlike tails and high crests. There were beastfolk and golems and towering half-giants and others for which she simply had no name.",
+								"The young shaman felt someone staring at her. She looked around and saw a red-skinned godmarked with curling horns and fiery eyes. The godspawn looked at the young shaman, taking in her glowing skin and hair, then grinned with pointed teeth and called out—\"I don't know what you are, friend, but you look like you could use a fine antler totem, best quality in the market!\""
+							]
+						},
+						"All the peoples of 5th Edition can be found in Planegea, though they may not look or act the same as their distant descendants. In this setting, 5E's \"races\" are renamed kinships. Planegea is a world before fixed ideas of racial identity, where survival strategies are far more essential than bloodlines, and every kind of being is valued for its own strengths and contributions to the clan.",
+						{
+							"type": "list",
+							"style": "list-hang-notitle",
+							"items": [
+								{
+									"type": "item",
+									"name": "Survivors, not legacies.",
+									"entry": "Beings band together to stay alive in Planegea. The world is hostile and hungry, and the mortal kinships have not been in the world long enough to create hard divisions between themselves. Many clans welcome any able body who is willing to work. Some keep to their own kind, but this is usually due not to prejudice but rather a shared ethos regarding the methods of survival."
+								},
+								{
+									"type": "item",
+									"name": "Stories, not histories.",
+									"entry": "The world is new, and kinships have not yet written their great histories of ancestors and bloodlines. Kingdoms have yet to be built, mortal empires are unformed. Ask an elf the history of her people, and she'll tell you the tale of her parents or her clan. The stories people know and tell about where they came from are personal, not shrouded in the depths of the past."
+								},
+								{
+									"type": "item",
+									"name": "Life in all its forms.",
+									"entry": "In later eras, humans, elves, dwarves, and other warm-blooded creatures will fill the land, but Planegea is still new, and other, non-mammalian kinships compete alongside everyone else. Humanoid plants, oozes, dinosaurs, and even elemental beings of pure energy all live and breathe and eke out their corners of survival."
+								}
+							]
+						},
+						{
+							"type": "quote",
+							"entries": [
+								"Surely the kinships are not much different between your land and mine. I am certain that the elves in your home must also be at least a somewhat invisible, or blue-skinned at the very least. It is so, yes?"
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Primordial Kinships",
+							"entries": [
+								"These are the earliest forms of kinships that walk the world in later eras. Here are dwarves, elves, men, and others that are familiar from 5E, but each is altered by the span of uncountable years, distinct from their tavern-drinking, castle-dwelling descendants. Use these pages to inspire your primordial character, and remember how much of history is yet unwritten.",
+								{
+									"type": "entries",
+									"name": "Dwarf",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"Dwarves are too stony to change. I've known a dwarf to keep a promise made a lifetime ago, to his own harm, long after everyone he ever made it to was gone."
+											],
+											"by": "Owlox, elven shaman"
+										},
+										"Still half-stone, dwarves were born of rock, and only recently carved their way out of the deep places of the world. Their skin and hair glitters with minerals and gemstones. Dwarves consider other kinships strange and mercurial, full of whimsy and change. To be a dwarf is to live with crystal clarity and stony certainty.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Outcroppings.",
+													"entry": "Almost all dwarves have some visible element of stone or crystal in their skin or hair, growing naturally from their bodies. This might be as subtle as a patches of pebbly scales or it could nearly cover the body in rocky shards and spines."
+												},
+												{
+													"type": "item",
+													"name": "Stone quirk.",
+													"entry": "Thanks to their mineral roots, Dwarves are unlike all other kinships—although they are said to be distant kin of the waste-children of earth who live within the Quakewaste. Use this table to inspire how your stony background manifests."
+												}
+											]
+										},
+										{
+											"type": "table",
+											"caption": "Stone Quirk",
+											"colLabels": [
+												"d6",
+												"Quirk"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Once you've made up your mind, no force in Planegea can change it"
+												],
+												[
+													"2",
+													"You love showing off your stony nature, challenging other hunters to break their weapons on your skin"
+												],
+												[
+													"3",
+													"You are very slow to make any promise, for a promise once made is utterly binding"
+												],
+												[
+													"4",
+													"You sleep sitting up, motionless as a stone, and have been mistaken for a rock on many occasions"
+												],
+												[
+													"5",
+													"Change confuses you, and you have a hard time recognizing even close friends if they change their clothes or appearance"
+												],
+												[
+													"6",
+													"You are embarrassed by your rocky outcroppings, and do all you can to conceal them, preferring to pass as a human when possible"
+												]
+											]
+										},
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Ruin builders.",
+													"entry": "If you see an abandoned cliff-fortress or menhirs set high on a hill, you can be almost certain it was once dwarvish. Obsessive builders and carvers of stone, dwarves have been known to build a fortress for generations, only to abandon it overnight when the last stone is carved, ready to start anew. Their industry is ferocious, their dedication to craftsmanship eternal. Many a wandering dwarf can be tracked by an unconscious habit of piling pebbles into little cairns wherever they go."
+												},
+												{
+													"type": "item",
+													"name": "Industrious & competitive.",
+													"entry": "A losing endeavor is called a \"dwarvish bet,\" because those who live beside dwarves know that once they set their mind to a task or challenge, nothing can stop them. Their tirelessness and dedication is respected by those around them. Yet with every generation, dwarvish elders are a little more suspicious of the next generation's growing love for strong drink and the ease of life on the banks of the Three Brothers."
+												},
+												{
+													"type": "item",
+													"name": "Friends of giants.",
+													"entry": "It is known that the giants greatly admire the dwarves for their natural cunning with stone, and that dwarves are often invited into their high-walled cities as guests, counted as friends and advisors in construction, building, and crafting projects of all kinds. Some, however, believe the giants are a little too welcoming, and worry that there might be some larger, darker plan that the empires have for their stoneworking allies."
+												},
+												{
+													"type": "item",
+													"name": "Dwarvish names.",
+													"entry": "The names of dwarves are usually a series of up to nine single-syllable sounds. These names act as gates of familiarity—the more of a dwarf's names one learns, the closer one is to the dwarf. \"Knowing the ninth name\" is a dwarvish euphemism for romantic intimacy. Typical names: Du-Ma-Lin-Bah-Gol-Sum-Cha-Mu-Rin (known by most as Du, Duma, or Dumalin), Tho-Sar-Vun-Til-Am-Eng-Pil-Mek-Ta (known by most as Tho, Thosar, or Thosarvun)."
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Hewn Dwarf (Hill Dwarf)",
+											"entries": [
+												"Not all dwarves are born—some are carved from rock and given life with secret magic only known to the dwarves. These hewn dwarves are more rock than skin, and often look at other kinships with a mixture of confusion, contempt, and curiosity."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Born Dwarves",
+											"entries": [
+												"Dwarves that are a few generations removed from the mines and quarries of their kind quickly develop their own ways of adapting to a soft-skinned world. These dwarves—born rather than carved—represent the other forms that dwarves take throughout 5th Edition."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Elf",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"Elves aren't really real, you know,\" said the old man, gazing out at the snow. I was young. It was cold. We were waiting for the hunters to signal the approach of the mammoths. \"You can see through them. They're dreams. Walking dreams, no more real than that.\" I knew better than to disagree with my elder. But when I thought about the elves I'd seen—their wild ways, their laughing eyes, their clever hands—they had seemed real to me. More real than anything."
+											],
+											"by": "The Lifesong of Ula Vitar, ranger of the Skyfang Peaks"
+										},
+										"Semi-translucent, elves have something not-quite-real about them. Originating in Nod, the twin worlds of dreams and nightmares, elves never quite sleep, always seeming only partly attached to Planegea, their thoughts ever wandering far away.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Graceful translucence.",
+													"entry": "You can see moonlight through an elf's hand. They are generally a sleek and slender people and are known to move with a subtle step, their eyes seemingly focused on something just out of reach."
+												},
+												{
+													"type": "item",
+													"name": "Wandering minds.",
+													"entry": "Elves are known for being in a state of distraction. They often seem either one step behind or two steps ahead of the moment, as if their thoughts are wandering on quite a different path than that of other mortals. Yet when they arrive at their destination and choose a course of action, they are both brilliant and intuitive. Use this table to inspire how your wandering mind manifests."
+												}
+											]
+										},
+										{
+											"type": "table",
+											"caption": "Wandering",
+											"colLabels": [
+												"d6",
+												"Wandering"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"You lose focus quickly, distracted by the next interesting thing you see"
+												],
+												[
+													"2",
+													"You have a habit of interrupting the conversation with an unrelated observation or question"
+												],
+												[
+													"3",
+													"You reject the binaries of black and white, yes and no, life and death—there's always a third option"
+												],
+												[
+													"4",
+													"You don't like walking in a straight line, and create your own detours"
+												],
+												[
+													"5",
+													"There are always two or three problems or mysteries you're working on solving in the back of your mind"
+												],
+												[
+													"6",
+													"Wherever you go, you trace, draw, and paint swirling, abstract patterns that reflect your inner state"
+												]
+											]
+										},
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Eternal beauty.",
+													"entry": "Elves remain in the prime of their life an unthinkably long time. In a world with no number over nine, they are believed to simply be immortal. Although many elves enjoy the company of other kinships and find their perspectives interesting, they can be aloof in distracted immortality. Some elves prefer to live with their own kind, to avoid the pain of getting attached to such short-lived companions. Such elvish clans are almost never permanent encampments, preferring to wander in search of places of great natural beauty. Elves are known for their work in feathers, beads, colorful paint, and weaving, and their textiles are highly sought, especially for feasts and festivals."
+												},
+												{
+													"type": "item",
+													"name": "The call of Nod.",
+													"entry": "Elves don't sleep, and don't dream—the World of Dreams and Nightmares is real to them, and they must travel through doorways or by magic to go there… and it never stops calling to them. Whether born in Nod or Planegea, an elf always feels the draw of the dream world, and rare is the elf who does not at some point in their long life seek a way to at least gaze into their former home."
+												},
+												{
+													"type": "item",
+													"name": "Elven names.",
+													"entry": "Elves traditionally name their children with mirrored names, built of two opposed ideas. Elves believe that a name is a reflection, a meditation, and an exploration of the space between the two concepts. The names might describe poles of the person's identity or simply abstract concepts. Some names are untranslated from elvish, though they are typically constructed in the same way. Typical names (in Common): Cloudknife, Owlfish, Dreamwake, Calmfear, Greatsmall, Wanderfound, Wildsafe."
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Exile of Nod (High Elf)",
+											"entries": [
+												"Many mortal lifetimes ago, a terrible crime or sin was committed by a clan of elves from the World of Dreams. These elves were cast out, banished forever from Nod, and have dwelt in the waking world ever since. Exiles of Nod are less translucent than their kin, and have spent their outcast generations learning how to survive. Because of this, they tend towards more practicality and skill with both magic and weaponry than others of their kind.",
+												"No human—and few elves—know why they were banished, but the oldest of the exile elves know, and some say they are still working towards some larger plan for return or revenge."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Elves of Nod",
+											"entries": [
+												"Those who cross from the World of Dreams or Nightmares have other forms that are more insubstantial, more curious. Some are formed of darkness or the wilderness or the sea. Their ways are varied and strange, and are represented by the diversity of elves across 5th Edition."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Halfling",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"Beware the quietkin, with their many knives and noiseless steps. They can kill before you know that you're surrounded."
+											],
+											"by": "Great Valley hunter's warning"
+										},
+										"Called silentfolk or quietkin, halflings are unseen until it's too late. A secretive people who hunt by ambush, they are eerie and unsettling, yet highly valued as hunters and allies, if other kinships are able to befriend them.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Small and deadly.",
+													"entry": "Halflings are known by their small stature and quiet step. Because of their size, they are natural prey for many hungry beasts, so halflings have learned the art of hiding and striking first from the shadows. They tend to wear dark natural colors, and are known for elaborate striped face painting or tattoos as an art of camouflage."
+												},
+												{
+													"type": "item",
+													"name": "Unseen and unheard.",
+													"entry": "Halflings are capable of speech, but their culture is built around silence, and their clan tongue is an elaborate sign language created for stalking large prey. It's hard to get a halfling to open up, but it's said that on the rare occasions when they feel safe and secure, they are clever and bright companions, full of the jokes and insights they've been holding back until it was time to speak. Use this table for inspiration on how this tradition of silence affects your character."
+												}
+											]
+										},
+										{
+											"type": "table",
+											"caption": "Silence",
+											"colLabels": [
+												"d6",
+												"Silence"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"You sneak up on people without meaning to, often startling your companions by appearing behind them without warning"
+												],
+												[
+													"2",
+													"You don't speak until spoken to, but once you start talking, you can't stop"
+												],
+												[
+													"3",
+													"You bottle up grudges—literally. Your belt has skins and jars that hold objects that remind you of who you're going to get back at"
+												],
+												[
+													"4",
+													"You consider flamboyance of all kinds a great sin and personal offense, and instinctively distrust anyone who attracts attention"
+												],
+												[
+													"5",
+													"You love a good jump scare, and will go out of your way to startle your companions for a laugh"
+												],
+												[
+													"6",
+													"You often forget that other kinships don't know halfling sign language, and slip in and out of your native dialect without realizing it"
+												]
+											]
+										},
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Kill or be killed.",
+													"entry": "Somewhere in the past, halflings realized that, thanks to their size, they must choose between living as easy prey or becoming predators, and decided on the latter. Halflings keep to their own kind more than most other kinships, largely because they find others too noisy and clumsy to survive in the halfling way. Their clans tend to camp in hidden places and live their days in total silence, considering it a great offense to make more sound than absolutely necessary. But when halflings feel safe—when sentries are posted, the tents are well-hidden, and the land and sky are empty of threats or intruders—it's said that there isn't a noise in all of Planegea to match the joyful uproar of halflings letting loose."
+												},
+												{
+													"type": "item",
+													"name": "The three favors.",
+													"entry": "There is an old story about a halfling who wandered through the jungle so silently that it snuck up on Death, who was trapped under a fallen tree. Twice, Death asked the halfling for help, and twice the halfling refused. On the third request, the halfling agreed, but only in exchange for three favors from Death in days to come. Death agreed, and ever since, halflings have been a people touched by preternatural luck, which they rely on and count as their well-deserved birthright."
+												},
+												{
+													"type": "item",
+													"name": "Halfling names.",
+													"entry": "Most halflings have a sign made with the hands or body that they consider their true name as given by their parents. However, for moving through the dark or communicating with outsiders, they are also given a spoken name, which they typically think of as an informal nickname. These usually have simple, repeated sounds that are easy to pick out if whispered. Typical names: Taktak, Emem, Bilbil, Adu-Adu, Lolo, Sansan, Pippip, Odod."
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Quietkin (Lightfoot Halflings)",
+											"entries": [
+												"Most halflings are from clans that have long kept quiet and kept to themselves. Some leave their clans because curiosity draws them into the world, others are sent out as long-range hunters or scouts and then—through misfortune or curiosity—never find their way home."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Walkaway Halflings",
+											"entries": [
+												"There are those who refuse the way of silence and make homes among the other clans. These halflings—called walkaways by the quietkin—are represented by many of the other types of halflings found in 5E."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Human",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"You've never seen such a difference as from one human to the next. It's dizzying."
+											],
+											"by": "Bazrhu, stonehewn dwarvish guardian"
+										},
+										"Known for their remarkable adaptability, humans are unparalleled as beast-tamers. They can be found everywhere in Planegea, both as servant and master of mighty beasts of all kinds, equally likely to have tamed a creature as to have been subjugated by it.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "A dazzling array.",
+													"entry": "Humans in Planegea come in all shapes and sizes, every shade and color—including tints of blue, purple, and green from elvish or orcish ancestry. Humans are known for their diverse tastes and ability to alter their appearance and culture to whatever landscape they find themselves to a degree considered remarkable by others."
+												},
+												{
+													"type": "item",
+													"name": "Infinite adaptability.",
+													"entry": "Humans thrive in nearly every environment across Planegea, from the stormy plains of Thunderverge to the soaring pinewood pillars of the Towering Weald, from the mold-huts of Ghostmire to the dinosaur-back villages of Lastwater Wilds. Use the following table to inspire your diverse origin."
+												}
+											]
+										},
+										{
+											"type": "table",
+											"caption": "Origin",
+											"colLabels": [
+												"d6",
+												"Origin"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"You grew up on the houseboats of Fishgather, watching traders come in from across the Raiding Plains and down from the Skyfang Mountains"
+												],
+												[
+													"2",
+													"You lived in the tree-villages of the Slumbering Forest, gathering nuts and fruits from the sleeping trees and learning at the feet of the Shamans of Seerfall"
+												],
+												[
+													"3",
+													"You were trained as a young hunter by the mighty clans of The Brothers river valleys, where game was plentiful and you camped wherever the prey wandered"
+												],
+												[
+													"4",
+													"You built dust-houses as a child in the Cult Riverlands, with a sharp stone dagger your first possession and an oath to never let a godless neck go unsliced"
+												],
+												[
+													"5",
+													"You lived in a dinosaur-back village that roamed across the Dire Grazelands, running along the bridges from platform to platform as your beasts wandered wide"
+												],
+												[
+													"6",
+													"You started life as a proud citizen of Free Citadel, in the vast stone palaces of giants built by mortal hands, breathing icy mountain air that was clear and wild"
+												]
+											]
+										},
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Consummate survivors.",
+													"entry": "It seems that humans will do anything to survive. Humans can be found worshiping anything, partaking in strange and bewildering rituals and traditions, and adapting their dwellings, their clothing, and all aspects of their life simply to eke out a few more years of breath."
+												},
+												{
+													"type": "item",
+													"name": "Natural allies.",
+													"entry": "Of all kinships, humans find it easiest to cooperate with other kinds of beings—for good or for ill. Human encampments are remarkable for the range of other kinships and beasts they mingle into their societies. Sometimes, of course, it is the humans who are mingled in, and many a powerful monster has its share of human pets."
+												}
+											]
+										},
+										{
+											"type": "inset",
+											"name": "Optional Human Racial Feature",
+											"entries": [
+												"Many humans in Planegea have a natural ability to tame wild animals that exceeds that of other kinships. You can optionally add the following feature when you create a human character:",
+												"{@b Beast Tamer.} Whenever you make a Wisdom ({@skill Animal Handling}) check related to interacting with an undomesticated beast, you are considered proficient in the Animal Handling skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Dragonborn",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"Great are the dragonborn, and great is our pride, for we are the heirs of the Worldheart. Great are we and great is our pride, for in our veins runs creation's blood."
+											],
+											"by": "Dragonborn Chant"
+										},
+										"Arising from the Venom Abyss, racing up the Unfalls in great bamboo rafts, these draconic mortals are the newest kinship to appear in the Great Valley. They are a gregarious people, known for their showmanship, brash fearlessness, and overwhelming pride, declaring with fierce joy their rightful place as the hatchlings of the Worldheart Dragon's own brood and the harbingers of the will of Blood Mountain.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Powerful predators.",
+													"entry": "The dragonborn are a towering, dominating people, full of hunter's pride and conquering strength. They laugh easily and loudly, kill for sport, and are unafraid to speak their mind. They vary in hue from white to black, and all chromatic shades in between. The metallic scales of dragonborn that will someday walk the world are nowhere to be found among them."
+												},
+												{
+													"type": "item",
+													"name": "Heirs of the world.",
+													"entry": "According to the dragonborn, they are the direct descendants of the Worldheart Dragon, hatched of her eggs on Blood Mountain. They say they cut down mighty trees of the Venom Abyss, lashed them together with poisonous vines, and sailed up the Unfalls to bring the Worldheart's will to Planegea. This confidence or pride is a hallmark of their people. Use the table below to inspire how that plays out in your dragonborn character."
+												}
+											]
+										},
+										{
+											"type": "table",
+											"caption": "Confidence",
+											"colLabels": [
+												"d6",
+												"Confidence"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"You are always certain you will succeed, no matter what the odds or your skill level"
+												],
+												[
+													"2",
+													"You believe fear is a weakness, and look down on those who express it"
+												],
+												[
+													"3",
+													"You love a good laugh, even at another's expense"
+												],
+												[
+													"4",
+													"You have a habit of giving counsel and advice when it's not asked for or wanted"
+												],
+												[
+													"5",
+													"You're the first to volunteer for any task, especially the dangerous ones"
+												],
+												[
+													"6",
+													"You always eat last and take care of others first, convinced that you don't need help"
+												]
+											]
+										},
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Boastful athletes.",
+													"entry": "When the dragonborn rafted up the Unfalls in their catamarans, they announced that they had arrived to enact the will of the Worldheart. However, it became clear in time that they had no fixed purpose or way forward, nor any plan to return to their birthplace on Blood Mountain. In the years that have passed since they arrived, some dragonborn have joined with other clans as hunters or makers, while most have kept to their own kind and live in a state of perpetual hunting, feasting, and challenging each other to feats of strength or courage. Dragonborn camps are raucous, dangerous places, which most other mortals take great pains to avoid."
+												},
+												{
+													"type": "item",
+													"name": "Dubious birthright.",
+													"entry": "Dragonborn are not long-lived, and several new generations have been born in the Great Valley since their arrival. The oldest of their kind are passing away, and none have ever told the full story of their origin, keeping to the same vague generalities. Some of the young dragonborn raised among other clans have started to wonder whether their old ones are telling the truth. If they were the children of the Worldheart, wouldn't she have told them their purpose? Wouldn't they know what to do?"
+												},
+												{
+													"type": "item",
+													"name": "Dragonborn names.",
+													"entry": "The grandiose culture of many dragonborn incline them towards names that are, in themselves, boasts. Dragonborn use harsh consonants for their given names, and often demand to be addressed based on their bloodline's most impressive boasts or exploits. Typical names: Skrath Ogrekiller, Harash Invincible, Arkva Firespew, Zaxal Raftcrafter."
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Chromatic Ancestry",
+											"entries": [
+												"None of the dragonborn in Planegea are metallic, as it is a world without metal. The chromatic colors—black, blue, green, red, and white—are present."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Godmarked (Tiefling)",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"Those whose blood is touched by the gods bear a heavy burden—they walk the world marked, and all who see them see into their soul."
+											],
+											"by": "Shalriq the Outcast"
+										},
+										"There are those whose stories are more tangled with the gods than most. Godmarked is the common name for those whose blood was forever altered in form by an interaction with the divine. Whether a blessing or a curse, their appearance sets the godmarked apart, and their stories are eagerly coveted around clanfires, if they're willing to tell.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Changed by the gods.",
+													"entry": "Godmarked appearance varies widely, depending on the nature of the god who affected their ancestry. Some touched by animal gods have hooves or tails. Most have skin of an unusual hue, such as the blue child of a river god or the bright red skin of one touched by divine fire. Almost all, however are touched with some sort of sign on the temples or forehead—most commonly horns or antlers—which mark them unmistakably."
+												},
+												{
+													"type": "item",
+													"name": "Forever other.",
+													"entry": "There's no hiding your nature as a godmarked, although some have tried. Whether intended as a blessing or a curse, or simply an unintended consequence of a meeting between god and mortal, a godmarked's appearance makes them an outsider, set apart from the rest of the clan. Some godmarked use their difference to their advantage, leaning into the attention their appearance calls to gain favor and power. Others attempt to conceal their origin as much as possible, proving their value lies outside whatever their forebears may have done to please or anger the gods."
+												}
+											]
+										}
 									]
 								}
 							]
