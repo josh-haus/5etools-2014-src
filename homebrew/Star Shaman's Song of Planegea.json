@@ -4414,8 +4414,64 @@
 				{
 					"type": "section",
 					"name": "Classes",
-					"page": 64,
+					"page": 61,
 					"entries": [
+						{
+							"type": "quote",
+							"entries": [
+								"The druid froze, his hand still in the stream's cool water. \"I wondered when you'd find me.\"\n\n\"It's been a long time, god-leech.\" The warlock stood a few feet away, her ivory sword crackling with arcane power.\n\n\"Where are your friends?\"\n\n\"Nearby. They should be here soon.\"\n\nThe druid dried his hand and stood, looking at his enemy. She had changed since their last encounter. She was harder. Fiercer. More certain. \"Have you thought about my words?\"\n\n\"You mean your heresies?\"\n\nHe sighed. A crack in the forest to his left signaled her companions' approach. The scavenger would be in the high branches. The spellskin probably invisible, somewhere close. He closed his eyes and whispered to the trees. They swayed and rustled, listening.\n\n\"What are you muttering, god-leech?\"\n\nHe opened his eyes. \"I told you before. The land does not belong to the gods. The land is alive, and full of magic, and sacrificial goats like you are the accursed, cut off from the pulse of the Worldhea—\"\n\nShe let fly an arcane blast at the very moment the trees uprooted all around, cracking and groaning with the rage of creation as her companions screamed."
+							]
+						},
+						"The classes of Planegea are the earliest roots of future adventurer classes. Though the niche they occupy in the world may be different, the martial, divine, and arcane powers that these archetypes wield is a common thread from the prehistory of Planegea to their distant descendants. Mechanically, the classes are the same as in 5th Edition—with minor adjustments assumed for the starting equipment and any features affected by the Black Taboos. Some DMs might choose to add or remove classes based on their preference and the story they're telling in their own Planegea. But as written, each of these has its place.",
+						{
+							"type": "entries",
+							"name": "Classes, Reimagined",
+							"entries": [
+								"These are the earliest forms of what will become the archetypal 5E classes in the future. Many of them have different names, to fit a world without monasteries, ancient religions, or magical universities. In your game, you can use the traditional class names or the Planegean equivalent as you prefer. For most classes, their role in the world is also quite different from their later heirs. Take a moment to read the descriptions of the classes to discover what martial power and arcane or divine magic looks like in a primordial world."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Ascetic (Monk)",
+							"entries": [
+								"In a land of primal survival, most live at the edge of starvation, eating whenever they can, which is rarely enough. Some harness this scarcity, turning struggle into discipline. Ascetics challenge themselves beyond the limits of most mortals, straining their bodies through extreme rigors in order to unlock great physical, mental, and spiritual power. Anyone can become an ascetic, and many young hunters boldly claim they'll follow the path of self-discipline and self-abnegation, but it is a long and difficult road to truly rise above hungers of any kind.",
+								"Self-denial. The way of the ascetic is through denying what you want in order to find what you need. This may take the form of denying yourself unnecessary food and water, romantic relationships, or performing an act of dedication such as wearing a blindfold for a year or sleeping outside on your feet. What did you deny yourself and why? How did that shape you?",
+								"Honored mystics. Ascetics are rare, but when one arises within a clan, they are usually revered for their discipline and focus. Chieftains, elders, and shamans will take counsel with even a young ascetic who shows true dedication to the path. How did your clan treat you? Were you ready for that place of honor, or was it confusing? Why do you now adventure instead of living a celebrated life as a spiritual leader of a clan?",
+								"Vows and pilgrimages. Not all ascetics commit to lifelong pursuit of self-denial. Some take ascetic vows until some task is complete, such as revenge, redemption, or a quest they have set for themselves. Others deny themselves until they complete a journey of repentance, enlightenment, or other spiritual significance. How long will your commitment to asceticism last? Is there a vow you made or a journey you need to complete? If so, to what do you hope to return when your self-discipline ends?",
+								{
+									"type": "entries",
+									"name": "Way of Abnegation Ascetic (Monk Subclass)",
+									"entries": [
+										"In a raw and dangerous world, some survive through the discipline of self-denial. The way of abnegation is the ascetic practice of denying physical needs and desires to embrace greater clarity of thought, or to unlock a strength buried deep within the core of one's being. An ascetic who has devoted themself to the way of abnegation understands the role of the mind and body as vessels, straining their limits so that they may grow.",
+										"This path of denial is different for each that walks it, as sacrifice and hardship take many forms. Some ascetics may practice the disciplines of silence, solitude, and stillness as they seek attunement to the world, and others may train for many days with little food or water, forcing their bodies to endure in accordance with their will. Some distance themselves from their struggle to better understand the world around them, while others embrace their struggle, using their suffering as a catalyst for strength. The way of abnegation is arduous and severe in equal measure, but those who walk it cultivate a great power, drawn up from deep within themselves and honed by the strength of their will to endure."
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Barbarian",
+							"entries": [
+								"Fear is a constant when the land is filled with giant predators, and finding a way to rise above fear is key to survival. Some do so through honor or moral codes, while others keep fear away by cleverness. Barbarians survive through sheer rage. A barbarian feels a burning anger deep within them, simmering just below the surface. When that anger is unleashed, they are capable of great and terrible things. Barbarians are a familiar archetype in this primordial world, and canny travelers cautiously search the eyes of those they encounter for the spark of primordial fury.",
+								"Uncaged anger. The world is brutal and unjust, and there is much to be angry about. Barbarians funnel that rage into violence—usually directed towards the quarry of a hunt. Still, there are times when prey is scarce but the anger still simmers over. How do you deal with the anger outside the hunt? Do you bury it, soothe it, or express it through other forms of activity? Do you lose yourself in the rage, or do you feel most yourself when you're most furious?",
+								"Leaders or outcasts. Barbarians are typically lead hunters, head raiders, or in other positions of power because of their martial ability. Young hunters aspire to unleash the kind of fearless fury that characterizes a barbarian. But once unleashed, anger is hard to tame, and many barbarians have tragic tales of the times they went too far. Some wander the world as pariahs, having turned in their rage on their own kind. Have you been able to keep your rage within the boundaries of the hunt? Are there times you lost yourself that you regret? If so, how far would you go to make it up to those who got in your way during your black rage?",
+								"A river of rage. Some say of barbarians that they exist in an endless current of anger, a river of rage. In a river, you must swim with the current or against it. Most swim with the current, hurtling towards the rocks of violence. Some, however, swim against the current, seeking to quell the anger that never stops roaring through their veins. Are you pursuing your anger, nurturing and cultivating it? Or are you seeking peace? What initially ignited your anger, and is it something that can ever be set to rest?",
+								{
+									"type": "entries",
+									"name": "Path of the Farstriker (Barbarian Subclass)",
+									"entries": [
+										"Barbarians who follow the Path of the Farstriker seem to be everywhere at once. These instinctive warriors wrap themselves in the primal power of the wind to fill the battlefield with their rage.",
+										"Such a barbarian might have cloud giant, storm giant, or djinn blood in their veins. They might come from a part of the world where the boundaries between magic and nature are thin, or they may unknowingly tap into elemental magic to command the air itself in their fury. Consider your barbarian's relationship to the natural world, and how they see the origin of their power.",
+										{
+											"type": "quote",
+											"entries": [
+												"I'd guess that there are more barbarians in Planegea than any other adventurous role. Rage is a powerful river. I know I spent many years swept up in its current."
+											]
+										}
+									]
+								}
+							]
+						},
 						{
 							"type": "entries",
 							"name": "Chanter (Bard)",
@@ -9407,6 +9463,37 @@
 				"Dark Bramble|Warlock|PHB|Dark Forest|SSSOP|10",
 				"Wealdwoe|Warlock|PHB|Dark Forest|SSSOP|14"
 			]
+		},
+		{
+			"name": "Way of Abnegation",
+			"shortName": "Abnegation",
+			"source": "SSSOP",
+			"className": "Monk",
+			"classSource": "PHB",
+			"page": 61,
+			"subclassFeatures": [
+				"Way of Abnegation|Monk|PHB|Abnegation|SSSOP|3",
+				"Discipline of Denial|Monk|PHB|Abnegation|SSSOP|3",
+				"Enduring Form|Monk|PHB|Abnegation|SSSOP|6",
+				"Prodigious Vessel|Monk|PHB|Abnegation|SSSOP|11",
+				"Abdication of Suffering|Monk|PHB|Abnegation|SSSOP|17"
+			]
+		},
+		{
+			"name": "Path of the Farstriker",
+			"shortName": "Farstriker",
+			"source": "SSSOP",
+			"className": "Barbarian",
+			"classSource": "PHB",
+			"page": 63,
+			"subclassFeatures": [
+				"Path of the Farstriker|Barbarian|PHB|Farstriker|SSSOP|3",
+				"Farstrike|Barbarian|PHB|Farstriker|SSSOP|3",
+				"Raging Catapult|Barbarian|PHB|Farstriker|SSSOP|3",
+				"Wild Rush|Barbarian|PHB|Farstriker|SSSOP|6",
+				"Boomerang Arc|Barbarian|PHB|Farstriker|SSSOP|10",
+				"Tornadic Throw|Barbarian|PHB|Farstriker|SSSOP|14"
+			]
 		}
 	],
 	"subclassFeature": [
@@ -9743,6 +9830,196 @@
 				"The trees' branches obstruct vision and movement, providing three-quarters cover, and acting as difficult terrain. Movement through the branches costs 4 feet of movement for every 1 foot of travel. You and any creatures you designate when you create these trees are unaffected by this difficult terrain, as the branches disperse as you pass.",
 				"If you concentrate on this effect for the full duration, the spectral trees become permanent, although they no longer provide additional cover or impede movement more than mundane trees.",
 				"Once you've used this feature, you can't use it again until you've finished a long rest."
+			]
+		},
+		{
+			"name": "Way of Abnegation",
+			"source": "SSSOP",
+			"page": 61,
+			"className": "Monk",
+			"classSource": "PHB",
+			"subclassShortName": "Abnegation",
+			"subclassSource": "SSSOP",
+			"level": 3,
+			"entries": [
+				"In a raw and dangerous world, some survive through the discipline of self-denial. The way of abnegation is the ascetic practice of denying physical needs and desires to embrace greater clarity of thought, or to unlock a strength buried deep within the core of one's being. An ascetic who has devoted themself to the way of abnegation understands the role of the mind and body as vessels, straining their limits so that they may grow.",
+				"This path of denial is different for each that walks it, as sacrifice and hardship take many forms. Some ascetics may practice the disciplines of silence, solitude, and stillness as they seek attunement to the world, and others may train for many days with little food or water, forcing their bodies to endure in accordance with their will. Some distance themselves from their struggle to better understand the world around them, while others embrace their struggle, using their suffering as a catalyst for strength. The way of abnegation is arduous and severe in equal measure, but those who walk it cultivate a great power, drawn up from deep within themselves and honed by the strength of their will to endure.",
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Discipline of Denial|Monk||Abnegation|SSSOP|3"
+				}
+			]
+		},
+		{
+			"name": "Discipline of Denial",
+			"source": "SSSOP",
+			"page": 61,
+			"className": "Monk",
+			"classSource": "PHB",
+			"subclassShortName": "Abnegation",
+			"subclassSource": "SSSOP",
+			"level": 3,
+			"entries": [
+				"At 3rd level, your mind and body have grown stronger, and you have learned to endure or to grow stronger in response to the pains of the world. You gain the following benefits:",
+				{
+					"type": "entries",
+					"name": "Ward Blows",
+					"entries": [
+						"You can use your reaction to mitigate the strike when you are hit by a melee weapon attack. When you do so, the damage you take from the attack is reduced by {@dice 1d10} + your Dexterity modifier + your monk level. If you reduce the damage to 0, you create an opening for a counterattack. You can spend 1 ki point to make a melee attack against your attacker as part of the same reaction."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Abstention",
+					"entries": [
+						"The ki flowing through your body sustains you further than most. You only require half as much food and water to ward off exhaustion. In addition, whenever you complete a long rest, your exhaustion is reduced by 1 additional level."
+					]
+				}
+			]
+		},
+		{
+			"name": "Enduring Form",
+			"source": "SSSOP",
+			"page": 62,
+			"className": "Monk",
+			"classSource": "PHB",
+			"subclassShortName": "Abnegation",
+			"subclassSource": "SSSOP",
+			"level": 6,
+			"entries": [
+				"Starting at 6th level, you have distanced yourself from the suffering your body endures, or have grown beyond it. Whenever you take the Dodge action, you gain resistance to bludgeoning, piercing, and slashing damage until the start of your next turn."
+			]
+		},
+		{
+			"name": "Prodigious Vessel",
+			"source": "SSSOP",
+			"page": 62,
+			"className": "Monk",
+			"classSource": "PHB",
+			"subclassShortName": "Abnegation",
+			"subclassSource": "SSSOP",
+			"level": 11,
+			"entries": [
+				"Starting at 11th level, the power within and without you has begun to blossom, and you have learned how to best assume the suffering of others.",
+				{
+					"type": "entries",
+					"name": "Warding Technique",
+					"entries": [
+						"When a creature you can see attacks a target other than you within 5 feet of you, you can use your reaction to intercept the attack, forcing the attacker to target you instead. You may use your Deflect Missiles or Ward Blows features in response to this attack as part of the same reaction, if possible."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Improved Deflection",
+					"entries": [
+						"Whenever you spend a ki point to make either a ranged or melee attack as part of your Deflect Missiles or Deflect Blows features, you make that attack with advantage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Abdication of Suffering",
+			"source": "SSSOP",
+			"page": 62,
+			"className": "Monk",
+			"classSource": "PHB",
+			"subclassShortName": "Abnegation",
+			"subclassSource": "SSSOP",
+			"level": 17,
+			"entries": [
+				"Starting at 17th level, you have achieved perfect discipline over your physical form. You can take the Dodge action as part of any bonus action you take to make one or more unarmed strikes on your turn."
+			]
+		},
+		{
+			"name": "Path of the Farstriker",
+			"source": "SSSOP",
+			"page": 63,
+			"className": "Barbarian",
+			"classSource": "PHB",
+			"subclassShortName": "Farstriker",
+			"subclassSource": "SSSOP",
+			"level": 3,
+			"entries": [
+				"Barbarians who follow the Path of the Farstriker seem to be everywhere at once. These instinctive warriors wrap themselves in the primal power of the wind to fill the battlefield with their rage.",
+				"Such a barbarian might have cloud giant, storm giant, or djinn blood in their veins. They might come from a part of the world where the boundaries between magic and nature are thin, or they may unknowingly tap into elemental magic to command the air itself in their fury. Consider your barbarian's relationship to the natural world, and how they see the origin of their power.",
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Farstrike|Barbarian||Farstriker|SSSOP|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Raging Catapult|Barbarian||Farstriker|SSSOP|3"
+				}
+			]
+		},
+		{
+			"name": "Farstrike",
+			"source": "SSSOP",
+			"page": 63,
+			"className": "Barbarian",
+			"classSource": "PHB",
+			"subclassShortName": "Farstriker",
+			"subclassSource": "SSSOP",
+			"level": 3,
+			"entries": [
+				"At 3rd level, you master the technique of flinging weapons at your attackers. You can treat any melee weapons you are holding as if they have the Thrown property with a range of 20/60. If a weapon already had the Thrown property, the short and long ranges of the weapon are doubled. You can draw a weapon that has the Thrown property as part of the attack you make with the weapon.",
+				"When you make a ranged weapon attack using your Strength while raging, you can add your Rage Damage bonus to the damage roll.",
+				"Starting at 9th level, Brutal Critical applies to ranged weapon attacks you make using your Strength."
+			]
+		},
+		{
+			"name": "Raging Catapult",
+			"source": "SSSOP",
+			"page": 63,
+			"className": "Barbarian",
+			"classSource": "PHB",
+			"subclassShortName": "Farstriker",
+			"subclassSource": "SSSOP",
+			"level": 3,
+			"entries": [
+				"At 3rd level, you become adept at hurling creatures around the battlefield, whether to harm enemies or reposition allies. Once per turn while you are raging, instead of making a weapon attack, you can hurl a creature within reach up to 30 feet away. Hurled creatures can be no greater than one size larger than you.",
+				"An unwilling creature must succeed on a Strength saving throw (DC equal to 8 + your Strength modifier + your proficiency bonus) or be hurled and fall prone, and take bludgeoning damage equal to {@dice 1d6} + your Strength modifier + your Rage damage bonus. Hurling a creature in this way counts as having attacked a hostile creature for the purpose of maintaining your Rage.",
+				"After you hurl a friendly creature with this feature, immediately upon landing the creature can use their reaction to make a melee attack.",
+				"At 11th level, hurled creatures can be no greater than two sizes larger than you. At 17th level, you can hurl a creature of any size."
+			]
+		},
+		{
+			"name": "Wild Rush",
+			"source": "SSSOP",
+			"page": 63,
+			"className": "Barbarian",
+			"classSource": "PHB",
+			"subclassShortName": "Farstriker",
+			"subclassSource": "SSSOP",
+			"level": 6,
+			"entries": [
+				"Starting at 6th level, you fill the battlefield with your rushing fury. After you make a thrown weapon attack or use your Raging Catapult feature, you can use a bonus action to take the Dash action. Your jump distance is doubled while dashing."
+			]
+		},
+		{
+			"name": "Boomerang Arc",
+			"source": "SSSOP",
+			"page": 63,
+			"className": "Barbarian",
+			"classSource": "PHB",
+			"subclassShortName": "Farstriker",
+			"subclassSource": "SSSOP",
+			"level": 10,
+			"entries": [
+				"At 10th level, you have learned to guide your weapon's flight with the wind by your side. When you make an attack with a thrown weapon, you can choose for the weapon to return to your hand after the attack is made."
+			]
+		},
+		{
+			"name": "Tornadic Throw",
+			"source": "SSSOP",
+			"page": 64,
+			"className": "Barbarian",
+			"classSource": "PHB",
+			"subclassShortName": "Farstriker",
+			"subclassSource": "SSSOP",
+			"level": 14,
+			"entries": [
+				"Starting at 14th level, your thrown weapons summon the terrifying power of the wind at its full force in their wake. While you are raging you can use your action to throw your weapon, creating a line 60 feet long and 5 feet wide out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw (DC equal to 8 + your Strength modifier + your proficiency bonus). On a failed save, a creature takes damage equal to the damage of one of your thrown weapon attacks, and is pushed up to 60 feet towards the end of the line. On a successful save, a creature takes half as much damage and is not pushed. If a creature fails this save by 5 or more, the creature takes additional damage equal to the damage dealt by your Brutal Critical feature. Dealing damage to a hostile creature with this feature counts as having attacked a hostile creature for the purpose of maintaining your Rage."
 			]
 		}
 	],
