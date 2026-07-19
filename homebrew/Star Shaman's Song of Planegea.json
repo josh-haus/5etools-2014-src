@@ -10102,60 +10102,1059 @@
 				{
 					"type": "section",
 					"name": "Stone Age Adventures",
-					"page": 126,
+					"page": 114,
 					"entries": [
 						{
-							"type": "entries",
-							"name": "Kinship-Led Clans",
+							"type": "quote",
 							"entries": [
+								"Murky lakewater sloshed over the side of the raft as the child sat silently, thinking over all he had been told in the mist. \"Was that true?\" he asked at last.",
+								"\"Which part?\" His grandmother hid her smile as she hauled on the waterlogged line to bring another trap to the surface.",
+								"\"All of it! The Star-Shaman—how she fell from the sky, traveled the world and saw every kinship, met with every kind of person. The part where she got captured by giants and spent years as the personal handmaiden of the Empress of Air. Did she really escape in the envoy's handbag? Did she begin the market at Swapshore and create all those spells? And the Hounds of the Blind Heaven—you never even explained what they were, you just said their name and moved on!\"",
+								"\"Child, a story is a brightly-colored beast. Its outside is beautiful, and its inside is full of delicious mysteries. When you're older, I'll teach you how to harvest a story and cook up its parts, but for now, just enjoy its fur and feathers. And help me with this line, I think we caught something big.\""
+							]
+						},
+						"Welcome, Master of the Game! This is your section, filled with tools, ideas, and resources to make running Planegea in 5th Edition fun, exciting, and easy. In this chapter, you'll find guidance on how to prep and run Planegea adventures. The rest of this book covers locations, factions, threats, treasures, monsters, and NPCs—everything you'll need to develop an unforgettable campaign in Planegea.",
+						{
+							"type": "entries",
+							"name": "Your Own Planegea",
+							"entries": [
+								"Everything that follows in this chapter and the rest of the book is designed to enhance your experience at the table. Planegea is a living, breathing world with an unwritten history, and although this book lays out a wide array of people, places, and things you might find there, you are encouraged to make it your own. Every group explores their own Planegea, and no two Planegeas are identical. Use what's here as a starting place, and change it as you see fit to be the most fun for you and your players. As the DM, you are the maker of your own Planegea. Don't worry about whether changing elements will change the setting—it's your setting to do what you want with! So get in there, get messy, and have fun."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Break the World",
+							"entries": [
+								"Adventures in Planegea are best served raw, cracked at the edges, blood-caked, and sunburned. This is not a world for timid plotlines and careful balance—when developing a campaign for Planegea, don't be afraid to be bold and aggressive. Smash the land with a tidal wave, overrun it with dinosaurs, blot out the sun, kill all the humans—do whatever it takes to set yourself free to explore a wild and dangerous world full of unexpected twists and turns, where nothing feels safe, sacred, or guaranteed."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Using This Chapter",
+							"entries": [
+								"This chapter is packed with hints for how to get the most out of a Stone Age fantasy setting. It's a good idea to read through it as you start to plan your campaign, to generate some ideas about how you might accomplish what you want to do in your Planegea game, and to discover some methods that will come in handy once you begin playing. This chapter covers:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
 									"items": [
 										{
 											"type": "item",
-											"name": "Elf-led clans.",
-											"entry": "Elf-led clans travel erratically, often without a reason that's clear to outsiders. They'll stay in a location for only a short time and loop back over the same hunting ground repeatedly, leaving little impact on the land as they move lightly across it. Elvish leaders prefer to find natural habitations, and are more likely to move their clan into natural structures such as trees, cave systems, or cliffs, aggressively clearing out predators so they can occupy pre-existing defenses rather than constructing their own."
+											"name": "Themes.",
+											"entry": "Three big ideas power Planegea: kinetic action, primordial horror, and mystic wonder. This section looks at those themes, what makes them fun, and how to incorporate them in your game."
 										},
 										{
 											"type": "item",
-											"name": "Halfling-led clans.",
-											"entry": "Halfling culture emphasizes stealth and surprise attacks, and even when coexisting with other kinships, those values remain powerful strategies. Halfling-led encampments are almost always well-hidden, camouflaged so that a wanderer might practically walk through one and never know it was there. Halflings conceal their clanfires with open-roofed tents, huts, or disguised screens, and put a great degree of emphasis on keeping the encampment's location secret."
+											"name": "Wilderness Tools.",
+											"entry": "These frameworks tell you where to start when heading into the wild. They give you the big picture of how to handle travel through a primal world, and offer guidance on how to make treks through untamed land full of interesting, meaningful choices."
 										},
 										{
 											"type": "item",
-											"name": "Dragonborn-led clans.",
-											"entry": "Clans led by dragonborn are often messy, sprawling affairs that gouge and gash the land as they travel. Dragonborn culture is born of survival in the verdant Venom Abyss, and they tend to treat the natural world as something to be hacked away to carve out space for themselves. Dragonborn encampments are often dug into the dirt or erected in burned thickets, with large trees felled to make quick defenses. Some say you can tell that dragonborn passed by seasons earlier, dragging their blades through the world behind them."
+											"name": "Clan Tools.",
+											"entry": "You can only stay in the wilderness so long—eventually you have to come home. This section explores clans, encampments, the clanfire, and nomadic life, and offers guidance on how to build and run the clan experiences at the heart of Planegea."
 										},
 										{
 											"type": "item",
-											"name": "Godmarked-led clans.",
-											"entry": "Godmarked are often solitary people, but sometimes a god will alter an entire clan in a sign of their favor or displeasure. Such clans often carry strong memories of their marking, and may act either blessed or cursed, depending on the event. Clans led by the godmarked are often studies in extremes, either filled with incense, totems, symbols, and devotion, or devoid of any sign or act of religion in an outright rejection of whatever god changed them."
+											"name": "Adventure Environments.",
+											"entry": "Notable types of locations unique to Planegea are described here, giving ideas for how to explore certain unusual places and run intriguing encounters within their primordial boundaries."
 										},
 										{
 											"type": "item",
-											"name": "Gnome-led clans.",
-											"entry": "Because gnomes are often ostracized by other kinships, it's not unusual to find a clan made solely of gnomes. Regardless of whether they're cooperating with other kinships, gnome-led clans put a high emphasis on crafting, creativity, and trade. Huts and tents are made with a patchwork, stitched-together material called gnomequilt, and in front of each hut or tent is a small spread of trinkets, trade goods, and materials for barter. The same items will often be passed around small clans again and again in ritual trade, but larger clans can have sprawling marketplaces where all manner of unusual items can be found."
+											"name": "Genre Tropes.",
+											"entry": "Stories are built of the pieces of what we already know, mortared together with imagination and inspiration. This section looks at classic fantasy tropes and even other genres, suggesting how to reinterpret them to bring what you love most into your own Planegea."
 										},
 										{
 											"type": "item",
-											"name": "Orc-led clans.",
-											"entry": "Most clans would consider themselves fortunate indeed to be led by an orc. Orcs are sought after as hunters and leaders, thanks to their powerful builds and natural toughness. Yet orc-led encampments are often demanding places, with an emphasis on physical prowess, discipline, tradition, and respect, and place little emphasis on the gods and divine matters. It's more common to find druids and rangers among orcs, and shamans have little sway in their encampments."
+											"name": "At Your Table.",
+											"entry": "The section concludes with suggestions for how to introduce Planegea to your players, as well as a few ideas for optional modifications that may enhance your party's enjoyment of the world."
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Themes",
+							"entries": [
+								"Every table is different, and whether your group likes big laughs, heartbreaking drama, intense scares, or your particular combination of all three, Planegea is designed to be a great place for all kinds of campaigns.",
+								"This section offers guidance for themes that work well in Planegea, to get the most out of the primordial, pulp-inspired setting. But remember: You're discovering your own Planegea. So if your group is exclusively interested in the small politics and personal intrigues of village life in a quiet corner of the Great Valley, as long as you're having fun, that's perfect.",
+								"That said, here's some advice for how to have big, primal fantasy adventures.",
+								{
+									"type": "entries",
+									"name": "Kinetic Action",
+									"entries": [
+										"Planegea is full of opportunities for wild, extreme, over-the-top combat and action. When fighting, Planegeans don't simply face off with a dinosaur. They fight a pack of dinosaurs during a wildfire, leaping from back to back on a herd of thundering mammoths headed for a bottomless cliff. And then the meteors start falling. Villains in Planegea don't organize tidy coups—they consume minds, they shatter clans, they swoop on their armies of undead pterodactyls and unleash the tendrils of the star-horrors to grapple their prey from above. Environments in Planegea aren't simply caves or forests—they are the gullets of great stone beasts swarmed by hallucinatory spirits, filled with bone cages from which celestial birds sing, or streaked with the blood of primordial things that glow different colors according to the deeds of those who walk by.",
+										"The best way to plan adventures in Planegea is to come up with an idea and then ask, \"How can I make this one level more extreme? And then two more levels after that?\" That's usually a pretty good start to unleash your inner wildness and discover primordial fantasy.",
+										{
+											"type": "entries",
+											"name": "Dynamic Combat",
+											"entries": [
+												"To achieve big, pulpy action, you may want to consider a few helpful tools and tricks when it comes to combat:",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Lair actions anywhere.",
+															"entry": "Some powerful 5th Edition monsters have a mechanic called lair actions, allowing the environment to play a role in combat. Don't let big monsters have all the fun: any combat can use lair actions to create effects such as weather, unstable terrain, obstacles, etc. Give the battlefield an action at initiative count 20, and again at 10 for an extra-dynamic environment."
+														},
+														{
+															"type": "item",
+															"name": "Countdown die.",
+															"entry": "To ensure that your combat keeps moving, set out a single die (a d4, d6, or d8 works best) and turn it to show one digit lower each round or each turn. When it reaches 1, trigger a big event such as a change in the battlefield, the arrival of new monsters or flight of the current monster, etc."
+														},
+														{
+															"type": "item",
+															"name": "Moving battlefields.",
+															"entry": "Players and monsters have a tendency to bunch up in combat and hit each other until someone dies. Make your combats more cinematic by staging them on ice rushing down a river, the backs of stampeding animals, or the edges of a crumbling cliff. Use the environment to reposition creatures at random, mixing up the combat and keeping things unpredictable and intense."
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Primordial Horror",
+									"entries": [
+										"Balancing the bright colors and ferocity of wild combat is the shadowed eeriness of a world without edges or certainty, a land which owes and offers no explanation for its strangeness and violence. Planegea is a perfect setting for campaigns with horror elements, weaving in menacing spirits, dark omens, hungering metamorphoses, and other horror themes. Great horror doesn't answer every question, and as the DM, you don't need to either. Sometimes the things that touch your ankle in the darkness recede into the night unseen and unexplained, and the slime that's left behind is a threat that does not cease to linger.",
+										"Safety tools. If you are playing with horrific themes, be sure that everyone at your table is on board before you begin. Horror, when enjoyed by everyone, is a fantastic genre that can be cathartic and unforgettable. Just make sure that it's contributing to the fun for each player, even as you bring the scares. There are a lot of great tools in the RPG community for making sure that games don't veer into troubling territory. We recommend having a conversation to set expectations before the first session, as well as frequent open communication between the DMs and players. And always be willing to stop a session and adjust plans if it becomes clear that any player is uncomfortable.",
+										{
+											"type": "entries",
+											"name": "Fear, Dread, Terror, & Harrowing",
+											"entries": [
+												"The horror genre is complex, and we can only lightly skim over the surface of the topic in this section. However, there are a few different aspects of the horror experience worth touching on. Consider each of these aspects if you want to play with horror at your table.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Fear.",
+															"entry": "Fear is the proactive concern that something bad might happen. Create fear in the characters with rumors of violence or unnerving events, suggesting the kinds of things that might occur to them, or the things that have happened to NPCs who are like them. (Be careful to separate the characters' fears from the players' fears, checking to make sure the players are still having fun if things get tense.)"
+														},
+														{
+															"type": "item",
+															"name": "Dread.",
+															"entry": "Dread is the certainty that something bad is about to happen, but without knowledge of what the bad thing will be. It's that feeling of impending menace, of something dangerous just out of sight. Create dread by showing the awful effects of a threat before the threat itself is revealed, and by obscuring the characters' senses with darkness, fog, and confusion, along with unexplained noises, smells, or feelings."
+														},
+														{
+															"type": "item",
+															"name": "Terror.",
+															"entry": "Terror is the high-adrenaline feeling at the moment of revelation, when something terrible is happening—when the killer attacks, while the monster is chasing you. Terror is hard to sustain in 5E, because violence is wrapped in the initiative system, but a good opportunity to create it is to dramatically narrate the terrorizing thing's revelation at the moment before the characters have a chance to act."
+														},
+														{
+															"type": "item",
+															"name": "Harrowing.",
+															"entry": "Horror lingers long after the terrifying event has taken place—it is the memory you can't shake, the harrowed feeling that forever changes you. True horror is difficult to create, but remains the longest. Create horror in your world by showing NPCs who have been touched by something awful and are never the same, or discussing with your players how a particularly terrifying event might have long-term effects on their characters."
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Mystic Awe",
+									"entries": [
+										"Planegea is a world without fixed boundaries, where planes blend into each other and one can stumble into the hallow of a god or a world of dreams by simply crossing a stream. It's a natural world, filled with vibrant wildlife, unspoilt vistas, and primordial promise. Here gods deal directly with their mortal followers, giants construct ziggurats that scrape the skies, and beauty and death coexist side by side in equal measure. A thunderstorm, a swarm of spirits, or a herd of dinosaurs can all be equally miraculous.",
+										"To infuse your Planegea with wonder, use descriptions that involve all five senses, and play with scale and time. When the characters enter a cave, think about how it smells and sounds, and how the air feels. Describe towering, gargantuan ferns and tiny volcanoes, no bigger than ankle high. And when the party talks with a god, describe days passing while they converse, or no time at all. These vivid and disorienting descriptions create an environment where anything is possible, and the mysterious is everywhere.",
+										{
+											"type": "entries",
+											"name": "Inspiring Awe",
+											"entries": [
+												"Wonder, awe, amazement—these feelings, rare in our daily lives, are senses that roleplaying games are uniquely equipped to create. And in a prehistoric world, where so little is known or understood, where life is short and unpredictable and peace is rare, slipping into wonder is more possible than ever. Here are a few tools for promoting wonder in your game:",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Sudden lyricism.",
+															"entry": "In the aggressive world of Planegea, abruptly breaking through the tension of survival and menace can have powerful effects. Consider adding a room full of unexpected light in the middle of a dungeon, creatures in the wild moving with beauty and grace, or coming across a bountiful harvest of food when it's least expected."
+														},
+														{
+															"type": "item",
+															"name": "Break the guessing engine.",
+															"entry": "Prepare your players for wonder by subverting their expectations, breaking their ability to guess what might come next in a given encounter or scenario. Use the monster templates in Chapter 13 (p. 283) to transform familiar creatures into strange new beings, startle the players with unexpected encounters, or infuse an ordinary journey with small details about strange sights and sensations."
+														},
+														{
+															"type": "item",
+															"name": "Paradox.",
+															"entry": "Generate wonder by starting with paradox and contradiction. To design a particularly memorable god, creature, settlement, or encounter, begin with a contradiction and then work backwards to what such a paradox would look like. For example, what would an underwater city of fire look like? How about an upside-down tree, or a storm made of stone? Such contradictions, when made real and tangible in the world of Planegea, stimulate wonder and awe in the characters—and, if you're lucky and take your time, in the players as well."
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Wilderness Tools",
+							"entries": [
+								"In the untamed world of Planegea, the wilderness is an essential environment for adventure. Every mortal encampment is surrounded by it, every trek moves through it. This section offers guidance for how to quickly generate wilderness and plan exciting travel through it. These concepts are meant to supplement existing 5th Edition travel rules, and should be used alongside them, to enrich them as fits your table's play style.",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Travel.",
+											"entry": "Planegea is a world on the move, where the characters should never assume they're safe or that they know exactly where they are. As the DM, you can map the land as you would a dungeon, filling it with encounters, surprises, and mysteries."
 										},
 										{
 											"type": "item",
-											"name": "Saurian-led clans.",
-											"entry": "Saurians are a diverse people who have evolved many strategies for survival over their long lifespans. A few common threads can be found when saurians lead, however. They favor an emphasis on patience, with hunts typically based on ambush rather than pursuit. Saurian-led clans are typically arranged according to a rigid pattern such as a spiral, circle, or grid, chosen by the chieftain and shaman, and constructed in the same way at each stop, regardless of the campsite they choose. They also keep close ties with their ancestors and friendly spirits, carrying embalmed dead and traveling among a network of cairns where the spirits of those who died long ago can offer them guidance and advice."
+											"name": "Camp.",
+											"entry": "As clans and characters move through the world, they will need to find places to make camp. You can prepare adventure environments by stocking these places with important resources and opportunities for exciting and unique encounters."
 										},
 										{
 											"type": "item",
-											"name": "Dreas, Starling, or Half-Ooze-led clans.",
-											"entry": "Dreas, starlings, and half-oozes are all rare enough that it's highly uncommon to find more than one in a given clan, if any. However, should one of these rise to leadership, they would be inclined to direct the clan based on their personal values. You might expect a dreas chieftain to encamp among trees and use domesticated plants in many ways. A starling might lead their clan towards nocturnal behavior, preferring to spend more of their time under the stars than not. A half-ooze could emphasize hunting and collection of food to an extreme degree, stockpiling far more than the clan needs in salt huts and smokehouses. Yet each of these would be an individual with their own ambitions and motivations, and might vary widely based on how they came to walk the paths of Planegea."
+											"name": "Survive.",
+											"entry": "Once the characters make camp, they can explore the environment you've prepared. Make the clans that they interact with dynamic, and structure encounters outside the encampment's boundaries."
 										},
 										{
 											"type": "item",
-											"name": "Clans led by others.",
-											"entry": "There are many kinships not listed here which might carve out their own communities or find positions of leadership, dwelling in their own way, distinct from others. Whatever kinship or culture leads a clan, the first emphasis is always on survival—and if a kinship or culture has an edge on a particular kind of survival, they will use it intelligently to stay alive another day."
+											"name": "Travel again.",
+											"entry": "Clans and characters in Planegea rarely stay in one place for long. No matter how rich in resources an encampment may be, the time will come to move on. Motivate clans and characters to travel to the next set of opportunities, resetting the clock and beginning the cycle of adventure again."
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Moving Land",
+									"entries": [
+										"Planegea is a young land, where rivers still wander as they will, trees are awake more often than they slumber, and even the hills rise and fall like the breath of a great beast. If the Hounds of the Blind Heaven allowed maps to be written down, such documents would still be largely useless, as the world shifts and changes according to its own patterns and rhythms.",
+										"When the characters move through Planegea, certain abilities that aid travelers in 5th Edition—such as those which prevent getting lost except by magical means, or those that enable characters to flawlessly remember the way they have come—are of less utility if the land magically changes. As they travel, consider how the land may have shifted ahead of and behind them.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Uncertain scale.",
+													"entry": "Because of Planegeans' inability to use high numbers to measure or record distances, the distance between two points—especially if the intervening space cannot be seen with the naked eye—is hard to judge. Most directions include at best rough approximations of distance, and may be greatly in error if the land has shifted."
+												},
+												{
+													"type": "item",
+													"name": "Traveling landmarks.",
+													"entry": "Certain landmarks are often used to sense proximity to given locations; a great tree might let a hunter know he's near camp, or a cliff with a particular promontory might mark the border between two clans. However, such landmarks can shift and deceive. When the characters sight a landmark, consider making an Intelligence (Nature) check to see if the land has shifted significantly since the landmark was noted. You might even have players make Wisdom (Insight) checks to discern the land's trickery, if the region is particularly ill-willed or capricious. Use higher DCs in areas with less visibility and more similar features."
+												},
+												{
+													"type": "item",
+													"name": "Knowing when.",
+													"entry": "Seasonality plays a greater role in travel than in medieval fantasy—often the land will follow a pattern, returning to familiar shapes in some response to the turn of the year. Given that, and the migratory nature of the clans, knowing when something is in a given location is as important as knowing the location itself. Finding a clan might be a matter of knowing that each autumn, they inhabit a certain cave, and at that time of year, the cave is found a day's walk from the green river. Thus memory and history become crucial skills when traveling."
+												}
+											]
+										},
+										"Old skills, new uses. Because of this unpredictable landscape, more skills in 5E come into play when traveling in Planegea. No longer is a mere Intelligence (Nature) or Wisdom (Perception) check the limit of what navigation requires. Consider some of the following options as the characters try to find their way in a trackless world:",
+										{
+											"type": "table",
+											"caption": "Skill Uses",
+											"colLabels": [
+												"Skill",
+												"Use"
+											],
+											"colStyles": [
+												"col-3",
+												"col-9"
+											],
+											"rows": [
+												[
+													"Animal Handling",
+													"Watching animal behavior, using flight, migration, or grazing patterns to navigate"
+												],
+												[
+													"Arcana",
+													"Recalling lore about doorways to Nod, arcane shortcuts, or spells that might be affecting the local area"
+												],
+												[
+													"Athletics",
+													"Scaling heights to get a better view of the surrounding landscape, or avoiding sudden changes in the land such as rock-slides or flash floods"
+												],
+												[
+													"History",
+													"Recalling lore about the movements of clans or significant historical landmarks in the area"
+												],
+												[
+													"Insight",
+													"Reading the land's mood, detecting a will to mislead through changed locations"
+												],
+												[
+													"Nature",
+													"Recalling lore about the shape of the land in the past, including its habits and likely rearrangements; reading the growth of mosses and other plants"
+												],
+												[
+													"Perception",
+													"Sighting landmarks or discovering trails; using smell, taste, and touch to sense movements of the land; searching for signs of large beasts"
+												],
+												[
+													"Persuasion",
+													"Imploring the land to guide you, bargaining with it to allow safe and easy passage"
+												],
+												[
+													"Religion",
+													"Recalling lore about local gods, the location of hallows, and their effects on the region"
+												],
+												[
+													"Stealth",
+													"Avoiding detection by predators, scavengers, or other unfriendly creatures"
+												],
+												[
+													"Survival",
+													"Following trails, avoiding natural hazards, reading the weather and identifying signs of dangerous beasts or hostile creatures"
+												]
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Wilderness Dice Drop",
+									"entries": [
+										"Whether the characters are setting out unexpectedly or you're trying to establish a wilderness for an upcoming journey, you can use this method to quickly generate a unique landscape all your own.",
+										{
+											"type": "entries",
+											"name": "1. Set the Scale",
+											"entries": [
+												"You're going to create a node-based map, which is more about the interesting points along the way than about covering every square mile. These nodes will generally be \"one time-unit\" apart. First things first, decide the scale of the map you're about to build, and approximately how far apart you want things to be. Are you making a small regional map where each node is minutes or hours apart? A larger map for a journey, where nodes are days or weeks apart? Deciding this first will help you later on."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "2. List Concepts",
+											"entries": [
+												"Start by figuring out what this landscape contains. List out roughly five concepts that you want this wilderness to feature. This could include flora or fauna, threats or factions, landmarks, geological phenomena—anything that feels like it suits the wilderness you have in mind. Note that the concepts don't need to have anything to do with each other—in fact, the more diverse they are, the better! Once you have the list, write a 1d10 table, like this:",
+												{
+													"type": "table",
+													"caption": "Concept (Example)",
+													"colLabels": [
+														"d10",
+														"Concept"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1–2",
+															"Dinosaurs"
+														],
+														[
+															"3–4",
+															"Giant plants"
+														],
+														[
+															"5–6",
+															"Gnomes"
+														],
+														[
+															"7–8",
+															"Burial site"
+														],
+														[
+															"9–10",
+															"Cave paintings"
+														]
+													]
+												},
+												"Don't worry about getting the distribution even. It's fine to have one item occupy only one slot, or three or four. Note, however, that whatever is in the first and last slot will be important in the wilderness you're building, so make sure you're excited about those."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "3. Drop Dice",
+											"entries": [
+												"To get started making your map, grab a handful of dice. A standard set of RPG dice is fine for a small area, or you can use more dice to create a more complex region. Which dice you choose doesn't matter, except you need at least one set of percentile dice (10-sided dice with two digits on each face), and that more high-numbered dice (d10s or above) will likely lead to more encounters and landmarks. Drop them on the table, ideally tossing them forward so they create a spread. You can also use a virtual, physics-based dice roller for this. These dice represent nodes the characters will be able to travel to. Circle each one, and remove the die, noting the value for it as you remove it."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "4. Draw Paths",
+											"entries": [
+												"Now, draw paths between the circles, or nodes. Do this by first drawing thick lines that connect nodes with identical values. For example, if you rolled two sixes and three fours, connect the sixes, and separately, connect all three fours. These thick lines represent strong, clear paths which are obvious and easy to follow.",
+												"Next, draw thin or dotted lines between any nodes that share at least 1 digit. So, if you rolled a 12, 20, and 2, you would draw a thin or dotted line connecting those three nodes. These lines represent obscured, hidden, or difficult paths, which are not easy to follow and may require Wisdom (Perception) checks to even notice.",
+												"Step back and look at your map. There may be some nodes that are isolated, or the paths may feel scattered and incomplete. If you want a more complex or full network, add thin or thick paths as you see fit. You can also erase paths—the point is to get a map that fits the aesthetic of the location you have in mind."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "5. Add Zones",
+											"entries": [
+												"Now that you have your paths mapped, it's time to add another layer to this map: zones. Zones are simply regions that mark different areas of the map.",
+												"In a long journey, zones show progress towards the goal. Think of them like floors in a dungeon. If you're heading from a temperate climate to a winter climate, these zones will progressively show the temperature dropping, rain turning to snow, introduction of frozen rivers, winter monsters, etc. In a smaller area, zones might represent landscape features such as forests, valleys, or hills.",
+												"Divide your map into several columns, then write a brief phrase to describe each, such as \"desert dunes\" or \"haunted swamp.\" Later, you can use these locations to suggest random encounters, if the characters should get in trouble."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "6. Add Hierarchy",
+											"entries": [
+												"By this stage, your map should look like a tangled, chaotic web. Don't worry—that means you're on the right track. A messy tangle of paths will lead to a much more interesting experience for the players, representing an untamed wilderness full of tracks and paths, not one simple road. On occasion, the dice will create a straight path across the map, and that's okay too. Either way, you're getting a randomized wilderness that they can explore as deeply as they choose.",
+												"Let's begin to sort out what this map means by creating a hierarchy of dice values, like so:",
+												{
+													"type": "list",
+													"items": [
+														"1–9 represent areas that, while they may have interesting features, are effectively empty. There are no encounters planned to take place here; these are like the empty rooms of dungeon design and give space to the world.",
+														"10–20 represent encounters. These may be social, puzzle, or combat encounters. (You haven't determined which is which yet.)",
+														"30–100 represent landmarks visible from a distance, or locations that are significant to the region.",
+														"Additionally, even-numbered locations will be on high ground (if applicable), and odd-numbered locations will be at low elevations."
+													]
+												},
+												"Note each of these at the appropriate nodes. (You can key them with E for encounter, L for landmark, and an asterisk for high ground.) It's important at this stage to add or remove nodes, encounters, landmarks, and features of interest as you see fit. If you would like to see more moments of rest or more densely-packed adventures, adjust the values of the nodes. The randomness here is intended to inspire, not restrict."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "7. Note Intersections",
+											"entries": [
+												"Last, before you start actually interpreting the map, note the places where the paths intersect. These don't always mean crossroads (although they can), but they will represent points in the story where you narrate what the characters see, thereby giving them an opportunity to take action. You can also add narration points wherever a path crosses into a new zone, so you have a moment to talk about the weather or landscape changing. It's not necessary, but doing so will enhance the experience of the wilderness."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "8. Write Descriptions",
+											"entries": [
+												"Now, wherever a number appears (with 10 represented by 0), write down that concept from your list on your map. Note that this means that anything with two digits will feature not one but two concepts, which will interact with each other.",
+												"Now, given all of this information, you can start labeling what you've discovered, including the paths themselves. It's best to work from the starting node outward, remembering that only the nodes labeled as such are encounters. The rest are interesting waypoints, where the characters might discover something about their world, but also just represent a point they reach after a significant amount of travel—one \"time unit,\" as chosen in step 1.",
+												"You can either label your map directly or add a key, labeling the nodes with unique numbers for easier lookup."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "9. Run the Wilderness",
+											"entries": [
+												"To use this wilderness in a session, determine which node or nodes are closest to the start of the session, and which are closest to the characters' goals.",
+												"When the characters are ready to set out, offer them a choice between any nodes equidistant from their starting place. Give them clear, concise information about what the node contains (\"an old salt-mining camp,\" or \"a cliff littered with dinosaur bones\") and let them choose their way. Use the nodes as narration points, describing what they see when they arrive at each one. Use the zones to give the journey a sense of scale and progress.",
+												"Should the characters decide to leave the path to cut overland, ask them their preferred direction and consider whether the land is traversable there. You may want to roll on a random encounter table for that zone's environment as they stir up trouble by stepping off the path."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Journey Dungeons",
+									"entries": [
+										"The wide landscapes of Planegea are as ripe for adventure as any confined space. Instead of thinking of travel as simply movement from here to there, another means of running overland adventures is to plan any significant travel in the same way that you would plan a dungeon. Although the scale of movement is different, the players can still make meaningful choices leading to varied outcomes, and with a little thought, a journey across the Great Valley can be as memorable as descending into the lair of a lich.",
+										"When the characters set out, consider the following:",
+										{
+											"type": "entries",
+											"name": "Threshold Guardians",
+											"entries": [
+												"Embarking on any significant travel should be seen as crossing into an adventure environment. Mark the occasion by introducing a challenge to the party as they depart from any location where they have felt safe. Some ideas include:",
+												{
+													"type": "table",
+													"caption": "Guardians",
+													"colLabels": [
+														"d6",
+														"Guardians"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"A hunter or elder forbids you from leaving, saying it's too dangerous"
+														],
+														[
+															"2",
+															"A friendly character tries to entice you to stay with offers of hospitality"
+														],
+														[
+															"3",
+															"A character who went along the path you're about to travel is carried back grievously injured"
+														],
+														[
+															"4",
+															"Hazardous terrain marks the exit, such as a cliff face, a rushing river, or a trapped hunting ground"
+														],
+														[
+															"5",
+															"A predator lurks just beyond the threshold"
+														],
+														[
+															"6",
+															"Raiders, a hostile hunting party, or bloodthirsty scavengers lie in wait along the path"
+														]
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Branching Paths",
+											"entries": [
+												"Just because you know how to get somewhere doesn't mean you know the best way to go. Create points where there are two equal but different paths which hint at different opportunities and dangers. These can be equally ominous or equally enticing. For example:",
+												{
+													"type": "table",
+													"caption": "Paths",
+													"colLabels": [
+														"d6",
+														"Paths"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"One path leads up into open, rocky hills where there isn't much cover, while the other descends into a dark and twisting canyon"
+														],
+														[
+															"2",
+															"One path winds around a shining lake full of good fishing and beautiful views, while the other wanders across open fields known for excellent hunting"
+														],
+														[
+															"3",
+															"One path passes by an old scavenger camp known for robbery and violence, while the other goes through a burial ground said to be haunted"
+														],
+														[
+															"4",
+															"One path, though long and difficult, has watch-fires every few miles, promising points of rest along the way, while the other is a secret shortcut which should be much quicker and relatively unknown"
+														],
+														[
+															"5",
+															"One path is littered with the bones of a fresh kill and reeks of predators, while the other is crowded with poisonous mushrooms of a type you do not know"
+														],
+														[
+															"6",
+															"One path is familiar but old, and appears to have undergone changes since last traveled. The other is new and—while promising—unknown in its dangers"
+														]
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Environmental Obstacles",
+											"entries": [
+												"Sometimes travel is complicated by something as simple as a fallen tree or a flooded river. Introduce environmental obstacles that must be solved in order to continue, such as:",
+												{
+													"type": "table",
+													"caption": "Obstacles",
+													"colLabels": [
+														"d6",
+														"Obstacles"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"The path winds through a narrow place, but a fallen tree blocks the path and the party's pack animals or steeds can't climb it"
+														],
+														[
+															"2",
+															"A flooded river rushes ferociously across the path, requiring a dangerous crossing"
+														],
+														[
+															"3",
+															"Recent rains have turned the path into a muddy bog, and travelers must take care or become stuck"
+														],
+														[
+															"4",
+															"Fire or drought has rendered the land barren and hostile, with sudden winds kicking up choking ash or dust that impedes forward progress"
+														],
+														[
+															"5",
+															"A colossal beast has died and been picked clean by scavengers, and its huge, cracked bones act as a field of spike traps half-sunk into the earth"
+														],
+														[
+															"6",
+															"Aggressive plants overgrow the path, entangling and ensnaring any who would walk through them"
+														]
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Social Encounters",
+											"entries": [
+												"You're not alone in this world, but not everyone you meet will try to kill you. Some want other favors or have opportunities to offer. For example:",
+												{
+													"type": "table",
+													"caption": "NPCs",
+													"colLabels": [
+														"d6",
+														"NPCs"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"A vulnerable craftsman who offers to barter their excellent wares"
+														],
+														[
+															"2",
+															"A worldly chanter who offers local lore and knowledge in exchange for food"
+														],
+														[
+															"3",
+															"A bleeding hunter who is searching for particular prey, asking you if you have seen any sign of it"
+														],
+														[
+															"4",
+															"An unsettling hermit who offers to show you a shortcut in exchange for your secrets"
+														],
+														[
+															"5",
+															"A wounded gatherer who calls out for help in treating a life-threatening injury"
+														],
+														[
+															"6",
+															"An alarmed scavenger who urges you to hide as his former allies scour the path to kill him"
+														]
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Pets or Minions",
+											"entries": [
+												"If the party is traveling towards some goal or confrontation, introduce small creatures allied with their objective to show that they are in the appropriate environment. Use the following table as inspiration:",
+												{
+													"type": "table",
+													"caption": "Pets",
+													"colLabels": [
+														"d6",
+														"Pets"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"The land around a dragon's lair is occupied by feral pseudodragons and scattered encampments of kobolds who revere the creature"
+														],
+														[
+															"2",
+															"The approach to a warlord's camp is full of crows, vultures, wild dogs, and scavenging goblins who feed on the warlord's kills"
+														],
+														[
+															"3",
+															"Drawing nearer to the sanctum of a corrupted spellskin, you find oozes, slimes, and twisted, experimental creatures altered by dark magic"
+														],
+														[
+															"4",
+															"Traveling towards an ancient volcano introduces fire mephits, salamanders, and imps that thrive in flame and sulfur"
+														],
+														[
+															"5",
+															"The region near an aboleth or kraken's domain features possessed clans, hungry lizardfolk, and pools with eels, octopus, and quippers"
+														],
+														[
+															"6",
+															"The path to a known door to Nod is full of drifting will o' wisps, crafty sprites, and awakened plants"
+														]
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Puzzles or Traps",
+											"entries": [
+												"Just because it's the wilderness doesn't mean it isn't trapped, or that mysterious conditions don't present interesting challenges. Consider:",
+												{
+													"type": "table",
+													"caption": "Puzzles or Traps",
+													"colLabels": [
+														"d6",
+														"Puzzles or Traps"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"A hunting snare springs a net trap, dangling the party 20 feet in the air"
+														],
+														[
+															"2",
+															"A grove has been enchanted to rearrange itself in an endless loop unless you only follow the yellow trees"
+														],
+														[
+															"3",
+															"A tripwire shoots arrows from a set of concealed bows rigged to fire"
+														],
+														[
+															"4",
+															"The path leads to the foot of a sheer cliff, which can be magically opened by building certain symbols with rock cairns"
+														],
+														[
+															"5",
+															"A seemingly innocent log bridge over a ravine has been weakened to snap when crossed, sending the party tumbling into spikes covered in leaves"
+														],
+														[
+															"6",
+															"Three enchanted statues guard a crossroads, and you must solve their riddle to learn which way is right"
+														]
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Context Changes",
+											"entries": [
+												"The world of Planegea changes while you're not looking. As the party approaches their objective, mark a shift in what they expected to find. For example:",
+												{
+													"type": "table",
+													"caption": "Change",
+													"colLabels": [
+														"d6",
+														"Change"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"The known lair of your quarry shows signs that other hunters have recently been here and set fire to the surrounding forest"
+														],
+														[
+															"2",
+															"The former site of an encampment you were hoping to find is scattered, showing signs of rapid flight and the hoofprints of raiders' mounts"
+														],
+														[
+															"3",
+															"Your quarry's lair is empty when it was supposed to be asleep, which means it's out hunting… and it might be hunting you"
+														],
+														[
+															"4",
+															"As you approach an encampment known to be hostile and violent, you hear music, children's laughter, and the sound of joyful celebration"
+														],
+														[
+															"5",
+															"Recent flooding has filled the area, causing you to slosh through a foot of water, which slows your progress and makes movement twice as difficult"
+														],
+														[
+															"6",
+															"A wandering forest has moved into the area, and what was previously open terrain is now a dense and hostile woodland"
+														]
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Wandering Predators",
+											"entries": [
+												"In Planegea, you are hunted as often as you hunt. Use monsters appropriate to the environment and have them roll stealth checks to stalk the party. Such monsters could include:",
+												{
+													"type": "table",
+													"caption": "Predators",
+													"colLabels": [
+														"d6",
+														"Predators"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"A single large predator such as an owlbear or dinosaur"
+														],
+														[
+															"2",
+															"Pack animals working to surround the party"
+														],
+														[
+															"3",
+															"A band of raiders setting up an ambush"
+														],
+														[
+															"4",
+															"A lurking monstrosity concealed by the environment"
+														],
+														[
+															"5",
+															"A flying monster that swoops to attack from above"
+														],
+														[
+															"6",
+															"Magical creatures that lure the party towards death"
+														]
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Final Marker",
+											"entries": [
+												"As they reach their destination, create a signal that they have come to the end of their journey with a final memorable moment that marks the passage from travel into their destination, such as:",
+												{
+													"type": "table",
+													"caption": "Markers",
+													"colLabels": [
+														"d6",
+														"Markers"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"Banners, pennants, cairns, or other boundary markers showing entry into claimed territory"
+														],
+														[
+															"2",
+															"A terrible stench signaling the immediate proximity of the quarry"
+														],
+														[
+															"3",
+															"A change in light, such as misty gloom or the welcome glow of a clanfire in the darkness"
+														],
+														[
+															"4",
+															"Sudden silence of the surrounding birds and insects"
+														],
+														[
+															"5",
+															"An enchanted welcome, such as a friendly spirit or illusion to guide you the last few steps of the way"
+														],
+														[
+															"6",
+															"Broken bones, blood smears, scratches, or other signs of a monster's place of devouring"
+														]
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Clan Tools",
+							"entries": [
+								"The clan is the fundamental structure of mortal life in Planegea. Though there are those who live outside clans—druids, cultists, agents of diverse powers, and the like—the clan is at the center of civilization. It fills the core need for a place in which to encounter others on familiar ground… even if that ground can shift under your feet as quickly as you find it.",
+								"Here are a few broad guidelines to keep in mind when running a Stone Age fantasy game:",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Clanfire as tavern and job board.",
+											"entry": "The social epicenter of a town in traditional medieval fantasy is the tavern. Here, the clanfire takes on that role, and the guidance in this section offers insight into how to use it as a gathering place throughout the day. The work to be done and rumors of the clan are also discussed by the fireside, which makes it a natural place for characters to discover the potential adventures they might encounter, not unlike a traditional questing job board in other settings."
+										},
+										{
+											"type": "item",
+											"name": "Gods & shamans as temple and magic shop.",
+											"entry": "In Planegea, the gods and shamans are keepers of most enchantments and magic items. It's not that spellskins can't enchant, but you're more likely to get a weapon touched by a god than forged by an arcane inventor. Divine hallows and shaman tents take on the role of temples and magic shops in most cases, and recasting the traditional shopping experience as an attempt to curry favor with a god through offerings can be an entertaining prospect."
+										},
+										{
+											"type": "item",
+											"name": "Caves as castles and dungeons.",
+											"entry": "Caves, cliffs, thick forests, and other natural defenses take on the roles of the high walls, lowered portcullises, and deep moats of fantasy castles. In many places, dwarvish ruins or natural formations of land create all the shelter and stronghold well-armed defenders need to keep their interests safe. Such places are natural environments for unexpected infestations—the giant insects, undead, oozes and slimes, and other conventional dungeon challenges all have a natural home as the original inhabitants of whatever cavern a clan might have moved into."
+										}
+									]
+								},
+								"Bear these options and assumptions in mind as you use the following materials to create the clans that your characters will interact with as allies and enemies.",
+								{
+									"type": "entries",
+									"name": "Clan Creation",
+									"entries": [
+										"Most of us have a good baseline idea of what a medieval fantasy town might look like—it has a tavern and a blacksmith and maybe a local lord's castle nearby, whose guards keep order in the streets and often have work to offer those who want it. There might be a temple or a magic shop, if it's large enough. But what does a fantasy Stone Age encampment look like? How does it function, and how do you, as the DM, set it up to make it a living, breathing environment full of adventure hooks that your players can grab onto?",
+										"This section covers what such an encampment might contain—the people who live there, their roles and function, and the structures they inhabit.",
+										{
+											"type": "entries",
+											"name": "Gods",
+											"entries": [
+												"Most clans are defined first and foremost by their relationship to their surrounding gods. Clans can be fiercely loyal to a single god, even as they travel; they can be diplomatic, navigating a network of divinities; or they may be godless, by choice or accident. Each of these has a powerful effect on the clan's outlook, traditions, and resources. After all, a god's favor is important in a dangerous world; reverence can be key to survival.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Primary god.",
+															"entry": "Some clans revere only a single god. The Brother Clans are a good example of this, such as the Bear Clan's devotion to Urhosh. Such clans will deal with other gods as needed during their winter walk and time in the Allhunt, but it is always in deference to their primary deity. They are usually named after the god, and rely on it as their primary source of blessing and power."
+														},
+														{
+															"type": "item",
+															"name": "Network of gods.",
+															"entry": "There are clans who live in areas where more than one god holds sway, and who try to exist in a web of divine relationships. Such clans hedge their bets by interacting with multiple gods, often acting as divine mediators or go-betweens when tensions between gods arise. These clans tend to name themselves after their skills, their leaders, or their histories, preferring not to align too tightly to a single god, for fear of dishonoring the others."
+														},
+														{
+															"type": "item",
+															"name": "Godless clans.",
+															"entry": "Clans without any divine relationships are rare, but they can occur. Some clans—such as those comprised mainly of orcs, druids, or arcane practitioners—see the gods as a distraction, believing that they take as much as they give and that mortals are better off surviving on their own terms. Others are seeking gods but, whether because of their weakness, some flaw in their worship, or simple bad luck, have not found a god to claim as their own. Very rarely, an entire clan will be outcast by a wrathful god, marked as unholy, and rejected by all gods as unworthy of blessing—usually for allowing druidic practices or desecrating their god's hallow in some way. Such wretched clans wander the world abandoned, and would gladly offer worship if they could."
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Survival Strategy",
+											"entries": [
+												"Clans generally survive by doing a little of everything—hunting, gathering, trading, and so on. But most, through various talents and abilities, will wind up specializing in particular survival strategies above others. Very large clans, such as the three Brothers (p. 163), are made up of smaller groups, called camps or bands, who focus on individual tactics and contribute to the clan as a whole. But smaller, independent clans use varied methods to stay one step ahead of death.",
+												"Some of the most common survival strategies used by clans include:",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Hunting.",
+															"entry": "Hunter-led clans are built around pursuit of the quarry, staying light and agile, able to move as their prey does. Such clans often build their structures of the bones and skins of their prey. Strength, agility, and toughness are esteemed qualities in a clan member."
+														},
+														{
+															"type": "item",
+															"name": "Gathering.",
+															"entry": "Clans built around gathering tend to be more peaceful than other clans, with a focus on defenses to protect themselves, since they lack a strong hunter culture. Such clans value a keen eye and a stout stomach—the ability to find food and survive anywhere. They also are often expert trappers, setting up a ring of defenses around their clans to catch both prey and would-be attackers."
+														},
+														{
+															"type": "item",
+															"name": "Crafting & trading.",
+															"entry": "In populous regions, some clans are able to survive simply by getting what others want for them. These clans produce high-quality or high-volume goods such as fishhooks, spearheads, traps, tents, and so on—objects other clans need—plus more than that. They carry desirable goods from place to place, relying on the next swap to provide food."
+														},
+														{
+															"type": "item",
+															"name": "Herding.",
+															"entry": "Most common in the Dire Grazelands, but found throughout Planegea, are the herding clans. These clans have domesticated sufficient beasts that they can live well on their flocks. Such clans often emphasize the close bond between mortal and beast, and name themselves after the animals they most rely upon."
+														},
+														{
+															"type": "item",
+															"name": "Warfare.",
+															"entry": "These clans are organized around conquest, usually led by a warlord with a subordinate shaman. Warrior clans subjugate weaker clans and force them to do their labor, freeing the conquering clan to focus on preparing for their next battle."
+														},
+														{
+															"type": "item",
+															"name": "Raiding or scavenging.",
+															"entry": "These clans rely on sudden surprise attacks and theft, taking from other clans by force or stealth to gather the materials they need. Such clans have few children or elderly, shedding their weakest members and keeping on the move as much as possible."
+														},
+														{
+															"type": "item",
+															"name": "Arcane magic.",
+															"entry": "Often at odds with shamanistic practices, some clans are led by arcane spellcasters. These clans have their own quirks: spellskin-led clans tend to be less mobile, preferring habitations near their leader's sanctum; sorcerer-led clans tend to be very instinctive, impulsive, and chaotic, often relying on trade and alliances to survive; chanter-led clans are usually wandering performers, bringing pageantry to their neighbors in return for a share in provisions and crafted goods."
+														},
+														{
+															"type": "item",
+															"name": "Asceticism.",
+															"entry": "Some clans practice self-abnegation as a virtue, pushing themselves to the limits in search of greater enlightenment. These clans tend to be withdrawn, disciplined, and found in places that are hard to reach for both allies and enemies."
+														},
+														{
+															"type": "item",
+															"name": "Druidic practices.",
+															"entry": "Most see druids as traitors, allying themselves with the natural world instead of sharpening spears against it. Druidic clans tend to be founded by outcasts, hidden away from those that would snuff them out if they could."
+														},
+														{
+															"type": "item",
+															"name": "Outlander survival.",
+															"entry": "Some clans are entirely shaped by their environments. Those who dwell in the shadow of the giant empires or at the edges of the world-fangs have their own practices and survival strategies that may be radically different than the rhythms and practices of the Great Valley clans."
+														},
+														{
+															"type": "item",
+															"name": "Cultic practices.",
+															"entry": "Not all gods are understanding. Some clans exist in utter dependence or fear of their local deity, and spend all of their effort and energy to satisfy its demands. This practice can be parasitic—the god consuming its clans without compassion. Or it can be symbiotic, with the god providing all the clan needs while its worshipers engage in endless rites and rituals in the service of the god."
+														},
+														{
+															"type": "item",
+															"name": "Other means.",
+															"entry": "Clans are as varied as the scope of life, and can exist in any pattern or configuration. From ruin-guardians to tree-dwellers, from dream-walkers to enchanter-bandits, clans live and die and mix and mingle in all conceivable forms, limited only by imagination and the Black Taboos."
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Cultures & Communities",
+											"entries": [
+												"Because survival comes first, and all willing hands are welcome at the clanfire, many clans are not organized primarily by kinship. It's not unusual even in small clans to find humans, dwarves, elves, and orcs working side by side to stay alive. However, families often stick together, and many clans have a racial and cultural majority, which is usually reflected in its leadership and activities.",
+												"For clans in which kinship holds a particular sway, there are some common features of culture.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Human-led clans.",
+															"entry": "By far the most common in the Great Valley, where humans dwell in large numbers, human-led clans tend to live in close community with tamed or trained animals, such as dogs and cats, mounts, trained birds and chattercrests, and beasts of burden. They typically dwell in simple huts or tents, and rarely stay in one place for longer than a season or two."
+														},
+														{
+															"type": "item",
+															"name": "Dwarf-led clans.",
+															"entry": "These clans tend to spend much of their time in constructing defenses and shelters, preferring to remain in a single location for longer, even braving the winter to build up a stronghold worth protecting. Dwarf-led clans spend a long time choosing the perfect encampment site, then erect permanent structures such as walls, stone huts, and wells, which benefit others long after they've been forced to move on."
+														},
+														{
+															"type": "item",
+															"name": "Elf-led clans.",
+															"entry": "Elf-led clans travel erratically, often without a reason that's clear to outsiders. They'll stay in a location for only a short time and loop back over the same hunting ground repeatedly, leaving little impact on the land as they move lightly across it. Elvish leaders prefer to find natural habitations, and are more likely to move their clan into natural structures such as trees, cave systems, or cliffs, aggressively clearing out predators so they can occupy pre-existing defenses rather than constructing their own."
+														},
+														{
+															"type": "item",
+															"name": "Halfling-led clans.",
+															"entry": "Halfling culture emphasizes stealth and surprise attacks, and even when coexisting with other kinships, those values remain powerful strategies. Halfling-led encampments are almost always well-hidden, camouflaged so that a wanderer might practically walk through one and never know it was there. Halflings conceal their clanfires with open-roofed tents, huts, or disguised screens, and put a great degree of emphasis on keeping the encampment's location secret."
+														},
+														{
+															"type": "item",
+															"name": "Dragonborn-led clans.",
+															"entry": "Clans led by dragonborn are often messy, sprawling affairs that gouge and gash the land as they travel. Dragonborn culture is born of survival in the verdant Venom Abyss, and they tend to treat the natural world as something to be hacked away to carve out space for themselves. Dragonborn encampments are often dug into the dirt or erected in burned thickets, with large trees felled to make quick defenses. Some say you can tell that dragonborn passed by seasons earlier, dragging their blades through the world behind them."
+														},
+														{
+															"type": "item",
+															"name": "Godmarked-led clans.",
+															"entry": "Godmarked are often solitary people, but sometimes a god will alter an entire clan in a sign of their favor or displeasure. Such clans often carry strong memories of their marking, and may act either blessed or cursed, depending on the event. Clans led by the godmarked are often studies in extremes, either filled with incense, totems, symbols, and devotion, or devoid of any sign or act of religion in an outright rejection of whatever god changed them."
+														},
+														{
+															"type": "item",
+															"name": "Gnome-led clans.",
+															"entry": "Because gnomes are often ostracized by other kinships, it's not unusual to find a clan made solely of gnomes. Regardless of whether they're cooperating with other kinships, gnome-led clans put a high emphasis on crafting, creativity, and trade. Huts and tents are made with a patchwork, stitched-together material called gnomequilt, and in front of each hut or tent is a small spread of trinkets, trade goods, and materials for barter. The same items will often be passed around small clans again and again in ritual trade, but larger clans can have sprawling marketplaces where all manner of unusual items can be found."
+														},
+														{
+															"type": "item",
+															"name": "Orc-led clans.",
+															"entry": "Most clans would consider themselves fortunate indeed to be led by an orc. Orcs are sought after as hunters and leaders, thanks to their powerful builds and natural toughness. Yet orc-led encampments are often demanding places, with an emphasis on physical prowess, discipline, tradition, and respect, and place little emphasis on the gods and divine matters. It's more common to find druids and rangers among orcs, and shamans have little sway in their encampments."
+														},
+														{
+															"type": "item",
+															"name": "Saurian-led clans.",
+															"entry": "Saurians are a diverse people who have evolved many strategies for survival over their long lifespans. A few common threads can be found when saurians lead, however. They favor an emphasis on patience, with hunts typically based on ambush rather than pursuit. Saurian-led clans are typically arranged according to a rigid pattern such as a spiral, circle, or grid, chosen by the chieftain and shaman, and constructed in the same way at each stop, regardless of the campsite they choose. They also keep close ties with their ancestors and friendly spirits, carrying embalmed dead and traveling among a network of cairns where the spirits of those who died long ago can offer them guidance and advice."
+														},
+														{
+															"type": "item",
+															"name": "Dreas, Starling, or Half-Ooze-led clans.",
+															"entry": "Dreas, starlings, and half-oozes are all rare enough that it's highly uncommon to find more than one in a given clan, if any. However, should one of these rise to leadership, they would be inclined to direct the clan based on their personal values. You might expect a dreas chieftain to encamp among trees and use domesticated plants in many ways. A starling might lead their clan towards nocturnal behavior, preferring to spend more of their time under the stars than not. A half-ooze could emphasize hunting and collection of food to an extreme degree, stockpiling far more than the clan needs in salt huts and smokehouses. Yet each of these would be an individual with their own ambitions and motivations, and might vary widely based on how they came to walk the paths of Planegea."
+														},
+														{
+															"type": "item",
+															"name": "Clans led by others.",
+															"entry": "There are many kinships not listed here which might carve out their own communities or find positions of leadership, dwelling in their own way, distinct from others. Whatever kinship or culture leads a clan, the first emphasis is always on survival—and if a kinship or culture has an edge on a particular kind of survival, they will use it intelligently to stay alive another day."
+														}
+													]
+												}
+											]
 										}
 									]
 								}
