@@ -23443,10 +23443,843 @@
 									]
 								},
 								{
+									"type": "entries",
+									"name": "Chorister",
+									"entries": [
+										"Choristers are greater notars, gifted with the same power of music and flight, but also able to turn the light of their deities against those who would violate their sacred law. While notars can only hold a single feeling and idea, choristers understand nuance and complexity, and are the lowest order of celestial that may be said to be good company for mortals, engaging in playful banter and entertaining with glorious songs—though the lyrics are always about their own god."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Refractor",
+									"entries": [
+										"A refractor is a warrior spirit, created by gods to turn their light into weapons of wrath and judgment against those who displease them. Refractors' faces shine brightly, but their backs are pitch black holes. From their eyes come piercing rays of solid light, which can separate flesh from bone and blacken skin. A refractor's joy is in justice and the execution of their god's will despite the harm that comes to others as it is carried out."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Emissary",
+									"entries": [
+										"An emissary may pass as a mortal if they choose, but they are not of the world. Though they may cloak themselves in humble guises to carry messages for their deity beyond their hallow's reach, an emissary sees the world through the eyes of their god's will and speaks with their authority, healing and harming according to their god's demeanor. Emissaries are spirits trusted with delicate tasks, and have great grasp of the nuances of mortal logic, the better to communicate on behalf of their deity."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Envoy",
+									"entries": [
+										"An envoy is the being a god sends when they have no need for subtlety. Towering and glowing, envoys shine with divine authority, and wield martial weapons blessed by their god, in case a point needs to be made with force. Envoys are the celestials sent into war on behalf of the god, to the border of other hallows to speak with rival gods face to face, or to enact judgment against wayward tribes. A wrathful envoy is a terrible sight, and—with their blinding light—may be the last sight a mortal ever beholds."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Image Bearer",
+									"entries": [
+										"Sometimes called avatars or \"little gods,\" image bearers are celestials made in the image of the god themselves, shaped to carry a message as if from the very mouth of the god. Image bearers are a rare sight, usually glimpsed only on high holy days or in official negotiations between warring gods or clans. An image bearer is a great risk for a god to send out, as it often requires a great deal of the god's magic to create. If it is destroyed outside the hallow, the divine magic is scattered, and it may take the god many long days to reclaim its wasted power."
+									]
+								},
+								{
 									"type": "inset",
 									"name": "Other Visitants",
 									"entries": [
 										"For fiendish visitants, you can use the myriad demons, devils, and other fiends of 5th Edition. Similarly, you can use other celestial creatures as visitants, too, while using the lower-CR celestial visitants detailed here to flesh out their ranks in Planegea or any 5th Edition campaign."
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Woolly Unicorn (Elasmotherium)",
+							"entries": [
+								"The tundra is home to the woolly unicorn, the cantankerous, shaggy celestial that roams in endless watch over its chosen domain. It's said that the first woolly unicorn was herself a god who lost patience with the worship of mortals and let immortality slip from her grasp, choosing instead to wander the world and fight evil with horn and muscle as well as magic.",
+								"Most closely resembling an enormous rhinoceros covered in frost-hardened hair, the woolly unicorn is a towering creature, its horn the height of a full-grown mortal. This horn is the center of the woolly unicorn's power to heal and shatter. Its nose catches the scent of all who enter its chosen domain, and woe to the evil creature that dares set foot on its icy plain.",
+								{
+									"type": "entries",
+									"name": "Surly Caretakers",
+									"entries": [
+										"Woolly unicorns are self-appointed watchers over particular stretches of the world—usually icy plains and wintry wastelands. A woolly unicorn will mark out its boundaries by gouging the ice with its horn, and stomp from one end of its land to the other, seeing that evil is overthrown before it can take root, and favoring any good it finds with whatever help it's willing to offer in the moment.",
+										"Still, woolly unicorns are known to be short-tempered creatures and will dismiss even good-hearted supplicants for petty reasons should they find fault with the way in which they are approached. A woolly unicorn has no patience for flattery or idle chatter, preferring to get to the point of a matter as quickly as possible and take action, rather than waste time in flowery speeches or high-minded sentimentality."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Tundra Masters",
+									"entries": [
+										"Every square inch of a woolly unicorn's marked tundra is under the power and protection of the celestial. Beasts and elementals bow to its will, and any evil-inclined creatures are quickly run out or destroyed. In the land of the woolly unicorn, good travelers feel bolstered, better able to shoulder their way against the wind, their feet more firmly planted and spines stiffer. Flowers push their way through the ice, cracking it as they stretch their faces to find the sun, even on the coldest of days in midwinter. All this is in accordance to the nature of the woolly unicorn, which makes it possible—but not easy—for good to thrive."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Mighty Horns",
+									"entries": [
+										"The six-foot horn of a woolly unicorn is where its magic is concentrated. Coveted by spellskins, a woolly unicorn's horn is a sacred and glorious thing, able to channel great power along its length. Unscrupulous hunters have tried to kill woolly unicorns for their magic, and have succeeded from time to time. But the fools who would dare harm such powerful beings are rewarded shortly after with accidents that break their bones and leave them shrieking from nightmares, unable to cast spells at all by the time the woolly unicorn's spirit is done haunting them."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Fiend-Breaker",
+									"entries": [
+										"There is no greater delight to a woolly unicorn than the destruction of a fiend. Throwing their whole bulk into the attack, a woolly unicorn will charge a fiend's hallow, throwing aside visitants and grinding divine ivory to dust between its feet. Many winter gods have been crushed in an attack by the woolly unicorn, unable to ward off the thundering onslaught of light and rage."
+									]
+								},
+								{
+									"type": "quote",
+									"entries": [
+										"The best friend I ever had in this world or any other was the sacred and savage woolly unicorn known as Ut-Mur-Tu. She was my companion across more miles than can be counted, and I owe my life to her magic and wisdom. It was Ut-Mur-Tu who helped me forge the Divine Constellation. It was her strength that turned back the Frostfang Onslaught, and her wisdom that found me when I was most lost within myself."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "A Woolly Unicorn's Lair",
+									"entries": [
+										"The lair of a woolly unicorn might be a glacial cavern or subterranean cave system running just under the surface of the tundra, steam vents at the edge of a frozen lake, the bones of some giant or evil creature it gored to death, or some other primal and inhospitable location."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Regional Effects",
+									"entries": [
+										"The tundra claimed by a woolly unicorn is altered by its rough-hewn magic. This alteration might be seen in any of the following effects:",
+										{
+											"type": "list",
+											"items": [
+												"Creeping mists roll over the land, hiding good- or neutral-aligned creatures—but the mists recoil from evil-aligned creatures, making them plainly seen, with nowhere to hide.",
+												"When good-aligned creatures make camp, they find the ground warm and soft underneath the place they choose to bed down, gaining restful sleep despite harsh weather conditions.",
+												"When a good-aligned creature in the woolly unicorn's domain is the target of a healing spell, that creature is healed for the maximum amount.",
+												"If a good-aligned creature attempts to use divination magic to locate an evil-aligned creature towards which it is hostile, it has advantage on its checks when casting such spells, and the evil-aligned creature, if it is within the woolly unicorn's domain, has disadvantage on saving throws against such magic."
+											]
+										},
+										"If the woolly unicorn dies, the effects end immediately."
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "NPCs",
+							"entries": [
+								"This section lists common stat blocks for nonplayer characters (NPCs) you might encounter in the world of Planegea. You can easily alter them by adjusting their personality traits, agendas, and access to magic and equipment (including magic items).",
+								"The assumption for these NPCs is a human as the baseline, so adjusting any of these stat blocks to other kinships will likely grant access to other languages and racial features not listed here (such as darkvision).",
+								{
+									"type": "entries",
+									"name": "Ancestor",
+									"entries": [
+										"An ancestor is a friendly spirit, who lingers after its death to guide its living children and grandchildren. Many ancestors must remain near the place where they died or where they were buried, offering counsel and advice when sought—and sometimes, when not. Very ancient spirits start to fade when nobody remembers them."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Hunter",
+									"entries": [
+										"Clans depend on hunters to be strong, fast, and cunning, skilled in stealth as well as combat, able to avoid predators and bring down massive prey."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Lead Hunter",
+									"entries": [
+										"The lead hunter is the strongest and most experienced of all the hunters, usually remarkable for their cunning, their ability to read the signs of the world to find prey, and their skills in leading the wild energy of a hunt."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Shaman",
+									"entries": [
+										"In a small clan with only one shaman, this is the most important figure, alongside the chief. The shaman communicates directly with the gods, entering their hallows to speak face to face with them, and working magic around the clanfire for the good of the people. The shaman is charged with all ceremonial rites including the naming of children, marrying of couples, and funerals for the fallen."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "High Shaman",
+									"entries": [
+										"In large clans, many shamans may serve the same god, often focusing on individual domains of the god's power. They all answer to a high shaman, whose gifts with divine magic are astonishing and fearsome. High shamans are half-immortal, usually given some greater access to long life and health by the god they serve, that they can serve them better and longer."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Sorcerer",
+									"entries": [
+										"Clans look to sorcerers for their basic magical needs. While a sorcerer is awarded no special status in the clan based on their arcane talents, they can be quite dangerous if aroused to combat."
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Appendix A",
+					"entries": [
+						{
+							"type": "entries",
+							"name": "Name Generator",
+							"entries": [
+								"To generate a name for an NPC on the fly, roll or choose one entry from the Syllables table and one entry from the Endings table, then combine them.",
+								{
+									"type": "table",
+									"caption": "Name Generator",
+									"colLabels": [
+										"#",
+										"Syllable",
+										"#",
+										"Ending"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-3",
+										"col-2 text-center",
+										"col-3"
+									],
+									"rows": [
+										[
+											1,
+											"Alek-",
+											1,
+											"-a"
+										],
+										[
+											2,
+											"Ame-",
+											2,
+											"-ah"
+										],
+										[
+											3,
+											"Anu-",
+											3,
+											"-ad"
+										],
+										[
+											4,
+											"Ans-",
+											4,
+											"-ai"
+										],
+										[
+											5,
+											"Antu-",
+											5,
+											"-ag"
+										],
+										[
+											6,
+											"Apr-",
+											6,
+											"-al"
+										],
+										[
+											7,
+											"Aru-",
+											7,
+											"-ar"
+										],
+										[
+											8,
+											"Aya-",
+											8,
+											"-ash"
+										],
+										[
+											9,
+											"Bar-",
+											9,
+											"-ath"
+										],
+										[
+											10,
+											"Bhi-",
+											10,
+											"-az"
+										],
+										[
+											11,
+											"Bha-",
+											11,
+											"-azh"
+										],
+										[
+											12,
+											"Bhaku-",
+											12,
+											"-ba"
+										],
+										[
+											13,
+											"Bhanda-",
+											13,
+											"-bos"
+										],
+										[
+											14,
+											"Bazr-",
+											14,
+											"-bi"
+										],
+										[
+											15,
+											"Dah-",
+											15,
+											"-d"
+										],
+										[
+											16,
+											"Dhar-",
+											16,
+											"-da"
+										],
+										[
+											17,
+											"Dreun-",
+											17,
+											"-dai"
+										],
+										[
+											18,
+											"Dhes-",
+											18,
+											"-das"
+										],
+										[
+											19,
+											"Dokh-",
+											19,
+											"-du"
+										],
+										[
+											20,
+											"Dhu-",
+											20,
+											"-eb"
+										],
+										[
+											21,
+											"Eigd-",
+											21,
+											"-ek"
+										],
+										[
+											22,
+											"Embh-",
+											22,
+											"-el"
+										],
+										[
+											23,
+											"Eis-",
+											23,
+											"-em"
+										],
+										[
+											24,
+											"Enki-",
+											24,
+											"-en"
+										],
+										[
+											25,
+											"Eii-",
+											25,
+											"-esh"
+										],
+										[
+											26,
+											"Eresh-",
+											26,
+											"-ezh"
+										],
+										[
+											27,
+											"Eta-",
+											27,
+											"-g"
+										],
+										[
+											28,
+											"Fulga-",
+											28,
+											"-gos"
+										],
+										[
+											29,
+											"Gham-",
+											29,
+											"-ha"
+										],
+										[
+											30,
+											"Ghel-",
+											30,
+											"-i"
+										],
+										[
+											31,
+											"Gedh-",
+											31,
+											"-ia"
+										],
+										[
+											32,
+											"Ghar-",
+											32,
+											"-im"
+										],
+										[
+											33,
+											"Goz-",
+											33,
+											"-ik"
+										],
+										[
+											34,
+											"Had-",
+											34,
+											"-il"
+										],
+										[
+											35,
+											"Hekeh-",
+											35,
+											"-iki"
+										],
+										[
+											36,
+											"Hum-",
+											36,
+											"-jha"
+										],
+										[
+											37,
+											"Hola-",
+											37,
+											"-k"
+										],
+										[
+											38,
+											"Hurs-",
+											38,
+											"-ka"
+										],
+										[
+											39,
+											"Hru-",
+											39,
+											"-ko"
+										],
+										[
+											40,
+											"Ish-",
+											40,
+											"-ki"
+										],
+										[
+											41,
+											"Insu-",
+											41,
+											"-ku"
+										],
+										[
+											42,
+											"Khar-",
+											42,
+											"-la"
+										],
+										[
+											43,
+											"Kauti-",
+											43,
+											"-las"
+										],
+										[
+											44,
+											"Khu-",
+											44,
+											"-lor"
+										],
+										[
+											45,
+											"Kle-",
+											45,
+											"-lath"
+										],
+										[
+											46,
+											"Khrati-",
+											46,
+											"-m"
+										],
+										[
+											47,
+											"Ki-",
+											47,
+											"-ma"
+										],
+										[
+											48,
+											"Lakh-",
+											48,
+											"-mak"
+										],
+										[
+											49,
+											"Lil-",
+											49,
+											"-mos"
+										],
+										[
+											50,
+											"Lughul-",
+											50,
+											"-n"
+										],
+										[
+											51,
+											"Lum-",
+											51,
+											"-na"
+										],
+										[
+											52,
+											"Maz-",
+											52,
+											"-nos"
+										],
+										[
+											53,
+											"Magh-",
+											53,
+											"-naz"
+										],
+										[
+											54,
+											"Manu-",
+											54,
+											"-nak"
+										],
+										[
+											55,
+											"Meku-",
+											55,
+											"-nu"
+										],
+										[
+											56,
+											"Napu-",
+											56,
+											"-nesh"
+										],
+										[
+											57,
+											"Nhei-",
+											57,
+											"-o"
+										],
+										[
+											58,
+											"Ni-",
+											58,
+											"-os"
+										],
+										[
+											59,
+											"Nu-",
+											59,
+											"-ol"
+										],
+										[
+											60,
+											"Nha-",
+											60,
+											"-osi"
+										],
+										[
+											61,
+											"Nisa-",
+											61,
+											"-osh"
+										],
+										[
+											62,
+											"Ok-",
+											62,
+											"-pa"
+										],
+										[
+											63,
+											"Odhek-",
+											63,
+											"-pi"
+										],
+										[
+											64,
+											"Ortak-",
+											64,
+											"-pu"
+										],
+										[
+											65,
+											"Os-",
+											65,
+											"-r"
+										],
+										[
+											66,
+											"Per-",
+											66,
+											"-ra"
+										],
+										[
+											67,
+											"Perik-",
+											67,
+											"-ri"
+										],
+										[
+											68,
+											"Peth-",
+											68,
+											"-ros"
+										],
+										[
+											69,
+											"Ran-",
+											69,
+											"-reth"
+										],
+										[
+											70,
+											"Rib-",
+											70,
+											"-rek"
+										],
+										[
+											71,
+											"Redrak-",
+											71,
+											"-s"
+										],
+										[
+											72,
+											"Reok-",
+											72,
+											"-sa"
+										],
+										[
+											73,
+											"Rhu-",
+											73,
+											"-si"
+										],
+										[
+											74,
+											"Ro-",
+											74,
+											"-shu"
+										],
+										[
+											75,
+											"Sai-",
+											75,
+											"-su"
+										],
+										[
+											76,
+											"Samuk-",
+											76,
+											"-t"
+										],
+										[
+											77,
+											"Sekh-",
+											77,
+											"-ta"
+										],
+										[
+											78,
+											"Senh-",
+											78,
+											"-tar"
+										],
+										[
+											79,
+											"Seregh-",
+											79,
+											"-ti"
+										],
+										[
+											80,
+											"Sha-",
+											80,
+											"-tu"
+										],
+										[
+											81,
+											"Sim-",
+											81,
+											"-tak"
+										],
+										[
+											82,
+											"Sidu-",
+											82,
+											"-u"
+										],
+										[
+											83,
+											"Sora-",
+											83,
+											"-ush"
+										],
+										[
+											84,
+											"Tari-",
+											84,
+											"-ur"
+										],
+										[
+											85,
+											"Tam-",
+											85,
+											"-uz"
+										],
+										[
+											86,
+											"Tak-",
+											86,
+											"-um"
+										],
+										[
+											87,
+											"Tieg-",
+											87,
+											"-va"
+										],
+										[
+											88,
+											"Tor-",
+											88,
+											"-vai"
+										],
+										[
+											89,
+											"Tula-",
+											89,
+											"-vo"
+										],
+										[
+											90,
+											"Uek-",
+											90,
+											"-vem"
+										],
+										[
+											91,
+											"Uk-",
+											91,
+											"-var"
+										],
+										[
+											92,
+											"Ul-",
+											92,
+											"-ya"
+										],
+										[
+											93,
+											"Urta-",
+											93,
+											"-yu"
+										],
+										[
+											94,
+											"Ursha-",
+											94,
+											"-z"
+										],
+										[
+											95,
+											"Ut-",
+											95,
+											"-za"
+										],
+										[
+											96,
+											"Ulko-",
+											96,
+											"-zu"
+										],
+										[
+											97,
+											"Uz-",
+											97,
+											"-zem"
+										],
+										[
+											98,
+											"Vi-",
+											98,
+											"-zo"
+										],
+										[
+											99,
+											"Wo-",
+											99,
+											"-zi"
+										],
+										[
+											100,
+											"Yugh-",
+											100,
+											"-zesh"
+										]
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Appendix B",
+					"entries": [
+						{
+							"type": "entries",
+							"name": "Inspiration & Media",
+							"entries": [
+								{
+									"type": "list",
+									"style": "list",
+									"items": [
+										"10,000 BC (2008 film)",
+										"1491 by Charles C. Mann",
+										"Adventure Time with Finn & Jake (2010 show)",
+										"Alpha (2018 film)",
+										"Apocalypto (2006 film)",
+										"The Appendix N Book Club (podcast)",
+										"“A Story of the Stone Age” by H.G. Wells",
+										"At the Earth's Core by Edgar Rice Burroughs",
+										"Atlantis: The Lost Empire (2001 film)",
+										"Battle in the Dawn by Manly Wade Wellman",
+										"Clan of the Cave Bear by Jean M. Auel",
+										"The Croods (2013 film)",
+										"The Dawn of Everything by David Graeber & David Wengrow",
+										"Dawn of Man (2018 game)",
+										"Early Man (2018 film)",
+										"Far Cry Primal (2016 game)",
+										"The Flintstones (1960 series)",
+										"Food—A Culinary Cultural History Podcast (podcast)",
+										"Genndy Tartakovsky's Primal (2019)",
+										"History of the World Podcast (podcast)",
+										"King Kong (2005)",
+										"Legend of Zelda: Breath of the Wild (2017 game)",
+										"Living in the Stone Age (podcast)",
+										"Mad Max: Fury Road (2015 film)",
+										"Many Waters by Madeleine L'Engle",
+										"The Manifest Zone (podcast)",
+										"Midsommar (2019 film)",
+										"Moana (2016 film)",
+										"Prehi/stories (podcast)",
+										"Quest for Fire (1981 film)",
+										"Road to El Dorado (2000 film)",
+										"Stuff to Blow Your Mind (podcast)",
+										"The Time Machine (2002 film)",
+										"West of Eden by Harry Harrison"
 									]
 								}
 							]
@@ -39058,6 +39891,1371 @@
 					"name": "Gore",
 					"entries": [
 						"Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) piercing damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Glimmer",
+			"source": "SSSOP",
+			"page": 364,
+			"size": [
+				"T"
+			],
+			"type": "celestial",
+			"alignment": [
+				"N",
+				"G"
+			],
+			"ac": [
+				{
+					"ac": 13
+				}
+			],
+			"hp": {
+				"average": 1,
+				"formula": "1d4 - 1"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": 10,
+				"canHover": true
+			},
+			"str": 1,
+			"dex": 17,
+			"con": 9,
+			"int": 2,
+			"wis": 11,
+			"cha": 6,
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"grappled",
+				"paralyzed",
+				"poisoned",
+				"prone",
+				"restrained",
+				"unconscious"
+			],
+			"senses": [
+				"passive Perception 10"
+			],
+			"passive": 10,
+			"languages": [],
+			"cr": "0",
+			"trait": [
+				{
+					"name": "Glimmerchime",
+					"entries": [
+						"The glimmer continually emits a faint chiming sound and pleasant scents such as flowers and fresh breeze."
+					]
+				},
+				{
+					"name": "Glow",
+					"entries": [
+						"The glimmer casts dim light in a 1-foot radius."
+					]
+				},
+				{
+					"name": "Lifesense",
+					"entries": [
+						"The glimmer can sense living creatures up to 1 mile away. The glimmer does not know their exact location, only general direction."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Lifespark",
+					"entries": [
+						"The glimmer touches a willing creature and heals it for 1 hit point. The glimmer then dies."
+					]
+				}
+			]
+		},
+		{
+			"name": "Notar",
+			"source": "SSSOP",
+			"page": 365,
+			"size": [
+				"T"
+			],
+			"type": "celestial",
+			"alignment": [
+				"L",
+				"G"
+			],
+			"ac": [
+				{
+					"ac": 14
+				}
+			],
+			"hp": {
+				"average": 2,
+				"formula": "1d4"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": 25,
+				"canHover": true
+			},
+			"str": 1,
+			"dex": 19,
+			"con": 10,
+			"int": 2,
+			"wis": 11,
+			"cha": 5,
+			"resist": [
+				"radiant"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"grappled",
+				"paralyzed",
+				"poisoned",
+				"prone",
+				"restrained",
+				"unconscious"
+			],
+			"senses": [
+				"passive Perception 10"
+			],
+			"passive": 10,
+			"languages": [
+				"Celestial"
+			],
+			"cr": "1/4",
+			"trait": [
+				{
+					"name": "Channel Emotion",
+					"entries": [
+						"The notar is created to express a single emotion, such as joy, disgust, fear, sadness, or anger. Its emotional state cannot be altered."
+					]
+				},
+				{
+					"name": "Incorporeal Movement",
+					"entries": [
+						"The notar can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object."
+					]
+				},
+				{
+					"name": "Innate Spellcasting",
+					"entries": [
+						"The notar's innate spellcasting ability is Charisma (spell save DC 7). The notar can innately cast the following spells, requiring no components:",
+						"At will: light, message, prestidigitation, guidance",
+						"1/day each: bless, command"
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Cheer",
+					"entries": [
+						"The notar ends the frightened condition affecting one creature it can see."
+					]
+				},
+				{
+					"name": "Healing Song",
+					"entries": [
+						"2/day. The notar chooses a willing creature it can see within 30 feet. The target is healed for 3 (1d4 + 1) hit points."
+					]
+				}
+			]
+		},
+		{
+			"name": "Chorister",
+			"source": "SSSOP",
+			"page": 365,
+			"size": [
+				"S"
+			],
+			"type": "celestial",
+			"alignment": [
+				"L",
+				"G"
+			],
+			"ac": [
+				{
+					"ac": 14
+				}
+			],
+			"hp": {
+				"average": 18,
+				"formula": "4d6 + 4"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": 30,
+				"canHover": true
+			},
+			"str": 7,
+			"dex": 19,
+			"con": 12,
+			"int": 11,
+			"wis": 12,
+			"cha": 14,
+			"resist": [
+				"radiant"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"grappled",
+				"paralyzed",
+				"poisoned",
+				"prone",
+				"restrained",
+				"unconscious"
+			],
+			"senses": [
+				"passive Perception 11"
+			],
+			"passive": 11,
+			"languages": [
+				"Common",
+				"Celestial"
+			],
+			"cr": "1/2",
+			"trait": [
+				{
+					"name": "Innate Spellcasting",
+					"entries": [
+						"The chorister's innate spellcasting ability is Charisma (spell save DC 12). The chorister can innately cast the following spells, requiring no components:",
+						"At will: charm, light, message, prestidigitation, guidance, sacred flame, toll the dead",
+						"3/day each: bless, command, guiding bolt, inflict wounds",
+						"1/day each: calm emotions, spiritual weapon"
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The chorister makes two light attacks."
+					]
+				},
+				{
+					"name": "Light Attack",
+					"entries": [
+						"Ranged Weapon Attack: +6 to hit, range 60/120 ft., one target. Hit: 6 (1d4 + 4) radiant damage."
+					]
+				},
+				{
+					"name": "Uplift",
+					"entries": [
+						"The chorister can end one of the following conditions affecting one creature it can see: charmed, frightened, stunned."
+					]
+				},
+				{
+					"name": "Healing Song",
+					"entries": [
+						"2/day. The chorister chooses a willing creature it can see within 30 feet. The target is healed for 7 (2d4 + 2) hp."
+					]
+				},
+				{
+					"name": "Incorporeal Movement",
+					"entries": [
+						"The chorister can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object."
+					]
+				}
+			]
+		},
+		{
+			"name": "Refractor",
+			"source": "SSSOP",
+			"page": 366,
+			"size": [
+				"S"
+			],
+			"type": "celestial",
+			"alignment": [
+				"N",
+				"G"
+			],
+			"ac": [
+				{
+					"ac": 14
+				}
+			],
+			"hp": {
+				"average": 27,
+				"formula": "6d6 + 6"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": 30,
+				"canHover": true
+			},
+			"str": 12,
+			"dex": 19,
+			"con": 13,
+			"int": 13,
+			"wis": 12,
+			"cha": 15,
+			"resist": [
+				"radiant"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"poisoned"
+			],
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 11,
+			"languages": [
+				"Common",
+				"Celestial"
+			],
+			"cr": "1",
+			"trait": [
+				{
+					"name": "Magic Resistance",
+					"entries": [
+						"The refractor has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				{
+					"name": "Hidden Reverse",
+					"entries": [
+						"The refractor can remain concealed by turning its dark back to a target. As a bonus action, the refractor can become invisible until it attacks, casts a spell, or moves."
+					]
+				},
+				{
+					"name": "Innate Spellcasting",
+					"entries": [
+						"The refractor's innate spellcasting ability is Charisma (spell save DC 12). The refractor can innately cast the following spells, requiring no components:",
+						"At will: light, message, sacred flame, thaumaturgy",
+						"3/day each: guiding bolt, inflict wounds, searing smite",
+						"1/day each: spiritual weapon"
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The refractor makes two piercing light attacks or one piercing light attack and one attack with its divine weapon. The refractor can use sundering strike in place of an attack with its divine weapon. The refractor cannot make divine weapon attacks or use sundering strike without a weapon it has summoned."
+					]
+				},
+				{
+					"name": "Piercing Light",
+					"entries": [
+						"Ranged Weapon Attack: +6 to hit, range 60/120 ft., one target. Hit: 9 (2d4 + 4) radiant damage."
+					]
+				},
+				{
+					"name": "Divine Weapon",
+					"entries": [
+						"Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing, slashing, or bludgeoning damage (refractor's choice) plus 2 (1d4) radiant damage."
+					]
+				},
+				{
+					"name": "Sundering Strike",
+					"entries": [
+						"Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing, slashing, or bludgeoning damage (refractor's choice) plus 2 (1d4) radiant damage, and the weapon explodes in a burst of radiant energy. All creatures of the refractor's choice within 10 feet of the target must make a DC 14 Constitution saving throw, taking 7 (2d6) radiant damage on a failure, or half as much on a success. The refractor's weapon is then destroyed."
+					]
+				},
+				{
+					"name": "Create Weapon",
+					"entries": [
+						"Recharge 4–6. The refractor materializes a weapon made of divine light."
+					]
+				},
+				{
+					"name": "Teleport",
+					"entries": [
+						"The refractor magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see."
+					]
+				}
+			]
+		},
+		{
+			"name": "Emissary",
+			"source": "SSSOP",
+			"page": 366,
+			"size": [
+				"M"
+			],
+			"type": "celestial",
+			"alignment": [
+				"L",
+				"G"
+			],
+			"ac": [
+				{
+					"ac": 13
+				}
+			],
+			"hp": {
+				"average": 45,
+				"formula": "6d8 + 18"
+			},
+			"speed": {
+				"walk": 30,
+				"fly": 30,
+				"canHover": true
+			},
+			"str": 16,
+			"dex": 16,
+			"con": 16,
+			"int": 14,
+			"wis": 14,
+			"cha": 16,
+			"save": {
+				"wis": "+4",
+				"cha": "+5"
+			},
+			"skill": {
+				"insight": "+4",
+				"perception": "+4",
+				"stealth": "+6"
+			},
+			"resist": [
+				"radiant"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"poisoned"
+			],
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 14,
+			"languages": [
+				"all"
+			],
+			"cr": "2",
+			"trait": [
+				{
+					"name": "Magic Resistance",
+					"entries": [
+						"The emissary has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				{
+					"name": "Innate Spellcasting",
+					"entries": [
+						"The emissary's innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). The emissary can innately cast the following spells, requiring no components:",
+						"At will: guidance, light, message, thaumaturgy",
+						"3/day each: aid, hold person, pass without trace",
+						"1/day each: beacon of hope, dispel magic, remove curse"
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The emissary makes two attacks."
+					]
+				},
+				{
+					"name": "Blade of Light",
+					"entries": [
+						"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage plus 3 (1d6) radiant damage."
+					]
+				},
+				{
+					"name": "Radiant Arrow",
+					"entries": [
+						"Ranged Weapon Attack: +5 to hit, range 90/180 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 3 (1d6) radiant damage."
+					]
+				},
+				{
+					"name": "Etherealness",
+					"entries": [
+						"The emissary gains the effects of the etherealness spell. The emissary can use this action again to end the effects."
+					]
+				},
+				{
+					"name": "Healing Touch",
+					"entries": [
+						"2/day. The emissary touches another creature. The creature magically regains 9 (3d4 + 2) hit points."
+					]
+				},
+				{
+					"name": "Change Shape",
+					"entries": [
+						"The emissary magically polymorphs into a Small or Medium humanoid or back into its true form. Other than its size, its statistics are the same in each form. If the emissary dies, it reverts to its true form."
+					]
+				},
+				{
+					"name": "Divine Message",
+					"entries": [
+						"The emissary has a specific creature they are tasked with delivering a message to, as designated by their creator. If the intended recipient can hear the emissary, the emissary can speak a message up to 1 minute in length and cast a spell of up to 9th level, which is chosen by their creator upon the emissary's creation."
+					]
+				}
+			]
+		},
+		{
+			"name": "Envoy",
+			"source": "SSSOP",
+			"page": 367,
+			"size": [
+				"M"
+			],
+			"type": "celestial",
+			"alignment": [
+				"L",
+				"G"
+			],
+			"ac": [
+				{
+					"ac": 16,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 67,
+				"formula": "9d8 + 27"
+			},
+			"speed": {
+				"walk": 30,
+				"fly": 30,
+				"canHover": true
+			},
+			"str": 18,
+			"dex": 15,
+			"con": 16,
+			"int": 14,
+			"wis": 14,
+			"cha": 18,
+			"save": {
+				"wis": "+4",
+				"cha": "+6"
+			},
+			"skill": {
+				"athletics": "+6",
+				"insight": "+4",
+				"perception": "+4"
+			},
+			"resist": [
+				"radiant"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"poisoned"
+			],
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 14,
+			"languages": [
+				"all"
+			],
+			"cr": "4",
+			"trait": [
+				{
+					"name": "Innate Spellcasting",
+					"entries": [
+						"The envoy's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). The envoy can innately cast the following spells, requiring no components:",
+						"At will: bless, command, guiding bolt, inflict wounds",
+						"3/day each: beacon of hope, daylight, dispel magic",
+						"1/day each: banishment, dimension door"
+					]
+				},
+				{
+					"name": "Illuminating Form",
+					"entries": [
+						"The envoy sheds bright light in a 10-foot radius and dim light in a 20-foot radius."
+					]
+				},
+				{
+					"name": "Divine Awareness",
+					"entries": [
+						"The envoy knows if it hears a lie."
+					]
+				},
+				{
+					"name": "Aura of Mending",
+					"entries": [
+						"At the start of the envoy's turn, creatures of the envoy's choice within 20 feet of it regain 4 (1d8) hit points. Creatures that have more than half of their hit points cannot regain hit points in this way."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The envoy makes two attacks with either its radiant staff, searing bolt, or both."
+					]
+				},
+				{
+					"name": "Radiant Staff",
+					"entries": [
+						"Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) bludgeoning damage plus 4 (1d8) radiant damage."
+					]
+				},
+				{
+					"name": "Searing Bolt",
+					"entries": [
+						"Ranged Spell Attack: +6 to hit, range 90 ft., one target. Hit: 13 (2d8 + 4) radiant damage."
+					]
+				},
+				{
+					"name": "Presence Pulse",
+					"entries": [
+						"The envoy flares its divine presence. Creatures of the envoy's choice within 20 feet must make a DC 14 Wisdom saving throw or become frightened of the envoy for 1 minute. A frightened creature can repeat the saving throw at the end of each of their turns, ending the effect on a success."
+					]
+				},
+				{
+					"name": "Teleport",
+					"entries": [
+						"The envoy magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see."
+					]
+				},
+				{
+					"name": "Blinding Light",
+					"entries": [
+						"Recharge 5–6. The envoy releases a burst of inner light. Creatures the envoy chooses within 20 feet of it that can see it must make a DC 14 Constitution saving throw or become blinded for 1 minute. A blinded creature can repeat the saving throw at the end of each of their turns, ending the effect on a success."
+					]
+				}
+			]
+		},
+		{
+			"name": "Image Bearer",
+			"source": "SSSOP",
+			"page": 367,
+			"size": [
+				"L"
+			],
+			"type": "celestial",
+			"alignment": [
+				"N",
+				"G"
+			],
+			"ac": [
+				{
+					"ac": 17,
+					"from": [
+						"natural armor"
+					]
+				},
+				{
+					"ac": 19,
+					"condition": "with shield of faith"
+				}
+			],
+			"hp": {
+				"average": 94,
+				"formula": "11d8 + 45"
+			},
+			"speed": {
+				"walk": 40,
+				"fly": 40,
+				"canHover": true
+			},
+			"str": 20,
+			"dex": 15,
+			"con": 18,
+			"int": 14,
+			"wis": 16,
+			"cha": 20,
+			"save": {
+				"wis": "+6",
+				"cha": "+8"
+			},
+			"skill": {
+				"insight": "+6",
+				"perception": "+6"
+			},
+			"resist": [
+				"radiant"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"poisoned"
+			],
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 16,
+			"languages": [
+				"all",
+				"telepathy 60 ft."
+			],
+			"cr": "6",
+			"trait": [
+				{
+					"name": "Innate Spellcasting",
+					"entries": [
+						"The image bearer's innate spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). The image bearer can innately cast the following spells, requiring no components:",
+						"At will: bless, command, guiding bolt, inflict wounds, shield of faith",
+						"3/day each: beacon of hope, dispel magic, hold person, spirit guardians",
+						"1/day each: banishment, dimension door, wall of fire"
+					]
+				},
+				{
+					"name": "Dispersal",
+					"entries": [
+						"When the image bearer dies, it erupts in a burst of divine energy. All creatures within 10 feet must make a DC 16 Dexterity saving throw, taking 21 (6d6) radiant damage on a failure, or half as much on a success."
+					]
+				},
+				{
+					"name": "Divine Awareness",
+					"entries": [
+						"The image bearer knows if it hears a lie."
+					]
+				},
+				{
+					"name": "Domain Focus",
+					"entries": [
+						"The area within 30 feet of the image bearer is under the first effect of the hallow spell. Elementals, fey, fiends, and undead can't enter the area, nor can such creatures charm, frighten, or possess creatures within it (and those effects end if the creature suffering from them enters the area)."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The image bearer makes two attacks with its divine strike, radiant gaze, or both. If the image bearer hits the same creature with both attacks, the target must make a DC 16 Strength saving throw or be knocked prone."
+					]
+				},
+				{
+					"name": "Divine Strike",
+					"entries": [
+						"Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) slashing damage plus 7 (2d6) radiant damage."
+					]
+				},
+				{
+					"name": "Radiant Gaze",
+					"entries": [
+						"Ranged Spell Attack: +8 to hit, range 90 ft., one target. Hit: 17 (5d6) radiant damage."
+					]
+				},
+				{
+					"name": "Overwhelming Presence",
+					"entries": [
+						"Recharge 5-6. The image bearer briefly channels the presence of their creator god. Creatures of the image bearer's choice within 30 feet must make a DC 16 Wisdom saving throw or become stunned for 1 minute. Stunned creatures can repeat the saving throw at the end of each of their turns, ending the stunned effect on a success."
+					]
+				},
+				{
+					"name": "Divine Transport",
+					"entries": [
+						"1/day. The image bearer and up to five other willing creatures of its choice within 10 feet are transported as if by the teleport spell."
+					]
+				}
+			]
+		},
+		{
+			"name": "Woolly Unicorn",
+			"source": "SSSOP",
+			"page": 368,
+			"size": [
+				"H"
+			],
+			"type": "celestial",
+			"alignment": [
+				"N",
+				"G"
+			],
+			"ac": [
+				{
+					"ac": 17,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 184,
+				"formula": "16d12 + 80"
+			},
+			"speed": {
+				"walk": 50
+			},
+			"str": 24,
+			"dex": 14,
+			"con": 21,
+			"int": 12,
+			"wis": 17,
+			"cha": 18,
+			"resist": [
+				"cold"
+			],
+			"immune": [
+				"poison"
+			],
+			"conditionImmune": [
+				"charmed",
+				"paralyzed",
+				"poisoned"
+			],
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 13,
+			"languages": [
+				"Giant",
+				"Celestial",
+				"telepathy 60 ft."
+			],
+			"cr": "13",
+			"trait": [
+				{
+					"name": "Trampling Charge",
+					"entries": [
+						"If the woolly unicorn moves at least 15 feet straight toward a target and then hits it with a horn attack on the same turn, the target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the woolly unicorn can make one attack with its hooves against it as a bonus action."
+					]
+				},
+				{
+					"name": "Innate Spellcasting",
+					"entries": [
+						"The woolly unicorn's innate spellcasting ability is Charisma (spell save DC 17). The unicorn can innately cast the following spells, requiring no components:",
+						"At will: command, detect evil and good, detect magic, heroism",
+						"1/day each: banishment, blinding smite, daylight"
+					]
+				},
+				{
+					"name": "Magic Resistance",
+					"entries": [
+						"The woolly unicorn has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				{
+					"name": "Magic Weapons",
+					"entries": [
+						"The woolly unicorn's weapon attacks are magical."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The unicorn makes two attacks: one with its hooves and one with its horn."
+					]
+				},
+				{
+					"name": "Hooves",
+					"entries": [
+						"Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 17 (3d6 + 7) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Horn",
+					"entries": [
+						"Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 23 (3d10 + 7) piercing damage."
+					]
+				},
+				{
+					"name": "Healing Touch",
+					"entries": [
+						"3/Day. The unicorn touches another creature with its horn. The target magically regains 22 (4d8 + 4) hit points. In addition, the touch removes all diseases and neutralizes all poisons afflicting the target."
+					]
+				},
+				{
+					"name": "Teleport",
+					"entries": [
+						"1/Day. The unicorn magically teleports itself and up to three willing creatures it can see within 5 feet of it, along with any equipment they are wearing or carrying, to a location the unicorn is familiar with, up to 1 mile away."
+					]
+				}
+			],
+			"legendaryHeader": [
+				"The woolly unicorn can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The woolly unicorn regains spent legendary actions at the start of its turn."
+			],
+			"legendary": [
+				{
+					"name": "Hooves",
+					"entries": [
+						"The unicorn makes one attack with its hooves."
+					]
+				},
+				{
+					"name": "Shimmering Shield",
+					"entries": [
+						"Costs 2 Actions. The unicorn exudes a burst of radiant energy, searing those nearby. All creatures of the unicorn's choice within 15 feet must make a DC 16 Constitution saving throw, taking 13 (3d8) radiant damage and becoming blinded until the end of the unicorn's next turn on a failure, or taking half as much damage on a success."
+					]
+				},
+				{
+					"name": "Heal Self",
+					"entries": [
+						"Costs 3 Actions. The unicorn magically regains 22 (4d8 + 4) hit points."
+					]
+				}
+			]
+		},
+		{
+			"name": "Ancestor",
+			"source": "SSSOP",
+			"page": 370,
+			"size": [
+				"M"
+			],
+			"type": "undead",
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 12
+				}
+			],
+			"hp": {
+				"average": 7,
+				"formula": "2d6"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": 10,
+				"canHover": true
+			},
+			"str": 1,
+			"dex": 14,
+			"con": 10,
+			"int": 12,
+			"wis": 12,
+			"cha": 5,
+			"resist": [
+				"acid",
+				"cold",
+				"fire",
+				"lightning",
+				"thunder",
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks"
+				}
+			],
+			"immune": [
+				"necrotic",
+				"poison"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained",
+				"unconscious"
+			],
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"languages": [
+				"all languages it knew in life"
+			],
+			"cr": "1/4",
+			"trait": [
+				{
+					"name": "Ethereal Sight",
+					"entries": [
+						"The ancestor can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa."
+					]
+				},
+				{
+					"name": "Incorporeal Movement",
+					"entries": [
+						"The ancestor can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Chilling Grasp",
+					"entries": [
+						"Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) necrotic damage."
+					]
+				},
+				{
+					"name": "Impart Knowledge",
+					"entries": [
+						"The ancestor touches a willing creature and makes a DC 10 Intelligence or Wisdom check. On a success, the creature can add a 1d4 to the next ability check it makes in the next 24 hours."
+					]
+				}
+			]
+		},
+		{
+			"name": "Hunter",
+			"source": "SSSOP",
+			"page": 372,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"any kinship"
+				]
+			},
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 12,
+					"from": [
+						"leather armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 16,
+				"formula": "3d8 + 3"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 13,
+			"dex": 13,
+			"con": 13,
+			"int": 10,
+			"wis": 12,
+			"cha": 10,
+			"skill": {
+				"perception": "+3",
+				"survival": "+3"
+			},
+			"senses": [
+				"passive Perception 13"
+			],
+			"passive": 13,
+			"languages": [
+				"Common"
+			],
+			"cr": "1/4",
+			"action": [
+				{
+					"name": "Spear",
+					"entries": [
+						"Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack."
+					]
+				},
+				{
+					"name": "Longbow",
+					"entries": [
+						"Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Lead Hunter",
+			"source": "SSSOP",
+			"page": 372,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"any kinship"
+				]
+			},
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 14,
+					"from": [
+						"stone-studded leather armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 39,
+				"formula": "6d8 + 12"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 16,
+			"dex": 14,
+			"con": 15,
+			"int": 10,
+			"wis": 14,
+			"cha": 10,
+			"skill": {
+				"perception": "+4",
+				"survival": "+4",
+				"intimidation": "+2",
+				"stealth": "+6"
+			},
+			"senses": [
+				"passive Perception 14"
+			],
+			"passive": 14,
+			"languages": [
+				"Common"
+			],
+			"cr": "2",
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The lead hunter makes two attacks: two with their spear or two with their longbow."
+					]
+				},
+				{
+					"name": "Spear",
+					"entries": [
+						"Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack."
+					]
+				},
+				{
+					"name": "Longbow",
+					"entries": [
+						"Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Camouflage",
+					"entries": [
+						"The lead hunter can use its reaction whenever it perceives another creature, to take the Hide action. When the lead hunter does so, any allies it can see can also use their reaction to take the Hide action."
+					]
+				},
+				{
+					"name": "Hunting Shout",
+					"entries": [
+						"When an ally the lead hunter can see makes an attack roll, the lead hunter can use its reaction to shout encouragement or instruction, granting the ally an additional 1d4 on the attack roll."
+					]
+				}
+			]
+		},
+		{
+			"name": "Shaman",
+			"source": "SSSOP",
+			"page": 373,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"any kinship"
+				]
+			},
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 13,
+					"from": [
+						"beast hide"
+					]
+				}
+			],
+			"hp": {
+				"average": 33,
+				"formula": "6d8 + 6"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 11,
+			"dex": 12,
+			"con": 13,
+			"int": 12,
+			"wis": 16,
+			"cha": 14,
+			"skill": {
+				"insight": "+5",
+				"perception": "+5",
+				"religion": "+3"
+			},
+			"senses": [
+				"passive Perception 14"
+			],
+			"passive": 14,
+			"languages": [
+				"Common",
+				"one of the following: Celestial, Infernal, or Abyssal"
+			],
+			"cr": "2",
+			"trait": [
+				{
+					"name": "Divine Eminence",
+					"entries": [
+						"As a bonus action, the shaman can expend a spell slot to cause their own melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the shaman expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st."
+					]
+				},
+				{
+					"name": "Spellcasting",
+					"entries": [
+						"The shaman is a 5th-level spellcaster. Their spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The shaman has the following cleric spells prepared:",
+						"Cantrips (at will): light, sacred flame, thaumaturgy",
+						"1st level (4 slots): cure wounds, guiding bolt, sanctuary",
+						"2nd level (3 slots): lesser restoration, spiritual weapon, magic weapon",
+						"3rd level (2 slots): dispel magic, spirit guardians"
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Dagger",
+					"entries": [
+						"Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 3 (1d4 + 1) piercing damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "High Shaman",
+			"source": "SSSOP",
+			"page": 373,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"any kinship"
+				]
+			},
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 14,
+					"from": [
+						"heavy fur"
+					]
+				}
+			],
+			"hp": {
+				"average": 59,
+				"formula": "9d8 + 18"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 11,
+			"dex": 12,
+			"con": 14,
+			"int": 15,
+			"wis": 18,
+			"cha": 16,
+			"skill": {
+				"insight": "+6",
+				"perception": "+6",
+				"religion": "+4"
+			},
+			"senses": [
+				"passive Perception 14"
+			],
+			"passive": 14,
+			"languages": [
+				"Common",
+				"one of the following: Celestial, Infernal, or Abyssal"
+			],
+			"cr": "4",
+			"trait": [
+				{
+					"name": "Divine Eminence",
+					"entries": [
+						"As a bonus action, the high shaman can expend a spell slot to cause their melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the high shaman expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st."
+					]
+				},
+				{
+					"name": "Spellcasting",
+					"entries": [
+						"The high shaman is an 8th-level spellcaster. Their spellcasting ability is Wisdom (spell save DC 14, +5 to hit with spell attacks). The high shaman has the following cleric spells prepared:",
+						"Cantrips (at will): light, sacred flame, thaumaturgy",
+						"1st level (4 slots): cure wounds, guiding bolt, sanctuary",
+						"2nd level (3 slots): lesser restoration, spiritual weapon, magic weapon",
+						"3rd level (3 slots): dispel magic, sleet storm, spirit guardians",
+						"4th level (2 slots): banishment, divination, wall of fire"
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Dagger",
+					"entries": [
+						"Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 3 (1d4 + 1) piercing damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Sorcerer",
+			"source": "SSSOP",
+			"page": 372,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"any kinship"
+				]
+			},
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"mage armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 39,
+				"formula": "6d8 + 12"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 10,
+			"dex": 14,
+			"con": 15,
+			"int": 13,
+			"wis": 11,
+			"cha": 17,
+			"skill": {
+				"arcana": "+3",
+				"insight": "+2",
+				"persuasion": "+5"
+			},
+			"senses": [
+				"passive Perception 10"
+			],
+			"passive": 10,
+			"languages": [
+				"Common"
+			],
+			"cr": "3",
+			"trait": [
+				{
+					"name": "Twinned Spell",
+					"entries": [
+						"1/Long Rest. When the sorcerer casts a spell that targets only one creature and doesn't have a range of Self, they can target a second creature in range with the same spell. The spell must be incapable of targeting more than one creature at the spell's current level."
+					]
+				},
+				{
+					"name": "Spellcasting",
+					"entries": [
+						"The sorcerer is a 6th-level spellcaster. Their spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). The sorcerer knows the following spells:",
+						"Cantrips (at-will): chill touch, mage hand, ray of frost, shocking grasp",
+						"1st-level (4 slots): burning hands, detect magic, mage armor*, shield",
+						"2nd-level (3 slots): hold person, scorching ray, web",
+						"3rd-level (3 slots): counterspell, fireball",
+						"*The sorcerer casts these spells on themself before combat if able."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Dagger",
+					"entries": [
+						"Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
 					]
 				}
 			]
