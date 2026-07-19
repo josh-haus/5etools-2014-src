@@ -22590,6 +22590,178 @@
 									]
 								}
 							]
+						},
+						{
+							"type": "entries",
+							"name": "Bestiary",
+							"entries": [
+								"Now we come to a deadly span of pages—the details of the many beasts and monsters that roam the land, sea, and sky of Planegea. The creatures listed here are simply the very outer edge of all that exists in the world. All the beings of 5th Edition have their place in Planegea. But the ones described here are particular to this world.",
+								{
+									"type": "entries",
+									"name": "Arctusk (Deinotherium)",
+									"entries": [
+										"Trees bend and creak as the mighty arctusk wraps its thick trunk around their branches, using its long curving tusks to strip them of leaves and bark. The arctusk looks like a tall, slender elephant, with small ears, a short, thick trunk, and two curving tusks that curve downward from its lower lip towards its heart.",
+										"Shearing Browser. A gentle but powerful beast, the arctusk is primarily interested in finding food. It grips tree branches with its trunk and then runs its downward-curving tusks along the branch and tree, covering the ground in plant matter. It then browses the sheared greenery at its leisure, and can be quite choosy about its favorite morsels. When trees are scarce, it uses its tusks to dig for roots and water, which is key to survival in the arid Wintersouth.",
+										"Common Ivory. The arctusks' ivory, though not as long or fine as that of a mammoth, is plentiful, since the arctusks are able to regrow lost or broken tusks over time. An arctusk sighting often prompts a clan to send gatherers out to follow it at a distance, watching for dropped ivory in its path, which can be of great use in crafting and building. Some clans have successfully domesticated arctusks, who make excellent companions for most of the year—although the clan must be careful to turn them loose and stay far away during musk season.",
+										"Musk Season. The normally docile arctusk is harmless enough until late spring—also known as musk season. When the males are driven to mate, they exude a powerful, reeking musk, which hangs in the air in a stinking cloud and can be smelled for miles. During this time, they are belligerent, even frenzied, and use shows of aggression to attract their mates. Many clans have been scattered by the mad, stabbing and stomping onslaught of a musking arctusk.",
+										"Hated by Treants. Though treants and other awakened plants have little patience for large herbivores at the best of times, they reserve a special hatred for arctusks, whose hunger can leave an entire grove stripped and bare in a matter of hours. If treants become aware of an arctusk in the area, whether wild or domesticated, they will avoid it or kill it before it damages them and their slumbering brethren."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Batface",
+									"entries": [
+										"Many hapless wanderers, taking shelter for the night in a cave or under cliffs, have woken to find themselves silently surrounded by scores of glittering eyes. Bipedal mouselike creatures, covered in sleek gray fur with a white ruff at their necks, are the last beings their victims ever see. Black, pushed-in faces with enormous ears at first give a sweet, if eerie impression—and then the batfaces bite with their needle-like teeth.",
+										"The bite of a batface has a natural toxin that numbs, charms, and induces drowsiness. Bitten creatures lose consciousness quickly, and their last thought is euphoric—they feel that the world is kind and beautiful; it's good that they can provide food for these adorable, noble creatures.",
+										"Silent Crag-Dwellers. Batfaces make their homes among rocks, in tribes of about fifty, ruled by a pair of matriarchs. They fashion primitive nets and ropes and shabby shelters made from the gear and skin of their victims, and live in silent squalor, using gestures with their tiny, nimble hands to communicate. When not hunting or expanding their settlement, batfaces use stones to make countless tiny scratches on the wall, like prisoners counting the days of their confinement. Nobody knows the significance of these marks except the batfaces, but learned travelers know to avoid caves with such marks.",
+										"Creeping Threat. Batfaces are carnivores who never attack directly and scatter if threatened, subsisting on insects when larger beasts are scarce. Their chief method of securing prey is to find a creature sleeping within their territory, surround them noiselessly, and secure them gently with ropes and nets. Once satisfied that their prey is trapped, they begin to bite. The bite usually wakes up the ensnared creature, but by then it's already too late.",
+										"Valued Toxin. Batfaces meet their stealthy match in halflings, who know their ways well, and have spent many long nights struggling against the little creatures in silent darkness. Halflings hunt them for their toxin, which they apply to their weapons. It can also be distilled into a powerful, euphoric liquor called smiledrink.",
+										{
+											"type": "inset",
+											"name": "Smiledrink",
+											"entries": [
+												"Smiledrink is a thick, clear liquid with a pearlescent glitter, made from the toxin of the batface. A creature that consumes smiledrink becomes poisoned for 1 hour, during which time they experiences euphoria and powerful feelings of universal love and peace.",
+												"Any creature that consumes smiledrink has a 10 percent chance of falling unconscious for the duration of the drink's effect. When the creature awakes, it must succeed on a DC 15 Wisdom saving throw or be stunned for 1d4 hours. The stunned creature experiences feelings of deep longing, grief, and melancholy."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Dinosaurs & Leatherbeasts",
+									"entries": [
+										"The world of Planegea is rich with saurian life, but the dinosaurs and other huge reptiles called leatherbeasts—those great monsters of old bloodlines and long memories—are among the most powerful and ferocious.",
+										"Arising primarily from the Venom Abyss, these creatures come in myriad forms, with scales and feathers of every color. Although some have been domesticated, even tame dinosaurs and leatherbeasts are creatures of instinct, respecting no authority besides hunger.",
+										{
+											"type": "entries",
+											"name": "Bouldertail (Ankylosaurus)",
+											"entries": [
+												"Though they may graze on bush and brush, the giant, armored bouldertail is to be feared. With bones like stone fused to their backs and bodies, and tails like war-clubs, they crush bone and cripple the legs of even the largest of monsters, smashing the chests of many who have tried to approach them.",
+												"Bouldertails are long-lived and fearsome, and a single tamed bouldertail can provide protection and muscle for a clan for generations. Human-led clans have been known to risk everything to capture and befriend a bouldertail, knowing that such thundering power on their side will be worth the cost of the lives lost in the attempt."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Chattercrest (Caviramus)",
+											"entries": [
+												"These gregarious little soarers are remarkable for their brightly colored crests and their ability to mimic even complex human speech patterns. Domesticated long ago, chattercrests can be trained to fly far-flung routes and deliver spoken or sung messages, making them invaluable messengers for mortal clans.",
+												"Edgegather is famous for its chattercrest aviaries, where obsessive collectors barter enormous deals for creatures with unusually spectacular frills. Here chattercrest races and singing competitions are popular occasions for entertainment and gambling."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Deathwalker (Gigantosaurus)",
+											"entries": [
+												"The horrors of the Nightmare World seem flimsy and frail when compared to the terror of the monster they call the deathwalker. A mountain of muscle and malice, with teeth like swords and all the raw power of the Venom Abyss in its roar, the deathwalker is a beast made of pure fear. Even the tyrantmaw flees like a frightened shrub-hen when the deathwalker bellows.",
+												"No deathwalker has ever been glimpsed outside of the Venom Abyss. If one was, it would certainly be worshiped immediately as a god—though such worship would scarcely save those it chose as prey."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Doomclaw (Utahraptor)",
+											"entries": [
+												"These feathered, sickle-clawed predators are feared throughout the Venom Abyss. With sleek bodies, beautiful plumage, and long tails, at first they appear as graceful jungle spirits. Their eyes sparkle with predatory cunning, and they speak in a rough language of their own (with some even grasping the basics of other tongues).",
+												"To see one doomclaw is to be hunted by at least two others, and those bright, bloodstained feathers are the last thing many hunters have ever seen. Doomclaws mark their territory with long gashes, gouged in trees and earth with their terrifying claws, and filled with the fresh blood of their victims, poured out like an offering to the dark spirits the doomclaws revere."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Farloper (Gallimimus)",
+											"entries": [
+												"These long-legged, ostrich-like dinosaurs are favorite steeds of plains-dwellers. They are bad-tempered and nervous, but intelligent, and can be tamed quickly if raised from the egg. A farloper can cover enormous distances quickly, and is strong enough to carry two or three riders at once.",
+												"In the wild, farlopers travel in massive herds, which can cover an entire plain in their numbers. A farloper stampede that fills the land with its drumming feet can cut off the route of travelers for days at a time."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Flintback (Stegosaurus)",
+											"entries": [
+												"This shimmering plant-eater is a sight to behold. Beloved by mortals across the Great Valley and considered good fortune, a herd of flintbacks is occasion for a clan to stop work for the day to draw near and gaze in wonder. Slow-moving and calm, flintbacks can ignite their large back plates with magical light, causing a sense of hope and euphoria in those who behold the sight.",
+												"From a distance, flintbacks are delightful, but the dazzling display is deadly up close. When predators or hunters attempt to harm a flintback, its magical gleam stops them in their tracks. This creates an opening in which its spiked tail can swing in and smash the would-be attacker while they stare at the beauty that kills them. Particularly strategic warlords have been known to mount elite hunters on enraged flintbacks, using their magic and might to disarm and destroy those who oppose them."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Frilled Spitter (Dilophosaurus)",
+											"entries": [
+												"Only a little larger than a dog, these lean therapods have intelligent eyes and long, delicate claws held close to their chests as if they are afraid to get them dirty. At first, they give a harmless and curious impression—they seem eager to get close to other animals, and have a playful and cheery air. That is, until they attack.",
+												"When they strike, the frilled spitter expands a bright, colorful neck-frill that rattles, and they emit a shrill hiss, like a cobra. The hiss is followed by an expulsion of an acidic venom that blinds and stings their prey, rendering them vulnerable to the frilled spitter's needle-sharp teeth.",
+												"Frilled spitters rarely make their way out of the Venom Abyss, but when they do, the Venomguard seeks to hunt them down as quickly as possible—they breed quickly and lay scores of eggs in a clutch, so a few frilled spitters on the loose can quickly become an epidemic."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Great-Hook (Therizinosaurus)",
+											"entries": [
+												"The towering great-hook looks like a gigantic cross between a sloth and a chicken, and would be comical if it weren't so staggeringly enormous. Its huge hooked claws lock onto the trunk of a tree while it uses its long neck to browse for delicate foliage and moss.",
+												"The great-hook moves slowly and deliberately, and even when threatened demonstrates a kind of slow-motion grace in its arced neck and extended claws. Great-hooks are among the only dinosaurs known to face down the tyrantmaw and live, their immense claws providing ample defense against even the most aggressive predator.",
+												"The enormous claws of the great-hook are highly sought by crafters, and many tribes have tried to domesticate the gentle titan. However, mortal clans seem to be beneath its notice, as it continues on its deliberate way, searching for the next leafy tree."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Greatwing (Quetzalcoatlus)",
+											"entries": [
+												"A huge, swiftly-moving shadow is the last thing one sees before the horror begins. The greatwing is the apex predator of the skies. A single greatwing can drop from above, stabbing with a beak longer than a man is tall, then chase down fleeing prey with a four-legged gallop before spearing it in the back. But greatwings hunt in flocks, not alone—and a handful of greatwings are more than enough to devastate a clan and terrify an entire region.",
+												"Those who understand the secret ways of greatwings know that they harbor a particular hatred for dragons, and will band together to drive out a dragon from their territory, even if doing so requires a suicidal onslaught."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Littlesnap (Euparkaria)",
+											"entries": [
+												"These miniature raptors developed strength not as individuals, but in numbers. Tiny creatures who look like no more than hatchlings, littlesnaps are jewel-colored, with oversized heads and feet.",
+												"Littlesnaps travel not in packs, but in swarms. Once they bring their prey to the ground, they can cover it entirely in their brightly-colored bodies, picking its skeleton clean in a matter of minutes."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Madcrash (Yi Qi)",
+											"entries": [
+												"These daredevil gliders are a joke at best and a terror at worst, hurtling with suicidal speed through the foliage of the primordial jungle. Awkward and clumsy, they lurch from branch to branch, crashing constantly as they scrabble and careen in chaotic zig-zag movements.",
+												"An angry madcrash is a dangerous enemy not because it is particularly powerful, but because it has no sense of self-preservation whatsoever, and will divebomb even mighty creatures with snapping jaws and scrabbling claws until it or its target drops dead."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Mammothmaw",
+											"entries": [
+												"This gargantuan dinosaur is mostly mouth, with a huge head like an alligator and a short, sluggish body. The mammothmaw is an ambush predator who rarely moves if it can help it. It finds a grove or canyon in which to wait, and remains perfectly still with its mouth hanging open. Once it lurches forward and snaps its jaw closed, it locks down with such a powerful bite that it's incapable of opening its mouth again for an hour.",
+												"Mammothmaws are patient, often allowing smaller beasts to scurry across their tongues, or even nest among their teeth. They can eat as infrequently as once every few months, provided they can bring their huge bite down on a sufficiently large victim."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Sailstalker (Spinosaurus)",
+											"entries": [
+												"The swamps and marshes are dangerous lands. The shallow water and tall bush hide a dangerous monster. Quiet, stalking—then suddenly, with a rush, it lunges and sinks its teeth into its prey, thrashing its muscular neck, its finned back flexing as it drowns its prey, then swallows it whole. Then, the sailstalker fades into the marshy edges, waiting for its next meal.",
+												"Sailstalkers are most commonly found in Ghostmire. There, the undeath of the place has seeped into their skin, and the membrane of their sails faintly glows green and rattles with the spirits of the creatures they have devoured. Some even say that it's possible to whisper to those long-dead through such a creature's sail—that the walls of death are thin around such beasts—if you could only approach one without joining the dead yourself."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Other Dinosaurs",
+											"entries": [
+												"The creatures listed here are only a handful of those that roam the world of Planegea, and are by no means an exhaustive list. Many 5th Edition materials list iconic beasts like those listed below—be sure to draw them from those sources as well for your games.",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Beakchaser (Hadrosaurus)",
+														"Hornbeast (Triceratops)",
+														"Littleclaw (Deinonychus)",
+														"Razormaw (Allosaurus)",
+														"Sailcrawler (Dimetrodon)",
+														"Stompwalker (Brontosaurus)",
+														"Tyrantmaw (Tyrannosaurus Rex)",
+														"Wavesnake (Plesiosaurus)"
+													]
+												}
+											]
+										}
+									]
+								}
+							]
 						}
 					]
 				}
@@ -32725,6 +32897,1698 @@
 			],
 			"legendaryHeader": [
 				"Twr can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Twr regains spent legendary actions at the start of her turn."
+			]
+		},
+		{
+			"name": "Unkillable Urhosh",
+			"source": "SSSOP",
+			"size": [
+				"H"
+			],
+			"type": {
+				"type": "celestial",
+				"tags": [
+					"god"
+				]
+			},
+			"alignment": [
+				"L",
+				"G"
+			],
+			"ac": [
+				{
+					"ac": 19,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 396,
+				"formula": "24d12 + 240"
+			},
+			"speed": {
+				"walk": 50,
+				"swim": 40
+			},
+			"str": 27,
+			"dex": 12,
+			"con": 30,
+			"int": 17,
+			"wis": 22,
+			"cha": 22,
+			"cr": "24",
+			"page": 316,
+			"save": {
+				"dex": "+10",
+				"con": "+17",
+				"int": "+10",
+				"cha": "+11"
+			},
+			"skill": {
+				"athletics": "+22",
+				"perception": "+13",
+				"insight": "+13"
+			},
+			"resist": [
+				"radiant",
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks"
+				}
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"poisoned"
+			],
+			"senses": [
+				"truesight 120 ft."
+			],
+			"passive": 23,
+			"languages": [
+				"all",
+				"telepathy 120 ft."
+			],
+			"trait": [
+				{
+					"name": "Spiritual Form.",
+					"entries": [
+						"When Urhosh would be reduced to 0 hit points, he is instead reduced to 1 hit point. He gains a number of temporary hit points equal to half of his maximum hit points and ends all conditions affecting him. He then takes on his Spiritual Form, and his features and actions change accordingly."
+					]
+				},
+				{
+					"name": "Regeneration.",
+					"entries": [
+						"Urhosh regains 30 hit points at the start of his turn if he has at least 1 hit point. If Urhosh takes 30 or more necrotic damage in a single turn, this trait doesn't function at the start of his next turn."
+					]
+				},
+				{
+					"name": "Spirit Hive.",
+					"entries": [
+						"Urhosh is surrounded by a swarm of spirits that take the form of buzzing bees. The hive extends 10 feet from Urhosh in every direction. When a creature starts their turn within the hive or enters it for the first time on a turn, they must make a DC 21 Constitution saving throw, taking 13 (3d8) radiant damage on a failure, or half as much on a success. Urhosh can choose any number of creatures to be immune to this effect."
+					]
+				},
+				{
+					"name": "Magic Resistance.",
+					"entries": [
+						"Urhosh has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				{
+					"name": "Magic Weapons.",
+					"entries": [
+						"Urhosh's weapon attacks are magical."
+					]
+				},
+				{
+					"name": "Innate Spellcasting.",
+					"entries": [
+						"Urhosh's spellcasting ability is Charisma (spell save DC 21). Urhosh can innately cast the following spells, requiring no material components:",
+						"At-will: aid, command, cure wounds, detect evil and good, detect magic, guidance, guiding bolt, healing word, hold person, lesser restoration, protection from poison, sacred flame",
+						"6/day: banishment, confusion, create food and water, dispel evil and good, greater restoration, hallow, heal, heroes' feast, insect plague",
+						"3/day: divine word, earthquake, holy aura, planeshift, regenerate, symbol",
+						"1/day: astral projection, mass heal, gate"
+					]
+				},
+				{
+					"name": "Legendary Resistance (3/Day).",
+					"entries": [
+						"If Urhosh fails a saving throw, he can choose to succeed instead."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"Urhosh makes three attacks: two with his claws or Ferocious Swipe and one with his bite. He can replace any of these attacks with Conjure Weapon."
+					]
+				},
+				{
+					"name": "Claw.",
+					"entries": [
+						"Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 18 (3d6 + 8) slashing damage, or 29 (6d6 + 8) slashing damage if the target is prone."
+					]
+				},
+				{
+					"name": "Bite.",
+					"entries": [
+						"Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 26 (4d8 + 8) piercing damage. The target must make a DC 23 Strength saving throw or be knocked prone."
+					]
+				},
+				{
+					"name": "Conjure Weapon.",
+					"entries": [
+						"Ranged Spell Attack: +13 to hit, range 120 ft., one target. Hit: 17 (2d10 + 6) radiant damage."
+					]
+				},
+				{
+					"name": "Ferocious Swipe (Recharge 4-6).",
+					"entries": [
+						"Urhosh makes a claw attack with advantage against a creature within reach. On a hit, the creature suffers the attack's effects as normal, and a Large or smaller creature must make a DC 23 Strength saving throw or be hurled up to 60 feet in a direction of Urhosh's choice. If it lands or collides with a surface that halts its movement, the creature takes 1d6 bludgeoning damage for every 10 feet traveled and falls prone."
+					]
+				},
+				{
+					"name": "Daunting Roar (Recharge 5-6).",
+					"entries": [
+						"Urhosh unleashes a bone-shaking roar. All creatures within 90 feet that can hear him must make a DC 21 Wisdom saving throw. A creature that fails its saving throw becomes frightened for 1 minute, and must use its action to move as far as its speed allows away from Urhosh. A frightened creature can repeat the saving throw at the end of each of their turns, ending the effect on a success."
+					]
+				},
+				{
+					"name": "Gregarious Word (Recharge 5-6).",
+					"entries": [
+						"Urhosh makes a good-natured remark laced with enchantment magic. All other creatures within 60 feet of Urhosh that can hear him must make a DC 21 Wisdom saving throw or become charmed by Urhosh for 1 minute. Whenever the charmed creature takes damage, it can repeat the saving throw, ending the charmed effect on a success."
+					]
+				},
+				{
+					"name": "Gather Magic (2/Day).",
+					"entries": [
+						"Urhosh focuses on his connection to the world's magic. If he has cast any spells with a per-day limit, the limit is reset as if he had not cast any such spells yet."
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "Move.",
+					"entries": [
+						"Urhosh moves up to half his speed."
+					]
+				},
+				{
+					"name": "Claw.",
+					"entries": [
+						"Urhosh makes a claw attack."
+					]
+				},
+				{
+					"name": "Conjure Weapon.",
+					"entries": [
+						"Urhosh uses Conjure Weapon."
+					]
+				},
+				{
+					"name": "Incite Laughter.",
+					"entries": [
+						"Urhosh casts hideous laughter without expending a spell slot."
+					]
+				},
+				{
+					"name": "Regenerate (Costs 2 Actions).",
+					"entries": [
+						"Urhosh heals himself for 30 hit points. Urhosh cannot take this legendary action if his Regeneration feature isn't functioning."
+					]
+				},
+				{
+					"name": "Show of Power (Costs 3 Actions).",
+					"entries": [
+						"Urhosh uses one of his rechargeable abilities, if available."
+					]
+				}
+			],
+			"legendaryHeader": [
+				"Urhosh can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Urhosh regains spent legendary actions at the start of his turn."
+			]
+		},
+		{
+			"name": "Urhosh, Spiritual Form",
+			"source": "SSSOP",
+			"size": [
+				"G"
+			],
+			"type": {
+				"type": "celestial",
+				"tags": [
+					"god"
+				]
+			},
+			"alignment": [
+				"L",
+				"G"
+			],
+			"ac": [
+				{
+					"ac": 19,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 396,
+				"formula": "24d12 + 240"
+			},
+			"speed": {
+				"walk": 60
+			},
+			"str": 27,
+			"dex": 12,
+			"con": 30,
+			"int": 17,
+			"wis": 22,
+			"cha": 22,
+			"cr": "24",
+			"page": 317,
+			"save": {
+				"dex": "+10",
+				"con": "+17",
+				"int": "+10",
+				"cha": "+11"
+			},
+			"skill": {
+				"athletics": "+22",
+				"perception": "+13",
+				"insight": "+13"
+			},
+			"resist": [
+				{
+					"resist": [
+						"bludgeoning",
+						"piercing",
+						"slashing"
+					],
+					"note": "from nonmagical attacks"
+				}
+			],
+			"immune": [
+				"radiant"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"poisoned"
+			],
+			"senses": [
+				"truesight 120 ft."
+			],
+			"passive": 23,
+			"languages": [
+				"all",
+				"telepathy 120 ft."
+			],
+			"trait": [
+				{
+					"name": "Spiritual Form.",
+					"entries": [
+						"When Urhosh takes on his spiritual form, he retains his hit dice and hit point maximum from his previous form. Features with limited uses that are present across multiple forms, such as Legendary Resistance, do not regain spent uses. While in his Spiritual Form, Urhosh cannot take lair actions."
+					]
+				},
+				{
+					"name": "Unbound Life.",
+					"entries": [
+						"When Urhosh's spiritual form triggers, his body becomes wreathed in crackling life energy, and the plant life in his hollow undergoes explosive growth. The ground in Urhosh's hollow becomes difficult terrain for all other creatures, and all creatures of Urhosh's choice must make a DC 25 Strength saving throw or be restrained by grasping vines, provided they are on the ground. A restrained creature can be freed if it or another creature takes an action to make a DC 21 Strength check and succeeds. The vines can also be attacked and destroyed (AC 15; hp 25; vulnerability to slashing damage; immunity to psychic damage). Urhosh can maintain this form for 1 minute, after which he returns to his physical form, loses his temporary hit points, and is affected as by 5 points of exhaustion, which can only be removed by resting or a wish spell."
+					]
+				},
+				{
+					"name": "Awakened Hive.",
+					"entries": [
+						"Urhosh is surrounded by a swarm of spirits that take the form of buzzing bees. The hive extends 15 feet from Urhosh in every direction, and when a creature starts their turn within the hive's area or enters it for the first time on a turn, they must make a DC 25 Constitution saving throw, taking 18 (4d8) radiant damage on a failure, or half as much on a success. Urhosh can choose any number of creatures to be immune to this effect. Additionally, when a creature within the hive's area receives magical healing, the healing they receive is reduced to 0 and they take 18 (4d8) radiant damage."
+					]
+				},
+				{
+					"name": "Magic Resistance.",
+					"entries": [
+						"Urhosh has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				{
+					"name": "Magic Weapons.",
+					"entries": [
+						"Urhosh's weapon attacks are magical."
+					]
+				},
+				{
+					"name": "Legendary Resistance (3/Day).",
+					"entries": [
+						"If Urhosh fails a saving throw, he can choose to succeed instead."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"Urhosh uses Overflow or Absorb Life. Then he makes two claws attacks and one bite attack. He can replace any of these three attacks with Conjure Weapon."
+					]
+				},
+				{
+					"name": "Claw.",
+					"entries": [
+						"Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 18 (3d6 + 8) slashing damage, or 29 (6d6 + 8) slashing damage if the target is prone."
+					]
+				},
+				{
+					"name": "Bite.",
+					"entries": [
+						"Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 34 (4d12 + 8), and the target must make a DC 23 Strength saving throw or fall prone."
+					]
+				},
+				{
+					"name": "Conjure Weapon.",
+					"entries": [
+						"Ranged Spell Attack: +13 to hit, range 120 ft., one target. Hit: 17 (2d10 + 6) radiant damage."
+					]
+				},
+				{
+					"name": "Overflow.",
+					"entries": [
+						"Urhosh chooses a creature within 60 feet that he can see, and attempts to oversaturate it with life energy. The creature must make a DC 25 Constitution saving throw, taking 33 (6d10) radiant damage on a failure, or half as much on a success. A creature that fails their saving throw by 5 or more is incapacitated until the end of their next turn."
+					]
+				},
+				{
+					"name": "Absorb Life.",
+					"entries": [
+						"Urhosh chooses a creature within 5 feet that he can see and attempts to absorb its life force into his own. The creature must make a DC 25 Constitution saving throw, taking 44 (8d10) necrotic damage on a failure. If this damage reduces the creature to 0 hit points, it is absorbed, leaving behind any equipment and armor it was wearing. The absorbed creature can be restored to life by nothing short of a wish spell."
+					]
+				},
+				{
+					"name": "Life's Weight (Recharge 5-6).",
+					"entries": [
+						"Urhosh creates a magical field of crushing weight in a 20-foot radius, 80-foot-high cylinder centered on a point that Urhosh can see within 120 feet. All creatures in the area must make a DC 25 Strength saving throw, taking 27 (5d10) bludgeoning damage and 27 (5d10) radiant damage and falling prone on a failure, or taking half as much damage on a success."
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "Move.",
+					"entries": [
+						"Urhosh moves up to his speed."
+					]
+				},
+				{
+					"name": "Claw.",
+					"entries": [
+						"Urhosh makes a claw attack."
+					]
+				},
+				{
+					"name": "Conjure Weapon.",
+					"entries": [
+						"Urhosh uses conjure weapon."
+					]
+				},
+				{
+					"name": "Bite (Costs 2 Actions).",
+					"entries": [
+						"Urhosh makes a bite attack."
+					]
+				},
+				{
+					"name": "Unleashed Power (Costs 2 Actions).",
+					"entries": [
+						"Urhosh uses overflow or absorb life."
+					]
+				},
+				{
+					"name": "Life's Weight (Costs 3 Actions).",
+					"entries": [
+						"Urhosh uses life's weight, if available."
+					]
+				}
+			],
+			"legendaryHeader": [
+				"Urhosh can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Urhosh regains spent legendary actions at the start of his turn."
+			]
+		},
+		{
+			"name": "Arctusk",
+			"source": "SSSOP",
+			"size": [
+				"H"
+			],
+			"type": "beast",
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 12,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 76,
+				"formula": "8d12+24"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"str": 21,
+			"dex": 9,
+			"con": 17,
+			"int": 3,
+			"wis": 9,
+			"cha": 6,
+			"cr": "4",
+			"page": 318,
+			"senses": [],
+			"passive": 10,
+			"languages": [
+				"—"
+			],
+			"trait": [
+				{
+					"name": "Charge.",
+					"entries": [
+						"If the arctusk moves at least 20 feet straight toward a creature and then hits it with a bash attack on the same turn, that creature must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the arctusk can make one tusk attack against the target."
+					]
+				},
+				{
+					"name": "Musk Madness.",
+					"entries": [
+						"Male arctusks in mating season emit musk that can be smelled in a 1-mile radius. A musking arctusk uses its action to attack a randomly determined creature within its reach, unless that creature is a female arctusk, and has advantage on melee weapon attacks. Attack rolls against it have advantage."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Bash.",
+					"entries": [
+						"Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Tusk.",
+					"entries": [
+						"Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 21 (3d10 + 5) piercing damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Batface",
+			"source": "SSSOP",
+			"size": [
+				"S"
+			],
+			"type": "monstrosity",
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				13
+			],
+			"hp": {
+				"average": 4,
+				"formula": "1d6+1"
+			},
+			"speed": {
+				"walk": 20
+			},
+			"str": 5,
+			"dex": 16,
+			"con": 9,
+			"int": 8,
+			"wis": 12,
+			"cha": 9,
+			"cr": "1/4",
+			"page": 319,
+			"skill": {
+				"stealth": "+5"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 11,
+			"languages": [
+				"—"
+			],
+			"trait": [
+				{
+					"name": "Pack Tactics.",
+					"entries": [
+						"The batface has advantage on attack rolls against a creature if at least one of the batface's allies is within 5 feet of the creature and the ally isn't incapacitated."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Bind.",
+					"entries": [
+						"As an action, the batface can make a Dexterity (Stealth) check versus the passive Perception of a Large or smaller sleeping creature to secure it with ropes and nets. On a success, the sleeping creature is restrained.",
+						"The bindings have AC 10 and 10 hit points. A creature can use its action to make a DC 10 Strength check to free itself or another creature within reach. Each time a batface uses the bind action on the same creature, the DC to free that creature increases by 1."
+					]
+				},
+				{
+					"name": "Bite.",
+					"entries": [
+						"Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1d4+3 piercing damage, and the target must make a DC 12 Constitution saving throw against batface toxin. On a failure, the target is charmed by the toxin's euphoric effect and regards all creatures as friendly for up to 1 hour.",
+						"At the end of its next turn, the target can repeat the saving throw, ending the effect on a success. On a failure, if the creature has less than half of its hit point maximum, it falls unconscious for 1 hour or until woken by magic such as protection from poison or lesser restoration."
+					]
+				}
+			]
+		},
+		{
+			"name": "Bouldertail",
+			"source": "SSSOP",
+			"size": [
+				"H"
+			],
+			"type": "beast",
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 16,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 76,
+				"formula": "9d12 + 18"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 21,
+			"dex": 10,
+			"con": 15,
+			"int": 2,
+			"wis": 10,
+			"cha": 6,
+			"cr": "6",
+			"page": 320,
+			"save": {
+				"str": "+8",
+				"con": "+5"
+			},
+			"skill": {
+				"athletics": "+11",
+				"perception": "+3"
+			},
+			"resist": [
+				"bludgeoning",
+				"slashing"
+			],
+			"senses": [],
+			"passive": 13,
+			"languages": [
+				"—"
+			],
+			"trait": [
+				{
+					"name": "Rumbling Trample.",
+					"entries": [
+						"Once per turn, immediately after the bouldertail moves at least 15 feet (up to a maximum of 30 feet), all creatures that the bouldertail passed within 10 feet of must succeed on a DC 16 Strength or Dexterity saving throw or take 19 (4d6+5) bludgeoning damage. A Huge or smaller creature that fails its saving throw is also knocked prone."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The bouldertail uses Body Slam and makes a Tail attack."
+					]
+				},
+				{
+					"name": "Body Slam.",
+					"entries": [
+						"The bouldertail throws its weight against a creature it can see within 5 feet. That creature must succeed on a DC 16 Strength saving throw, taking 13 (2d6 + 5) bludgeoning damage on a failure, or half as much on a success. A Large or smaller creature that fails its saving throw is pushed up to 10 feet away, where it falls prone."
+					]
+				},
+				{
+					"name": "Tail.",
+					"entries": [
+						"Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 15 (2d8 + 5) bludgeoning damage, and the bouldertail subjects the target to one of the following effects:",
+						{
+							"type": "list",
+							"items": [
+								"Launch. A target that is Large or smaller and is not prone, must succeed on a DC 16 Strength saving throw or be launched up to 15 feet away, where it lands prone, taking 3 (1d6) bludgeoning damage from the fall.",
+								"Crush. If the target is prone, it takes an additional 9 (2d8) bludgeoning damage."
+							]
+						}
+					]
+				}
+			],
+			"bonus": [
+				{
+					"name": "Groundpound.",
+					"entries": [
+						"The bouldertail makes a tail attack against a prone creature."
+					]
+				}
+			]
+		},
+		{
+			"name": "Chattercrest",
+			"source": "SSSOP",
+			"size": [
+				"T"
+			],
+			"type": "beast",
+			"alignment": null,
+			"ac": [
+				13
+			],
+			"hp": {
+				"average": 2,
+				"formula": "1d4"
+			},
+			"speed": {
+				"walk": 10,
+				"fly": 60
+			},
+			"str": 3,
+			"dex": 16,
+			"con": 10,
+			"int": 5,
+			"wis": 12,
+			"cha": 6,
+			"cr": "0",
+			"page": 321,
+			"skill": {
+				"performance": "+0"
+			},
+			"senses": [],
+			"passive": 14,
+			"languages": [
+				"—"
+			],
+			"trait": [
+				{
+					"name": "Skilled Mimic.",
+					"entries": [
+						"The chattercrest can imitate complex sounds and speech patterns it's heard before up to 1 minute in length. A creature that hears the sounds can tell they are imitations with a successful DC 8 Wisdom (Insight) check."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Bite.",
+					"entries": [
+						"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Doomclaw",
+			"source": "SSSOP",
+			"size": [
+				"L"
+			],
+			"type": "beast",
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 16,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 52,
+				"formula": "7d10 + 14"
+			},
+			"speed": {
+				"walk": 45
+			},
+			"str": 16,
+			"dex": 19,
+			"con": 15,
+			"int": 4,
+			"wis": 10,
+			"cha": 8,
+			"cr": "5",
+			"page": 320,
+			"save": {
+				"dex": "+7"
+			},
+			"skill": {
+				"athletics": "+6",
+				"perception": "+6",
+				"stealth": "+10"
+			},
+			"senses": [
+				"blindsight 30 ft.",
+				"darkvision 60 ft."
+			],
+			"passive": 16,
+			"languages": [
+				"Doomclaw"
+			],
+			"trait": [
+				{
+					"name": "Apex Ambusher.",
+					"entries": [
+						"In the first round of a combat, the doomclaw has advantage on attack rolls against any creature it surprised. Any hit the doomclaw scores against a surprised creature is a critical hit."
+					]
+				},
+				{
+					"name": "Keen Sight and Smell.",
+					"entries": [
+						"The doomclaw has advantage on Wisdom (Perception) checks that rely on sight or smell."
+					]
+				},
+				{
+					"name": "Natural Camouflage.",
+					"entries": [
+						"The doomclaw has advantage on Dexterity (Stealth) checks made to hide."
+					]
+				},
+				{
+					"name": "Pack Tactics.",
+					"entries": [
+						"The doomclaw has advantage on attack rolls against a creature if at least one of the doomclaw's allies is within 5 feet of the creature and the ally isn't incapacitated."
+					]
+				},
+				{
+					"name": "Pounce.",
+					"entries": [
+						"If the doomclaw moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 15 Strength saving throw or take an additional 7 (2d6) slashing damage and fall prone."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The doomclaw makes two attacks: one with its bite and one with its claws."
+					]
+				},
+				{
+					"name": "Bite.",
+					"entries": [
+						"Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (4d4 + 5) piercing damage, and if the target is Large or smaller, it is grappled (escape DC 14)."
+					]
+				},
+				{
+					"name": "Claws.",
+					"entries": [
+						"Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 5) slashing damage."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Opportunistic Strike.",
+					"entries": [
+						"When a creature within 5 feet of the doomclaw makes an attack against a target other than the doomclaw, the doomclaw can make an opportunity attack against the attacking creature."
+					]
+				}
+			]
+		},
+		{
+			"name": "Farloper",
+			"source": "SSSOP",
+			"size": [
+				"L"
+			],
+			"type": "beast",
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 13,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 30,
+				"formula": "4d10 + 8"
+			},
+			"speed": {
+				"walk": 50
+			},
+			"str": 18,
+			"dex": 14,
+			"con": 15,
+			"int": 2,
+			"wis": 12,
+			"cha": 4,
+			"cr": "1",
+			"page": 321,
+			"skill": {
+				"perception": "+3"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 13,
+			"languages": [
+				"—"
+			],
+			"trait": [
+				{
+					"name": "Pack Tactics.",
+					"entries": [
+						"The farloper has advantage on attack rolls against a creature if at least one of the farloper's allies is within 5 feet of the creature and the ally isn't incapacitated."
+					]
+				},
+				{
+					"name": "Sprinter.",
+					"entries": [
+						"The farloper can Dash as a bonus action."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Kick.",
+					"entries": [
+						"Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Flintback",
+			"source": "SSSOP",
+			"size": [
+				"H"
+			],
+			"type": "beast",
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 95,
+				"formula": "10d12 + 30"
+			},
+			"speed": {
+				"walk": 35
+			},
+			"str": 22,
+			"dex": 11,
+			"con": 17,
+			"int": 2,
+			"wis": 10,
+			"cha": 7,
+			"cr": "8",
+			"page": 322,
+			"save": {
+				"str": "+9"
+			},
+			"skill": {
+				"intimidation": "+4",
+				"perception": "+3"
+			},
+			"senses": [],
+			"passive": 13,
+			"languages": [
+				"—"
+			],
+			"trait": [
+				{
+					"name": "Keen Smell.",
+					"entries": [
+						"The flintback has advantage on Wisdom (Perception) checks that rely on smell."
+					]
+				},
+				{
+					"name": "Ignite Scales.",
+					"entries": [
+						"At will, a flintback can ignite the plate-like scales on its back. These cast bright light in a 30-foot radius and dim light for an additional 30 feet."
+					]
+				},
+				{
+					"name": "Shimmering Scales.",
+					"entries": [
+						"At the start of each of its turns while it isn't incapacitated, the flintback shifts its plate-like scales, creating a shimmering pattern of color in two 15-foot cubes originating from the flintback, which are positioned opposite each other. Any creature in a cube's area who can see the flintback must succeed on a DC 14 Wisdom saving throw or become charmed until the end of its next turn. While charmed in this way, a creature is incapacitated and has a speed of 0.",
+						"The charm ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The flintback makes two tail attacks."
+					]
+				},
+				{
+					"name": "Tail.",
+					"entries": [
+						"Melee Weapon Attack: +9 to hit, reach 10 ft. Hit: 16 (3d6 + 6) piercing damage plus 7 (2d6) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Sweeping Tail.",
+					"entries": [
+						"Melee Weapon Attack: +9 to hit, reach 10 ft., two targets. Hit: 13 (2d6 + 6) piercing damage plus 7 (2d6) bludgeoning damage, and the target must succeed on a DC 17 Strength saving throw or be knocked prone."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Parry.",
+					"entries": [
+						"The flintback adds +3 to its AC against one melee attack that would hit it. To do so, the flintback must see the attacker."
+					]
+				}
+			]
+		},
+		{
+			"name": "Frilled Spitter",
+			"source": "SSSOP",
+			"size": [
+				"M"
+			],
+			"type": "beast",
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 12,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 13,
+				"formula": "2d8 + 4"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 13,
+			"dex": 16,
+			"con": 14,
+			"int": 2,
+			"wis": 12,
+			"cha": 11,
+			"cr": "1/2",
+			"page": 322,
+			"skill": {
+				"intimidation": "+2"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 11,
+			"languages": [
+				"—"
+			],
+			"trait": [
+				{
+					"name": "Startling Display.",
+					"entries": [
+						"As a bonus action, the frilled spitter can expand its frill, displaying its bright colors with a sudden show. When it uses this feature, creatures that can see it cannot take attacks of opportunity against the frilled spitter for the rest of its turn. Creatures cannot be affected by the same frilled spitter's Startling Display more than once."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Bite.",
+					"entries": [
+						"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 3 (1d6) acid damage."
+					]
+				},
+				{
+					"name": "Acid Spit (Recharge 5–6).",
+					"entries": [
+						"The frilled spitter spews acid at a creature it can see within 30 feet. The target must make a DC 13 Dexterity saving throw. On a failure, it takes 7 (2d6) acid damage and is blinded for 1 minute. On a success, it takes half damage and is not blinded. A creature blinded by the acid spit can repeat its saving throw at the start of its turn, ending the effect on a success."
+					]
+				}
+			]
+		},
+		{
+			"name": "Great-Hook",
+			"source": "SSSOP",
+			"size": [
+				"H"
+			],
+			"type": "beast",
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 13,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 116,
+				"formula": "9d20 + 27"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 23,
+			"dex": 13,
+			"con": 17,
+			"int": 2,
+			"wis": 13,
+			"cha": 7,
+			"cr": "7",
+			"page": 323,
+			"skill": {
+				"perception": "+4"
+			},
+			"senses": [],
+			"passive": 14,
+			"languages": [
+				"—"
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The great-hook makes three attacks: two with its claws and one stomp attack."
+					]
+				},
+				{
+					"name": "Claws.",
+					"entries": [
+						"Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 19 (3d6 + 6) slashing damage. If the target is a Large or smaller creature, it must make a DC 17 Strength saving throw, falling prone on a failure."
+					]
+				},
+				{
+					"name": "Stomp.",
+					"entries": [
+						"Melee Weapon Attack: +9 to hit, reach 5 ft., one prone target. Hit: 27 (6d6 +6) bludgeoning damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Deathwalker",
+			"source": "SSSOP",
+			"size": [
+				"G"
+			],
+			"type": {
+				"type": "beast",
+				"tags": [
+					"defiant"
+				]
+			},
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 16,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 385,
+				"formula": "22d20 + 152"
+			},
+			"speed": {
+				"walk": 50
+			},
+			"str": 28,
+			"dex": 13,
+			"con": 24,
+			"int": 2,
+			"wis": 15,
+			"cha": 10,
+			"cr": "26",
+			"page": 323,
+			"save": {
+				"dex": "+9",
+				"con": "+15",
+				"int": "+4",
+				"wis": "+9"
+			},
+			"skill": {
+				"athletics": "+25",
+				"intimidation": "+16",
+				"perception": "+9"
+			},
+			"resist": [
+				"psychic"
+			],
+			"conditionImmune": [
+				"charmed",
+				"frightened"
+			],
+			"senses": [
+				"blindsight 50 ft.",
+				"darkvision 120 ft."
+			],
+			"passive": 19,
+			"languages": [
+				"—"
+			],
+			"trait": [
+				{
+					"name": "Keen Sight and Smell.",
+					"entries": [
+						"The deathwalker has advantage on Wisdom (Perception) checks that rely on sight or smell."
+					]
+				},
+				{
+					"name": "Legendary Resistance (3/day).",
+					"entries": [
+						"If the deathwalker fails a saving throw, it can choose to succeed instead."
+					]
+				},
+				{
+					"name": "Strength Sense.",
+					"entries": [
+						"The deathwalker is aware of the presence of creatures within 5 miles of it that have a Constitution or Strength score of 16 or higher. It knows the approximate distance and direction to each creature, as well as each creature's Constitution and Strength scores."
+					]
+				},
+				{
+					"name": "Titanic Impact.",
+					"entries": [
+						"Once on each of its turns, immediately after the deathwalker moves at least 20 feet straight towards a creature on the ground and comes within 5 feet of it, the deathwalker can opt to end its movement in a titanic impact. All other creatures within 10 feet of the deathwalker when it ends its movement in this way must succeed on a DC 25 Strength or Dexterity saving throw, taking 36 (8d6 + 9) bludgeoning damage on a failure. A huge or smaller creature that fails its saving throw is pushed up to 20 feet away, where it falls prone."
+					]
+				},
+				{
+					"name": "Tyrant's Hide.",
+					"entries": [
+						"Whenever the deathwalker takes bludgeoning, piercing, or slashing damage, it is reduced by 7."
+					]
+				},
+				{
+					"name": "Withstand (3/day).",
+					"entries": [
+						"If the deathwalker takes damage from an attack that was not a critical hit, it can reduce the damage from the attack to 0."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The deathwalker makes two attacks: one with its bite or slam and one with its tail."
+					]
+				},
+				{
+					"name": "Bite.",
+					"entries": [
+						"Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 48 (6d12 + 9) piercing damage. If the target is a Large or smaller creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the deathwalker can't bite another target. If the deathwalker scores a critical hit, it rolls damage dice three times, instead of twice."
+					]
+				},
+				{
+					"name": "Slam.",
+					"entries": [
+						"Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 25 (4d6 + 9) bludgeoning damage. If the target is a Large or smaller creature, it is hurled up to 30 feet in a direction of the deathwalker's choice and lands prone, taking 10 (3d6) bludgeoning damage from the fall."
+					]
+				},
+				{
+					"name": "Tail.",
+					"entries": [
+						"Melee Weapon Attack: +17 to hit, reach 20 ft., two targets that are not grappled by the deathwalker. Hit: 27 (4d8 + 9) bludgeoning damage, and the target must succeed on a DC 25 Strength saving throw or be knocked prone."
+					]
+				},
+				{
+					"name": "Fearsome Roar (Recharge 5-6).",
+					"entries": [
+						"The deathwalker lets out a terrifying roar. Each creature within 120 feet of the deathwalker that can hear it must succeed on a DC 23 Wisdom saving throw or become frightened for 1 minute. A creature that fails its initial saving throw by 5 or more is paralyzed while frightened in this way. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+					]
+				}
+			],
+			"bonus": [
+				{
+					"name": "Must Go Fast.",
+					"entries": [
+						"The deathwalker moves up to its speed toward a hostile creature that it can see."
+					]
+				},
+				{
+					"name": "Tyrant's Rampage.",
+					"entries": [
+						"When the deathwalker reduces a creature to 0 hit points with a melee attack on its turn, the deathwalker can move up to half its speed and make a tail or slam attack."
+					]
+				},
+				{
+					"name": "Whiplash.",
+					"entries": [
+						"The deathwalker whips its head and tries to throw a creature it is grappling with its bite attack. The target must succeed on a DC 25 Strength saving throw. On a failure, the target is hurled up to 60 feet in a direction of the Deathwalker's choice and lands prone, taking 3 (1d6) bludgeoning damage for every 10 feet it was thrown. On a success, the target slips from the deathwalker's mouth and lands in an unoccupied space within 5 feet of it."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Bloodied Rage.",
+					"entries": [
+						"When the deathwalker is reduced to half its hit point maximum or less, it immediately recharges and uses its Fearsome Roar."
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "Move.",
+					"entries": [
+						"The deathwalker moves up to its speed without provoking attacks of opportunity."
+					]
+				},
+				{
+					"name": "Attack.",
+					"entries": [
+						"The deathwalker makes a tail or slam attack."
+					]
+				},
+				{
+					"name": "Tyranny (Costs 2 Actions).",
+					"entries": [
+						"The deathwalker makes a bite attack."
+					]
+				},
+				{
+					"name": "Rushing Fury (Costs 3 Actions).",
+					"entries": [
+						"The deathwalker moves up to its speed in a straight line. During this movement, the deathwalker can move through the spaces of other creatures, and whenever it enters the space of another creature for the first time, it can make a slam attack against that creature."
+					]
+				}
+			],
+			"legendaryHeader": [
+				"The deathwalker can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The deathwalker regains spent legendary actions at the start of its turn."
+			]
+		},
+		{
+			"name": "Greatwing",
+			"source": "SSSOP",
+			"size": [
+				"H"
+			],
+			"type": "beast",
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 14,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 76,
+				"formula": "8d12 + 24"
+			},
+			"speed": {
+				"walk": 35,
+				"fly": 60,
+				"swim": 10
+			},
+			"str": 17,
+			"dex": 19,
+			"con": 16,
+			"int": 2,
+			"wis": 12,
+			"cha": 8,
+			"cr": "7",
+			"page": 324,
+			"save": {
+				"dex": "+8"
+			},
+			"skill": {
+				"athletics": "+6",
+				"intimidation": "+5",
+				"perception": "+7",
+				"stealth": "+7"
+			},
+			"senses": [
+				"darkvision 90 ft."
+			],
+			"passive": 17,
+			"languages": [
+				"—"
+			],
+			"trait": [
+				{
+					"name": "Keen Hearing and Sight.",
+					"entries": [
+						"The greatwing has advantage on Wisdom (Perception) checks that rely on hearing or sight."
+					]
+				},
+				{
+					"name": "Swooping Strike.",
+					"entries": [
+						"If the greatwing is flying and dives at least 20 feet straight toward a target and then hits it with a beak attack, the target takes an additional 10 (3d6) piercing damage, and the target must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is knocked prone, the greatwing can make a beak attack against it as a bonus action."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The greatwing makes three beak attacks. It can replace a beak attack with a use of Wing Buffet."
+					]
+				},
+				{
+					"name": "Beak.",
+					"entries": [
+						"Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) piercing damage. Instead of dealing damage, the greatwing can grapple a Medium or smaller creature (escape DC 15) with its beak. Until this grapple ends, the greatwing cannot make beak attacks."
+					]
+				},
+				{
+					"name": "Wing Buffet.",
+					"entries": [
+						"The greatwing beats its wings while on the ground. Each Medium or smaller creature within 20 feet of the greatwing must succeed on a DC 15 Dexterity saving throw or fall prone. The greatwing can then fly up to half its speed."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Kick Up.",
+					"entries": [
+						"In response to being attacked by a creature within 15 feet, the greatwing beats its wings, kicking up dirt and debris. The creature must succeed on a DC 15 Constitution saving throw or subtract a d6 from any attacks it makes until the end of its turn, including the triggering attack (potentially causing it to miss).",
+						"Creatures that are immune to the blinded condition or perceive their surroundings through senses other than sight automatically succeed on their save. The greatwing must be on the ground to take this reaction."
+					]
+				}
+			]
+		},
+		{
+			"name": "Littlesnap",
+			"source": "SSSOP",
+			"size": [
+				"T"
+			],
+			"type": "beast",
+			"alignment": null,
+			"ac": [
+				13
+			],
+			"hp": {
+				"average": 2,
+				"formula": "1d4 - 1"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"str": 2,
+			"dex": 17,
+			"con": 10,
+			"int": 6,
+			"wis": 10,
+			"cha": 2,
+			"cr": "0",
+			"page": 325,
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"languages": [
+				"—"
+			],
+			"trait": [
+				{
+					"name": "Blood Frenzy.",
+					"entries": [
+						"The littlesnap has advantage on melee attack rolls against any creature that doesn't have all its hit points."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Bite.",
+					"entries": [
+						"Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Littlesnap Swarm",
+			"source": "SSSOP",
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "swarm",
+				"swarmSize": "T",
+				"tags": [
+					"beast"
+				]
+			},
+			"alignment": null,
+			"ac": [
+				13
+			],
+			"hp": {
+				"average": 36,
+				"formula": "8d8"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"str": 2,
+			"dex": 17,
+			"con": 10,
+			"int": 6,
+			"wis": 10,
+			"cha": 2,
+			"cr": "2",
+			"page": 325,
+			"resist": [
+				"bludgeoning",
+				"piercing",
+				"slashing"
+			],
+			"conditionImmune": [
+				"charmed",
+				"frightened",
+				"paralyzed",
+				"petrified",
+				"prone",
+				"restrained",
+				"stunned"
+			],
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 10,
+			"languages": [
+				"—"
+			],
+			"trait": [
+				{
+					"name": "Blood Frenzy.",
+					"entries": [
+						"The littlesnap swarm has advantage on melee attack rolls against any creature that doesn't have all its hit points."
+					]
+				},
+				{
+					"name": "Swarm.",
+					"entries": [
+						"The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny littlesnap. The swarm can't regain hit points or gain temporary hit points."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Bites.",
+					"entries": [
+						"Melee Weapon Attack: +5 to hit, reach 0 ft., one target. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer."
+					]
+				}
+			]
+		},
+		{
+			"name": "Mammothmaw",
+			"source": "SSSOP",
+			"size": [
+				"G"
+			],
+			"type": "monstrosity",
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 17,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 198,
+				"formula": "12d20 + 72"
+			},
+			"speed": {
+				"walk": 25
+			},
+			"str": 26,
+			"dex": 5,
+			"con": 22,
+			"int": 2,
+			"wis": 9,
+			"cha": 6,
+			"cr": "12",
+			"page": 325,
+			"save": {
+				"con": "+10",
+				"wis": "+3"
+			},
+			"skill": {
+				"perception": "+3",
+				"stealth": "+1"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 13,
+			"languages": [
+				"—"
+			],
+			"trait": [
+				{
+					"name": "Landblend.",
+					"entries": [
+						"If the mammothmaw has been motionless for 1 hour or more, its stealth bonus is improved to +10."
+					]
+				},
+				{
+					"name": "Lockjaw.",
+					"entries": [
+						"When the mammothmaw uses its Massive Bite action, it is unable to open its mouth until it finishes a short or long rest, and its mouth cannot be forced open except by a DC 25 Strength check. If the mouth is successfully forced open, all creatures restrained by the mammothmaw's massive bite go free, exiting in an unoccupied space within 5 feet of the mammothmaw.",
+						"If an attacker deals 30 slashing or piercing damage to the mammothmaw in a single turn, the attacker can open a hole in the mammothmaw's hide. While the hole is open, creatures restrained by the mammothmaw's massive bite can use an action to make a DC 18 Strength (Athletics) or Dexterity (Athletics) check to break free. On a success, a creature is no longer restrained and exits prone in an unoccupied space within 5 feet of the mammothmaw."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The mammothmaw makes two tongue lash attacks and uses wild thrashing, if possible."
+					]
+				},
+				{
+					"name": "Tongue Lash.",
+					"entries": [
+						"Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) bludgeoning damage plus 7 (2d6) acid damage."
+					]
+				},
+				{
+					"name": "Wild Thrashing (Recharge 5–6).",
+					"entries": [
+						"The mammothmaw uses its bulk to crush creatures around it. All Large or smaller creatures within 5 feet of the mammothmaw must make a DC 18 Dexterity saving throw, taking 22 (4d6 + 8) bludgeoning damage and falling prone on a failure, or taking half as much damage on a success."
+					]
+				},
+				{
+					"name": "Massive Bite (1/Day).",
+					"entries": [
+						"The mammothmaw chooses a point within 10 feet to target with its massive bite. Huge or smaller creatures in a 15-foot radius from the chosen point must make a DC 20 Dexterity saving throw. On a failure, creatures are caught by the mammothmaw's massive bite, taking 36 (8d6 + 8) piercing damage plus 14 (4d6) bludgeoning damage, and are trapped inside the mammothmaw's mouth. A creature inside the mouth is blinded and restrained, and it has total cover against attacks and other effects outside the mammothmaw. Once the mammothmaw has used its Massive Bite action, it can only target creatures inside its mouth with its Tongue Lash attacks.",
+						"The mammothmaw can fit a maximum of eight Medium or smaller creatures, two Large creatures, or one Huge creature in its mouth. If the mammothmaw holds a creature in excess of these numbers, a random creature that was already in its mouth due to its Massive Bite is freed, landing prone in an unoccupied space within 5 feet of it."
+					]
+				}
+			]
+		},
+		{
+			"name": "Sailstalker",
+			"source": "SSSOP",
+			"size": [
+				"H"
+			],
+			"type": {
+				"type": "beast",
+				"tags": [
+					"defiant"
+				]
+			},
+			"alignment": null,
+			"ac": [
+				{
+					"ac": 16,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 115,
+				"formula": "10d12 + 50"
+			},
+			"speed": {
+				"walk": 35,
+				"swim": 20
+			},
+			"str": 22,
+			"dex": 16,
+			"con": 20,
+			"int": 2,
+			"wis": 9,
+			"cha": 8,
+			"cr": "9",
+			"page": 326,
+			"save": {
+				"str": "+10",
+				"con": "+9",
+				"wis": "+3"
+			},
+			"skill": {
+				"perception": "+3",
+				"stealth": "+11"
+			},
+			"senses": [
+				"blindsight 10 ft.",
+				"darkvision 60 ft."
+			],
+			"passive": 13,
+			"languages": [
+				"—"
+			],
+			"trait": [
+				{
+					"name": "Ambusher.",
+					"entries": [
+						"In the first round of a combat, the sailstalker has advantage on attack rolls against any creature it surprised."
+					]
+				},
+				{
+					"name": "Keen Sight and Smell.",
+					"entries": [
+						"The sailstalker has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell."
+					]
+				},
+				{
+					"name": "Surprise Attack.",
+					"entries": [
+						"If the sailstalker surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 14 (4d6) damage from the attack."
+					]
+				},
+				{
+					"name": "Swampland Camouflage.",
+					"entries": [
+						"The sailstalker has advantage on Dexterity (Stealth) checks made to hide in swamp or marshlike terrain."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The sailstalker makes two attacks: one with its bite and one with its tail. It can't make both attacks against the same target."
+					]
+				},
+				{
+					"name": "Bite.",
+					"entries": [
+						"Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 28 (4d10 + 6) piercing damage, and if the target is a Medium or smaller creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the sailstalker can't bite another target."
+					]
+				},
+				{
+					"name": "Tail.",
+					"entries": [
+						"Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage."
+					]
+				}
+			],
+			"bonus": [
+				{
+					"name": "Aggressive.",
+					"entries": [
+						"The sailstalker can move up to its speed toward a hostile creature that it can see."
+					]
+				},
+				{
+					"name": "Drown.",
+					"entries": [
+						"If the sailstalker is in or adjacent to a body of water at least 5 feet deep, it can plunge a creature grappled by it into the water. The creature must make a DC 17 Constitution saving throw, taking 15 (2d8 + 6) slashing damage on a failure, or half as much on a success. A creature that fails its saving throw begins to suffocate as water fills its lungs unless it can breathe underwater or does not need to breathe. A suffocating creature can repeat the Constitution saving throw at the end of subsequent turns, coughing up the water and no longer suffocating on a success. Alternatively, the creature can spend an action to cough up the water, ending the suffocation."
+					]
+				}
 			]
 		}
 	]
