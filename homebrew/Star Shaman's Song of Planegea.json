@@ -10098,6 +10098,1285 @@
 						},
 						"Spell Descriptions. The spells below are born from the primal fury of the world of Planegea, but can easily be used to add excitement to any 5th Edition campaign. The spells are presented in alphabetical order in this book; see the {@filter spell list|spells.html|source:SSSOP} to see which classes can access each spell."
 					]
+				},
+				{
+					"type": "section",
+					"name": "Stone Age Adventures",
+					"page": 126,
+					"entries": [
+						{
+							"type": "entries",
+							"name": "Kinship-Led Clans",
+							"entries": [
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Elf-led clans.",
+											"entry": "Elf-led clans travel erratically, often without a reason that's clear to outsiders. They'll stay in a location for only a short time and loop back over the same hunting ground repeatedly, leaving little impact on the land as they move lightly across it. Elvish leaders prefer to find natural habitations, and are more likely to move their clan into natural structures such as trees, cave systems, or cliffs, aggressively clearing out predators so they can occupy pre-existing defenses rather than constructing their own."
+										},
+										{
+											"type": "item",
+											"name": "Halfling-led clans.",
+											"entry": "Halfling culture emphasizes stealth and surprise attacks, and even when coexisting with other kinships, those values remain powerful strategies. Halfling-led encampments are almost always well-hidden, camouflaged so that a wanderer might practically walk through one and never know it was there. Halflings conceal their clanfires with open-roofed tents, huts, or disguised screens, and put a great degree of emphasis on keeping the encampment's location secret."
+										},
+										{
+											"type": "item",
+											"name": "Dragonborn-led clans.",
+											"entry": "Clans led by dragonborn are often messy, sprawling affairs that gouge and gash the land as they travel. Dragonborn culture is born of survival in the verdant Venom Abyss, and they tend to treat the natural world as something to be hacked away to carve out space for themselves. Dragonborn encampments are often dug into the dirt or erected in burned thickets, with large trees felled to make quick defenses. Some say you can tell that dragonborn passed by seasons earlier, dragging their blades through the world behind them."
+										},
+										{
+											"type": "item",
+											"name": "Godmarked-led clans.",
+											"entry": "Godmarked are often solitary people, but sometimes a god will alter an entire clan in a sign of their favor or displeasure. Such clans often carry strong memories of their marking, and may act either blessed or cursed, depending on the event. Clans led by the godmarked are often studies in extremes, either filled with incense, totems, symbols, and devotion, or devoid of any sign or act of religion in an outright rejection of whatever god changed them."
+										},
+										{
+											"type": "item",
+											"name": "Gnome-led clans.",
+											"entry": "Because gnomes are often ostracized by other kinships, it's not unusual to find a clan made solely of gnomes. Regardless of whether they're cooperating with other kinships, gnome-led clans put a high emphasis on crafting, creativity, and trade. Huts and tents are made with a patchwork, stitched-together material called gnomequilt, and in front of each hut or tent is a small spread of trinkets, trade goods, and materials for barter. The same items will often be passed around small clans again and again in ritual trade, but larger clans can have sprawling marketplaces where all manner of unusual items can be found."
+										},
+										{
+											"type": "item",
+											"name": "Orc-led clans.",
+											"entry": "Most clans would consider themselves fortunate indeed to be led by an orc. Orcs are sought after as hunters and leaders, thanks to their powerful builds and natural toughness. Yet orc-led encampments are often demanding places, with an emphasis on physical prowess, discipline, tradition, and respect, and place little emphasis on the gods and divine matters. It's more common to find druids and rangers among orcs, and shamans have little sway in their encampments."
+										},
+										{
+											"type": "item",
+											"name": "Saurian-led clans.",
+											"entry": "Saurians are a diverse people who have evolved many strategies for survival over their long lifespans. A few common threads can be found when saurians lead, however. They favor an emphasis on patience, with hunts typically based on ambush rather than pursuit. Saurian-led clans are typically arranged according to a rigid pattern such as a spiral, circle, or grid, chosen by the chieftain and shaman, and constructed in the same way at each stop, regardless of the campsite they choose. They also keep close ties with their ancestors and friendly spirits, carrying embalmed dead and traveling among a network of cairns where the spirits of those who died long ago can offer them guidance and advice."
+										},
+										{
+											"type": "item",
+											"name": "Dreas, Starling, or Half-Ooze-led clans.",
+											"entry": "Dreas, starlings, and half-oozes are all rare enough that it's highly uncommon to find more than one in a given clan, if any. However, should one of these rise to leadership, they would be inclined to direct the clan based on their personal values. You might expect a dreas chieftain to encamp among trees and use domesticated plants in many ways. A starling might lead their clan towards nocturnal behavior, preferring to spend more of their time under the stars than not. A half-ooze could emphasize hunting and collection of food to an extreme degree, stockpiling far more than the clan needs in salt huts and smokehouses. Yet each of these would be an individual with their own ambitions and motivations, and might vary widely based on how they came to walk the paths of Planegea."
+										},
+										{
+											"type": "item",
+											"name": "Clans led by others.",
+											"entry": "There are many kinships not listed here which might carve out their own communities or find positions of leadership, dwelling in their own way, distinct from others. Whatever kinship or culture leads a clan, the first emphasis is always on survival—and if a kinship or culture has an edge on a particular kind of survival, they will use it intelligently to stay alive another day."
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Description",
+							"entries": [
+								"At a glance, one can see whether a clan is small or large, struggling or prospering, although the surface might hide some secret—a seemingly tiny encampment might be a mere outpost for a huge clan, or an outwardly serene clan might hide secret desperation and starvation. Use the tables below to inspire your clans. These options will get you started. Where you take them is up to you.",
+								"Size. Most camps range in size from around 10–100 people, and are led by a chieftain, a shaman, one or more elders, and various other high-status figures, described in the next section as notables.",
+								{
+									"type": "table",
+									"caption": "Camp Size",
+									"colLabels": [
+										"d6",
+										"Camp Size"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-10"
+									],
+									"rows": [
+										[
+											"1",
+											"Tiny. 1d6+5 people, including a chieftain (75%) or shaman (25%), and 1 elder (50%)"
+										],
+										[
+											"2",
+											"Small. 1d6+10 people, including a chieftain and shaman, 1d3-1 elders, and 1 notable (50%)"
+										],
+										[
+											"3",
+											"Modest. 2d6+20 people, including a chieftain, shaman, 1d4 elders, and 1d2 notables"
+										],
+										[
+											"4",
+											"Large. 2d6+40 people, including a chieftain, shaman, 1d4+2 elders, and 1d4 notables"
+										],
+										[
+											"5",
+											"Huge. 4d6+60 people, including a chieftain, shaman, 2d4 elders, and 1d4+1 notables"
+										],
+										[
+											"6",
+											"Enormous. 4d6+80 people, including a chieftain, shaman, 2d4+2 elders, and 2d4 notables"
+										]
+									]
+								},
+								"Layout. Although an encampment's arrangement is always affected by the environment, most clans have a preferred layout that best suits their personalities and survival strategies.",
+								{
+									"type": "table",
+									"caption": "Camp Layout",
+									"colLabels": [
+										"d6",
+										"Camp Layout"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-10"
+									],
+									"rows": [
+										[
+											"1",
+											"Sprawling. Low structures spaced far apart, covering a wide area."
+										],
+										[
+											"2",
+											"Densely packed. Crowded, covering a medium area."
+										],
+										[
+											"3",
+											"Tall. Towering, covering a small area."
+										],
+										[
+											"4",
+											"Deep. Dug out, covering a small area."
+										],
+										[
+											"5",
+											"Orderly. Arranged by pattern, covering a medium area."
+										],
+										[
+											"6",
+											"Scattered. Connected by paths or tunnels, area varies."
+										]
+									]
+								},
+								"Tone. Strongly influenced by leader and condition, the tone of a camp is part of its personality. Two otherwise similar camps might have strongly different tones, creating different opportunities for adventure and conflict.",
+								{
+									"type": "table",
+									"caption": "Camp Tone",
+									"colLabels": [
+										"d6",
+										"Camp Tone"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-10"
+									],
+									"rows": [
+										[
+											"1",
+											"Serene, calm, sacred. People walk slowly and murmur. Meditating clan members, small shrines, chimes, and quiet chants are commonplace."
+										],
+										[
+											"2",
+											"Bustling, rushed. People hurry past and call out across open spaces. Shouts, arguments, spills, and crowded entryways are commonplace."
+										],
+										[
+											"3",
+											"Competitive, tense. People walk in pairs and whisper. Shadowy corners, closed tent flaps, private conversations, and public contests are commonplace."
+										],
+										[
+											"4",
+											"Strict, formal. People work and eat according to a tight structure. Work parties, commands, and leaders issuing reprimands are commonplace."
+										],
+										[
+											"5",
+											"Lax, lazy, casual. People doze and amble. Naps, informal games, half-finished chores, cobwebs, and rubbish are commonplace."
+										],
+										[
+											"6",
+											"Showy, ostentatious. People stroll and boast. Paintings, carvings, woven cloth, fine goods, and rare craftworks are commonplace."
+										]
+									]
+								},
+								"Condition. Not all clans are equal in prosperity—some thrive and grow, while others disappear in wretched squalor. Any number of reasons can cause a rise or fall in fortunes: the death of a strong leader, a windfall of resources, internal fighting, the ravages of disease, the influence of gods… every clan has its own story.",
+								{
+									"type": "table",
+									"caption": "Camp Condition",
+									"colLabels": [
+										"d6",
+										"Camp Condition"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-10"
+									],
+									"rows": [
+										[
+											"1",
+											"Squalid. Miserable, in crisis"
+										],
+										[
+											"2",
+											"Miserable. Dirty, dangerous"
+										],
+										[
+											"3",
+											"Struggling. Hardworking, tough"
+										],
+										[
+											"4",
+											"Comfortable. Safe, secure"
+										],
+										[
+											"5",
+											"Growing. Bustling, thriving"
+										],
+										[
+											"6",
+											"Idyllic. Prospering, joyful"
+										]
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Materials",
+							"entries": [
+								"Often, clans will specialize in a certain type of work for the purposes of bartering with other clans, or seek some specific need of their people or magic, such as medicinal herbs, salt, or carving wood. Depending on the clan, they may value a location near a particular kind of material more highly than other locations.",
+								"Roll on the table below to determine the clan's current access to materials, and roll on the Materials table for inspiration about the reason for a clan's chosen encampment site.",
+								{
+									"type": "table",
+									"caption": "Source of Materials",
+									"colLabels": [
+										"1d20",
+										"Source of Materials"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-10"
+									],
+									"rows": [
+										[
+											"1–5",
+											"Bad. No materials are available."
+										],
+										[
+											"6–10",
+											"Poor. Materials are available, but they are scarce and of inferior quality. Roll once on the Materials table. Checks to collect these resources and to craft or trade with them have their DCs increased by 5."
+										],
+										[
+											"11–15",
+											"Fair. Materials are available and of adequate quality. Roll 1d4 times on the Materials table."
+										],
+										[
+											"16–20",
+											"Good. Materials are plentiful or of excellent quality. Roll 1d8 times on the Materials table. Checks to collect these resources and to craft or trade with them have their DCs decreased by 5."
+										]
+									]
+								},
+								{
+									"type": "table",
+									"caption": "Materials",
+									"colLabels": [
+										"3d8",
+										"Materials",
+										"Typical Location",
+										"Uses",
+										"Specialist"
+									],
+									"colStyles": [
+										"col-1 text-center",
+										"col-3",
+										"col-3",
+										"col-3",
+										"col-2"
+									],
+									"rows": [
+										[
+											"3",
+											"Unknown God*",
+											"Any",
+											"Magic, Protection",
+											"Shaman"
+										],
+										[
+											"4",
+											"Door to Nod*",
+											"Caves, Forests, Valleys",
+											"Travel, Magic",
+											"Chieftain, Warlock"
+										],
+										[
+											"5",
+											"Glass",
+											"Sand, Volcanoes",
+											"Tools, Decoration, Status",
+											"Glassworker"
+										],
+										[
+											"6",
+											"Ancestral Cairn*",
+											"Caves, Hills, Mountains",
+											"Lore, Regional Knowledge",
+											"Elder"
+										],
+										[
+											"7",
+											"Salt",
+											"Sand, Water Sources",
+											"Trade, Food Preservation",
+											"Cook, Trader"
+										],
+										[
+											"8",
+											"Spiderweb*",
+											"Caves, Forests",
+											"Medicine, Weaving, Crafting",
+											"Healer, Weaver"
+										],
+										[
+											"9",
+											"Shells",
+											"Caves, Water Sources",
+											"Tools, Decoration",
+											"Carver"
+										],
+										[
+											"10",
+											"Bones or Antlers",
+											"Fields, Forests, Caves",
+											"Weapons, Tools, Building",
+											"Crafter"
+										],
+										[
+											"11",
+											"Flint",
+											"Water Sources, Caves",
+											"Weapons, Tools",
+											"Flintknapper"
+										],
+										[
+											"12",
+											"Clay",
+											"Valleys, Water Sources, Caves",
+											"Pottery, Building",
+											"Potter"
+										],
+										[
+											"13",
+											"Common Stone",
+											"Hills, Mountains",
+											"Building",
+											"Builder"
+										],
+										[
+											"14",
+											"Wood",
+											"Forests, Water Sources",
+											"Weapons, Tools, Building",
+											"Woodworker"
+										],
+										[
+											"15",
+											"Grass or Rushes",
+											"Fields, Water Sources",
+											"Weaving",
+											"Weaver"
+										],
+										[
+											"16",
+											"Vines",
+											"Forests, Mountains",
+											"Rope, Tools, Building",
+											"Crafter"
+										],
+										[
+											"17",
+											"Feathers or Hides",
+											"Any",
+											"Clothing, Shelter, Decoration",
+											"Tanner"
+										],
+										[
+											"18",
+											"Wine Berries*",
+											"Fields, Forests, Cliffs",
+											"Fermentation, Trade",
+											"Drinkmaster, Trader"
+										],
+										[
+											"19",
+											"Special Herbs",
+											"Forests, Valleys, Cliffs",
+											"Medicine, Religion",
+											"Healer, Shaman"
+										],
+										[
+											"20",
+											"Monster Parts (Uncommon)*",
+											"Caves, Skeletons",
+											"Tools, Weapons",
+											"Crafter, Carver"
+										],
+										[
+											"21",
+											"Venom or Toxin",
+											"Sand, Forests, Water Sources",
+											"Medicine, Weapons",
+											"Healer"
+										],
+										[
+											"22",
+											"Ooze*",
+											"Caves, Forests, Water Sources",
+											"Glue, Lubricant",
+											"Builder"
+										],
+										[
+											"23",
+											"Monster Parts (Rare)*",
+											"Lairs, Skeletons",
+											"Tools, Weapons, Status",
+											"Chieftain, Crafter"
+										],
+										[
+											"24",
+											"Magic Item*",
+											"Any",
+											"Magic, Lore, Status",
+											"Chieftain, Elder"
+										]
+									]
+								},
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Unknown God.",
+											"entry": "The area holds the hallow of an unknown god—this might be a god who prefers to remain secret, who has ascended to godhood recently, or who has simply existed for all these years without encountering mortals. If the clan or party has a shaman, it is usually their responsibility to deal with newly-encountered deities, for good or for ill."
+										},
+										{
+											"type": "item",
+											"name": "Door to Nod.",
+											"entry": "Doors to Nod can be found throughout Planegea. Roll 1d20. On a 10 or lower, the door leads to the Nightmare World. On an 11 or higher, the door leads to the Dream World. Reality is often strange near such doors, altering nearby plants and animals, and elves or other native inhabitants of Nod might travel through the doorway and be willing to trade—or planning to attack. Warlocks or other arcane casters and clan chieftains are usually tasked with dealing with the threat or promise of an encounter with Nod."
+										},
+										{
+											"type": "item",
+											"name": "Ancestral Cairn.",
+											"entry": "Saurians leave piles of stone throughout the world, inhabited by the spirits of their dead, who are often willing to share their memories and knowledge of the surrounding lands. They may require a price for this knowledge, such as eradicating a local threat or carrying a message to their descendants."
+										},
+										{
+											"type": "item",
+											"name": "Spiderweb.",
+											"entry": "Although common spiderwebs are found everywhere, areas with particularly large spider colonies—or particularly large spiders—can have harvestable webs that are useful for crafting and medicine. Of course, the presence of such webs suggests the presence of spiders, making any attempt to harvest them one that's better done armed and protected."
+										},
+										{
+											"type": "item",
+											"name": "Wine Berries.",
+											"entry": "Wine berries are favored by drinkmasters, who know the secrets of fermentation to make strong drink. Such berries come in many varieties and qualities. Exceptional berries make exceptional drink, and are prized by traders for their portability when dried and their bartering value."
+										},
+										{
+											"type": "item",
+											"name": "Monster Parts.",
+											"entry": "Many monsters have particularly useful parts, such as petrifying eyes, fireproof scales, freezing fangs, etc. In areas where monsters are plentiful, these parts can be harvested—as long as you can survive an encounter with the monsters themselves."
+										},
+										{
+											"type": "item",
+											"name": "Ooze.",
+											"entry": "Naturally-occurring oozes come in many forms (most of them dangerous). These oozes can be used as extra-powerful greases or as bonding agents, depending on their type. They are also useful for certain kinds of spells. However, oozes without a clear source might also suggest aberrant presence nearby, and often act as a reason to avoid an area just as much as to visit it."
+										},
+										{
+											"type": "item",
+											"name": "Magic Item.",
+											"entry": "A lost magic item is an incredibly valuable find—if a deeply risky one. These magic items usually radiate a certain power. They may be cursed, or sentient, or tied to a particular fate. The item's former owner may haunt their hiding place, or it may be concealed within a dungeon, awaiting a worthy soul to come and claim it."
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Leaders",
+							"entries": [
+								"Nothing has a stronger effect on a clan than its leadership. A good leader can make a terrible situation rewarding, while a bad leader spoils nature's bounty. Leaders are those who stand out and help guide the clan. Some leaders have formal positions, while others exert influence based on their abilities and what the rest of the clan expects of them.",
+								{
+									"type": "entries",
+									"name": "Key Leaders",
+									"entries": [
+										"There are three key leadership roles in a clan: chieftain, shaman, and elder. A clan that lacks any of these roles is weaker for the absence, as each balances the other two.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Chieftain.",
+													"entry": "As the physical leader of the clan, the chieftain is responsible for the food and safety of their people. A chieftain oversees the hunters, gatherers, crafters, and arcane spellcasters, executes judgment in cases of crime, and leads the clan when they migrate. They are also the key negotiator in trade deals, alliances, and declarations of war. They ensure the shaman does not forget physical needs in pursuit of the spiritual, and that the old ways are not served to the detriment of the needs of the moment. Above all else, the chieftain is focused on the survival of the clan."
+												},
+												{
+													"type": "item",
+													"name": "Shaman.",
+													"entry": "As the spiritual leader of the clan, the shaman is responsible for the magical and religious well-being of their people. A shaman governs apprentices, guardians, and ascetics, enacting ceremonies, rites, and rituals, and deals directly with gods and spirits on the clan's behalf. They name children, oversee coming-of-age traditions, and bless marriage unions. They ensure the chieftain does not anger the gods, and that the old ways of the elders still please the gods as they change and grow. Above all else, the shaman is focused on the relationship between the clan and the gods."
+												},
+												{
+													"type": "item",
+													"name": "Elder.",
+													"entry": "As the lore-keepers of the clan, the elders are responsible for the transmission of knowledge and skill to their people. Typically acting as a group of three to seven, the elders oversee the teaching of children and crafters, fishers and trappers, and all who specialize in trades and skills that keep the clan alive. They keep alive the traditional ways of the clan, including songs and stories passed down from other generations, and offer key guidance when traveling through an ever-changing landscape, remembering what came before to envision what might lie ahead. They also mediate conflicts between the chieftain and shaman, acting as the final arbiters when the physical and spiritual leaders of the clan cannot agree. Above all else, the elders are focused on the stability of the clan."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Notables",
+									"entries": [
+										"Though the chieftain, shaman, and elders are the only official leaders in small clans, larger encampments with more people require more structure, and attract those with more skills. Such people are notable for their status and acumen. To introduce notables into your clans, roll on the table below:",
+										{
+											"type": "table",
+											"caption": "Notables",
+											"colLabels": [
+												"d20",
+												"Notables"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1-2",
+													"Lead hunter. The most experienced or impressive hunter, whose directions are followed on the trail."
+												],
+												[
+													"3-4",
+													"Lead gatherer. The most experienced or capable gatherer, who directs gathering efforts."
+												],
+												[
+													"5-6",
+													"Lead crafter. The most skilled crafter, either individually or as a leader of other crafters."
+												],
+												[
+													"7-8",
+													"Morning Speaker. Announces the daily work to be done and, under the authority of the chieftain, organizes and directs clan members."
+												],
+												[
+													"8-9",
+													"Guardian. An appointed warrior who fights on behalf of the shaman and is typically entrusted with the clan's magic weapon."
+												],
+												[
+													"10-11",
+													"Arcanist. A chanter, spellskin, sorcerer, or warlock who casts spells to benefit the clan."
+												],
+												[
+													"11-12",
+													"Expert. A person of special knowledge about a single topic, such as geography, weather, or creatures."
+												],
+												[
+													"13",
+													"Undershaman. A student and servant of the shaman, granted some shamanic powers and authority."
+												],
+												[
+													"14",
+													"Storyteller. A gifted orator or singer who entertains and unifies the clan with their tales and songs."
+												],
+												[
+													"15",
+													"Caretaker. One who is gifted with the care of the young, and raises children well, with great honor."
+												],
+												[
+													"16",
+													"Trader. One who deals with strangers on behalf of the clan, sometimes traveling far to enact significant bartering deals."
+												],
+												[
+													"17-18",
+													"Healer. A person studied in medicine, herbs, and healing secrets, who keeps the clan healthy."
+												],
+												[
+													"19-20",
+													"Champion. The clan's strongest physical specimen, put forward in games and battles as their representative."
+												]
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Description",
+									"entries": [
+										"To quickly create unique leaders, use the tables below to randomize their age, reputation, and a standout feature they're known for.",
+										{
+											"type": "table",
+											"caption": "Age",
+											"colLabels": [
+												"d6",
+												"Age"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Ancient"
+												],
+												[
+													"2",
+													"Old"
+												],
+												[
+													"3",
+													"Mature"
+												],
+												[
+													"4",
+													"Middle-aged"
+												],
+												[
+													"5",
+													"Prime of life"
+												],
+												[
+													"6",
+													"Unusually young"
+												]
+											]
+										},
+										{
+											"type": "table",
+											"caption": "Reputation",
+											"colLabels": [
+												"d6",
+												"Reputation"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Hated, treated with disgust or disdain"
+												],
+												[
+													"2",
+													"Disliked, avoided and opposed"
+												],
+												[
+													"3",
+													"Ignored, left out of conversations"
+												],
+												[
+													"4",
+													"Well-liked, opinion is sought after"
+												],
+												[
+													"5",
+													"Respected, given the last word"
+												],
+												[
+													"6",
+													"Revered, treated as a holy figure"
+												]
+											]
+										},
+										{
+											"type": "table",
+											"caption": "Standout Feature",
+											"colLabels": [
+												"d6",
+												"Standout Feature"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Stature. Roll 1d4. 1: Tall; 2: Short; 3: Slender; 4: Wide"
+												],
+												[
+													"2",
+													"Movement. Roll 1d4. 1: Fidgety; 2: Graceful; 3: Expressive gestures; 4: Clumsy"
+												],
+												[
+													"3",
+													"Health. Roll 1d4. 1: Hearty; 2: Sickly; 3: Pale; 4: Flushed."
+												],
+												[
+													"4",
+													"Intellect. Roll 1d4. 1: Brilliant; 2: Dull; 3: Logical; 4: Fanciful"
+												],
+												[
+													"5",
+													"Outlook. Roll 1d4. 1: Impulsive; 2: Cautious; 3: Optimistic; 4: Pessimistic"
+												],
+												[
+													"6",
+													"Demeanor. Roll 1d4. 1: Warm; 2: Passionate; 3: Aloof; 4: Cliquish"
+												]
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Structures",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "Dwelling",
+									"entries": [
+										"Dwellings are where creatures sleep and spend their time at ease, when not at work or at the clanfire. Most of these dwellings can be constructed of the most rudimentary materials—sticks, leaves, untreated hides—but can be fashioned of finer stuff for more comfortable and impressive dwellings if those who live within are of high status.",
+										{
+											"type": "table",
+											"caption": "Dwellings",
+											"colLabels": [
+												"d8",
+												"Dwellings"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Shelter. A simple lean-to, little more than a slanted roof propped up by sticks. Enough to keep some of the rain or sun off, but little else."
+												],
+												[
+													"2",
+													"Tent. A mobile, collapsible dwelling, often fashioned from poles and a covering. Usually has an opening to allow smoke from a hearth or cookfire to escape."
+												],
+												[
+													"3",
+													"Hut. Semi-permanent, sturdier and tougher than a tent. Takes longer to construct and move, usually built at a site that a clan intends to return to again."
+												],
+												[
+													"4",
+													"Roundhouse. A large circular edifice with a conical roof and enough space for many to gather within. Roundhouses can be built as permanent structures or crafted to quickly collapse."
+												],
+												[
+													"5",
+													"Pithouse. A roof lowered over a pit, hole, or other low place. Pithouses are excellent for staying out of sight, and can be easily disguised to avoid notice from most predators—except the burrowing ones."
+												],
+												[
+													"6",
+													"Slinghouse. A dwelling suspended in midair, usually by ropes between trees or massive beasts. Typically traversed by crawling rather than walking while inside."
+												],
+												[
+													"7",
+													"Pen. A dwelling for beasts. Usually made from ropes wrapped around stakes driven into the earth. Tougher pens can be built to contain wild animals, but such projects take precious time and resources."
+												],
+												[
+													"8",
+													"Stable. A shelter, tent, or hut built with the needs of beasts in mind, not mortals. Considered a luxury—if an animal's life is worth protecting, it's usually simply brought in by the fireside with the family."
+												]
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Defense",
+									"entries": [
+										"In a world as violent and hungry as Planegea, defenses are essential to survival. The six defensive structures listed on the table below are the most common, but mortals have many clever means of keeping themselves and that which they hold dear safe. Most of these are fairly basic, but can be reinforced with resources and effort to improve their toughness and durability.",
+										{
+											"type": "table",
+											"caption": "Defenses",
+											"colLabels": [
+												"d6",
+												"Defenses"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Wall. From simple sharpened stick palisades to stone walls to magical barriers, walls keep trouble out."
+												],
+												[
+													"2",
+													"Tower. Guard towers are heavily fortified and built for shooting arrows. Watch towers are much taller and more spindly, designed to be quickly scaled for a glimpse at the distant horizon."
+												],
+												[
+													"3",
+													"Gate. A fortified entrance with a removable barrier made of wooden poles or large bones."
+												],
+												[
+													"4",
+													"Pit or Trench. Pits are designed as traps and obstacles, while trenches surround and slow attackers."
+												],
+												[
+													"5",
+													"Traps. Crafted for hunting, traps can also be useful for catching other kinds of creatures, and—whether lethal or not—serve an essential role in defending most encampments."
+												],
+												[
+													"6",
+													"Stash. In a world with few mechanical locks, secret stashes or hiding places for goods and valuables are important, with concealment serving as a better protection from thieves than force."
+												]
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Production",
+									"entries": [
+										"Some structures are built primarily for production: the preparation of food, the crafting of goods, the harvesting of raw materials, etc. These sites usually start out small and meager, able to only produce the smallest products. But given time and effort, with skilled artisans and sufficient workspace, they can expand to create amazing value.",
+										"Although each encampment is unique, many share similar structures, in varied combinations. Just as a medieval fantasy town might have a tavern, blacksmith, and temple, so Planegean settlements have the clanfire, crafter, and shrine. Use these structures to populate your encampments.",
+										{
+											"type": "table",
+											"caption": "Structure Type",
+											"colLabels": [
+												"d20",
+												"Structure Type"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1–8",
+													"Dwelling"
+												],
+												[
+													"9–10",
+													"Defense"
+												],
+												[
+													"11–14",
+													"Production"
+												],
+												[
+													"15–16",
+													"Storage"
+												],
+												[
+													"17–18",
+													"Transport"
+												],
+												[
+													"19–20",
+													"Magic"
+												]
+											]
+										},
+										{
+											"type": "table",
+											"caption": "Production Areas",
+											"colLabels": [
+												"d10",
+												"Production Areas"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Potter. Creates and bakes clay pots and containers for goods of all sizes and types."
+												],
+												[
+													"2",
+													"Knapper. Chips stones like flint and obsidian, sharpening them into blades for weapons, tools, fishhooks, and so on."
+												],
+												[
+													"3",
+													"Crafter. Builds tools, weapons, structures, traps, and all manner of complex objects requiring carpentry, woodworking, or invention."
+												],
+												[
+													"4",
+													"Mine. Where miners dig flint, salt, quartz, and other valued minerals from the nearby landscape."
+												],
+												[
+													"5",
+													"Dryer. Racks on which salted food or pelts are hung or spread as a method of preservation and preparation. (Food and skin dryers are usually kept separate.)"
+												],
+												[
+													"6",
+													"Hearth. A small fire, ringed with stones, usually in or near a tent, used for cooking and warmth."
+												],
+												[
+													"7",
+													"Oven. A small hut with a contained flame, used for evenly cooking certain kinds of food and baking clay."
+												],
+												[
+													"8",
+													"Tannery. A foul-smelling but essential structure at which hides are scraped, soaked, dried, and turned into leather. Tanneries are set far apart and downwind from the other structures, because of their smell."
+												],
+												[
+													"9",
+													"Weaver. Crafts woven baskets, mats, roofs, and other essential materials, as well as creating woven cloth when materials allow."
+												],
+												[
+													"10",
+													"Well. Brings water from below—usually only dug with great effort. Typically exists in sites clans return to year after year."
+												]
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Storage",
+									"entries": [
+										"For clans who are doing more than merely eking by, storage areas to contain food, supplies, and materials are essential. Simple and quick to build, they nevertheless usually stand open to thieves or pests, and can be made more secure given time or effort, depending on the value of what's inside.",
+										{
+											"type": "table",
+											"caption": "Storage Areas",
+											"colLabels": [
+												"d4",
+												"Storage Areas"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Resource pile. A stack of wood, rocks, or other nonperishable items that don't require containers or protection."
+												],
+												[
+													"2",
+													"Storage tent. A tent without a hearth or hole for the smoke, designed to keep water off the goods."
+												],
+												[
+													"3",
+													"Storage hut. A sturdier and more well-defended storage location, usually semi-permanent."
+												],
+												[
+													"4",
+													"Storage yard. A simple penned area designated for a certain type of goods."
+												]
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Transport",
+									"entries": [
+										"Certain objects lie halfway between structures and tools, but will often appear on your map of a camp like structures. Many of these items are particularly useful as the clan travels, and can be improved with time and resources to make them safer and more trustworthy, even in extreme conditions.",
+										{
+											"type": "table",
+											"caption": "Transports",
+											"colLabels": [
+												"d4",
+												"Transports"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Sledge. A platform designed to be hauled or dragged, sometimes on runners. Attached by ropes to a harness that can be worn by mortals or beasts."
+												],
+												[
+													"2",
+													"Boat. A raft, canoe, catamaran, or barge. Some are designed for fast travel, others simply as a floating platform from which to fish or keep watch."
+												],
+												[
+													"3",
+													"Bridge (Portable). Fashioned from rope and wood, a portable bridge is a valuable resource which, once secured, allows clan members to cross ravines, rivers, and so on with minimal difficulty."
+												],
+												[
+													"4",
+													"Ladder. Relied upon in cliff-dwelling clans, as well as being useful for battle and raids, quickly scaling trees, cliffs, and other heights from which one can attack and defend with greater ease."
+												]
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Magic",
+									"entries": [
+										"Many camps have magical areas where arcane or divine spellcasters can work their spells, allowing access to the powerful forces that make survival possible in Planegea. These areas can be very simple and rudimentary or quite elaborate, and usually require some sort of preparation in order to be useful. More magical places may require more preparation, to allow for greater spellcasting.",
+										{
+											"type": "table",
+											"caption": "Magic Structures",
+											"colLabels": [
+												"d6",
+												"Magic Structures"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Cairn. Special grave or tomb erected to enshrine an ancestor or friendly spirit. Such cairns can be used to communicate with ghosts, and are often useful for access to ancient lore or historical knowledge."
+												],
+												[
+													"2",
+													"Totem. A symbol or shared focus for the clan's power and reverence. Can be tied to either arcane or divine magic, and is useful for casting spells. Powerful totems can even increase spell levels within a certain range."
+												],
+												[
+													"3",
+													"Circle. A ring of stone, wood, bone, or other permanent material. Usually used in casting the {@spell hallow} spell to make a particular spot more magical or sacred."
+												],
+												[
+													"4",
+													"Spell Wall. A place where spellskins can work out their arcane patterns, crafting the complexities required to allow them to cast spells in the future, using only their tattoos as shorthand reminders."
+												]
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Culture",
+							"entries": [
+								"Clans don't exist without context or history. Use the following questions to inspire some of the culture in which this clan exists:",
+								{
+									"type": "list",
+									"items": [
+										"Why is this clan either sought out by others or avoided?",
+										"The prized belonging of someone long dead is in a place of honor. What is it and who did it belong to?",
+										"It's considered an offense to speak someone's name in the clan. Who is it and why?",
+										"What was the last crime committed in the clan or camp? How long ago was it and what was the punishment?",
+										"What is one rumor going around the clan?",
+										"What festivals or rites mark the clan's year?",
+										"Where's one place the clan never wants to return?"
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Encampment Dice Drop",
+							"entries": [
+								"Sometimes the characters will come across a clan unexpectedly, or you want a quick and simple way to generate an existing encampment. To quickly lay out a clan's encampment, you can simply use a dice drop method. Most camps are arranged organically, so this tool gives you an unplanned and unique encampment layout each time.",
+								{
+									"type": "entries",
+									"name": "1. Drop the Dice",
+									"entries": [
+										"First, choose a number of dice equal to the number of structures you want in your village. (You can always add or take away from these later.) For best results, use a variety of die types. Roll or drop the dice onto a sheet of paper."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "2. Trace Outlines",
+									"entries": [
+										"Now, loosely trace the outlines of the dice, lightly noting the number on each die as you remove it. These will become the shapes of the structures in the encampment. Any dice that were touching become a single structure with a complex shape. Many structures are created of adjoining tents or ramshackle networks of tents, huts, and awnings, so embrace the chaotic shapes these buildings take on—but don't be afraid to alter them as you see fit, based on the encampment you're interested in exploring."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "3. Note Gaps",
+									"entries": [
+										"There should be some gaps in the pattern of the dice as thrown. These gaps are crucial, as they show where structures aren't built, for good reason. Use the gaps as follows:",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Clanfire.",
+													"entry": "In the most central, most circular gap, draw an X the size of a structure. This is the location of the clanfire, and represents the social hub of the encampment."
+												},
+												{
+													"type": "item",
+													"name": "Perimeter.",
+													"entry": "Draw a line that encloses the largest group of structures. It's perfectly fine if some structures fall outside this, as will happen in more scattered maps. This line represents the boundary of the encampment. It will usually be fortified at least with a ditch or wall of sharpened sticks, but may merely be the line along which sentries are posted at night, to watch for predators."
+												},
+												{
+													"type": "item",
+													"name": "Geography.",
+													"entry": "If there is a second gap that's obvious in the map, use that to indicate a geographical feature or change in the landscape. Some options include: a stream or river (if deep, may be crossed by a bridge); a ledge or cliff (often crossed with ladders); a trail or path; a transition between types of terrain (if the site is half in forest or half over water); preternaturally large tree; strange rock formation."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "4. Add Labels",
+									"entries": [
+										"Now that you know the general shape of the encampment, you can begin labeling the structures you've traced, using the numbers rolled as a guide.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "High numbers.",
+													"entry": "First, look at the highest numbers rolled. The two highest numbers will be the chieftain and shaman's dwellings, with the shaman being nearest the clanfire. Continue counting down the high numbers, labeling the dwellings of elders and clan notables."
+												},
+												{
+													"type": "item",
+													"name": "Other structures.",
+													"entry": "You can decide what the other structures in the camp are, or you can determine randomly by rolling on the Structure tables."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "5. Modify & Run",
+									"entries": [
+										"Finally, make adjustments as you see fit, then bring the encampment into your game! Should the characters engage with the encampment for longer than a session or two, consider going back and using some of the materials from the Clan Creation section to discover more about the clan's nature and leaders."
+									]
+								},
+								{
+									"type": "inset",
+									"name": "Trouble",
+									"entries": [
+										"If there is trouble in the encampment, select a digit before rolling the encampment die drop. The structures matching that digit might be especially touched by the trouble. (For example, if you select 4, then any dice resulting in 4, 14, 40, etc. would indicate a structure touched by the trouble.)",
+										"If the trouble is more widespread, you might choose to have all structures with odd numbers be affected.",
+										"If characters investigate the chosen structures, they could potentially find the trouble's effects lingering here, and clues to unraveling it. Such troubles might include:",
+										{
+											"type": "list",
+											"items": [
+												"An infestation of biting insects or other pests",
+												"A disease or infection",
+												"Mold or rot on the structure and its contents",
+												"Low morale or a faction opposed to the leadership",
+												"A secret, conspiracy, or cover-up"
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Clanfire",
+							"entries": [
+								"The clanfire is the heart and soul of the clan. It represents a clan's life, and to quench the clanfire is equivalent to a death threat or declaration of war against the entire clan. The clanfire is always kept burning, whether by magical means or constant feeding—although it only burns high at night, when the clan gathers as the stars rise.",
+								{
+									"type": "entries",
+									"name": "Benefits",
+									"entries": [
+										"The clanfire is the center of encampment life. It's where the characters will be able to find NPCs regularly, and enact much of the business of adventuring that takes place at the tavern and shops in other 5E settings. Some of the benefits of using clanfires in your games include:",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Gathering.",
+													"entry": "Each night (and to a lesser degree, each morning), the majority of NPCs in a given clan gather around the clanfire. This regular reassembly of all characters can help drive the action forward. Your players will know where to find people, unless NPCs are trying to avoid them or absent for other reasons."
+												},
+												{
+													"type": "item",
+													"name": "Meal.",
+													"entry": "The clanfire is a place of shared meals, where all who are welcome at its light are invited to eat. If you don't want to focus on survival and resource management in your game, the clanfire is a useful tool for explaining how the characters have enough to eat each day—and being excluded from it can immediately trigger the need to find food in a more creative, adventure-filled way."
+												},
+												{
+													"type": "item",
+													"name": "Rumors.",
+													"entry": "Wherever communities gather, rumors swirl. The clanfire is a perfect place for characters to overhear fragments of information, snatches of conversation, whispered secrets—all the news you might have them pick up in a chaotic environment where lips are loosed by strong drink and good food."
+												},
+												{
+													"type": "item",
+													"name": "Tasks.",
+													"entry": "Just as the notice board serves as an easy way to give characters jobs in medieval fantasy, tasks are handed out at the clanfire. Typically this happens in the morning, during an informal gathering where a speaker announces work to be done, but can just as easily be suggested at any time of day if the characters inquire about jobs."
+												},
+												{
+													"type": "item",
+													"name": "Commerce.",
+													"entry": "Trade happens by the light of the clanfire. Rather than travel to individual shops, players can find crafters, traders, and others interested in swapping for salt or barter gathered around the blaze. Bargains can at least begin at the clanfire, but may require a follow-up visit to the trader's dwelling in the light of day, to examine wares and exchange goods."
+												},
+												{
+													"type": "item",
+													"name": "Authority.",
+													"entry": "Ceremonies, judgments, executions, exilings, marriages, adoptions, clan magic—all public events happen at the clanfire, conducted by the shaman, chieftain, or both. If there's a public event, for good or ill, it will occur just after dark, as the clanfire burns high."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Running the Clanfire",
+									"entries": [
+										"The clanfire is a great tool for you as the DM, and can make running downtime much easier with a minor degree of preparation. This is not always necessary—for clans where the characters won't spend much time, it's unimportant to go into this level of detail. But if your table will be spending any significant portion of their adventuring time with a given clan as their home base, you can make the clanfire a living, breathing place with these steps:",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "List.",
+													"entry": "First, make a numbered list of important or interesting NPCs in the clan. Consider leaders, notables, average clan members, and anyone of particularly low status. List them out. (You can also simply write categories of people, such as \"gatherer\" or \"child\" if the tribe is large enough.) You can use the Name Generator, p. 375."
+												},
+												{
+													"type": "item",
+													"name": "Key.",
+													"entry": "Once you have your list, make a key noting any factions, groups, or storylines. For example, if a team of the young hunters is considering an overthrow of the existing chief, you might put a star by their names. If you want to add additional detail, consider when each character is habitually by the fire. You can add columns to your table for each time period (e.g., Day & Night; or Morning, Afternoon, Evening, Night, Pre-Dawn) and indicate which characters are present."
+												},
+												{
+													"type": "item",
+													"name": "Plot.",
+													"entry": "On a separate sheet of paper, look at the factions, groups, or storylines you've keyed on your list, and make short notes on what interacting with such a group might lead to. Perhaps it's a piece of information the characters might overhear, an encounter they could get into, or a rumor that could be passed along. Write at least one note for each faction, group, or storyline. You can also make notes for individuals who are not in groups—especially leaders and notables, who are more likely to be sought out by the party."
+												},
+												{
+													"type": "item",
+													"name": "Roll.",
+													"entry": "When the characters arrive at the clanfire, roll 1d6 times on the table for active NPCs, who will be front and center at the clanfire. At times when the clanfire is mostly empty, these may be the only people there. When it's more full, these are the people who stand out from the crowd. Alternatively, if the entire clan is gathered, you can roll 1d6 to discover who is conspicuous by their absence."
+												},
+												{
+													"type": "item",
+													"name": "Center.",
+													"entry": "When the characters arrive at the clanfire, as you describe the scene, call out the NPCs you rolled as present, describing their position around the fire and current activities. Focusing on these NPCs in the scene description will give the party an easy place to start as they interact with the clanfire, and make it come alive in unpredictable combinations."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Clanfire Timing",
+									"entries": [
+										"Although each clan is unique, there is a common pattern of activities and events that take place around a clanfire. Use the timing in this section as a general guideline for the flow of the day around the fire—and deviate from this pattern to indicate that something is unusual or amiss.",
+										{
+											"type": "entries",
+											"name": "Morning",
+											"entries": [
+												"The early hours at the clanfire are a time for informal gathering and preparation before setting out for the day's work. The fire burns low, kept to a bed of hot coals. A morning at the campfire usually includes:",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Warming meals.",
+															"entry": "Individuals gather to heat food or drink before they head out. Although eating by the campfire is communal, there's no shared dish—each is responsible to bring food from their own gathering or hunting outside of the evening clan meal."
+														},
+														{
+															"type": "item",
+															"name": "Talk.",
+															"entry": "Conversation at the morning clanfire is usually subdued, discussing the work to be done for the day and any noteworthy events of the night. Light gossip about carousing or mysterious behavior is often found here, as well as discussions about the surrounding land before people set out."
+														},
+														{
+															"type": "item",
+															"name": "Tasks & opportunities.",
+															"entry": "Morning is when tasks and opportunities are discussed or announced, before hunting and gathering parties set out for the day. Some clans have an official role called a Morning Speaker, under the authority of the chieftain, who announces the work to be done, then organizes and directs clan members into work parties. If the characters want to know about potential quests for the clan, the Morning Speaker is a good person to approach."
+														},
+														{
+															"type": "item",
+															"name": "Departure.",
+															"entry": "After eating and discussing the work to be done, the clan will splinter, dividing into work groups and individual tasks. From this point until the evening, the clanfire will be mostly empty of large groups, unless a special event or emergency calls the clan back together."
+														},
+														{
+															"type": "item",
+															"name": "Crafting.",
+															"entry": "Crafters often remain by the clanfire throughout the day, using the fire for various parts of their work, or simply plying their trade while conversing with others. Some wait until after departure before hauling out special equipment and spreading out their work over a large area now that the clanfire is finally quiet."
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
 				}
 			]
 		}
