@@ -1,0 +1,495 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "SSSOP",
+				"abbreviation": "SSSOP",
+				"full": "Star Shaman's Song of Planegea",
+				"authors": [
+					"David Somerville"
+				],
+				"convertedBy": [
+					"Anonymous"
+				],
+				"version": "0.0.1"
+			}
+		],
+		"dateAdded": 1784505600,
+		"dateLastModified": 1784505600
+	},
+	"book": [
+		{
+			"name": "Star Shaman's Song of Planegea",
+			"id": "SSSOP",
+			"source": "SSSOP",
+			"group": "supplement",
+			"author": "David Somerville",
+			"contents": [
+				{
+					"name": "Preface"
+				},
+				{
+					"name": "Welcome to Planegea",
+					"headers": [
+						"A World of Bone & Fire",
+						"Unfamiliar Everything",
+						"The Clanfire Is Sacred",
+						"Every Place Has Its God",
+						"In This Book",
+						"Answer the Howl"
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 1
+					}
+				},
+				{
+					"name": "Clanfire & Wilderness",
+					"headers": [
+						"Three Themes",
+						"Clanfire",
+						"Wilderness"
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 2
+					}
+				},
+				{
+					"name": "Prehistoric Characters",
+					"headers": [
+						"A Prehistoric Life",
+						"Variant Rules",
+						"Trinkets"
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 3
+					}
+				},
+				{
+					"name": "Kinships",
+					"headers": [
+						"Primordial Kinships",
+						"Planegean Kinships"
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 4
+					}
+				},
+				{
+					"name": "Classes",
+					"headers": [
+						"Classes, Reimagined"
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 5
+					}
+				},
+				{
+					"name": "Backgrounds",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 6
+					}
+				},
+				{
+					"name": "Equipment & Trade",
+					"headers": [
+						"Barter",
+						"Languages",
+						"Armor",
+						"Weapons",
+						"Adventuring Gear"
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 7
+					}
+				},
+				{
+					"name": "Spells",
+					"headers": [
+						"Blood Magic",
+						"Spell Lists",
+						"Spell Descriptions"
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 8
+					}
+				},
+				{
+					"name": "Planegea Adventures",
+					"headers": [
+						"Your Own Planegea",
+						"Themes",
+						"Wilderness Tools",
+						"Clan Tools",
+						"Taming & Training",
+						"Adventure Environments",
+						"At Your Table"
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 9
+					}
+				},
+				{
+					"name": "The Primal World",
+					"headers": [
+						"Cosmology",
+						"The Sea of Stars",
+						"The Sky",
+						"The Elemental Wastes",
+						"The World-Fangs",
+						"Blood Mountain",
+						"The Venom Abyss",
+						"The Great Valley",
+						"The Giant Empires",
+						"Nod"
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 10
+					}
+				},
+				{
+					"name": "Factions & Threats",
+					"headers": [
+						"Factions",
+						"Threats"
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 11
+					}
+				},
+				{
+					"name": "Treasures",
+					"headers": [
+						"Magic Items",
+						"Magic Masks",
+						"Magic Item Descriptions"
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 12
+					}
+				},
+				{
+					"name": "Gods & Monsters",
+					"headers": [
+						"Primordial Monsters",
+						"Gods",
+						"Gods of Planegea",
+						"Bestiary",
+						"NPCs"
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 13
+					}
+				},
+				{
+					"name": "Appendix A: Name Generator",
+					"ordinal": {
+						"type": "appendix",
+						"identifier": "A"
+					}
+				},
+				{
+					"name": "Appendix B: Inspiration",
+					"ordinal": {
+						"type": "appendix",
+						"identifier": "B"
+					}
+				},
+				{
+					"name": "Index",
+					"ordinal": {
+						"type": "appendix",
+						"identifier": "C"
+					}
+				}
+			]
+		}
+	],
+	"bookData": [
+		{
+			"id": "SSSOP",
+			"data": [
+				{
+					"type": "section",
+					"name": "Preface",
+					"page": 8,
+					"entries": [
+						"Roughly twelve years before this book began and twelve thousand years after Earth's last ice age ended, I was newly married and living in a basement apartment in Maryland. One Saturday, my wife arranged for my two older brothers to appear from nowhere, throw me in a Jeep, and drive me to the biggest theater they could find so we could watch a movie I'd been itching to see: Roland Emmerich's prehistoric spectacle, {@i 10,000 BC}.",
+						"I can't say for sure whether or not {@i 10,000 BC} is a good movie. I haven't watched it since, and I don't plan to, because the experience of being suddenly and unexpectedly thrown into that primordial world of great beasts and adventure is one of the closest things I've ever had to actually getting sucked into a magic portal. All I know is that it made an impression, and I can still remember lines, moments, and feelings from it all these years later. Wise words about drawing circles. A saber-toothed cat in a rainy jungle. The awe of a city, seen for the first time by Stone Age eyes.",
+						"A decade later, my wife and I (now with two daughters and a son) were preparing to embark on a nomadic adventure of our own. We had decided Washington, D.C. was not where we wanted to raise our kids, so I'd left my dream job as the creative director of a magazine, we'd bought a truck and an RV (a 2011 Keystone Cougar), and were preparing to drive across America in search of a home. While I was taming the beast that would become our house on wheels, Keith Baker released {@i Wayfinder's Guide to Eberron} and with it, {@i The Manifest Zone} podcast. I had stumbled across tabletop RPGs in the intervening years, but had only played in homebrew adventures, so Keith's world was totally new to me. I listened to his podcast hungrily, fascinated by both his approach to world-building as well as the origin of the setting—the 2002 Fantasy Setting Search, where a certain Seattle-based publisher summoned more than 10,000 worlds from thin air with a call to submit a new setting for everyone's favorite role-playing game.",
+						"Listening to Keith unpack his brilliant setting, I couldn't help but wonder if such a call went out again, what sort of world I might put forward. I wanted to follow in Keith's footsteps, to create a place where everything that was in Fifth Edition had a home… just maybe not the one you'd expect. I wanted it to feel meaningfully different from medieval fantasy and steampunk and science fiction, but still be recognizable, iconic, and easily grasped. I wrote down a few ideas, and one stood out: prehistoric fantasy.",
+						"I ran a quick playtest session with my brother (who had driven the getaway car to the theater ten years earlier). He created an orc ranger named Ush, and made the first footsteps in the snows of Planegea.",
+						"We set off on our RV trip like hunter-gatherers, hunting for a home and gathering experiences. As we traveled, I studied prehistoric history and fantasy, reading Wells and Auel and listening to podcasts about flint-knapping, basket fishing, and the invention of music. I saw actual dinosaur footprints and whirling petroglyphs, and tried a couple of different treatments of the setting, but couldn't quite fix on what you would do in a world like that, once you got there and figured out your next meal.",
+						"Then I stumbled across the concept of Appendix N and the Appendix N Book Club podcast. Gary Gygax's list of books that inspired the game we love was a revelation to me, and through the Book Club's skillful discussion, I was able to parse the meaning of sword & sorcery, a term I had never really grasped before. I came to better understand the kinds of adventures that had fueled the earliest iterations of the game—and how far we've come since then. I worked to create a setting that could tell smoky, dangerous stories full of personal heroism, inspired more by Fafhrd and the Gray Mouser than Frodo and Aragorn, full of powerful antagonists to tangle with and strange locations to stumble into without much of a plan at all.",
+						"As we found and settled into our new home on the Gulf Coast, where pelicans glide over sun-warmed water, the final two pieces of the setting clicked into place, with the concept of the Black Taboos and the release of Genndy Tartakovsky's {@i Primal}. The Black Taboos solved a problem I'd faced every time I tried to explain the setting (\"No, it's not ooga-booga, me make fire. Your character can be smart in the Stone Age… yes, okay, I do see how hitting things with clubs is funny, but I think it could be cool to do more!\") and {@i Primal} was a perfect example of what prehistoric sword & sorcery looked like played out with a bold and vivid imagination.",
+						"In the end—which was also the beginning—I wrote a treatment about a fantasy world locked into a Stone Age by unexplained metaphysical forces, where the planes of existence were still traversable by foot, and in which all the vivid life of Fifth Edition adventures could be experienced anew. I scribbled out a map and shared it, and was overwhelmed by enthusiasm for the idea. Strangers set up subreddits and Discord servers, demanding that I post more detail about the setting there. I did, and this book is the result.",
+						"I want to thank every member of r/planegea and the Planegea Discord server for your inexhaustible curiosity and brilliant ideas, the hosts of the Appendix N Book Club for explaining sword & sorcery to me, Keith Baker for his masterclass in what makes settings tick, my brothers for yanking me out of this world all those years ago, and my brilliant, inspiring wife for getting all of this started.",
+						"I hope this book sparks new kinds of adventures at your table. If one person who reads it winds up falling through the millennia into saber-toothed adventures like I did, it will have been well worth it.",
+						{
+							"type": "entries",
+							"entries": [
+								"Yours in wonder,",
+								"David Somerville, Author"
+							]
+						},
+						{
+							"type": "flowchart",
+							"name": "A Star-Shaman's Tale",
+							"entries": [
+								{
+									"type": "flowBlock",
+									"name": "The Star-Shaman Speaks",
+									"entries": [
+										"{@i YOU THERE! Yes, YOU—with the bemused expression and the strange eyes. Come closer, warm yourself by the fire. I thought I'd seen everything, but I don't recognize your mode of dress or style of speech. From what part of the world do you hail?}",
+										"{@i … I see. An unexpected answer. I myself am not of this land originally. Once I danced in the heavens, a star among stars. But then I fell, and since then I have made it my life's work to learn all that I can of the world in which I find myself.}",
+										"{@i In you I sense a kindred spirit… you have the look of one in whom gleams the light of curiosity; a sibling-soul, to be sure! Well, if you'll stay for a while, keep me company until the starlight above turns to dawn's bright gleam, I'll sing you a song of this place.}",
+										"{@i For I have traveled its length and breadth, from the choking depths of Brinewaste to the winged cities of the Air Empire. I have held audience with the vampiric Nin in her lava temple, and seen the source of the Everstorm. And in all these places, I have dealt with chieftains and shamans, gods and giants, dragons and dryads and things far stranger, which barely have a name.}",
+										"{@i I'd like to tell you about them, if you'll listen.}",
+										"{@i Some of my tale may be hard to believe. They say stars like myself seek to fib and deceive. And perhaps I will stretch the truth for the sake of a story here and there. But I'll also conceal things too terrible to recount in night's clawed shadow. Maybe I'll say more in the morning, should we live that long.}",
+										"{@i Stop. What was that? … Did you hear something in the dark? Something heavy of foot, something hungry?}",
+										"{@i Ah, it must have been the knucklecrown.}",
+										"{@i Pay him no mind. Where was I? No matter, we can begin almost anywhere, there's so much to tell.}",
+										"{@i I will sing to you of bear gods and lion gods and ape gods, of wandering clans trying to stay ahead of winter, of the doorways into dreams that offer salvation or despair, depending on the whim of the elves on the other side.}",
+										"{@i I will sing to you of kraken cults, of woolly unicorns, of oozes and constructs, and the King of Death himself, in whose halls I have shined my light—the only glow in that infinite dark.}",
+										"{@i If you're ready to listen, I'm ready to sing. Let me just gather my drum and my string.}",
+										"{@i Ready?}",
+										"{@i Then hear me, and know that I am the STAR-SHAMAN, and my song is the song of the land of Planegea, the first—and wildest—of all worlds.}"
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Welcome to Planegea",
+					"page": 10,
+					"entries": [
+						{
+							"type": "quote",
+							"entries": [
+								"The oozing jungle shakes with the thunder and roar of the barbarian atop the awakened mammoth. He whirls his enchanted bone axe, signaling the sorceress soaring above. She folds her wings and dives, ablaze with magic. Tonight, her spells and his rage will at last lay waste to the slimy lair of the tentacled tyrant-lizard and its corrupted brood!",
+								"Still vibrating with star-magic, the translucent elf scavenger—her edges dreamlike and indistinct—holds her breath. She carries her flint dagger in one hand and her offering of blood in the other as she descends, trailed noiselessly by her ever-silent halfling companion, into the cave of the bear-god.",
+								"The dwarvish fighter, stony beard glittering with gemstones, and the saurian spellskin bow their heads to receive the clan blessing as they prepare to track the fire-giant slave-raiders. The great clanfire claws at the night sky and the shaman sings of rescue and dawn, but the rocky heart of the dwarf beats only with the drum-song of revenge."
+							]
+						},
+						"This is Planegea—a primordial fantasy campaign setting for 5th Edition, where a dungeon means the curse-painted caves of a cannibal clan, and a mindless, monstrous dragon is as likely to eat you as look at you. Gone are the safe hearths of taverns and libraries, kingdoms and cathedrals. Planegea is a place of utter wildness, where survival is the only law and it must be carved from the world by force of might and magic.",
+						"Here, you must eat or be eaten. Fashion your own armor from fur, feathers, bone, and stone. Shatter your hand-carved blades on the backs of your enemies in savage combat. Hunt primordial beasts, hold your breath as you hide from massive predators, and seek safety in numbers as you journey through an epic world before myth—a land of smoke, song, blades, dreams, blood, and magic.",
+						{
+							"type": "entries",
+							"name": "Unfamiliar Everything",
+							"entries": [
+								"Nothing is as you expect in Planegea. Elves are shimmering dream-walkers, dwarves are half stone, humans are beast-tamers, halflings are silent stalkers, gnomes are filthy scavengers, and dragonborn are just a heartbeat away from their draconic ancestors.",
+								"There are no great, universal gods—only a patchwork quilt of local deities, often appearing in the shapes you least expect, with powers that are bought with offerings and strange favors.",
+								"In Planegea, the planes of existence have not yet separated, and a warrior can travel by foot from the Sea of Stars to the infinite, volcanic peak of Blood Mountain. But along the way, that warrior must battle everything—from cold, alien intelligences to the genie caravans; from the four empires of the giants to the monsters that hunt the howling peaks and roaring oceans that ring the Great Valley; from the cold, bony fingers of the Nightmare World to the terrifying jaws of the jungle known as the Venom Abyss. Every step of the journey is plagued with danger and death."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "A World of Bone & Fire",
+							"entries": [
+								"Planegea is primal fantasy roleplaying. Whatever you want to explore in 5th Edition—slaying monstrous creatures, navigating political intrigue, exploring ancient ruins, crafting enchanted weapons, infiltrating evil cults, battling, building, casting, carousing—it's all here. Planegea rises out of our earliest ancestral memory, a world we can barely recognize, which holds all the adventure we can imagine. You won't find limitations on class or race in these pages. Rather, they are filled with ideas and inspiration for running a long and glorious game set before written words, hammered ore, and plowed fields.",
+								"Drawn from the traditions of sword & sorcery pulp adventures, infused with the blood-pounding thrills of life-or-death action, and caught in the jaws of primordial dreams, Planegea has adventures for everyone who ever felt the cold wind raise a chill of hunt and hope on their raw skin."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Clanfire Is Sacred",
+							"entries": [
+								"Life begins and (if you're lucky) ends at the clanfire. Every clan keeps a fire burning as hot and high as they can; the bigger the fire, the greater the strength of the clan. Clans compete to build the greatest fire, and dare young hunters to make dousing raids on the fires of their enemies.",
+								"For wanderers, the clanfire has even more significance—the light acts as a signal-fire, a place to gather and rest. It is a great tradition that strangers are welcome without question at the clanfire between sunset and sunrise, as long as they leave their weapons outside the firelight.",
+								"The clanfire is the heart of clan life—food, strong drink, stories, songs, ceremonies, disputes, judgments, dreams, and more are all shared around it.",
+								"The clanfire replaces the tavern. When looking for a place to rest and spend the night, seek out the nearest clanfire. You'll have to leave your weapons behind, but strong tradition will keep you safe until morning… probably. It's also a great place for gathering rumors, asking advice about the landscape and local gods, and bartering goods and favors."
+							]
+						},
+						{
+							"type": "inset",
+							"name": "Every Place Has Its God",
+							"entries": [
+								"Planegea exists in an age of proto-gods, where divine beings are only beginning to gather their power and understand what it is to ascend to rule the cosmos. There are no great universal gods with dominion over entire aspects of reality. Instead, Planegea is an animistic place, with powerful spirits reigning as gods over local environments.",
+								"Many beings can become gods, in a mysterious process that is unknown even to the wisest of shamans. Creatures, plants, rivers, places—even objects and weather patterns—all of them can develop into divine spirits over time. But a few principles unite these proto-gods:",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Gods are tied to a place.",
+											"entry": "Once a spirit becomes a god, it is restricted in its movement to its sacred place—a forest glade, a cave, a bend in the river, and so on. They cannot leave these places, called hallows, so they call on mortal agents to enact their will in the world."
+										},
+										{
+											"type": "item",
+											"name": "Gods barter with power.",
+											"entry": "Since they are confined to their hallows and hungry for glory, gods are more than willing to help mortals—even passing strangers—in exchange for offerings and favors. The hallows of gods can take the place of a magic shop, where food and drink are blessed, totems are crafted, and weapons, armor, and other wondrous items are enchanted… for the right offering."
+										},
+										{
+											"type": "item",
+											"name": "Gods consume gods.",
+											"entry": "Some gods are content to remain in their hallows and commune with their followers, but many strive to grow their power and influence. Gods will often incite those within their influence to conquer neighboring areas, destroying what is sacred to them—damming rivers, cutting trees, hunting animals, etc.—to weaken them so that the conquering god can extend their range to the defeated god's hallow and devour their essence."
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "inset",
+							"name": "Stonepunk",
+							"entries": [
+								"Let your imagination run wild within the limits of the taboos. Build cities on the backs of mammoths, hang wooden temples from giant trees, craft great hang-gliders that soar on volcanic heat—whatever can be made with skill and simple tools, bring into your vibrant Stone Age world."
+							]
+						},
+						{
+							"type": "inset",
+							"name": "The Black Taboos",
+							"entries": [
+								"The people of Planegea are no fools. They are intelligent, curious, and possessed of a strong will to survive. Yet they are locked in the Stone Age by powers beyond the reckoning of gods or mortals. Mighty minds and spirits of Planegea fight against these bonds, staying clever and inventive under the constraints they face.",
+								"There is a force in the cosmos known as the Hounds of the Blind Heaven. Nobody knows where they come from, or the origin of their curse. But one thing is certain: breaking the so-called Black Taboos rouses their wrath, and means certain death. The Black Taboos are these:",
+								{
+									"type": "list",
+									"style": "list-hang-notitle",
+									"items": [
+										{
+											"type": "item",
+											"name": "Writing is death.",
+											"entry": "The dark magic known as \"writing\" summons the unthinkably horrible and merciless Hounds. Anyone who forms a written word will instantly be pursued until dead by awful beings that seem to know the moment a glyph is shaped anywhere in the world. Pictures and patterns do not seem to rouse the Hounds' ire, but any abstract symbology that can be used to communicate meaning over distance is a breaking of the First Taboo."
+										},
+										{
+											"type": "item",
+											"name": "No number after nine.",
+											"entry": "Holding up both hands and counting the fingers there ends in \"many.\" Every number above nine is many. A family of more than nine is many. An endless sea of herd animals that stretches from horizon to horizon is many. A journey of countless miles is many. For mechanical purposes of movement, range, combat, etc., numbers still have meaning. But in roleplay and conversation, anything numbering above nine is ambiguous and mysterious, and doing any calculation of high numbers is fraught with peril from the Hounds."
+										},
+										{
+											"type": "item",
+											"name": "No wheels or money.",
+											"entry": "Writing is not the only taboo that summons the Hounds. So too do wheels on axles and the creation or exchange of currency of any kind. Whatever the Blind Heaven is, wherever the Hounds come from, they seem utterly committed to keeping Planegea in its most primitive form."
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "In This Book",
+							"entries": [
+								"The volume before you is not a stand-alone game. It is meant to be played with other 5th Edition resources. But it does contain an entire Stone Age world ready to be discovered, saved, or conquered… depending on what you bring to the table.",
+								{
+									"type": "entries",
+									"name": "Part I: For the Player",
+									"entries": [
+										"The first part of the book is directed at players. The humanoids of Planegea (collectively called mortals in these pages) are cunning, resourceful, and dangerous. And you'll need to be the same if you want to survive. Part I will give you the tools you need to stay one step ahead of all that hunts you… and, just perhaps, a way to write your own name in the stars.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Clanfire & Wilderness.",
+													"entry": "The first chapter introduces you to the wandering world of Planegea, with glowing clanfires and dangers in the ever-shifting land. Discover the themes of Planegea and explore clan life, with its patterns and rhythms, its full days and magic nights. Step beyond the edge of the firelight to find a world on the move, and learn the basics of wilderness survival."
+												},
+												{
+													"type": "item",
+													"name": "Creating Your Character.",
+													"entry": "What is it like to grow up in a primordial land? Discover your origins, from birth, childhood, your first encounter with a deity, your relationship with your clan, and more. Sharpen your senses so that you can walk into the world of Planegea with open eyes—because what's lurking out of sight is already watching you."
+												},
+												{
+													"type": "item",
+													"name": "Kinships.",
+													"entry": "In Planegea, life is abundant and strange. Four new kinships (also known as \"races\" in other 5th Edition materials) come to life in these pages: the half-ooze, dreas, saurian, and starling. The familiar kinships of 5th Edition are here as well, but they are strange and primal. Dwarves are half-stone, elves are half-dream, and monsters are mixed in unpredictable combinations to frighten and bewilder even the most seasoned of adventurers."
+												},
+												{
+													"type": "item",
+													"name": "Classes.",
+													"entry": "The traditions that will someday become classes all begin in Planegea, from the divine shaman making offerings to local gods, to the arcane spellskin drawing her tattoos with magic, to the martial fighter shattering a bone sword on the back of a monster. Though the roles are familiar, they are also altered by countless epochs, and have strange and unexpected aspects in prehistory."
+												},
+												{
+													"type": "item",
+													"name": "Backgrounds.",
+													"entry": "Before your character started their adventure, they lived in the world. Use the all-new backgrounds section to find your place in Planegea before the curtain rises on your story, from clan member to captive, and everything that lies between."
+												},
+												{
+													"type": "item",
+													"name": "Equipment & Trade.",
+													"entry": "Planegea is a world without metal—it simply does not exist. And since coin is forbidden by the Black Taboos, all is barter and swap. (For convenience, this book uses portions of salt (ps) as a reference of value.) Yet even with such limited means, the brilliant crafters and builders of Planegea create items of stunning grace and utility; and they're willing to trade it to you, for the right deal."
+												},
+												{
+													"type": "item",
+													"name": "Spells.",
+													"entry": "Magic is new and raw in Planegea. Kinships guard their arcane secrets, and the gods, forests, and Death itself punish those who encroach on their domains. Find new spells for all casting classes here, if you dare to weave them."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Part II: For the Game Master",
+									"entries": [
+										"The second part of this book is written for DMs, and gives guidance, lore, and mechanics designed to help even those who are new to 5th Edition run thrilling adventures in Planegea quickly.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Stone Age Adventures.",
+													"entry": "From broad themes to detailed mechanics, this first chapter offers a compendium of tools for the Planegean DM, including material on clans, the wilderness, adventure structures, and how to reinvent classic fantasy tropes for the Stone Age."
+												},
+												{
+													"type": "item",
+													"name": "Locations.",
+													"entry": "Here at the beginning, all the planes exist in a single world. This chapter describes the cosmology of the world, its wide and strange landscapes, and what you'll find in them. It suggests character levels for adventures in each region, and references to the major threats that lurk there."
+												},
+												{
+													"type": "item",
+													"name": "Factions & Threats.",
+													"entry": "For those souls who dare to tread on ancient ruins or forbidden places, they will find no palaces of elven lords or ancient dwarven kingdoms. The desolate places of the world hold dungeons, but not made by mortal hands. Great powers move and shake the world, and this chapter lays their wills and secrets bare, for you, the DM, to shape an adventure perfect for your party."
+												},
+												{
+													"type": "item",
+													"name": "Treasures.",
+													"entry": "In Planegea, the hunter is also prey, and must beware lest a predator catch them off-guard. After the dust settles, every monster can be harvested for its meat or bile or bones, and there are many treasures and arcane objects to tempt those willing to take them."
+												},
+												{
+													"type": "item",
+													"name": "Friends & Foes.",
+													"entry": "Everything in 5th Edition can be found in Planegea. Aberrations infest the depths. Beasts, plants, oozes, and monstrosities prowl for prey. Celestials and fiends flicker in faith's dawn. Constructs shamble from arcane fires. Dragons and elementals roar at each other across the radius of the world. Fey drift in and out of dreams and nightmares. Giants raise massive empires on the backs of captive mortals. And the undead linger where oaths are broken and darkness reigns."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Appendices",
+									"entries": [
+										"In addition to all the above, this book contains a name generator and an index to allow you to quickly find terms, names, and other important items quick as you can say \"Worldheart Dragon.\""
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Answer the Howl",
+							"entries": [
+								"For those who rise to the call—for those heroes who can hear clan-drums and star-song—Planegea offers endless adventure. Will you escape the slave-pits of the giant empires and lead the Great Valley to revolt? Will you survive the Venom Abyss to find the heart of the world in Blood Mountain? Will you reach into the Sea of Stars and slay the Hounds of the Blind Heaven who hunt those who dare to rise above their destiny?",
+								"If you dare—if you're strong enough, hungry enough, wild enough—Planegea is calling you with an echoing, untamed, fire-blackened howl."
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
