@@ -15437,7 +15437,451 @@
 											"entries": [
 												"The Ape Clan honors cunning and flexibility, and their leaders exemplify those virtues.",
 												"Chieftain Rhusoka Everyway (CN female half-elf assassin) is, without question, a genius. By far the youngest chieftain the clan has ever seen, Rhusoka is an esoteric and complex leader, with a reputation for knowing every single pathway in the world and a habit for showing up unexpectedly, miles from where she was thought to be. Rhusoka is everywhere at once, and uses her knack for unpredictability to her advantage, shoring up her authority using the element of surprise. She cuts a striking figure, with her high blue mohawk and pale skin patterned with translucent blue stripes. Her counselors and aides confess that it is almost impossible to predict her mood, wishes, or ideas… but it is certain that when Rhusoka makes up her mind and gives instruction, it is always for the safety and advancement of the clan.",
-												"High Shaman Gharenki-Yughum (N male human high shaman) of Kho is marked, physically, by the whims of that brooding god. Tasked with lulling the Ape-God into slumber and dreams of his youth, Gharenki-Yughum is the closest to Kho of any mortal, and feels the effects of that closeness on his bones. When Kho dreams of his youth, the aged Shaman becomes younger, turning from a bent old man to a strong youth, and even—sometimes—into a boy no older than eight or nine summers. The High Shaman keeps his sharp wits about him at every age, and is recognizable by his signature painted walking staff, no matter"
+												"High Shaman Gharenki-Yughum (N male human high shaman) of Kho is marked, physically, by the whims of that brooding god. Tasked with lulling the Ape-God into slumber and dreams of his youth, Gharenki-Yughum is the closest to Kho of any mortal, and feels the effects of that closeness on his bones. When Kho dreams of his youth, the aged Shaman becomes younger, turning from a bent old man to a strong youth, and even—sometimes—into a boy no older than eight or nine summers. The High Shaman keeps his sharp wits about him at every age, and is recognizable by his signature painted walking staff, no matter the years that Kho has given or taken away. He is known for his pragmatism—Gharenki-Yughum never questions what is, he only focuses on what must be done. Winter is hard on the High Shaman, and he ages rapidly when away from his god, usually returning to Kho's hollow as a frail and withered elder, in need of the favor of his deity to survive and serve another season.",
+												"Tambiki the Deviser (LG female human crafter) is a beloved figure in the Ape Clan, and her arrival—surrounded by a swarm of eager apprentices—is always an event of great excitement and anticipation. It's said that the petite Tambiki has a gnomish grandparent, which might explain the truly brilliant inventions she devises. From folding bone armor to tents that can be set up simply by tossing them to the ground, there's no telling what Tambiki will come up with next. As the clan's master builder and leader of all craftwork, Tambiki commands enormous respect and authority, and her designs are imitated and revered throughout the Ape Clan and far beyond its boundaries."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Beliefs & Behavior",
+											"entries": [
+												"The Ape Clan is driven by shared beliefs and the demands of their god's unpredictable moods, as well as by certain common flaws that sour their reputation.",
+												"Philosophy. The future cannot be known, so you must be smart and fast enough to react if you want to survive. Their ideals include:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Cunning: Intellect, applied with skill, is the only way to keep yourself alive. (Neutral)",
+														"Flexibility: It's impossible to plan for the future; all that matters is being ready to react well. (Neutral)"
+													]
+												},
+												"Rites of Kho Many-Arms. The clan perpetually drums outside Kho's hallowed tree, and surrounds it with offerings of his beloved nuts and fruit. The tree itself is hung with countless toys, constructed by clever inventors and tossed on leather straps into the branches, where they dangle and spin in endless, intricate ways. When Kho is sleeping and pleased, the shamans can coax food, supplies, and even divine allies from his happy dreams with summoning magic.",
+												"An edged existence. For all their brilliance and adaptability, the Ape Clan suffers for their proximity to a dangerous god. Anxiety and fear is the minor note in the music of clan life, and Ape Clan warriors have a reputation for cowardice, scattering quickly in battle—although sometimes an apparent retreat is merely a ploy leading the enemy into an ambush. The clan's pursuit of wit can also sour into cynicism and scorn. Miserable indeed is the victim of an Ape Clan member's derision.",
+												"Paths to everywhere. The Ape Clan benefits from a close relationship with the elves of Nod, and uses their magic to quickly travel south on Winterwalk (p. 182). Their leaders are always seeking to deepen and strengthen that alliance, and dream of a day when all of Planegea is only a step away."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Magic & Matter",
+											"entries": [
+												"Ape Clan members are recognizable throughout Planegea for their intricate attire and quick wit, but also by other markers of their unique culture.",
+												"Escape magic. Casters from the Ape Clan are known for their predilection for spells that can be cast as a reaction and allow quick movement and avenues of escape, preferring to always be prepared to respond to whatever danger may arise than to plan too far ahead.",
+												"Wandering apes. The domain of Kho is known for its roaming bands of apes. The Ape Clan allows them to pass unchallenged, and they take what they want without opposition. To hinder one of the apes of Kho is considered a great offense against the god, but there's nothing in the culture that says one can't avoid them; many camps disappear overnight in the path of the apes, only to reform moments after the great beasts have wandered past.",
+												"Blood of Nod. The Ape Clan has the closest alliance of any of the Brother Clans with Nod, and many of their people have intermarried with the elves. Half-elves are common in the clan—even their chieftain is a half-elf—to the point where they are genuinely surprised when their appearance excites comment outside the boundaries of their territory.",
+												"Nets and knives. Ape Clan hunters and warriors prefer to always do combat at an advantage, and are famous for using nets and long throwing knives to entangle and wound their prey from a distance, as well as curved blades that can slash at unpredictable angles.",
+												"Rods, wands, and staffs. The enchanters of the Ape Clan know that spells must often be cast in emergency, and seek means to quicken their magic. As such, many favor wands, rods, and staffs for their ability to store and quickly release magic, even by untrained hands.",
+												"Multipurpose gear. Signature Ape Clan equipment can be recognized for its variable uses. A shield with a serrated edge, a bowl that can be affixed to a staff to serve as a hammer—such flexible objects are a famous sign of Ape Clan invention.",
+												"Scare tactics. Perhaps because they dwell in a state of anxiety, the Ape Clan is singularly talented at creating an environment of fear. Their warriors and hunters use surprise and alarm to create eerie or frightening conditions to unnerve their quarry, and there are even rumors of Ape Clan saboteurs infiltrating other clans to infect their camps with terror."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Special Locations",
+											"entries": [
+												"The camps of the Ape Clan are notorious for constantly relocating, and their passageways through Nod afford them great range of mobility. Still, there are certain landmarks that stand out on the landscape of the Ape Clan's domain.",
+												"Hallowcamp of Kho. Kho's hallow is a great tree that bends the Ape River towards it with the power of its roots. The hallowcamp built around it sprawls out in a wide circle, filled with music, workshops where crafters invent new devices, and intergenerational obstacle courses on which the most famous racers of the Ape Clan compete. Unlike those of the other clans, this Hallowcamp has no permanent structures, but is reformed every year—since nobody drums Kho to sleep after the clan departs, every year the first task of spring is to clean the wreckage of his winter-long rage.",
+												"Nodhold. At first glance, the misty groves known as the Nodhold appear unremarkable—olive trees growing on twisted, uneven ground. But these trees are shrouded in constant fog, which hides the caves and subterranean passageways into Nod. This nexus of travel is a death sentence for the unprepared, with countless ways into the terrifying Nightmare World. But to a skilled ranger of the twin worlds, Nodhold is a gateway to many secret ways of great value.",
+												"The Tower of Hope. Far from Kho, on the edge of the Saltwood, an enormous wooden tower has been added to, season after season, generation after generation. The tower is many things—an obstacle course, a home, a fortress, a lookout. But to the people of the Ape Clan, it represents the dream of a day when there can be stability, serenity, and a life without fear of the future."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Lion Clan",
+									"entries": [
+										"Serene, far-seeing, and sometimes cruel, the Lion Clan lives to experience the world as it is, and values endurance and reflection above all.",
+										"Patient stoics. Lion Clan children are taught never to cry out, and to endure all things with a peaceful heart. A Lion Clan member doesn't care if the rain falls or the wind blows—they live open to the elements, accepting all things as they come without complaint or question.",
+										"Visionary dreamers. The Lion Clan is famous for looking far. They are much-regarded as predictors of weather, herd movements, giant activity, and more. They have great regard for the long view, and believe that perspective is one of the most valuable traits a person can possess.",
+										"Reflective art. From their high, sweeping hilltop camps, the Lion Clan can see extraordinary distances across the land. Their culture celebrates watchfulness and observation, and they reflect all they see with art—colorful paintings, brightly woven fabrics, sculptures, and other expressions of a spirit of meditation. Lion Clan artists collect materials from their domain: colorful sand from the riverbanks and canyons, pastel clay, light and spongy wood from local trees, and all manner of berries and grasses that are suitable for making dyes. The process of gathering materials, making art, and beholding art is never-ending, a circular pursuit that occupies much of the clan's time in the warm summer months of plenty.",
+										"Endurance contests. The ability to continue on despite adversity is highly prized among the Lion Clan, and nowhere is this made more obvious than the festival spirit of endurance contests. Camps gather to watch as brave Lion Clan members undergo terrible and entertaining trials in a series of escalating dares. Competitors consume disgusting foods, leap off great heights, are submerged in water, walk over coals—anything to prove their ability to rise above duress. The winner of such a contest is celebrated with great honor, and even the losers are given tokens of reward for their willingness to challenge themselves.",
+										"Spirit journeys. Lion Clan shamans cultivate and prepare certain herbs and fungus with transportive properties, which are capable of allowing spiritual journeys into strange places and emotions. Such spirit journeys are not to be undertaken lightly, but are often experienced as preparation for an important hunt or ceremony. There are those who become dependent on the journeys, who lose themselves within the spirit worlds, but the shamans use the magic of Glelh the Unblinking to coax them back to reality, believing that every journey must have an end and the world is meant to be experienced as it is.",
+										"Color and ornament. Lion Clan members are instantly recognizable by their penchant for bright colors and decoration. They usually dress in woven robes, dyed every possible hue, and express their individuality through feathers, beads, bone or wooden jewelry, tattoos, and other eye-catching elements. Even their armor and weapons are works of art, carved with animals and patterns and painted with bright and eye-catching colors.",
+										"Exposed camps. The Lion Clan believes that exposure to the elements makes a soul present, and that the world is to be experienced fully. Their encampments are often more like sculpture gardens than villages, with only a few leaning shelters or suspended skins to provide a buffer against the worst storms. But aside from extreme weather, Lion Clan people can be found outdoors, enjoying the prickle of the wind on their skins and the warmth of the Day-Star on their faces.",
+										"Art and experiences. Lion Clan traders are welcomed for their supplies of dyes, brightly-colored fabric, figurines, and beautifully decorated objects of all kinds. Some make good barter for the herbs and fungus that enable spirit journeys, though woe to any who buys the raw materials without knowing the secrets of preparation. Their artists are often paid by other clans in goods and favors to decorate ritual spaces and objects, and it's said that you can see the beauty of Lion Clan artwork from miles away.",
+										{
+											"type": "entries",
+											"name": "Leaders",
+											"entries": [
+												"The Lion Clan prizes courage and endurance, and their leaders are known for those traits:",
+												"Chieftain Embelek-Ghelem (LN male human gladiator) is known as a silent and thoughtful man. Tall and regal, he is never seen without his intricately carved spear, which is imbued with many enchantments. It is said of Embelek that he only loved once in his youth, and that fiercely, but the tragic death of his bride rendered him beyond the reach of any other pain. His people whisper that there is no suffering he cannot endure without perfect calm. He speaks rarely, but when he gives orders, they are followed immediately. When allowed to do so by his duties, he spends his days walking the hills of the Lion Clan's domain, studying the artwork of his people, and listening with a distant smile to the stories of old men.",
+												"Spindark-Who-Stares (LE male saurian high shaman) is the only shaman the winter gods are said to fear. An unnerving sharpfang with whirling black scale patterns and a gaze that can unmake a person, Spindark-Who-Stares is avoided by all who have no direct need of his magic or counsel. He is a lonely figure, guiding his people by fear and grim consequences for any challenge to his authority. The people of the Lion Clan warn each other that Glelh the Unblinking sees all, and Spindark-Who-Stares sees what Glehl sees. Still, for all the dread he inspires, the high shaman is able to channel great feats of divine magic, and relentlessly uses that power for the advancement and prosperity of the clan.",
+												"Rhal (CG female human sorcerer) is the artistic guiding spirit of the clan. A gifted spellcaster who cares little for power, Rhal uses her magic to shape astonishing artistic constructions and inspire others. She travels on a circuit throughout the Lion Clan's domain, teaching young artists, creating her own artwork, and bringing rare materials to illuminate new possibilities for the artists she encounters. Rhal is a great favorite of all the Lion Clan, and her light counterbalances the darkness of their dreadful high shaman, whom she alone seems to fear not at all."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Beliefs & Behavior",
+											"entries": [
+												"Shared values—and the worship of their hypnotic god—unite the Lion Clan as a people.",
+												"Philosophy. It's not enough to survive—life is to be fully experienced, in all its terror and beauty. Their ideals include:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Endurance: Hardship must be confronted unflinchingly, even in the face of great danger. (Neutral)",
+														"Beauty: The best response to joy or pain is to create art and beautiful things. (Good)"
+													]
+												},
+												"Rites of Glelh the Unblinking. The high hill of Glelh, crowned with standing stones, is a place of mesmerizing power, and beasts from the surrounding regions are drawn by its hypnotic power. The shamans of Glelh must train themselves carefully to avoid being caught in the hallow's thrall. Once trained, they circle the hill, stacking cairns of small stones, hanging pennants, and painting and washing the stones. Those who are able to endure Glelh's gaze and return from the top of the hill are gifted with incredible visions, allowing them to scry across the world with wide, unblinking eyes.",
+												"Impassive cruelty. It's said of the Lion Clan that they are unfeeling. This may be unfair, but certainly their training in endurance gives them little pity—and at their worst, they are capable of inflicting great and terrible pain on those who are at their mercy.",
+												"The eyes of the lion. The leaders of the Lion Clan, while chiefly focused on the survival of their people, understand that knowledge is power, and seek to expand their ability to perceive the world as it is at every turn."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Magic & Matter",
+											"entries": [
+												"The people of the Lion Clan are easy to recognize anywhere, thanks to their colorful clothing and other common signs of their culture.",
+												"Sight and command. The magic of the Lion Clan is chiefly concerned with divination and enchantment that subjugates the will of the weak. Their spellcasters have a reputation as all-knowing hypnotists, who can see inside a target's mind and break their defiance in an instant.",
+												"Lion hunters. Glelh's powerful magic bends even proud beasts into service, and great cats—lions of the hills and plains—are counted as fellow hunters of the clan. They travel with the hunting parties and lend their strength to bring down prey, and are often decorated and named as though they were full members of the clan.",
+												"Saurians. Something about the stoicism of the Lion Clan people appeals to the calculating nature of saurians, and an uncommon number of the scaled people have made their dwelling place among the clan's encampments.",
+												"Death from a distance. The archers and spear-throwers of the Lion Clan are feared by their enemies and praised by their fellow hunters. It's said that a Lion archer can see a lizard in tall grass a mile off, and wait a day and a night until it stops moving to pierce it with an arrow.",
+												"Enchanted ornaments. Other clans joke that you can never tell whether a Lion Clan member has magic on their person, so weighted down are they with decorative rings and necklaces. It's certain that the Lion Clan enchanters imbue beautiful items with their spells, and magic rings and amulets are often to be found among their people.",
+												"Beautiful horror. There are rumors that the Lion Clan has, in its secret places and little valleys, perfected certain arts of entrapment and torture to make mortals quake with fear. It's said that certain Lion Clan specialists consider the pain of others their artwork, and construct elaborate means of causing misery when the opportunity arises."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Special Locations",
+											"entries": [
+												"The Lion Clan domain extends many miles, but certain places are of particular note.",
+												"Hallowcamp of Glelh. At the base of the hill crowned with standing stones, with every hut facing away from the heights, the Hallowcamp of Glelh stands in a garden of sculpture. Every home is a work of art, swathed in color and carved decoration. Fantastic twists of fabric and swaying ribbons, pennants, and banners spin and flutter in the endless breeze. It is a place of stunning beauty and talent on full display—but eerie, as every silence is filled with the summoning tug of the high hallow of the Lion God.",
+												"Silence Crater. The land surrounding Silence Crater is abandoned—nobody wants to go near the cursed place. Long ago, a stone fell from the sky to the earth, creating a deep basin. Through some starry magic, no sound can be heard within the crater's rim. Here, tall banners flutter in the wind, concealing the rites that take place in the center. Prisoners are brought to Silence Crater, and there terrible things are done to them by the cruelest of the clan until, by certain signs and magic, they confess whatever their interrogators demand of them.",
+												"Everycolor Canyon. A narrow canyon stretches from east to west, its length perfectly aligned with the arc of the Day-Star in its summer journeys across the sky. The canyon is an intergenerational artwork, its already pastel stones splashed, painted, and carved with an endless and breathtaking array of beautiful swirls, washes, and fields of color. By far one of the most stunning sights in the Great Valley, Everycolor Canyon is ever-changing from season to season, and from hour to hour as the dawn-duel and star-rise paint it with myriad and wondrous shadows."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Council of Day",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"IF YOU EVER COME ACROSS TWO OR THREE OLD MEN whispering beside a campfire, try to pass by unseen—intruding on the secrets of the Council of Day is inadvisable and perilous."
+											],
+											"by": "A ranger's warning"
+										},
+										"Wherever leaders seek to establish peace, carve out stability, or promote order, the Council of Day is there to help, advise, and defend. The Council is a secretive network of accomplished elders and spellcasters who seek to shore up legitimate authority and strengthen centralized power throughout the Great Valley.",
+										"Friends of the powerful. The Council arose in secret, created by a handful of powerful elders and spellcasters who agreed that the only chance mortals had in this world of giants and monsters was to band together and build a solid foundation of strength. Since then, their wandering counselors have a habit of turning up just when a chieftain's authority is threatened, offering advice, magic, and resources to keep power in the hands of the powerful.",
+										"Inner & outer councils. The organization is actually made up of two councils—the Inner Council and the Outer Council. The Inner Council is the leadership of the network as a whole. Their chief goal is overall stability throughout the entire Great Valley, and they administrate and send messengers with direction and guidance to that effect. The Outer Council sits under their authority, and is made up of advisors and elders traveling through the world, following the Inner Council's directions and using their best judgment to shore up authority in whatever situations they find themselves.",
+										"Messages & meetings. The members of the Council frequently communicate through the sending spell, and spellcasters of the Inner Council are responsible for maintaining communication with those under their authority no matter where they are in the world. If two or more counselors encounter each other in the world, they meet secretly to share all that they have learned, seen, and done.",
+										"The wandering wise. Some refer to them as the “wandering wise,” and welcome their arrival as a great blessing. They are known for their subtle and nuanced council, as well as their great experience across the years and valley. To be advised by a counselor is to be offered decisive, insightful direction or help, which usually comes when chieftains desperately need it to keep their people together.",
+										"Whispering intruders. Others see the Council as a band of interlopers who stick their long noses into business that doesn't concern them. Showing up uninvited and weaseling their way into the tents of the chieftain, these unlooked-for counselors often make enemies among those who have advised the chieftain for longer, or those who have good reason to want to see the current authority overturned.",
+										{
+											"type": "inset",
+											"name": "An Aside",
+											"entries": [
+												"Perhaps it's not for me to say, but I can't help but think that the Council of Day is a largely made up of busybodies who butt in where they're not invited, and cause more problems than they solve."
+											]
+										},
+										"Solitary elders. The Council of Day does not believe in showing its force, preferring to act through advice and influence, not raw power. Counselors travel most often as wandering elders, arriving alone at campfires, sometimes with a single companion for safety and company. It is a testament to their power that such isolated individuals are not swallowed up by the many dangers of the wilderness—and indeed, their survival in the face of seeming fragility is what usually first catches a chieftain's attention, and allows them their introduction into the circle of trust.",
+										"Day-Star pendants. The Day-Star is the symbol of the council, whose members believe that the amassed power in the heavens each morning, which then gives life and light to all below, is a lesson to be meditated upon. When they are brought into the Council of Day, counselors are given an ivory pendant, inset with four tiny stones in a diamond shape. These pendants have a minor enchantment such that the stones can be pulled into the center where, when they meet, they glow brightly, emitting a faint white light.",
+										"Recruitment. When their work is done, the Council of Day never asks for any payment—their advice and help is free to all who need it. However, they rarely leave empty-handed. Grateful leaders press gifts and goods upon them, which they accept if they are convenient to carry. They also keep a sharp eye out for potential recruits for the Council, and the chieftain might not be the only one who is advised and whispered to during their stay. Many is the clan who has found that their most powerful spellcaster or wisest elder has departed after the coming and going of a counselor, recruited by persuasive words and promises of influence on a grander scale than they could have ever imagined.",
+										{
+											"type": "entries",
+											"name": "Leaders",
+											"entries": [
+												"The Council has no fixed size and is made up of many voices—but three are regarded as the first among equals; the most powerful in the center of power.",
+												"Pethna Riverborn (LN male half-elf archmage) is an ancient spellcaster, highly regarded by the other members of the Inner Council for his insight into all magical matters that affect the gathering and disruption of power. Originally from the shaman sanctuary of Seerfall, Pethna left behind devotion to the divine when he discovered his great arcane talents, and serves the council as their head of magic. Pethna is not shy with his opinion, but prefers to let others exhaust themselves in debate before coming in with a decisive point to end the discussion. Although now he is old and white-haired, those who know Pethna best tell stories of his lost years, between Seerfall and the Council, when it's said he used his talents to travel as far as the Sea of Stars. Stories say he fell in love with a star there. That may all be mere gossip, but it's true that he does watch the sky on most clear nights with wide, inscrutable eyes.",
+												"Embhardarmos the Bull-Voice (LN male dwarf noble) is the greatest orator in all of Planegea. His command of speech is unrivaled in a chamber full of wise counselors, and he never fails to employ it. It's said in the Inner Council that someday, at the end of the world, the stars will fall, the elemental wastes will rush in, Blood Mountain will consume all, and Embhardarmos the Bull-Voice will be there telling them all why they must cease immediately—with a good chance of convincing them to do so. A short, stocky dwarf with features like an ox and a great love for wine, Embhardarmos bellowing voice can be heard across an open field, and he never ceases to employ brilliant turns of phrase and witty analogies to drive his point home. His enmity is savage, and he uses his full power of persuasion to destroy those he disfavors. Some call him a bully, others a genius, but the truth is that he's both, and as long as you're on his side of the argument, there's not a more talented speaker you could find as an ally.",
+												"Anu (LN female half-ooze human archmage) is not an adviser or orator—she is a power in her own right. Her origins are mysterious, but she has long been a companion of Pethna Riverborn. She arrived at the Inner Council a few years after he did, and Pethna was a key voice in bringing Anu into the circle of trust. Anu is known for her total dedication to the rule of law, and her willingness to go to any length to ensure power remains in the hands of the powerful. When the council determines that severe action must be taken, it is Anu and her subordinates (who call themselves the Mirror Council) who do what needs to be done. Anu's fearful capacity for destruction is legendary. Some say that she brought down fire from the sky to consume an entire clan who challenged their chieftain's authority. Only Pethna knows the truth of who she once was—and who she is now."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Beliefs & Behavior",
+											"entries": [
+												"The Council of Day is driven by a specific code and utterly dedicated to the establishment of order.",
+												"Philosophy. Survival depends on order and authority. The strong must be strengthened. Their ideal is",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Authority: Those in power should have power concentrated in their hands. (Neutral)"
+													]
+												},
+												"Rooting out chaos. The Council of Day is utterly determined to eradicate the fanatical underminers of order known as Kraia's Children. All other considerations disappear when Kraia's involvement is suspected, and the Council will stop at nothing to hunt down and eliminate their agents.",
+												"Amoral empowerment. The Council makes no moral judgment about the leaders it empowers. It believes that even evil authority is better than anarchy, and they have willingly concentrated power in the hands of the wicked and the good with equal sincerity.",
+												"Empire-builders. The Council's ultimate goal is to unite the Great Valley into a single empire strong enough to stand against the giants and usher in a new era of mortal prosperity and independence. They will not rest until they reach that goal."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Magic & Matter",
+											"entries": [
+												"The Council's means and methods are varied, but it inclines its resources and magic towards the tools of divination and enchantment.",
+												"Persuasive prognostication. Even a low-level counselor usually has some access to divination magic, to look ahead and judge whether their advice will be advantageous to their order or not. Others of the Council specialize in using enchantment magic to ensure that their words are heeded by clans in crisis. And, of course, sometimes fireball comes in handy if nobody will listen.",
+												"Simply attired. Most counselors travel without special adornment or equipment to identify them. Aside from their ivory pendant, one would rarely know that a gray-haired elder who showed up at their campfire was a counselor… until they begin speaking."
+											]
+										},
+										{
+											"type": "inset",
+											"name": "The Chamber Door",
+											"entries": [
+												"The Inner Council does not meet in any fixed location. Rather, they use the magic of Pethna or his apprentices to create an arcane space where they can gather secretly on an as-needed basis. Some hunters have seen the edges of an ornate door flickering with mystical light on a high mountain pass, beside a still lake, or under the shade of ancient trees. Little do they know that behind that door lies an ornate set of rooms in which the future of the Great Valley is decided by a secret council dedicated to power."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Quests",
+											"entries": [
+												"The activities of the Council are countless, but these four missions are among the most common and important.",
+												"Reinforce authority. Counselors and their agents are often sent to shore up leaders with shows of strength and support. Such missions might involve taking aid to a clan in trouble, bestowing a magic item on a chieftain, or ensuring a leader's desired outcome takes place at a certain event.",
+												"Consolidate power. Marriages. Alliances. Clan fusions. Any time there is potential to centralize power, especially between two already-powerful parties, the Council seeks to ensure it continues. Many is the occasion on which counselors have played matchmaker between the children of powerful chieftains, often subtly and without notice.",
+												"Quell unrest. Uprisings are anathema to the Council, and they have been known to take strong measures when clans rebel against leaders in which they have invested. Although the Council is not militant, it has its share of fighters and dangerous spellcasters in its ranks, and deploys them to ensure rebellions fail before they begin.",
+												"Root out Kraia's Children. Any hint of the agents of chaos known as Kraia's Children immediately causes the Council to leap into action. Whether through exposure, assassination, capture, or any other conceivable method, counselors and their aides are sent to eliminate the cancerous threat of Kraia wherever it may be found, using any means necessary."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Direstaves",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"THERE ISN'T A FREEDOM IN THE WORLD TO MATCH the life of a Direstaff. Give me wide land, a quiet beast, and long days of empty skies, or let me lay my head down in the dirt and start my forever-rest."
+											],
+											"by": "Common sentiment of a Direstaff herder"
+										},
+										"Born under the open sky, riding on the towering backs of great beasts, the Direstaves are the masters of mighty creatures. Hailing from the Dire Grazelands, these herders of titans are bold, independent, and bow the knee to no clan or empire, trusting only in the wide lands and massive hearts of their livestock, as well as the heft of a trusty spear, to keep body and soul together.",
+										"Plains rangers. The boundless grasslands at the edge of the Fire Empire have long been home to aurochs, dire goats, mammoths, and other grazing creatures which—through nature or perhaps the meddling of giant magic—grow to great size, standing two or three times larger than their common kin. Rather than hunting these creatures, the Direstaves learned generations ago to cooperate with them, and now live as their shepherds and herdsmen.",
+										"The last free mortals. In the very shadow of the Fire Empire, the Direstaves thrive as the last line of liberty. The giants allow them to remain because their care for the animals provides ample prey for giant raids, and the fire giants are too strategic to completely cut off a supply of food and captives.",
+										"Free-spirited confederation. Each Direstaff herd is a law unto itself, organized independently—usually by a chief or head or council of some kind. The patterns of leadership are varied, depending on the needs of the herd. Herd leaders are usually chosen by the majority of a community, and replaced by new leaders if the people no longer feel confident in their leadership.",
+										"Emergency meetings. Herds tend to avoid each other, in an attempt not to compete for grazing land, but there have been times when the leaders of the Direstaves have met in response to some crisis or need. Such meetings are always full of personality and bravado, but in the end, the Direstaves are a practical people, and agreements are usually reached quickly, after which the members scatter quickly.",
+										"Seasons of the herd. A people fond of music and dance, Direstaves are always on the lookout for cause to celebrate. Much of their lives are caught up in the hard labor of surviving and tending their beasts, but each herd has its own holidays based around seasonal events such as calving, shearing, or migration.",
+										"Freedom to roam. Direstaves are known across the Great Valley for their belief in personal freedom to go where one wishes and do as one pleases. A Direstaff answers to none but their beasts, with even leadership and authority within the community being seen as an agreement, not a right.",
+										"Pragmatic confidence. Given their rough and self-directed existence, Direstaves often have to make quick and difficult choices. They are known for being decisive and tough, doing what must be done without any hand-wringing or bemoaning. A Direstaff makes a choice and lives with it, moving on like the herd moves on to new pasture.",
+										"Working clothes. Direstaffs fashion all that they need from the herds they depend on. They're usually dressed in well-worked leather or wool garments, and often carry oversized tools and weapons to deal with the needs of their herds. Most have little in the way of adornment on their common clothes, but keep a secret set of festival garments, which often feature elaborate ivory elements and yards of rustling fabric purchased from traveling traders with the bounty of good seasons.",
+										"Tall tales. One never heard such a people for exaggerated stories as the Direstaves. They are famous for their wild tales of mammoths so big they fall off the world, herdsmen so hungry they eat a moon, children so loud they crack the Fire Empire's walls. Direstaves love to out-tell each other the most outlandish legends they can come up with, and nights around their campfire are full of laughter as elders and young ones alike come up with the most outsized lies they can invent to entertain and amaze.",
+										"Milk, meat, hides, and more. Part of the Direstaves' confidence arises from their prosperity. As the keepers of great herds, they have all they need to eat and drink, and plenty besides to barter for the refined goods of the Valley. Seasonally, as the clans travel north, the Direstaves offer hides, ivory, milk, meat, wool, hair—all of the bounty of their beasts—and get all they need in return.",
+										{
+											"type": "inset",
+											"name": "Legends",
+											"entries": [
+												"The Direstaves don't have leaders with authority over many herds, but they do have legendary figures that everyone knows about. It's hard to say for sure whether these people really existed or if they're just stories—and, if they did exist, who knows whether they're still alive or died generations ago? Still, the Direstaves talk about them as if they're alive and well, and might show up at any time for a meal and a huge stunt that amazes and inspires.",
+												"Big Taptu the Bull-Rustler. Big Taptu was said to have been a captive of the Fire Empire—not a giant, but a man so big that the giants were confused and often gave him what he wanted thinking he was one of them. Big Taptu worked with the Emperor's prize mammoths, according to the stories, and could lift the Emperor's favorite bull over his head while eating breakfast. The legend says that Big Taptu was such a favorite of the giants that the Emperor's daughter fell in love with him, but he couldn't stand her fiery breath or hot skin. So, the night before their wedding, the story goes that the Emperor's daughter arranged a giant-sized feast for Big Taptu and all her wedding guests. Big Taptu showed up, ate every bite, wrestled all the giants to the ground, told the Emperor's daughter he wasn't the marrying kind, and rode off with the imperial herd of mammoths, which he still tends to this day.",
+												"Tricky Odekh'Uk. Tricky Odekh'Uk is known far and wide as a prankster who gets what they want by outwitting others. Tricky Odekh'Uk could be anything—a woman or man, an ox or tree, a giant or lizard or piece of grass. You never know with Tricky Odekh'Uk. Stories of the master trickster usually involve them getting in some kind of scrape through their own boasting, then turning their opponents' power back on itself through a twist of words or unforeseen plan. Once, Tricky Odekh'Uk was forced to be a stone for seven mortal lifetimes through a bad deal that they couldn't get out of, and it's said that they still nurse a grudge and are roaming the Dire Grazelands, looking for the descendants of those who tricked them into that shape.",
+												"Ishba Longtail. Stories about Ishba Longtail are childrens' favorites. A comical hammertail herder with an unbelievably long tail, Ishba's enormous length is always getting her into some scrape or another. Ishba stories cast her in many lights. Sometimes she's the hero who uses her tail to wrap up a band of giant raiders while Direstaves escape. Other times she's a villain or problem, whose tail is tripping all the herds and breaking their ankles, and must be dealt with. More commonly, though, she's a hapless victim of her tail, who wanders through a marketplace and gets so hopelessly tangled in her own tail that they have to shut the market down for a full month just to figure out how to untie her. Everyone loves a good Ishba tale, and with each retelling the tail gets just a little bit longer."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Beliefs & Behavior",
+											"entries": [
+												"Direstaves would never claim to have much in common—each herd believes it's a community unto itself. Still, there are certain shared creeds that one can expect to encounter among the plains people.",
+												"Philosophy. Freedom is better than anything you can buy, sell, hunt, or harvest. Their ideals include:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Freedom: A person should be able to choose what happens to them, and do as they see fit. (Chaotic)",
+														"Pragmatism: You have to do what you have to do, and worrying about it doesn't change anything. (Neutral)"
+													]
+												},
+												"The needs of the herd. Direstaves are dependent on their beasts, and organize their lives around the life cycle of the animals. For all their commitment to personal freedom, and though individuals come and go as they see fit, a community of Direstaves is tightly bound to their herd.",
+												"Independent to a fault. It's hard for Direstaves to work with others outside their herd, or to feel a sense of belonging anywhere but the community where they grew up; and sometimes not even then. A Direstaff rarely asks for help, and when they do it's grudging and seen as a heavy debt that must be repaid as soon as possible.",
+												"Fall of the Fire Empire. Each Direstaff herd is focused on its own concern, so there are no grand plans for the future of the world… still, when the campfire burns low and the herders dream of what could be, talk turns from time to time to the idea of quenching the Fire Empire once and for all, removing the single greatest threat to their way of life."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Magic & Matter",
+											"entries": [
+												"Direstaves are easy to recognize anywhere, thanks to their free spirits and affinity for large beasts.",
+												"Animal magic. Most of the spells common to the Direstaves have to do with controlling or caring for large animals. Their magic tends to be natural—druids and rangers are welcomed by most Direstaves—and focused more on healing and commanding than anything else.",
+												"Rod and staff. The classic Direstaff choice of weapons is a long pole or rod for guiding beasts and getting their attention, and a short, heavy staff for defending themself from other predators. But the pragmatism of Direstaves leads them to use whatever tool comes to hand, and many choose unusual weapons as a signal of their individuality.",
+												"Harvest of magic. Some beasts are born with magical power—either inherited or unique. Such creatures are carefully tended by the herds for their lifetimes, then harvested after death for their many uses.",
+												"Yellow herds. Direstaves warn each other of what they call “yellow herds,” or groups of mortals or animals that have gone wrong in some way. The Dire Grazelands are wide and wild, and yellow herds might be infected with sickness, led by a maniac, or given over to dark practices for some twisted reason known only to them."
+											]
+										},
+										{
+											"type": "inset",
+											"name": "Herd Types",
+											"entries": [
+												"There are any number of ways to travel with beasts, but these three are the most common:",
+												"Slingcamps. Given the size of their beasts, many communities sleep and relax in oversized hammocks slung along the length of their animals. Depending on the creature, between two and six such hammocks might stretch from shoulder to hip. Some Direstaves are proud of the fact that they've never spent a night on the ground and can't sleep unless they hear the rumble of gigantic breath beside their ear.",
+												"Beastback villages. Some beasts are so massive and docile that entire huts and platforms can be constructed on their backs. These herds live in close formation, with rope bridges slung between them when the camp settles down for the night. The huts may lean and the bridges sometimes snap, but there are few sights to match the vision of an entire village plodding along through the grasslands, tied to the backs of towering beasts.",
+												"Walkalongs. Much simpler, if less impressive, is the life of the walkalong camp, whose people keep pace with their beasts and strike their campfires on the ground. Walkalong communities consider slingcamps and beastbacks to be a bit foolish, and are given to rolling their eyes at the excesses of such a life when there's perfectly good grass underfoot any time one should need it."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Free Citadel",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"A GLEAMING TORCH OF HOPE, BURNING IN THE FAR mountains, to which all captives look and think—someday!"
+											],
+											"by": "The Sayings of Inori the Traveler"
+										},
+										"Carved from a mountaintop near the mouth of the Eel River, a city built by the Stone Empire gleams like a beacon of freedom. Free Citadel is built at the top of a great cliff, with its western wall formed by the mountain itself, deep chambers tunneled into the rock, and soaring towers that look out over the valleys. Everyone has heard of the mortal uprising that slew the giant overlords of a Stone Empire city and claimed it as their own domain. Free Citadel is a place, but it's also an idea—that tyranny can be shattered, cages can be broken, and empires can fall.",
+										"Birthplace of hope. The Overthrow—the day Free Citadel became free—took place within the last human lifespan. It is a new thing in the world, and the giants are staggered by the event. Led by an orc woman now known as the Usurper Queen, captives in a mountain city planned for a year, then slew their oppressors in the span of a single day. The city is theirs, and the victors live in its streets and walls, raiding its spoils and investigating its secrets.",
+										"The Revolutionary Court. The Usurper Queen is the beloved leader of Free Citadel, and she has assembled a group of counselors and advisors from the revolt to lead her people. The members of the court oversee areas such as defense, provision, espionage, morale, and more. Each reports to and advises the queen, whose word is final.",
+										"Overthrow Carnival. Each year in high summer, a massive festival is held by the people of Free Citadel to celebrate the uprising. Games, bonfires, songs, plays, sports and competitions of all kinds, wine, and revelry overtake the city for days on end, in a great letting loose of joy and relief and grief and astonishment.",
+										"Plundering survivors. The sprawling city is only partially explored, and teams perpetually scout and loot new chambers. Other areas defied opening for years on end. In a never-ending game of “finders keepers,” the people of Free Citadel claim all they can and give nothing back.",
+										"Guarded revolutionaries. A spirit of watchful defiance is the shared ethos of Free Citadel. Though many children have been born since the Overthrow, their parents have raised them to watch out for themselves, to realize that tyranny is only one wrong step away, and to know that the ability to choose your own fate is not common, but precious.",
+										"Spoils of the Empire. There are no mortals alive who can match the refinement of Free Citadel. With access to the wealth and luxury of a great city of the Stone Empire, the people of the city dress in silks and rare furs, with great oversized jewels and ivory armbands that were once rings. This finery is mixed and matched with simple attire suited to the work of survival, making for striking combinations of rough-woven tunics and elaborate jewelry, grand gowns torn at the knee, and so on.",
+										"Uxu. If there is one thing the people of Free Citadel love, it's an imperial ballgame called uxu. Enormous crowds gather to watch the teams of the citadel compete in the giant arena. The final game is held at the winter solstice, and the victors enjoy a year of honor—and fierce competition to defend their crown. Recently, word of uxu has spread outside of Free Citadel, and curious clans have sent emissaries to learn more about this fascinating competition.",
+										"Spoils of war. Free Citadel is cut off from major trade routes by its mountaintop isolation and position inside the Stone Empire. Still, adventurous traders find their way up and down the Eel River, and the reward is worth the danger, for the wonders of the plundered city command great power in bartering deals. The citadel has long survived on its stores of food—enough to feed giants for decades—but supplies are starting to run low, and there is an undercurrent of worry among the people that they will need to start finding more ways to trade or travel outside the city walls in order to survive for years to come.",
+										{
+											"type": "entries",
+											"name": "Leaders",
+											"entries": [
+												"Without question, the Usurper Queen is the head of Free Citadel. But she is not the only force to be reckoned with, for good or for ill.",
+												"The Usurper Queen (LG female orc chieftain) has no other name. Stolen from the Lion Clan as a child, she was a nameless captive in the houses of three empires. Until the day of the uprising, she seemed to be a nobody, meek and subdued. But her mild demeanor hid a raging fire of revolutionary vision, and she was the architect and master planner of the revolt that took down the giants. First to draw her blade, first to slay her captor, and first in the hearts of the people, the Usurper Queen leads with honor, fairness, and wisdom. The weight of her responsibility lies heavily on her shoulders, and those who know her best can see it is taking a toll. She has turned gray far too young, and she rarely has a light moment. Serious, thoughtful, and earnest, the Usurper Queen keeps to her small circle of trusted advisors on the Revolutionary Court, preferring above all the company of those who were with her on the day of the Overthrow.",
+												"Takluk the Beheader (N male half-elf veteran) is the closest thing the Usurper Queen has to a rival. He is a hero of the Overthrow—his sudden beheading of a frost giant auctioneer triggered the final riot that brought the giants to their knees. Since then, Takluk has been head of the Revolutionary Tribunal—judge and public executioner for crimes against Free Citadel—and his severe intensity inspires respect and fear. In the years since the Overthrow, Takluk and the Usurper Queen have drifted apart. While the Usurper Queen is focused on the survival of the city and the spread of hope to other slaves in distant cities, Takluk believes that Free Citadel should be militarizing and trying to conquer nearby cities by force. These two factions have split the politics of the Revolutionary Court, but the people's love for the Usurper Queen has kept power firmly in her hands… for now.",
+												"The Prisoner (NE male stone giant) is the only giant still alive in Free Citadel. During the Overthrow, he was pushed by a crowd off the wall, and lay, unable to move, on the rocks below. In the days following the revolt, he was discovered to be alive, but paralyzed below the neck. The Usurper Queen saw an opportunity and had him dragged into a guarded room. He lives there still, fed and cared for by a special guard. Determined to survive, the Prisoner has proved useful time and again, offering information that has helped open vaults and storehouses, protected against attacks, and unlocked secrets of giant magic. Some of the young people of the citadel consider him a sage, a window into ancient knowledge, and—though rumors of this send chills down the spine of the queen—there is even a small contingent of youths who have been swayed by his cunning and would see the Prisoner set free."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Issues & Agenda",
+											"entries": [
+												"There is no single philosophy that governs the people of Free Citadel, except the judgment of the Usurper Queen. However, certain issues of concern are discussed everywhere in the city, not least in its council chambers.",
+												"Food crisis. For years, the city has subsisted on the great food stores of the giants, but those stores will run low soon. More hunters and gatherers are being sent out into the mountains every day, but everyone worries about when the food will run out.",
+												"Giant assault. The giants have let Free Citadel stand unchallenged for far too long—an attack to take it back seems inevitable. There is great debate about why they have been left alone for so long, and what the assault will look like when it comes.",
+												"Espionage vs conquest. The Usurper Queen and Takluk the Beheader are opposed on whether to undermine the empires through espionage and sabotage or military conquest. The debate runs throughout the city, turning bitter in some quarters.",
+												"Unbreached vaults. Nobody knows how deep the vaults under the city go, and many of them are still sealed with Stone Giant magic that has—so far—been impossible to breach. People debate the contents of the vaults, imagining possible caches of food, supplies, magic items… or terrible threats that should not be unleashed.",
+												"Youth activity. A new generation has grown up in Free Citadel without any memory of captivity. They are brash and overconfident. Some believe the giants are no threat at all, while others hold them in a strange reverence. There have even been rumors of frost cults and stone cults arising around a certain fascination with the giants' power.",
+												"The Thrüm-Vashal. The greatest abandoned artifact of the giants is also their most mysterious—even the Prisoner has no idea what it does, only that the former ruler of the city kept it in his vault under heavy guard. This glittering orb is a puzzle and a threat, and not even the greatest minds of Free Citadel have been able to unlock its power… yet.",
+												"Uxu. This giant sport, in which two teams try to get a ball through rings suspended 20 feet off the ground at either end of 90-foot x 45-foot field, is always a favorite topic for debate. When points are scored, they are tracked by pouring water into large basins. A team wins when their basin overflows. Everyone has their favorite team, and when conversation on other things dies away, there's always uxu to discuss."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Magic & Matter",
+											"entries": [
+												"Free Citadel is a city of splendor and magic reclaimed by former captives.",
+												"Fortune-tellers. All manner of spellcasters have made their way to Free Citadel, but it's no surprise that the giant secrets of divination have been studied most closely in the city. The augurs and fortunetellers of Free Citadel are famously numerous, if not famously reliable. It seems someone on every corner is willing to barter a glimpse at your destiny.",
+												"Oversized everything. Wielding or wearing giant arms and armor is an act of might and heavy modification. Knives are used as swords, belt-buckles are used as breastplates. Stone giant craftsmanship and spellwork is hard to match, so even these outsize castoffs are regarded as goods of great value.",
+												"Plundered artifacts. Even poor folk in Free Citadel have access to wonders that are far beyond most people in other places—though they may not know what to do with them. Many Free Citadel families have a small pile of assorted spoils that they claim to be powerfully magical.",
+												"Giant pests. The young hunters of Free Citadel earn their place by traveling in bands to dispatch the enormous crawling things that scurry and creep from the deep vaults of the city. Enormous spiders, centipedes, rats, and worse are all too common, especially on the lower levels.",
+												"Dark secrets. No one knows what lies far below the city, or what unfinished work the giant spellcasters may have left unattended. The Overthrow came without warning, and it's possible that some doors may have been left open unbeknownst to the freed captives."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Areas",
+											"entries": [
+												"Free Citadel is an enormous place, both in scale and complexity, but people talk about it in terms of areas:",
+												"The Parapets. These are the high towers and upper levels of the city. Safer from giant pests but difficult to reach, they tend to be settled by those with more resources or greater need for safety. Takluk the Beheader makes his home here.",
+												"Throne Hall. In the center of the city is a hall so huge that it has become a neighborhood. Covered in huts and tents and multi-tiered structures, this is the city's marketplace.",
+												"Mountainside. The half of the city built into the slope is called Mountainside. This area is quieter, settled by families and crafters. The Usurper Queen makes her home here.",
+												"Skyside. The area of the city with a view is louder, brighter, and full of bustling activity at all times. A popular area for recreation and celebration, including regular uxu matches played in courts with sweeping views of the horizon.",
+												"The Carved Quarter. Underneath ground level sprawl huge tunnels and chambers where the poor dwell. At threat from giant pests, this quarter is more hazardous, but known for its hardy hunters and close-knit communities.",
+												"The Vaults. These deep chambers are forbidden to most—which doesn't stop young or old from attempting to crack their secrets. Some were raided years ago, while others still defy opening—making them all the more tantalizing prizes."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Kraia's Children",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"DON'T YOU WORRY, DON'T YOU HURRY, Kraia's child is already here. Slip and stumble, trip and tumble, Kraia knows best—never fear."
+											],
+											"by": "A Rhyme for Tyrants, from Kraia's Lullabies"
+										},
+										"Kraia's Children are a menace, a promise, a creed, a cult, a rumor, or an inspiration—it all depends on who you ask. They are a secret organization, the scattered faithful of a shared ethos: That power is a threat, and those who gather it should be undermined.",
+										"Legends of Kraia. Nobody knows who Kraia actually is or was. Some say she was the wife of a mad chieftain. Others that he is a slave who escaped the Sea Empire and dwells in a cave on the Kraken Coast. Still others believe that Kraia is a spirit moving through the world, possessing men and women to inspire the collapse of tyranny and power.",
+										"Faithful families. Whoever Kraia might have been, their message of undermining power has caught hold of hearts throughout Planegea. There is no central organization to the group, only cells of like-minded people called families, operating to destabilize whatever local centers of power they can. Usually a family appoints a leader called an Eldest, with the members calling each other Brother or Sister. The Eldest is responsible for coordinating efforts, but is seen as the servant of the group, not a figure of power.",
+										"Infiltrate & undermine. Kraia's Children have many methods, but open violence is rarely among them. They prefer to make themselves useful in a tyrant's council, earning trust and exploiting weaknesses until they can bring it all crashing down with a single elegant betrayal.",
+										"Diverse families. Anyone who believes in the overthrow of power can join Kraia's cause, and the Children are of every kinship and background. Their methods vary widely as well, from family to family. In some regions they are seen as villains who poison and plot to bring down noble chieftains, while in others they are the whispered heroes of the common people as they labor tirelessly in secret to tear down warlords and empires.",
+										"Agents of chaos. Despite their cult-like trappings, the agenda of Kraia's Children is explicitly political—they are focused on the distribution of power, keeping it from centering in any one person's hand in every region where they operate. It makes no difference to their creed whether the powerful has noble or wicked intentions; they believe that power itself causes rot and misery, and oppose law and rule everywhere they can.",
+										{
+											"type": "inset",
+											"name": "An Aside",
+											"entries": [
+												"Kraia's Children—what to say? Here's what I'll offer: For every murdered chieftain, there is a slaughtered tyrant. For every dark family, there is a family devoted to liberty and justice for the oppressed. Do not judge Kraia's Children too quickly."
+											]
+										},
+										"Kraia's Lullabies. There is no shared symbol, fashion, or icon for Kraia's children; nothing to set them apart at a glance—otherwise, their work inside the belly of power would be impossible. The only giveaway is a set of rhymes, songs, and chants that they are taught, which are passed from family to family. These are Kraia's Lullabies, and they are the only teaching the families share.",
+										{
+											"type": "entries",
+											"name": "Fabled Families",
+											"entries": [
+												"If leaders catch wind of Kraia's Children, they root them out by any means necessary. That's why only a few families are known—and what's known of them is more than half rumor and speculation.",
+												"The Family at Edgegather. (CN) In the chaotic city of Edgegather (p. 166), it is widely believed that Kraia's Children hold sway as a major force just out of sight. Edgegather is a place with no clear leader, and any time a chieftain has tried to centralize or organize the city, there have been mysterious accidents leading to the unraveling of all their plans. Some say that Edgegather sits in the palm of Kraia, and if the children have a center of influence anywhere, it is that wild and riotous city built on the edge of the world.",
+												"Riverland Families. (CG) In the Cult Riverlands, where dark gods demand cruel sacrifices of their followers, roving families of Kraia's Children travel from cult to cult seeking to overthrow the worship of evil. They operate more openly in the Riverland than anywhere else, needing to work fast before the gods can detect their agenda, and it's said that families from the Riverland carry more open blades and marks of their creed than anywhere else, operating half in the light as wandering freedom fighters.",
+												"The Friendly Family. (CE) No family is more feared or hated than the Friendly Family. Some say they're only a ghost story—a group of insidious monsters who use their powers of persuasion, charm, and mind-control to find good people striving to bring order and help to the poor and wretched. The Friendly Family is said to arrive when you're not looking and depart when you're not sane. According to the stories, the Friendly Family won't kill their victims—they'll utterly break them, and leave the people they were trying to help with less than nothing, sold into tragedy and worse off than ever before."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Beliefs & Behavior",
+											"entries": [
+												"Kraia's Children are governed by a single idea—but how that idea is acted upon is as different as each family who shares it.",
+												"Philosophy. Power is a threat, and those who gather it should be undermined. Their ideals include:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Equality: Everyone has the right to stand on equal footing and chart their own life. (Good)",
+														"Freedom: People should do what they want with no authority constricting their choices. (Chaotic)",
+														"Treachery: There is nothing sweeter than a well-executed and justly deserved betrayal. (Evil)"
+													]
+												},
+												"No power above the family. Kraia's Lullabies sing of how the family is the only power structure found in nature; the only power to be trusted and upheld. Within families of Kraia's Children, trust and loyalty are absolute.",
+												"An amoral creed. Kraia's Children do not distinguish between good and evil power—all power is equally abusive, and should be overthrown. Sometimes this teaching is hard to hold onto, when kind chieftains of struggling clans are betrayed, and it is necessary for the Eldest of a family to encourage—or silence—a doubting family member."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Magic & Matter",
+											"entries": [
+												"Kraia's Children have no fixed methods or resources—still, the Lullabies do lend themselves to certain tactics.",
+												"Opening minds and hearts. When spellcasters join families of Kraia's Children, they are often relied upon to aid in infiltration and assimilation, helping their brothers and sisters work their way into vital positions with a little enchantment magic wherever possible.",
+												"Toys for the Children. One of the tasks of the Eldest is to supply the family with what they need, and they often handle bartering with traders and enchanters to get whatever weapons, spells, or magic items suit the task at hand. Such supplies are called toys in the Lullabies. Favorite toys of the Children are powders that can be mixed into potions, magic rings, enchanted daggers, magical tattoos, and other easily-concealed implements of subtle interference and sudden treachery."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Work for Hire",
+											"entries": [
+												"There are times when families—usually without naming themselves—find it expedient to barter for the services of strongarms and sellswords. This is usually handled by the Eldest or an intermediary, almost always without mentioning Kraia's Children in any way.",
+												"False raids. A common tactic is for families to send hired warriors into a stable environment in a raid, raising alarms and causing mayhem. In the aftermath, one of the Children can slip in as a friend to help resolve the danger and earn a place of trust in the seat of power.",
+												"Shield-cracking. When facing more militant warlords, it can be useful for a family to find warriors willing to engage in direct combat. By reducing the warlord's forces in direct combat, a family can destabilize their power and create opportunities to sow doubt and fear among their ranks.",
+												"Toy acquisition. Families are usually embedded within local centers of power, operating delicate plots that require close attention. So when magic items or unique materials are rumored to be nearby, the Eldest will often reach out to roving hunters or skilled gatherers to retrieve valuable toys on behalf of the family."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Scavengers Vow",
+									"entries": [
+										{
+											"type": "quote",
+											"entries": [
+												"THE PREY RUNS, THE HUNTER HUNTS, THE SCAVENGER steals, the Rat King takes what he wants, and the world continues on just as it always will."
+											],
+											"by": "Rugrib the Philosopher-Thief"
+										},
+										"Wherever scavengers congregate to scheme of theft, whispers of Scavengers Vow arise. The Vow is an alliance of the desperate, a confederation of survival and greed ruled by a single figure—the mysterious and covetous Rat King, who rules and exacts tithes from the safety of his secret lair. Savvy scavengers know that good things come to those who pay the tithe, and as for those who don't… well. They're likely to meet an unfortunate end, one way or another.",
+										"Long live the king. Before the rise of the Rat King, there was no central power among thieves and scavengers. But sometime in the last few generations, a mark called the Tithe started to spread, and whispers got around that after a scavenging run, should you come across the Tithe, it was best to leave a portion of the take. At first, nobody was sure who or what the Rat King was, but now most scavengers agree he's at least half-human and possessed of power to bless and curse as he sees fit.",
+										"A hierarchy of thieves. The Rat King sits at the top of Scavengers Vow, and is attended by a rotating band of chiefs and lieutenants, few of whom seem to last long. From his lair, he sends out Tithe-Gatherers—wandering scavengers who bring back the offerings left to him, and who teach young, ignorant thieves of the importance of taking the vow and becoming loyal to his majesty.",
+										"Visitation. It's said that when more than three moons are full at the same time, the Rat King leaves his lair and goes wandering through the world—visiting his subjects, meting out blessings and curses, enabling fantastic scores, and stealing whatever is locked away by the powerful. These travels are called the Visitation, and it's a common rite of those of Scavengers Vow to assemble when a third moon turns full to await the king, should he choose to arrive.",
+										"Superstitious rumors. Scavengers Vow is mostly held together by a tangle of threats and promises arising from superstition and insinuation. Those who pledge their loyalty to it swear that the Tithe brings them good luck, and that only a fool wouldn't bend the knee to the king's power. Others claim it's all a lot of hocus-pocus and rumor-mongering to puff up the ego of one old thief.",
+										"Marks and signs. Perhaps the Vow's greatest feat is the construction of a number of symbols that—while they can't be read quite in the same way as a written language—serve to stand for important concepts. These symbols, called Thieves Cant, give warning of danger, suggest possible ripe scores, and offer guidance to lost scavengers. Some say the Rat King invented the marks, others that he only invented the idea of using them to center power under himself.",
+										"Tithemarked. The most loyal members of Scavengers Vow, as a sign of dedication and supplication to the Rat King, mark their bodies with the Tithe, using scars or tattoos. Others prefer to carry a scrap of bone or hide with the mark as an easy way of signaling their loyalty to others in the Vow. In general, scavengers prefer loose, dark clothing that enables them to move easily and fade away into the night quickly—though more than a few are particularly proud of some trophy they scored and keep it on their person to display should they need to prove their prowess.",
+										"Liar's Duel. A favorite pastime of scavengers, while waiting for the moment to strike at their mark, is the game called Liar's Duel, in which two players compete to tell the most elaborate, convincing, knotted web of lies and half-truths they can. The game ends when either player exposes their opponent's lie (usually through a contradiction in the tall tale, although other logical maneuvers may also be employed), and can go on for hours on end—perfect for idle time between sundown and the darkest hour of the night. Legend has it that there is one game of Liar's Duel in Seerfall which has been going on for more than a year.",
+										"Mysterious wares. Scavengers Vow is famous for having anything and everything available for trade. If you can find a Tithe-Gatherer or gain access to the Rat King's secret lair, it's said there isn't a single object in all Planegea that they can't provide, obtain, or give news of.",
+										{
+											"type": "entries",
+											"name": "Leaders",
+											"entries": [
+												"The Rat King's circle of useful henchmen swells and shrinks in accordance with his mood, but a few familiar faces can be found in the lair year after year."
 											]
 										}
 									]
