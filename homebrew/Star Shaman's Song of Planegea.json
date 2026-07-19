@@ -20975,7 +20975,10 @@
 										"God. This item is miraculously shaped, perfectly organic or geometrical by the will of the god. It bears marks and decorations pertaining to the god's nature, such as a scale pattern for a snake god or glittering gems for a stone god. An item given by an evil god tends to feature hooks, twisted shapes, and alluring colors, while an item given by a good god tends to be humble in appearance, yet elegant when examined or wielded.",
 										"Giant. This item was created by the hands of giant artisans. It features strong geometric designs and is a little overlarge and heavy. It is decorated with materials natural to the Empire from which it comes, such as gemstones, obsidian, giant feathers, or shells.",
 										"Aberration. This item was reclaimed from a vault or incursion of the alien minds known as aberrations (p. 260). It features a strange combination of living and artificial materials, and has a tendency to ooze, bead with condensation, or wriggle slightly when touched.",
-										"Nod. This item is from one of the twin worlds of Nod (p. 178). Items from the Dream World tend to have an insubstantial, see-through quality to them, their outlines slightly amorphous, and to change slightly when you look away in small ways such as color or size. Items from the Nightmare World tend to feature scars and scratches, as if they were created through some traumatic event, and rattle or hiss when closely examined."
+										"Nod. This item is from one of the twin worlds of Nod (p. 178). Items from the Dream World tend to have an insubstantial, see-through quality to them, their outlines slightly amorphous, and to change slightly when you look away in small ways such as color or size. Items from the Nightmare World tend to feature scars and scratches, as if they were created through some traumatic event, and rattle or hiss when closely examined.",
+										"Elemental Wastes. This item is an artifact of the elemental wastes, and is earth, air, fire, or water encapsulated. It's made of rough elemental shapes, or else genie-crafted with mystical symbols and impossible artistry and whimsy.",
+										"Stars. This item comes from the Sea of Stars, and gleams with an inner glow, seeming to capture and hold any light source that shines upon it. When listened to closely, it appears to be faintly singing.",
+										"Nature. This item grew from nature itself, through some magical quirk of the land. It might have blossomed as the fruit or flower of an enchanted tree, or formed of its own accord in the rock of a mountain or riverbed, or been created through a natural event such as lightning striking sand or the wind shaping a stone over countless years."
 									]
 								},
 								{
@@ -20983,6 +20986,456 @@
 									"name": "An Aside",
 									"entries": [
 										"Dragons will hoard anything magical made by anyone and call it all the same. Little do they realize that little battles are being fought beneath their claws as holy items duel with druidic ones, gnomecraft struggles with giant magic, and nature and aberration seek to unmake each other in subtle, unspeaking ways."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Converting Magic Items",
+									"entries": [
+										"Most magic items in Fifth Edition can be used in Planegea, simply by converting any metal components to prehistoric materials (stone, wood, bone, shell, etc.), with two obvious exceptions:",
+										"Books become chants. Various books in 5E grant abilities and unleash effects when read over time. These magic items become chants, which must be memorized and uttered from start to finish, requiring the same amount of time as the time required to read the book.",
+										"Such chants could be learned from a shaman, ghost, god, ancestor, or spirit. Chants can also be recorded with magic and placed within objects.",
+										"Spell scrolls become talismans. Talismans are small, brittle trinkets, usually made of clay, fragile bones, string, and the like. When used correctly, a talisman unravels to cast its spell, and then disintegrates into dust. However, it is possible to unravel a talisman clumsily, failing to activate the magic. If a non-spellcaster breaks the talisman, they must succeed on a DC 10 Intelligence check or the spell escapes without effect. On a natural 1, the spell targets the non-spellcaster who broke the talisman."
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Magic Masks",
+							"entries": [
+								"In the primal world of Planegea, there are many dangerous secrets and menacing powers. The mortals of the world have found countless ways to survive, but perhaps none are as unique to the world as the creation of magic masks, imbued with the power of the creature they represent. When worn by a mortal attuned to the mask, a transformation occurs as the mask comes to life at the will of the wearer.",
+								"There are many masks in Planegea, of both divine and arcane origin. This section lists 18 of them, as well as offering guidance on how to create original masks for your own table's adventures.",
+								{
+									"type": "table",
+									"caption": "Magic Masks by Rarity",
+									"colLabels": [
+										"Rarity",
+										"Magic Masks"
+									],
+									"colStyles": [
+										"col-3",
+										"col-9"
+									],
+									"rows": [
+										[
+											"Uncommon",
+											"Mask of the Bat"
+										],
+										[
+											"Uncommon",
+											"Mask of the Eagle"
+										],
+										[
+											"Uncommon",
+											"Mask of the Cobra"
+										],
+										[
+											"Uncommon",
+											"Mask of the Spider"
+										],
+										[
+											"Uncommon",
+											"Mask of the Sprite"
+										],
+										[
+											"Uncommon",
+											"Mask of the Toad"
+										],
+										[
+											"Uncommon",
+											"Mask of the Lion"
+										],
+										[
+											"Rare",
+											"Mask of the Blink Dog"
+										],
+										[
+											"Rare",
+											"Mask of the Duergar"
+										],
+										[
+											"Rare",
+											"Mask of the Ape"
+										],
+										[
+											"Rare",
+											"Mask of the Mimic"
+										],
+										[
+											"Rare",
+											"Mask of the Wraith"
+										],
+										[
+											"Very Rare",
+											"Mask of the Balor"
+										],
+										[
+											"Very Rare",
+											"Mask of the Treant"
+										],
+										[
+											"Very Rare",
+											"Mask of the Unicorn"
+										],
+										[
+											"Very Rare",
+											"Mask of the Vampire"
+										],
+										[
+											"Legendary",
+											"Mask of the Dragon"
+										],
+										[
+											"Legendary",
+											"Mask of the Storm Giant"
+										]
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Creating Magic Masks",
+									"entries": [
+										"Magic masks are simple to design and powerful in play. To make your own magic mask, select a creature and choose one of its actions or abilities to grant to the attuned creature. (For balance purposes, Multiattack should not be chosen.) Rewrite the creature's action in player-facing language, and the mask is complete!",
+										"Timing. Some creatures have abilities that are only to be used once or twice per day, or have ongoing effects. For these abilities, add a clause such as “until the start of your next turn,” or “you cannot expend another charge until…” to keep the mask in line with the monster's ability.",
+										"Damage. Masks that deal damage should scale by rarity. The ranges below are based on average player damage by tier of play, and should offer a good baseline:",
+										{
+											"type": "list",
+											"style": "list",
+											"items": [
+												"Uncommon: 10–20 damage per round",
+												"Rare: 25–50 damage per round",
+												"Very Rare: 35–75 damage per round",
+												"Legendary: 40–85 damage per round"
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Magic Item Descriptions",
+							"entries": [
+								"This is just a scattering of the magic items that can be found in strongholds, sanctums, vaults, and other secret places throughout Planegea. Some are the prized possessions of powerful heroes and villains, while others are used every day by unremarkable mortals.",
+								{
+									"type": "quote",
+									"entries": [
+										"I pass along word of these apparatuses because I've heard it to be so, but who would possibly create such a preposterous object, let alone several? And to what purpose? This seems very unlikely to me... I'd consider this bit pure conjecture."
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Gods & Monsters",
+					"page": 282,
+					"entries": [
+						{
+							"type": "quote",
+							"entries": [
+								"So there I was, alone in the forest, still dripping from the rainstorm that had separated me from the rest of the hunters. And out of the brush sprints a frilled farloper, racing straight at me!\n“No!”\nWell, it was just a farloper. I've seen worse. I jumped aside, but fell into a nest of writhing manylegs, including the biggest ku-zug you've ever seen, all clacking claws and buzzing feelers.\n“How did you get out?”\nPah, it was just some bugs. I stood up, and was about to head back out when something grabbed me—a stickymouth, all black-eyed and oozing, and let me tell you, it reeked of death. It dragged me through the brush and bracken towards a lake.\n“To drown you!?”\nI assume. Too bad for the stickymouth the water was brimming with squidshrimp. They grabbed it and made short work of it, I tell you. Chunks flying everywhere.\n“So you were safe!”\nSafe? Ha! Not likely. That's when the tricerataurs jumped me!\n“The WHAT!?”"
+							]
+						},
+						"Planegea is a living world, bristling with potential allies and enemies, from the most powerful god to the smallest stinging insect. This chapter begins with ways to transform monsters from the lore of 5E into primordial monsters that your players will find strange and challenging.",
+						"It then discusses gods—what they are, how to create your own gods for use in your game, and what makes a god more or less powerful over time.",
+						"Finally, it concludes in a bestiary of stat blocks for gods, monsters, and NPCs both friendly and hostile.",
+						{
+							"type": "entries",
+							"name": "Primordial Monsters",
+							"entries": [
+								"The primal nature of Planegea means that there need be no such thing as a “normal monster.” Although classic monsters can exist, keeping the creatures that the players encounter a little wilder and more unexpected than normal will reinforce the feeling of the unknown in Planegea. A couple of considerations:",
+								"Avoid names. When describing monsters, avoid using their names as long as possible, describing their appearance, their behavior, their smell, and the sounds they make. It's very possible this is the first or only monster of its kind.",
+								"Reskin boldly. DMs are encouraged to play fast and loose with the stat blocks of monsters in Planegea. A harpy might become a flapping, cursed saurian. A gorgon could be a stone-feathered rhinoceros. A cockatrice might be a wicked jungle-fey from the Venom Abyss. By using existing stat blocks and reskinning them as you see fit, you'll introduce fresh and primal flavor to your game, while still retaining the tools for combat balance in the published materials. (The easiest way to do this is to simply change the skin. Make furry creatures scaly, smooth creatures feathered, add stripes or bristles or other cosmetic details to create a new visual aspect.)",
+								"Alter monsters. Whenever you're able, add or remove aspects to make monsters unique and surprising. This is the beginning of the world—there will be millennia for nature to find its final form for these creatures. For now, all is new and wild and deadly. Use the monster templates section to get started.",
+								{
+									"type": "entries",
+									"name": "Monster Templates",
+									"entries": [
+										"These templates are a quick way of altering existing monsters, giving them properties your players will find unusual and unnerving. To use a template, simply choose a 5E monster and add the features listed. Note that doing so may increase the CR of the monster in unpredictable ways—applying any of these templates will make the fight more difficult for your players.",
+										"You can also choose a template randomly by rolling on the table below.",
+										{
+											"type": "table",
+											"caption": null,
+											"colLabels": [
+												"d20",
+												"Template",
+												"d20",
+												"Template"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-4",
+												"col-2 text-center",
+												"col-4"
+											],
+											"rows": [
+												[
+													"1",
+													"Armored",
+													"11",
+													"Many-Eyed"
+												],
+												[
+													"2",
+													"Amphibious",
+													"12",
+													"Multi-Headed"
+												],
+												[
+													"3",
+													"Berserk",
+													"13",
+													"Sailed"
+												],
+												[
+													"4",
+													"Climbing",
+													"14",
+													"Slimy"
+												],
+												[
+													"5",
+													"Elemental",
+													"15",
+													"Spiny"
+												],
+												[
+													"6",
+													"Frilled",
+													"16",
+													"Tentacled"
+												],
+												[
+													"7",
+													"Fungal",
+													"17",
+													"Tunneling"
+												],
+												[
+													"8",
+													"Horned",
+													"18",
+													"Undead"
+												],
+												[
+													"9",
+													"Magical",
+													"19",
+													"Winged"
+												],
+												[
+													"10",
+													"Massive",
+													"20",
+													"Roll twice and use both results"
+												]
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Armored",
+									"entries": [
+										"In a dangerous world, many creatures have developed natural defenses against large predators, including shells, incredibly thick hides, or armor plating. Such creatures can often be harvested for components to make heavy armor.",
+										"When a creature is armored, it retains its statistics except as described below.",
+										"Armor Class. The armored creature gains a +2 to its AC.",
+										"Bulky. The armored creature has disadvantage on Dexterity checks."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Berserk",
+									"entries": [
+										"Some creatures are driven by a primordial bloodlust and madness, often brought on by an encounter with a parasite or poison, but sometimes inherent to a bloodline of the creature long since forgotten. Such creatures are often harvested for their teeth, which can make excellent daggers or cutting implements, or for their blood, which can be used to create certain toxins inducing madness.",
+										"When a creature is berserk, it retains its statistics except as described below.",
+										"New Action: Bite. If the berserk creature did not already have a bite action, it gains the following: As an action, a berserk creature can make a melee attack against a single target within 5 feet. On a hit, it deals piercing damage based on the creature's size: Tiny, 1; Small or Medium, 1d6; Large, 2d6; Huge: 3d6; or Gargantuan: 6d6. If the creature has multiattack, this bite attack is added to their multiattack action.",
+										"Reckless. At the start of its turn, the berserk creature can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.",
+										"Rampage. When the berserk creature reduces a creature to 0 hit points with a melee attack on its turn, the berserk creature can take a bonus action to move up to half its speed and make a bite attack."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Climbing",
+									"entries": [
+										"There are creatures who develop gripping feet or claws, the better to hunt their prey or escape from predators. Such creatures can often be harvested for their long gripping claws or special skin that enables them to move across vertical surfaces.",
+										"When a creature is climbing, it retains its statistics except as described below.",
+										"Spider Climb. The climbing creature can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Elemental",
+									"entries": [
+										"Some creatures are tied closely to the four elements, with dust, lightning, fire, or frost leaking from their eyes and mouth and cracks in their skin. Such creatures can often be harvested for internal fluids that can imbue elemental power into objects, or for teeth and claws where elemental energy lingers.",
+										"When a creature is elemental, it retains its statistics except as described below.",
+										"Elemental Nature. Choose one of the four elements to associate with this creature:",
+										{
+											"type": "table",
+											"caption": null,
+											"colLabels": [
+												"Element",
+												"Damage Type"
+											],
+											"colStyles": [
+												"col-6",
+												"col-6"
+											],
+											"rows": [
+												[
+													"Earth",
+													"Bludgeoning"
+												],
+												[
+													"Air",
+													"Lightning"
+												],
+												[
+													"Fire",
+													"Fire"
+												],
+												[
+													"Water",
+													"Cold"
+												]
+											]
+										},
+										"Damage Resistances. The elemental creature gains resistance to its damage type.",
+										"New Action: Elemental Burst (Recharge 5–6). The elemental creature emits a burst of natural power in a 10-foot radius. Each creature in that area must make a Constitution saving throw (DC 8 + elemental creature's Charisma modifier + proficiency bonus). On a failure, a creature takes damage of its damage type based on the creature's size: Tiny, 1; Small or Medium, 1d6; Large, 2d6; Huge: 3d6; or Gargantuan: 6d6. On a success, it takes half damage."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Finned",
+									"entries": [
+										"Various creatures adapt to the water, or never really left it, preferring to remain able to hunt or hide above and below its surface. Such creatures can often be harvested for their gills and fins, which can help with water-breathing magic and enable faster swimming.",
+										"When a creature is finned, it retains its statistics except as described below.",
+										"Speed. If the finned creature did not already have a swimming speed, it gains one equal to its base walking speed.",
+										"Amphibious. The finned creature can breathe both air and water."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Frilled",
+									"entries": [
+										"There are creatures who rely on the element of surprise and intimidation to survive, deploying large, colorful frills to startle and bewilder both predator and prey. Such creatures can often be harvested for their brightly-colored frills, which are prized for crafting ceremonial attire.",
+										"When a creature is frilled, it retains its statistics except as described below.",
+										"Intimidating. The frilled creature adds its proficiency bonus to Charisma (Intimidation) checks. If it already had proficiency on these checks, the proficiency bonus is doubled.",
+										"New Bonus Action: Startling Display. As a bonus action, the frilled creature can expand its frill, displaying its bright colors with a sudden show. When it uses this feature, creatures that can see it must make a Wisdom saving throw (DC 8 + frilled creature's Charisma modifier + proficiency bonus). On a failure, they cannot take attacks of opportunity against the frilled creature for the rest of its turn. Creatures cannot be affected by the same creature's Startling Display more than once."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Fungal",
+									"entries": [
+										"Some creatures are naturally formed of fungus, while others are the victims of a fungal infestation that alters their very nature. Such creatures can often be harvested for their spores, which can have a number of illusory or enchanting effects, or grant extrasensory perception.",
+										"Plant Type. The fungal creature's type is Plant.",
+										"False Appearance. While the fungal creature remains motionless, it is indistinguishable from ordinary fungus.",
+										"Senses. The fungal creature senses the world around it using spores. Its senses become the following: blindsight 30 ft. (blind beyond this radius).",
+										"New Action or Reaction: Hallucinogenic Spores. As an action or a reaction when hit with a melee weapon attack, the fungal creature can release a cloud of hallucinogenic spores in a radius of 15 feet, which casts confusion on all creatures in range (Wisdom save DC 8 + fungal creature's Charisma modifier + proficiency bonus).",
+										"New Action: Spore Speech. The fungal creature can use an action to touch a creature and attempt to infest it with telepathic spores. The target must make a Wisdom saving throw (DC 8 + fungal creature's Charisma modifier + proficiency bonus). On a failure, it is infested. Once linked by these spores, the infested creature and the fungal creature can exchange simple ideas, emotions, and images within 30 feet. An infested creature can repeat the saving throw once per minute to end the effect of this feature."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Horned",
+									"entries": [
+										"This creature has large horns as a natural defense, which it can use to gore its enemies. Such creatures are often harvested for their horns, which can make excellent weapons or tools.",
+										"When a creature is horned, it retains its statistics except as described below.",
+										"New Action: Gore. If the horned creature did not already have a gore action, it gains the following: As an action, a horned creature can make a melee attack against a single target within 5 feet. On a hit, it deals piercing damage based on the creature's size: Tiny, 1; Small or Medium, 1d6; Large, 2d6; Huge: 3d6; or Gargantuan: 6d6.",
+										"New Action: Charge. If the horned creature moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a Strength saving throw (DC 8 + horned creature's Strength modifier + proficiency bonus) or be knocked prone."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Magical",
+									"entries": [
+										"Whether inherently arcane, touched by some divine presence, or altered by an encounter with a cyst of raw magic, some creatures carry natural spells in their very bones. Such creatures are often harvested for their magic-rich organs, which are prized by certain spellskins and druids for crafting original spells.",
+										"When a creature is magical, it retains its statistics except as described below.",
+										"Damage Resistances. The magical creature gains resistance to bludgeoning, piercing, and slashing from nonmagical attacks.",
+										"Magic Weapons. This creature's weapon attacks are magical.",
+										"Innate Spellcasting. The magical creature's spellcasting ability is Charisma (spell save DC 8 + magical creature's Intelligence, Wisdom, or Charisma modifier (whichever is highest) + proficiency bonus). It can innately cast the following spells, requiring only verbal components:",
+										{
+											"type": "list",
+											"style": "list",
+											"items": [
+												"At will: 1d6 cantrips or 1st-level spells of your choice",
+												"3/day each: 1d4 2nd-level spells of your choice",
+												"1/day: 1 3rd-level spell of your choice"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Shadow Template",
+									"entries": [
+										"Some creatures from Nod are made of the shadowy stuff of nightmares. These beings are usually in league with, or controlled by, the Throne of Nightmares. For more information on this threat and the monster template, see Throne of Nightmares in Chapter 11, p. 257."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Massive",
+									"entries": [
+										"Planegea is a world of immense beings, and it's not uncommon for a creature to grow out of all proportion to its kind, especially in the Dire Grazelands. Such massive creatures are often harvested for their outsize meat, skin, claws, and so on, which can be used for all manner of purposes in their scale and abundance.",
+										"When a creature is massive, it retains its statistics except as described below.",
+										"Size. The massive creature increases by 1 size category.",
+										"Hit Points. The creature's size increase also increases the die type of its hit dice: Small, d6; Medium, d8; Large, d10; Huge, d12; Gargantuan, d20. Recalculate their hit points accordingly.",
+										"Brute Force. The massive creature doubles its damage dice on Strength-­based weapon attacks and makes Strength checks and Strength saving throws with advantage."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Many-Eyed",
+									"entries": [
+										"Some creatures develop additional eyes as a defense or hunting mechanism, always watching for predators or prey. Such creatures are often harvested for their eyes, which can be prepared to grant unusual types of vision.",
+										"When a creature is many-eyed, it retains its statistics except as described below.",
+										"Strange Eyes. If the creature did not already have darkvision, it gains darkvision out to 120 feet.",
+										"Always Watching. The many-eyed creature cannot be surprised, even when sleeping, and has advantage on Wisdom (Perception) checks that rely on sight."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Multi-Headed",
+									"entries": [
+										"There are creatures who, through magic or mutation or some quirk of natural defense, have two or more heads with which to attack or defend themselves. Such creatures are often harvested for their extra teeth and horns, or occasionally for internal fluids and organs which can be used to cast multiplying magic.",
+										"When a creature is multi-headed, it retains its statistics except as described below.",
+										"Multiple Heads. The multi-headed creature has at least one additional head. While it has more than one head, the multi-headed creature has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.",
+										"Whenever a multi-headed creature that has more than one head takes damage equal to a quarter of its maximum hit points in a single turn, one of its heads dies. If all its heads die, the multi-headed creature dies.",
+										"New Action: Multi-Attack. If the multi-headed creature has any attack actions associated with its heads, such as Bite or Gore, it makes as many attacks of that kind as it has heads."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Sailed",
+									"entries": [
+										"Some creatures sport high natural sails along their backs or the edges of their limbs, drawing strength from the warm rays of the Day-Star. Such creatures are often harvested for their sails, which are tough and flexible and useful for crafting, and can sometimes be used to draw power from light.",
+										"When a creature is sailed, it retains its statistics except as described below.",
+										"Light-Powered. While in direct sunlight, the sailed creature has advantage on attack rolls and ability checks."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Slimy",
+									"entries": [
+										"There are creatures that survive by exuding a sticky or slippery slime. Such creatures are often harvested for their slime and slime organs, which—while usually toxic—can generally be used as bonding agents or lubricants.",
+										"When a creature is slimy, it retains its statistics except as described below.",
+										"Slime Trail. The DC for Wisdom (Survival) checks to track a slimy creature is reduced by 5.",
+										"Slime Coating. The slimy creature has advantage on Dexterity checks made to squeeze through narrow spaces, escape bindings, and avoid or end grapples.",
+										"New Action: Slough. As an action, the slimy creature can shed a massive amount of slime. The ground in a 10-foot radius is covered in slime and becomes difficult terrain for 1 minute. Each creature standing in the slimy area must succeed on a Dexterity saving throw (DC 8 + slimy creature's Dexterity modifier + proficiency bonus) or fall prone. A creature that enters the slimy area or ends its turn there must also succeed on a Dexterity saving throw or fall prone."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Spiny",
+									"entries": [
+										"Some creatures develop long quills or spines as natural weapons. Such creatures are often harvested for their spines, which can be used for weapons or tools.",
+										"When a creature is spiny, it retains its statistics except as described below.",
+										"Natural Defense. The spiny creature gains a +1 to its AC.",
+										"Spiny Body. A creature that touches the spiny creature or hits it with a melee attack while within 5 feet of it takes piercing damage based on the creature's size: Tiny, 1; Small or Medium, 1d4; Large, Huge or Gargantuan, 2d4."
 									]
 								}
 							]
@@ -28237,6 +28690,1244 @@
 						"When you miss on an attack with the boomerang, it returns to you at the end of your turn unless its returning path is heavily obstructed."
 					]
 				}
+			]
+		}
+	],
+	"item": [
+		{
+			"name": "Magic Mask",
+			"source": "SSSOP",
+			"page": 269,
+			"reqAttune": true,
+			"rarity": "rarity by mask",
+			"wondrous": true,
+			"entries": [
+				"This mask is carved and decorated to resemble a specific creature, and imbues its wearer with a measure of that creature's power. As a bonus action, you can put on or remove the mask. The mask has 5 charges. While wearing the mask, as an action you expend 1 of its charges and immediately take the mask's action. If the action uses an item such as a weapon or other held object, the mask projects a spectral version of the object, which disappears when the charge is expended.",
+				"The mask regains 1d4+1 expended charges daily at dawn. If you expend the mask's last charge, roll a d20. On a 1, the mask's magic fades and it becomes a mundane object."
+			]
+		},
+		{
+			"name": "Mask of the Ape",
+			"source": "SSSOP",
+			"page": 269,
+			"reqAttune": true,
+			"rarity": "rare",
+			"wondrous": true,
+			"entries": [
+				"This huge, glowering mask allows you to hurl spectral boulders. When you expend a charge, make a ranged weapon attack against a target you can see within 50 feet, or within 100 feet with disadvantage. This attack is +9 to hit. On a hit, deal 7d6 + 6 bludgeoning damage."
+			]
+		},
+		{
+			"name": "Mask of the Balor",
+			"source": "SSSOP",
+			"page": 269,
+			"reqAttune": true,
+			"rarity": "very rare",
+			"wondrous": true,
+			"entries": [
+				"This red, ox-headed mask unleashes an aura of fire around you. When you expend a charge, each creature within 5 feet of you takes 3d6 fire damage, and flammable objects in the aura that aren't being worn or carried ignite. Until the start of your next turn, a creature that touches you or hits you with a melee attack while within 5 feet of you takes 3d6 fire damage."
+			]
+		},
+		{
+			"name": "Mask of the Bat",
+			"source": "SSSOP",
+			"page": 269,
+			"reqAttune": true,
+			"rarity": "uncommon",
+			"wondrous": true,
+			"entries": [
+				"This crude mask with oversized ears grants you the senses of the bat. When you expend a charge, you gain blindsight to a range of 60 feet until the start of your next turn."
+			]
+		},
+		{
+			"name": "Mask of the Blink Dog",
+			"source": "SSSOP",
+			"page": 269,
+			"reqAttune": true,
+			"rarity": "rare",
+			"wondrous": true,
+			"entries": [
+				"This mask of a sharp-eared canine allows you to teleport. When you expend a charge as an action, you magically teleport, along with any equipment you are wearing or carrying, up to 40 feet to an unoccupied space you can see. This teleportation does not provoke attacks of opportunity. As part of this action, either before or after teleporting, you can make one attack."
+			]
+		},
+		{
+			"name": "Mask of the Cobra",
+			"source": "SSSOP",
+			"page": 269,
+			"reqAttune": true,
+			"rarity": "uncommon",
+			"wondrous": true,
+			"entries": [
+				"This fanged, hooded mask gives you the power of a poisonous bite. When you expend a charge, make a melee weapon attack against a target you can see within 10 feet. The attack is +6 to hit, and deals 1d4 + 4 piercing damage. On a hit, the target must make a DC 11 Constitution saving throw, taking 3d6 poison damage on a failed save, or half as much damage on a successful one."
+			]
+		},
+		{
+			"name": "Mask of the Dragon",
+			"source": "SSSOP",
+			"page": 269,
+			"reqAttune": true,
+			"rarity": "legendary",
+			"wondrous": true,
+			"entries": [
+				"This red, polished mask of a great dragon grants you fiery breath. When you expend a charge, you exhale fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 16d6 fire damage on a failed save, or half as much damage on a successful one."
+			]
+		},
+		{
+			"name": "Mask of the Duergar",
+			"source": "SSSOP",
+			"page": 270,
+			"reqAttune": true,
+			"rarity": "rare",
+			"wondrous": true,
+			"entries": [
+				"This gray, dwarvish mask grants you the power to enlarge your form. When you expend a charge, you magically increase in size, along with anything you are wearing or carrying, for 1 minute, during which time you cannot expend another charge with this mask. Your size category increases by 1. While enlarged, you double your damage dice on Strength-based weapon attacks, and make Strength checks and Strength saving throws with advantage. If you lack the room to increase by 1 size, you attain the maximum size possible in the space available."
+			]
+		},
+		{
+			"name": "Mask of the Eagle",
+			"source": "SSSOP",
+			"page": 270,
+			"reqAttune": true,
+			"rarity": "uncommon",
+			"wondrous": true,
+			"entries": [
+				"This mask features the sharp hooked beak and yellow eyes of an eagle. When you expend a charge, you gain a fly speed equal to your walking speed until the start of your next turn."
+			]
+		},
+		{
+			"name": "Mask of the Lion",
+			"source": "SSSOP",
+			"page": 270,
+			"reqAttune": true,
+			"rarity": "uncommon",
+			"wondrous": true,
+			"entries": [
+				"This golden-maned mask grants the predator's mighty pounce. If you move at least 20 feet straight toward a creature and then hit it with a melee attack on the same turn, you may expend a charge as part of your attack action. The target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, you can make one additional melee attack against it as a bonus action."
+			]
+		},
+		{
+			"name": "Mask of the Mimic",
+			"source": "SSSOP",
+			"page": 270,
+			"reqAttune": true,
+			"rarity": "rare",
+			"wondrous": true,
+			"entries": [
+				"This amorphous mask allows you to disguise yourself as an object. When you expend a charge, you can turn into an object of approximately the same size as yourself. While you remain motionless, you are indistinguishable from an ordinary object, although you still retain all your existing stats, abilities, proficiencies, and requirements (such as food, air, and sleep). You can use your bonus action to return to your own form."
+			]
+		},
+		{
+			"name": "Mask of the Spider",
+			"source": "SSSOP",
+			"page": 270,
+			"reqAttune": true,
+			"rarity": "uncommon",
+			"wondrous": true,
+			"entries": [
+				"This black, many-eyed mask gives you the power to shoot webbing. When you expend a charge, make a ranged weapon attack against a creature you can see within 30 feet, or 60 feet with disadvantage. The attack is +5 to hit. On a hit, the target is restrained by webbing. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage)."
+			]
+		},
+		{
+			"name": "Mask of the Sprite",
+			"source": "SSSOP",
+			"page": 270,
+			"reqAttune": true,
+			"rarity": "uncommon",
+			"wondrous": true,
+			"entries": [
+				"This wide-eyed, glittering mask grants the power to see into a creature's heart. When you expend a charge, you can touch a creature and magically know the creature's current emotional state. If the target fails a DC 10 Charisma saving throw, you also know the creature's alignment (if any). Celestials, fiends, and undead automatically fail the saving throw."
+			]
+		},
+		{
+			"name": "Mask of the Storm Giant",
+			"source": "SSSOP",
+			"page": 270,
+			"reqAttune": true,
+			"rarity": "legendary",
+			"wondrous": true,
+			"entries": [
+				"This frightening, oversized mask allows you to wield the power of lightning. When you expend a charge, you hurl a magical lightning bolt at a point you can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 12d8 lightning damage on a failed save, or half as much damage on a successful one."
+			]
+		},
+		{
+			"name": "Mask of the Toad",
+			"source": "SSSOP",
+			"page": 270,
+			"reqAttune": true,
+			"rarity": "uncommon",
+			"wondrous": true,
+			"entries": [
+				"This brown, goggle-eyed mask features an enormous bite. When you expend a charge, make a melee weapon attack against a target you can see. The bite is +4 to hit. On a hit, deal 1d10 + 2 piercing damage plus 1d10 poison damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and you can't bite another target."
+			]
+		},
+		{
+			"name": "Mask of the Treant",
+			"source": "SSSOP",
+			"page": 270,
+			"reqAttune": true,
+			"rarity": "very rare",
+			"wondrous": true,
+			"entries": [
+				"This wooden, branched mask allows you to animate trees. When you expend a charge, you magically animate one or two trees you can see within 60 feet. These trees have the statistics of a treant, except they have Intelligence and Charisma scores of 1, they can't speak, and they have only the Slam action option. An animated tree acts as your ally. The tree remains animate for 1 day or until it dies; until you die or are more than 120 feet from the tree; or until you take a bonus action to turn it back into an inanimate tree. The tree then takes root if possible. You cannot expend another charge with this mask while any tree is animated by its magic."
+			]
+		},
+		{
+			"name": "Mask of the Unicorn",
+			"source": "SSSOP",
+			"page": 270,
+			"reqAttune": true,
+			"rarity": "very rare",
+			"wondrous": true,
+			"entries": [
+				"This mask of purest white with a spiraling horn grants you a healing touch. When you expend a charge, you can touch another creature with the mask's horn. The target magically regains 2d8 + 2 hit points. In addition, the touch removes all diseases and neutralizes all poisons afflicting the target."
+			]
+		},
+		{
+			"name": "Mask of the Vampire",
+			"source": "SSSOP",
+			"page": 270,
+			"reqAttune": true,
+			"rarity": "very rare",
+			"wondrous": true,
+			"entries": [
+				"This pale, fanged mask summons the children of the night at your command. When you expend a charge, you magically call 2d4 swarms of bats or rats, provided that the sun isn't up. While outdoors, you can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as your allies and obeying your spoken commands. The beasts remain for 1 hour, until you die, or until you dismiss them as a bonus action."
+			]
+		},
+		{
+			"name": "Mask of the Wraith",
+			"source": "SSSOP",
+			"page": 270,
+			"reqAttune": true,
+			"rarity": "rare",
+			"wondrous": true,
+			"entries": [
+				"This translucent, ghostly mask grants you the power of incorporeal movement. When you expend a charge, until the start of your next turn, you can move through other creatures and objects as if they were difficult terrain. Take 1d10 force damage if you end your turn inside an object."
+			]
+		},
+		{
+			"name": "Amulet of the Arena",
+			"source": "SSSOP",
+			"page": 271,
+			"reqAttune": false,
+			"rarity": "rare",
+			"wondrous": true,
+			"entries": [
+				"While wearing this amulet, your size doubles in all dimensions, and your weight is multiplied by eight. This growth increases your size by one category—from Medium to Large, for example. If there isn't enough room to double your size, you take 1d6 force damage per 5 feet of constrained space, and are restrained until you remove the amulet or are freed from the space. Until the amulet is removed, you also have advantage on Strength checks and Strength saving throws. Your weapons also grow to match your new size."
+			]
+		},
+		{
+			"name": "Apparatus of the Hawk",
+			"source": "SSSOP",
+			"page": 270,
+			"reqAttune": false,
+			"rarity": "legendary",
+			"wondrous": true,
+			"entries": [
+				"This item first appears to be a Large sealed stone cylinder weighing 400 pounds. The cylinder has a hidden catch, which can be found with a successful DC 20 Intelligence (Investigation) check. Releasing the catch unlocks a hatch at one end of the monument, allowing two Medium or smaller creatures to crawl inside. Ten levers are set in a row at the far end, each in a neutral position, able to move either up or down. When certain levers are used, the apparatus transforms to resemble a giant hawk.",
+				"The Apparatus of the Hawk is a Large object with the following statistics:",
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Armor Class:",
+							"entry": "20"
+						},
+						{
+							"type": "item",
+							"name": "Hit Points:",
+							"entry": "200"
+						},
+						{
+							"type": "item",
+							"name": "Speed:",
+							"entry": "10 ft., Fly 60 ft. (or 0 ft. if the talons or wings aren't extended)"
+						},
+						{
+							"type": "item",
+							"name": "Damage Immunities:",
+							"entry": "poison, psychic"
+						}
+					]
+				},
+				"To be used as a vehicle, the apparatus requires one pilot. While the apparatus' hatch is closed, the compartment is airtight and warm. The compartment holds enough air for 10 hours of breathing, divided by the number of breathing creatures inside.",
+				"The apparatus is capable of flight unless it is submerged in liquid or its wings are restrained or blocked by obstacles.",
+				"A creature in the compartment can use an action to move as many as two of the apparatus' levers up or down. After each use, a lever goes back to its neutral position. Each lever, from left to right, functions as shown in the Apparatus of the Hawk Levers table.",
+				{
+					"type": "table",
+					"caption": "Apparatus of the Hawk Levers",
+					"colLabels": [
+						"Lever",
+						"Up",
+						"Down"
+					],
+					"colStyles": [
+						"col-1 text-center",
+						"col-5",
+						"col-6"
+					],
+					"rows": [
+						[
+							"1",
+							"Wings extend, allowing the apparatus to fly.",
+							"Wings retract, reducing the apparatus' flying speed to 0 and making it unable to benefit from bonuses to speed."
+						],
+						[
+							"2",
+							"Forward window shutter opens.",
+							"Forward window shutter closes."
+						],
+						[
+							"3",
+							"Floor and ceiling window shutters open (one above, one below).",
+							"Floor and ceiling window shutters close (one above, one below)."
+						],
+						[
+							"4",
+							"Two talons extend from the underside side of the apparatus, raising it 5 ft. and allowing it to walk.",
+							"The talons retract, reducing the apparatus's walking speed to 0 and making it unable to benefit from bonuses to speed."
+						],
+						[
+							"5",
+							"The apparatus walks or flies forward, if talons or wings are extended.",
+							"The apparatus walks or flies backward, if talons or wings are extended."
+						],
+						[
+							"6",
+							"Each extended wing makes the following melee weapon attack: +8 to hit, reach 20 ft. Hit: 7 (2d6) bludgeoning damage.",
+							"The talons make the following melee weapon attack: +8 to hit, reach 5 ft., one target. Hit: The target is grappled (escape DC 15)"
+						],
+						[
+							"7",
+							"The apparatus turns 90 degrees left.",
+							"The apparatus turns 90 degrees right."
+						],
+						[
+							"8",
+							"Lenses cover over the windows, magnifying objects viewed through them to twice their size.",
+							"The lenses retract."
+						],
+						[
+							"9",
+							"The apparatus descends as much as 20 feet in air.",
+							"The apparatus rises up to 20 feet in air."
+						],
+						[
+							"10",
+							"The rear hatch unseals and opens.",
+							"The rear hatch closes and seals."
+						]
+					]
+				}
+			]
+		},
+		{
+			"name": "Apparatus of the Mammoth",
+			"source": "SSSOP",
+			"page": 271,
+			"reqAttune": false,
+			"rarity": "legendary",
+			"wondrous": true,
+			"entries": [
+				"This item first appears to be a Huge sealed stone monument weighing 10,000 pounds, featuring the carved head of a mammoth and two stone tusks. The monument has a hidden catch, which can be found with a successful DC 20 Intelligence (Investigation) check. Releasing the catch unlocks a hatch at one end of the monument, allowing six Large or smaller creatures to crawl inside. Ten levers are set in a row at the far end, each in a neutral position, able to move either up or down. When certain levers are used, the apparatus transforms to resemble a stone mammoth.",
+				"The Apparatus of the Mammoth is a Huge object with the following statistics:",
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Armor Class:",
+							"entry": "30"
+						},
+						{
+							"type": "item",
+							"name": "Hit Points:",
+							"entry": "400"
+						},
+						{
+							"type": "item",
+							"name": "Speed:",
+							"entry": "30 ft., Swim 10 ft. (or 0 ft. if the legs aren't extended)"
+						},
+						{
+							"type": "item",
+							"name": "Damage Immunities:",
+							"entry": "poison, psychic"
+						}
+					]
+				},
+				"To be used as a vehicle, the apparatus requires one pilot. While the apparatus's hatch is closed, the compartment is airtight. The compartment holds enough air for 10 hours of breathing, divided by the number of breathing creatures inside.",
+				"The apparatus takes no penalty to speed from difficult terrain.",
+				"A creature in the compartment can use an action to move as many as two of the apparatus' levers up or down. After each use, a lever goes back to its neutral position. Each lever, from left to right, functions as shown in the Apparatus of the Mammoth Levers table.",
+				{
+					"type": "table",
+					"caption": "Apparatus of the Mammoth Levers",
+					"colLabels": [
+						"Lever",
+						"Up",
+						"Down"
+					],
+					"colStyles": [
+						"col-1 text-center",
+						"col-5",
+						"col-6"
+					],
+					"rows": [
+						[
+							"1",
+							"Legs extend, allowing the apparatus to walk.",
+							"Legs retract, reducing the apparatus's speed to 0 and making it unable to benefit from bonuses to speed."
+						],
+						[
+							"2",
+							"Forward window shutter opens.",
+							"Forward window shutter closes."
+						],
+						[
+							"3",
+							"Side window shutters open (one per side).",
+							"Side window shutters close (one per side)."
+						],
+						[
+							"4",
+							"A trunklike appendage uncurls from the front of the apparatus.",
+							"The trunk retracts."
+						],
+						[
+							"5",
+							"The apparatus walks forward, if legs are already extended.",
+							"The apparatus walks backward, if legs are already extended."
+						],
+						[
+							"6",
+							"The tusks make the following melee weapon attack: +8 to hit, reach 20 ft. Hit: 18 (4d8) bludgeoning damage.",
+							"The extended trunk makes the following melee weapon attack: +8 to hit, reach 20 ft., one target. Hit: The target is grappled (escape DC 15)"
+						],
+						[
+							"7",
+							"The apparatus turns 90 degrees left, if legs are extended.",
+							"The apparatus turns 90 degrees right, if legs are extended."
+						],
+						[
+							"8",
+							"The trunk emits a loud trumpeting that can be heard clearly for 1 mile, and faintly for 5 miles.",
+							"The trunk emits a loud trumpeting that can be heard clearly for 1 mile, and faintly for 5 miles."
+						],
+						[
+							"9",
+							"If the legs are extended, the apparatus rears on its hind legs briefly, before slamming back down in a stomp attack: +8 to hit, reach 5 ft. Hit: 55 (10d10) bludgeoning damage. Creatures in a 10 ft. radius must succeed on a DC 15 Dexterity saving throw or be knocked prone.",
+							"If the legs are extended, the apparatus charges forward up to 60 feet. Creatures in its path must make a DC 15 Dexterity saving throw. On a failure, they take 7 (2d6) bludgeoning damage and are knocked prone. On a success, they take half damage."
+						],
+						[
+							"10",
+							"The rear hatch unseals and opens.",
+							"The rear hatch closes and seals."
+						]
+					]
+				}
+			]
+		},
+		{
+			"name": "Arcfire Glaive",
+			"source": "SSSOP",
+			"page": 271,
+			"reqAttune": true,
+			"rarity": "very rare",
+			"weapon": true,
+			"weaponCategory": "martial",
+			"type": "M",
+			"entries": [
+				"This ever-burning weapon can be spun in whirling attacks, threatening everyone around the wielder. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit with it, the target takes an additional 2d8 fire damage.",
+				"As an action, you can use the glaive to make a whirling attack in a 10-foot radius. Creatures within the radius must make a DC 15 Dexterity saving throw. On a failed save, they take 2d8 fire damage. On a success, they take half as much. Any flammable objects in the radius ignite."
+			]
+		},
+		{
+			"name": "Asp of Perfection",
+			"source": "SSSOP",
+			"page": 271,
+			"reqAttune": true,
+			"rarity": "legendary",
+			"wondrous": true,
+			"entries": [
+				"This armlet is fashioned of glittering gemweave, woven in the shape of a coiled serpent with bared fangs. Originally worn by the Air Empress, the Asp enables utter perfection, but punishes weakness with death. While you are attuned to the Asp, any attack roll, ability check, or saving throw other than a 1 is treated as a natural 20.",
+				"If you roll a 1 on an ability check, attack roll, or saving throw while attuned to the Asp, you drop to 0 hit points, automatically fail two death saving throws, and have disadvantage on your next death saving throw, which is not converted to a natural 20 by the Asp.",
+				"Curse. The Asp of Perfection is cursed, and becoming attuned to it extends the curse to you. While cursed, a creature may not willingly remove the Asp. If it is forcibly removed, the cursed creature dies."
+			]
+		},
+		{
+			"name": "Aspecter's Flute",
+			"source": "SSSOP",
+			"page": 272,
+			"reqAttune": false,
+			"rarity": "uncommon",
+			"weapon": true,
+			"weaponCategory": "martial",
+			"type": "R",
+			"entries": [
+				"This slender blowgun shoots tiny needles infused with batface venom. When you hit with the Aspecter's Flute, the target must make a DC 15 Wisdom saving throw. On a failure, they take 1d8 poison damage of which they are unaware. On a success, they take half as much and are aware of the damage."
+			]
+		},
+		{
+			"name": "Basin of Dreaming",
+			"source": "SSSOP",
+			"page": 272,
+			"reqAttune": true,
+			"rarity": "rare",
+			"wondrous": true,
+			"entries": [
+				"This large stone basin has 5 charges and regains 1d3 expended charges daily at dawn. The basin is about 1 foot in diameter and half as deep. It weighs 10 pounds and holds about 3 gallons. While the basin is filled with water, you can use an action to expend one of its charges to cast the dream spell.",
+				"You can also use all 5 charges to cast planeshift."
+			]
+		},
+		{
+			"name": "Bead of Breeze",
+			"source": "SSSOP",
+			"page": 272,
+			"reqAttune": false,
+			"rarity": "common",
+			"wondrous": true,
+			"entries": [
+				"This fragile glass bead is chilly to the touch. You can use a bonus action to crush the bead, releasing a cool breeze that can be felt by creatures in a 50-foot sphere centered on you. The breeze lasts for 1 minute."
+			]
+		},
+		{
+			"name": "Bead of Frost",
+			"source": "SSSOP",
+			"page": 272,
+			"reqAttune": false,
+			"rarity": "common",
+			"wondrous": true,
+			"entries": [
+				"This small icy bead is kept in a specially-prepared pouch until ready to be used. You can use an action to touch the bead to an object no larger than a 5-foot cube. The object becomes covered in a thin layer of magical frost. If the object was on fire, the fire is extinguished, and the object is chilled. The bead melts after 6 seconds, after which the object's temperature returns to normal."
+			]
+		},
+		{
+			"name": "Blood Siphon",
+			"source": "SSSOP",
+			"page": 272,
+			"reqAttune": true,
+			"rarity": "rare",
+			"wondrous": true,
+			"entries": [
+				"This pair of small ruby discs creates a magical link between two creatures, drawing the life-force from one creature to another in a parasitic bond. One disc has an engraving of a leech, and the other has an engraving of a flower. As an action, you can place the leech disc on the skin of a humanoid creature. That creature must make a DC 16 Constitution saving throw. On a failure, the leech disc attaches and cannot be removed except by magic such as a remove curse spell. The flower disc can be attached to the skin of another creature as a bonus action, and removed as a bonus action.",
+				"At the time that both discs are attached to living creatures, the creature wearing the flower disc can choose one of the following abilities to siphon: Strength, Dexterity, Constitution, or Charisma. The ability cannot be changed unless both discs are removed and re-attached. The creature wearing the flower disc has advantage on ability checks, attack rolls, and saving throws using the chosen ability. The creature wearing the leech disc has disadvantage with the same ability.",
+				"Every 24 hours, starting when both discs are attached, the creature wearing the leech disc must make a DC 16 Constitution saving throw. On a failed save, they take one level of exhaustion."
+			]
+		},
+		{
+			"name": "Blinding Weapon",
+			"source": "SSSOP",
+			"page": 273,
+			"reqAttune": true,
+			"rarity": "uncommon",
+			"weapon": true,
+			"weaponCategory": "martial",
+			"type": "M",
+			"entries": [
+				"The first time you hit a creature with this weapon, they must make a DC 13 Constitution saving throw or be blinded until the end of their turn."
+			]
+		},
+		{
+			"name": "Brightshatter Jar",
+			"source": "SSSOP",
+			"page": 273,
+			"reqAttune": false,
+			"rarity": "common",
+			"wondrous": true,
+			"entries": [
+				"This sealed, spherical jar, when broken, creates a magical light for 1 hour. The light is centered on the place the jar was broken, casting bright light in a 50-foot radius and dim light for an additional 50 feet.",
+				"If the jar is broken in darkness, creatures within the bright light must make a DC 10 Constitution saving throw. On a failure, they have disadvantage on attack rolls and Perception checks relying on sight until the end of their next turn."
+			]
+		},
+		{
+			"name": "Cord of Ethereal Projection",
+			"source": "SSSOP",
+			"page": 273,
+			"reqAttune": false,
+			"rarity": "very rare",
+			"wondrous": true,
+			"entries": [
+				"This rope, woven from the fibers of magical seaweed, is 100 feet long, has 20 hit points, and can be burst with a DC 25 Strength check.",
+				"While touching the rope, you can use an action to cast etherealness on yourself. The spell creates an ethereal projection of the rope. You are unable to move the ethereal rope, which occupies the same space as the original rope. The spell only lasts as long as you are touching the ethereal rope, and ends if the original rope or its ethereal projection are severed.",
+				"Only one creature can use the rope in this way at a time. If a second creature uses an action to cast the spell while touching the rope, the spell ends for the first creature."
+			]
+		},
+		{
+			"name": "Cloak of the Beekeeper",
+			"source": "SSSOP",
+			"page": 273,
+			"reqAttune": true,
+			"rarity": "uncommon",
+			"wondrous": true,
+			"entries": [
+				"While attuned to this cloak, you have resistance to poison damage and advantage on saving throws against being poisoned by the stings of bees, wasps, and other insects."
+			]
+		},
+		{
+			"name": "Crafting Hoop",
+			"source": "SSSOP",
+			"page": 273,
+			"reqAttune": false,
+			"rarity": "common",
+			"wondrous": true,
+			"entries": [
+				"This magical hoop of twigs or woven grasses offers a simple enchantment which allows a closer look at small objects. Its grants advantage on any ability check made to appraise or inspect an item that is small or highly detailed."
+			]
+		},
+		{
+			"name": "Day-Star Pendant",
+			"source": "SSSOP",
+			"page": 274,
+			"reqAttune": false,
+			"rarity": "very rare",
+			"wondrous": true,
+			"entries": [
+				"These ivory pendants are given to members of the Council of Day (p. 193). Each pendant is inset with four tiny stones in the pattern of a diamond. When these stones are pulled into the center, they glow brightly, emitting a dim light in a 10 foot radius."
+			]
+		},
+		{
+			"name": "Deepstone",
+			"source": "SSSOP",
+			"page": 274,
+			"reqAttune": true,
+			"rarity": "legendary",
+			"wondrous": true,
+			"entries": [
+				"Also called the Mountainheart, this legendary item was the prize of the Stone Empire. A large, egg-shaped stone of strange, rough texture, the Deepstone grants powerful control over the element of earth. When touching the Deepstone, you can cast the following spells at will with a range of 1 mile: (at-will) mold earth, move earth, erupting earth, stone shape, transmute rock, and (once per day) earthquake.",
+				"Additionally, while you are attuned to the Deepstone, you gain the benefits of the investiture of stone spell, and can cast clairvoyance once per day, locating its sensor within 1 mile of the Deepstone."
+			]
+		},
+		{
+			"name": "Direstaff",
+			"source": "SSSOP",
+			"page": 274,
+			"reqAttune": false,
+			"rarity": "common",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"type": "M",
+			"entries": [
+				"This quarterstaff bears a minor enchantment. As a bonus action, you can double the length of the staff up to 10 feet, granting it the Reach property. When doubled in length, attacks made with a direstaff have disadvantage. You can return the direstaff to its original length with a bonus action."
+			]
+		},
+		{
+			"name": "Dowsing Rod",
+			"source": "SSSOP",
+			"page": 274,
+			"reqAttune": false,
+			"rarity": "common",
+			"wondrous": true,
+			"entries": [
+				"This enchanted forked stick is sensitive to the proximity of hidden water. While walking and holding the stick, you are aware if you are moving closer to or further from potable water."
+			]
+		},
+		{
+			"name": "Duru's Cudgel",
+			"source": "SSSOP",
+			"page": 274,
+			"reqAttune": "by a druid, warlock, or guardian",
+			"rarity": "legendary",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"type": "M",
+			"entries": [
+				"This enormous greatclub is a legendary bough from the original tree that was Duru himself. You gain a +3 bonus to attack and damage rolls made with this magic weapon. If a creature makes an attack with this greatclub without being attuned to it, they take 4d6 necrotic damage as tiny leaves and flowers burst through their skin from the inside.",
+				"While you are attuned to Duru's Cudgel, creatures you hit with this weapon must make a DC 18 Wisdom saving throw. A creature that fails the save begins to turn into a tree and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, transforming into a tree on a failure or ending the effect on a success. The transformation lasts until the creature is freed by greater restoration or other magic. A creature that fails the initial saving throw by 5 or more instantly transforms into a tree."
+			]
+		},
+		{
+			"name": "Embracing Net",
+			"source": "SSSOP",
+			"page": 275,
+			"reqAttune": false,
+			"rarity": "uncommon",
+			"weapon": true,
+			"weaponCategory": "martial",
+			"type": "R",
+			"entries": [
+				"This magical net is designed to squeeze the life out of its victims. You can use a bonus action to magically constrict it, dealing 1d6 bludgeoning damage to a creature restrained by it. If the net is destroyed by slashing damage, it weaves itself back together at the next dawn."
+			]
+		},
+		{
+			"name": "Eyes of the Storm",
+			"source": "SSSOP",
+			"page": 275,
+			"reqAttune": false,
+			"rarity": "uncommon",
+			"wondrous": true,
+			"entries": [
+				"These paired sapphires are attached by an ivory chain or cord of finely woven seaweed. While holding the Eyes of the Storm, your vision is not obscured by rain, snow, fog, or other weather effects. As an action, you can throw the Eyes up to 30 feet into the air. They hover at the apex of your throw for up to 1 minute. While they remain in the air, you can use your action to see through them until the end of your next turn. You are blind in regards to your own sense of sight while using the Eyes in this way. You can use your action on subsequent turns to maintain your vision through the Eyes until the end of your next turn."
+			]
+		},
+		{
+			"name": "Firehide",
+			"source": "SSSOP",
+			"page": 275,
+			"reqAttune": false,
+			"rarity": "common",
+			"wondrous": true,
+			"entries": [
+				"This heavy fur cloak, if ignited, burns perpetually with intangible fire until deprived of air or submerged in water."
+			]
+		},
+		{
+			"name": "Fluttering Mail",
+			"source": "SSSOP",
+			"page": 275,
+			"reqAttune": false,
+			"rarity": "uncommon",
+			"armor": true,
+			"entries": [
+				"This gauzy armor is enchanted with a permanent illusion to look and feel like a gleaming, loosely-woven garment, while still offering its wearer protection. You can don or doff this armor as an action."
+			]
+		},
+		{
+			"name": "Gnomeknack Crossbow",
+			"source": "SSSOP",
+			"page": 275,
+			"reqAttune": false,
+			"rarity": "uncommon",
+			"weapon": true,
+			"weaponCategory": "martial",
+			"type": "R",
+			"entries": [
+				"This ingenious device is three weapons in one. As a bonus action, you can speak the command word and transform this weapon into any of its three forms: a hand crossbow, a light crossbow, or a heavy crossbow."
+			]
+		},
+		{
+			"name": "Gutter's Knife",
+			"source": "SSSOP",
+			"page": 275,
+			"reqAttune": false,
+			"rarity": "common",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"type": "M",
+			"entries": [
+				"This knife is ideal for harvesting a kill, and reduces the time spent when making Wisdom (Medicine or Survival) checks to harvest by half."
+			]
+		},
+		{
+			"name": "Icebiter Pike",
+			"source": "SSSOP",
+			"page": 276,
+			"reqAttune": false,
+			"rarity": "very rare",
+			"weapon": true,
+			"weaponCategory": "martial",
+			"type": "M",
+			"entries": [
+				"This frost giant pike was a prized weapon of the Stone Empire. While attuned to the Icebiter Pike, you gain a +2 bonus to attack and damage rolls made with this magic weapon, and deal an additional 1d8 cold damage.",
+				"As an action, you can use Icebiter Pike to cast cone of cold with a save DC of 14. Once used, the cone of cold property can't be used again for 24 hours."
+			]
+		},
+		{
+			"name": "Knotpick",
+			"source": "SSSOP",
+			"page": 276,
+			"reqAttune": false,
+			"rarity": "uncommon",
+			"wondrous": true,
+			"entries": [
+				"This enchanted bone tool carries subtle enchantments to help ease apart magically secured locks and knots. When making checks with thieves tools, the knotpick noiselessly suppresses arcane lock as if with the knock spell, after which the knotpick breaks."
+			]
+		},
+		{
+			"name": "Krakenhunt Trident",
+			"source": "SSSOP",
+			"page": 276,
+			"reqAttune": true,
+			"rarity": "uncommon",
+			"weapon": true,
+			"weaponCategory": "martial",
+			"type": "M",
+			"entries": [
+				"This trident can create a spectral echo of itself, allowing its wielder to both throw it and stab with it. While attuned to this weapon, you can use a bonus action to create a magical duplicate of the weapon in your hand. The duplicate feels identical to the original trident, but has a shimmering, translucent quality. The duplicate disappears after you make an attack with it. You can only have one such duplicate at any time."
+			]
+		},
+		{
+			"name": "Lance of the Lodge",
+			"source": "SSSOP",
+			"page": 276,
+			"reqAttune": true,
+			"rarity": "legendary",
+			"weapon": true,
+			"weaponCategory": "martial",
+			"type": "M",
+			"entries": [
+				"This blood-red lance is the ultimate prize for the Redguard of Edgegather, famed for its ability to summon an entire hunting party out of thin air. The lance has 10 charges. While attuned to the lance of the lodge, you can expend 1 charge and use an action to cast find steed. The summoned steed appears underneath you in red bone armor, granting +1 to its AC, and you are automatically riding it.",
+				"Also, while attuned to the lance, you can expend 2 charges and use an action to cast conjure animals at 3rd level. You cannot use the lance to cast this spell again until all beasts previously conjured by this spell have dropped to 0 hit points or disappeared.",
+				"Finally, while attuned to the lance, you can cast find familiar. You can only summon creatures with a fly speed using this spell, and the range for telepathy with your familiar is extended to 500 feet."
+			]
+		},
+		{
+			"name": "Lightning Branch",
+			"source": "SSSOP",
+			"page": 276,
+			"reqAttune": false,
+			"rarity": "uncommon",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"type": "M",
+			"entries": [
+				"This enchanted branch was prepared by a spellcaster and then struck by lightning, which it captured in its wood. When you hit with this club, it deals an additional 1d6 lightning damage."
+			]
+		},
+		{
+			"name": "Little Liar",
+			"source": "SSSOP",
+			"page": 277,
+			"reqAttune": false,
+			"rarity": "rare",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"type": "M",
+			"entries": [
+				"This intricately designed knife brims with illusion magic. Little Liar has 6 charges. When you hit with it, you can expend charges to cast one of the following spells without expending a spell slot (spell save DC 14), centered on the target:",
+				{
+					"type": "list",
+					"items": [
+						"phantasmal force (2 charges)",
+						"fear (3 charges)",
+						"phantasmal killer (4 charges)"
+					]
+				},
+				"Little Liar regains 1d4 + 2 expended charges daily at dawn."
+			]
+		},
+		{
+			"name": "Mask of Expression",
+			"source": "SSSOP",
+			"page": 277,
+			"reqAttune": false,
+			"rarity": "common",
+			"wondrous": true,
+			"entries": [
+				"This carved mask, made of wood, ivory, or stone, shows the expressions chosen by its wearer. The wearer can change the expression shown at will."
+			]
+		},
+		{
+			"name": "Mask of the Arbiter",
+			"source": "SSSOP",
+			"page": 277,
+			"reqAttune": true,
+			"rarity": "legendary",
+			"wondrous": true,
+			"entries": [
+				"The Arbiter of Seerfall traditionally wears this unadorned wooden mask. Within a 30-foot radius of the mask, creatures are affected by the zone of truth spell as if they had failed the save.",
+				"While attuned to the mask, the wearer has truesight up to 30 feet."
+			]
+		},
+		{
+			"name": "Marble of Nod",
+			"source": "SSSOP",
+			"page": 277,
+			"reqAttune": false,
+			"rarity": "common",
+			"wondrous": true,
+			"entries": [
+				"This translucent purple stone is smooth and cool to the touch. As a bonus action, you can place it in your mouth. When you do so, you instantly fall asleep and begin to dream. Creatures that cannot sleep are unaffected."
+			]
+		},
+		{
+			"name": "Midnight Star",
+			"source": "SSSOP",
+			"page": 277,
+			"reqAttune": true,
+			"rarity": "legendary",
+			"weapon": true,
+			"weaponCategory": "martial",
+			"type": "M",
+			"entries": [
+				"This legendary storm giant weapon was wielded by none other than the Sea Emperor himself. When you attune to this weapon, you and up to 6 creatures you choose within line of sight gain truesight up to 60 feet as long as you are attuned to Midnight Star. You gain a +3 bonus to attack and damage rolls made with this magic weapon while attuned to it. When you hit with Midnight Star, it deals an additional 2d8 thunder damage.",
+				"Additionally, as an action, while attuned to Midnight Star you can cast foresight without expending a spell slot. This property can't be used again for 24 hours."
+			]
+		},
+		{
+			"name": "Monstertooth Club",
+			"source": "SSSOP",
+			"page": 276,
+			"reqAttune": false,
+			"rarity": "uncommon",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"type": "M",
+			"entries": [
+				"This club is adorned with the teeth of monsters. When you hit with this club, it deals an additional 1d4 damage. The DM chooses the type or determines it randomly from the table below:",
+				{
+					"type": "table",
+					"caption": "Damage Type",
+					"colLabels": [
+						"d8",
+						"Damage Type",
+						"d8",
+						"Damage Type"
+					],
+					"colStyles": [
+						"col-1 text-center",
+						"col-5",
+						"col-1 text-center",
+						"col-5"
+					],
+					"rows": [
+						[
+							"1",
+							"Acid (ooze, beast)",
+							"5",
+							"Necrotic (undead, fiend)"
+						],
+						[
+							"2",
+							"Cold (elemental)",
+							"6",
+							"Poison (beast, plant)"
+						],
+						[
+							"3",
+							"Fire (dragon, fiend)",
+							"7",
+							"Psychic (aberration, fey)"
+						],
+						[
+							"4",
+							"Lightning (beast, fey)",
+							"8",
+							"Radiant (celestial)"
+						]
+					]
+				}
+			]
+		},
+		{
+			"name": "Mindfang",
+			"source": "SSSOP",
+			"page": 276,
+			"reqAttune": true,
+			"rarity": "very rare",
+			"type": "RG",
+			"entries": [
+				"This black wooden ring is carved in the shape of a snake, its fangs poised over its wearer's finger. While attuned to Mindfang, you can use an action to cast detect thoughts without expending a spell slot (spell save DC 20), taking 1d4 psychic damage as Mindfang sinks its fangs into your finger. Each time you use an action or a bonus action using the spell, you take psychic damage, with the size of the die increasing by one size to 1d6, then 1d8, 1d10, and finally reaching its maximum at 1d12. The die size resets when you take a short or long rest.",
+				"While using Mindfang, you can continue to push into a target's mind, repeatedly probing deeper as an action without ending the spell.",
+				"Cursed. Mindfang is cursed and cannot be removed once worn except by magic such as the remove curse spell. It speaks telepathically to the wearer, urging them to use it and goading them to go deeper into their target's mind, promising valuable information from its victims if they probe a little more."
+			]
+		},
+		{
+			"name": "Obsidian Armor",
+			"source": "SSSOP",
+			"page": 276,
+			"reqAttune": true,
+			"rarity": "rare",
+			"armor": true,
+			"entries": [
+				"You have a +1 bonus to your AC while wearing this armor. Additionally, you gain resistance to fire damage."
+			]
+		},
+		{
+			"name": "Peakshatter Gauntlets",
+			"source": "SSSOP",
+			"page": 276,
+			"reqAttune": false,
+			"rarity": "very rare",
+			"wondrous": true,
+			"entries": [
+				"While wearing these gauntlets, you gain a +2 bonus to attack and damage rolls of unarmed strikes made with these gauntlets. When you hit with these gauntlets, you deal an additional 1d4 thunder damage. Any damage you deal to objects or structures with this unarmed strike is doubled.",
+				"Additionally, if you damage an object or structure using an unarmed strike with these gauntlets, you can use your bonus action to make another unarmed strike against the same target."
+			]
+		},
+		{
+			"name": "Pipe of Smoke-Summoning",
+			"source": "SSSOP",
+			"page": 277,
+			"reqAttune": false,
+			"rarity": "rare",
+			"wondrous": true,
+			"entries": [
+				"This black pipe has a long, twisted stem. As an action, you can smoke the pipe to cast conjure minor elementals at 4th level without expending a spell slot. Summoned elementals must be at least partly comprised of fire or air. You can't use this feature again until the next dawn.",
+				"If you smoke this pipe using costly supplies, you can use its spellcasting feature at higher levels. When you smoke this pipe using materials worth 500 ps, which the pipe consumes, you can cast the spell at 6th level. You can cast it at 8th level with materials worth 1,000 ps, which it consumes."
+			]
+		},
+		{
+			"name": "Platter of Endless Delight",
+			"source": "SSSOP",
+			"page": 277,
+			"reqAttune": false,
+			"rarity": "uncommon",
+			"wondrous": true,
+			"entries": [
+				"This elegant wooden platter is carved in the pattern of a blooming flower, and offers a limitless bounty of delicious food, such as fruits and vegetables, meats and cheeses, nuts and berries, or more complex offerings. As an action, you can change the type of food the platter presents. The food looks, feels, and tastes real, but offers no physical benefit, and you cannot satisfy your hunger by eating from it."
+			]
+		},
+		{
+			"name": "Ring of Understanding",
+			"source": "SSSOP",
+			"page": 277,
+			"reqAttune": true,
+			"rarity": "rare",
+			"type": "RG",
+			"entries": [
+				"This white coral ring gives the gift of deeper knowledge of secret matters. While attuned to this ring, you have advantage on Intelligence (Arcana, History, and Nature) checks, and can understand any language that you hear spoken for at least 10 minutes."
+			]
+		},
+		{
+			"name": "Rockturner",
+			"source": "SSSOP",
+			"page": 278,
+			"reqAttune": false,
+			"rarity": "uncommon",
+			"wondrous": true,
+			"entries": [
+				"This diamond-shaped tool bears an old enchantment from deep within the Quakewaste. As an action, you can touch it to a stone object of Medium size or smaller, or a section of stone no more than 5 feet in any dimension, and command it to form into any shape that suits your purpose, such as a doorway, weapon, or container. The shape cannot have fine mechanical detail.",
+				"Over the course of 24 hours, as long as the Rockturner is touching the stone, the stone slowly shifts into your commanded shape. If the Rockturner ceases touching the stone, the effect ends, and the stone remains in the shape it was when it lost contact with the Rockturner."
+			]
+		},
+		{
+			"name": "Remorhaz Armor",
+			"source": "SSSOP",
+			"page": 278,
+			"reqAttune": true,
+			"rarity": "rare",
+			"armor": true,
+			"entries": [
+				"This chitinous armor is made from the plates and spines of the remorhaz. While wearing this armor, you have resistance to cold damage. When a creature touches you or hits you with an unarmed strike or natural weapon, you can use your reaction to sear the creature with the innate heat of the remorhaz's plates, dealing 1d6 fire damage."
+			]
+		},
+		{
+			"name": "Rumbleglow Paint",
+			"source": "SSSOP",
+			"page": 278,
+			"reqAttune": false,
+			"rarity": "common",
+			"wondrous": true,
+			"entries": [
+				"Typically found in a clay pot (weighing 1 pound in total), this drab paint has a gooey consistency and a gray-brown color that blends in with most rocks, wood, and earth. Each pot of paint is sufficient to cover 1,000 square feet of a surface, and it takes 10 minutes to cover 100 square feet with paint.",
+				"Once dry, the paint glows in response to vibration. Faint sounds and tremors cause it to shed dim light for 5 feet, with louder sounds or stronger tremors causing the light to glow brighter. The color of the light alters with the pitch of the vibration, with low-pitched sounds causing cool-colored light such as blues, purples, and greens, and high-pitched sounds causing warm-colored light such as reds, oranges, and yellows, with shrill noises causing the paint to glow white."
+			]
+		},
+		{
+			"name": "Scimitar of the Dancer",
+			"source": "SSSOP",
+			"page": 278,
+			"reqAttune": true,
+			"rarity": "uncommon",
+			"weapon": true,
+			"weaponCategory": "martial",
+			"type": "M",
+			"entries": [
+				"This elegant weapon grants its wielder preternatural grace. While attuned to the Scimitar of the Dancer, you have advantage on Dexterity saving throws, Dexterity (Acrobatics) checks and Charisma (Performance) checks to dance."
+			]
+		},
+		{
+			"name": "Scouting Hoop",
+			"source": "SSSOP",
+			"page": 279,
+			"reqAttune": false,
+			"rarity": "common",
+			"wondrous": true,
+			"entries": [
+				"This magical hoop of small bones and leather straps offers a simple enchantment. Objects and creatures viewed through this hoop are magnified to twice their size."
+			]
+		},
+		{
+			"name": "Nightwatch Scouting Hoop",
+			"source": "SSSOP",
+			"page": 279,
+			"reqAttune": false,
+			"rarity": "uncommon",
+			"wondrous": true,
+			"entries": [
+				"Objects and creatures viewed through this enchanted hoop are magnified to twice their size. Additionally, when looking through this hoop, you can see with darkvision."
+			]
+		},
+		{
+			"name": "Shield-Axe of Ush",
+			"source": "SSSOP",
+			"page": 279,
+			"reqAttune": false,
+			"rarity": "rare",
+			"armor": true,
+			"entries": [
+				"This heavy bone shield is formed of the skull of a powerful dinosaur, and marked with divine enchantment. While wearing the shield, you can use a bonus action to strike it, causing it to transform into a bone greataxe with a brief burst of ivory-colored smoke. You can also use a bonus action to strike the greataxe, transforming it back into a shield, which you instantly don without using an action."
+			]
+		},
+		{
+			"name": "Sickle of Sacrifice",
+			"source": "SSSOP",
+			"page": 279,
+			"reqAttune": false,
+			"rarity": "very rare",
+			"weapon": true,
+			"weaponCategory": "martial",
+			"type": "M",
+			"entries": [
+				"This necromantic blade is a tool of dark spellskins, and features strange marks and carvings along its curved blade. If you target a humanoid who has at least one hand for an attack with this sickle and roll a critical hit, in addition to dealing damage, you sever one of the target's hands of your choosing. The severed hand immediately reanimates as a Crawling Claw, which acts on your initiative and obeys your commands.",
+				"If the hand was holding an item or bore a magic ring that the target was attuned to, the item is dropped and the attunement is broken."
+			]
+		},
+		{
+			"name": "Speaker's Tongue",
+			"source": "SSSOP",
+			"page": 279,
+			"reqAttune": false,
+			"rarity": "common",
+			"wondrous": true,
+			"entries": [
+				"This small chalk token is the size and shape of a human tongue. Crushing the token activates a stored enchantment in the chalk. For one minute, you can be understood by all creatures who know at least one language, as if you were speaking in the language with which they are most familiar. You hear yourself speaking in your own language."
+			]
+		},
+		{
+			"name": "Starcouncil Diadem",
+			"source": "SSSOP",
+			"page": 279,
+			"reqAttune": false,
+			"rarity": "very rare",
+			"wondrous": true,
+			"entries": [
+				"This gleaming circlet is fashioned of glittering gems inset on an ivory lattice. While wearing the Starcouncil Diadem, you can cast contact other plane without expending a spell slot. You cannot use the diadem to cast this spell again until the next dawn."
+			]
+		},
+		{
+			"name": "Stonearrow",
+			"source": "SSSOP",
+			"page": 278,
+			"reqAttune": false,
+			"rarity": "rare",
+			"weapon": true,
+			"weaponCategory": null,
+			"type": "R",
+			"entries": [
+				"This terrible arrow of the Stone Empire is feared by all, transforming into a hurtling boulder in mid-flight. When you use a bow to hit on a ranged attack with this arrow, deal 4d10 bludgeoning damage. The target must make a DC 17 Strength saving throw or be knocked prone. Creatures within a 10-foot radius of the target must make a DC 10 Strength saving throw. On a failure, they take the same damage and are knocked prone. On a success, they take half damage."
+			]
+		},
+		{
+			"name": "Stonebow",
+			"source": "SSSOP",
+			"page": 278,
+			"reqAttune": false,
+			"rarity": "uncommon",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"type": "R",
+			"entries": [
+				"This enchanted bow fires arrows that transform into large stones in midair. When you hit on a ranged attack with this bow, the target takes 1d10 bludgeoning damage and must succeed on a DC 11 Strength saving throw or be knocked prone."
+			]
+		},
+		{
+			"name": "Sunglobe",
+			"source": "SSSOP",
+			"page": 278,
+			"reqAttune": false,
+			"rarity": "uncommon",
+			"wondrous": true,
+			"entries": [
+				"Upon uttering a command word, this small ivory sphere will levitate 6 feet into the air and emanate light similar to a daylight spell for 1 hour. Unlike a normal daylight spell, the light from the sunglobe is equivalent to sunlight. If the sunglobe is moved, it both the light and levitation effects immediately end.",
+				"Once it has been used, the sunglobe cannot be used again until the next dawn.",
+				"These orbs are often used by cave-dwelling or dungeon-exploring dreas who require daily sunlight for their photosynthesis. They can also be effective against vampires and other creatures sensitive to sunlight."
+			]
+		},
+		{
+			"name": "Threehorn Halberd",
+			"source": "SSSOP",
+			"page": 278,
+			"reqAttune": false,
+			"rarity": "rare",
+			"weapon": true,
+			"weaponCategory": "martial",
+			"type": "M",
+			"entries": [
+				"This halberd was made by giants from the sliced skull of a triceratops. You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you deal damage using this halberd, you can release a bellow from the bone that targets the damaged creature. The target must make a DC 13 Constitution saving throw or be incapacitated until the start of its next turn.",
+				"Additionally, you can use the halberd to parry. As a reaction, when you would take damage from a melee attack, you can increase your AC by 1."
+			]
+		},
+		{
+			"name": "Victory's Cost",
+			"source": "SSSOP",
+			"page": 279,
+			"reqAttune": true,
+			"rarity": "legendary",
+			"wondrous": true,
+			"entries": [
+				"This charred crown of bone and fang commands the attention of those viewing it, and seems to burn with an inner flame. When summoned, the living flame from the crown forms a writhing blade of immolation that hungrily burns at any that draw near. While attuned to this item, you can use a bonus action to speak a command word and cause a living flame that functions as a magical longsword to appear in your hands. You are considered proficient with the sword, and gain a +3 to attack and damage rolls made with this weapon. It has the finesse and light properties, and deals fire damage instead of slashing damage. You can dismiss the sword with a bonus action.",
+				"Whenever you use the sword to hit a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 1d10 fire damage at the start of each of its turns.",
+				"While the blade persists, you are the center of an immolation that burns those around you. When a creature starts their turn within 10 feet of you, or enters that space for the first time on a turn, they take 2d6 fire damage. You are affected by this aura.",
+				"The fire damage caused by this sword ignores resistance to fire damage, and treats immunity to fire damage as resistance.",
+				"Curse. This crown is cursed, and becoming attuned to it extends the curse to you. Until the curse is broken with remove curse or similar magic, you are unwilling to part with the crown, keeping it within reach at all times. In addition, the flaming sword demands to be fed. Once summoned, it cannot be dismissed until damage dealt by the sword brings a creature to 0 hit points."
+			]
+		},
+		{
+			"name": "Wand of Radiance",
+			"source": "SSSOP",
+			"page": 279,
+			"reqAttune": false,
+			"rarity": "uncommon",
+			"type": "WD",
+			"entries": [
+				"This short wand is made of a smooth material like the shell of a turtle. The wand has 6 charges. As an action, you can spend a charge to make a ranged spell attack against a target you can see within 120 feet. Before you make an attack with this wand, you can determine whether or not any damage dealt is nonlethal. On a hit, deal 2d10 radiant damage. If you roll a 1 on an attack roll with the wand, it emits smoke and bright sparks and cannot be used again until repaired with magic such as mending.",
+				"The wand regains all expended charges daily at dawn."
+			]
+		},
+		{
+			"name": "Well of Entrapment",
+			"source": "SSSOP",
+			"page": 280,
+			"reqAttune": false,
+			"rarity": "uncommon",
+			"wondrous": true,
+			"entries": [
+				"This large enchanted stone is a flat square 5 feet across and 6 inches thick, which weighs 200 pounds. You can use an action to place the well of entrapment flat on the ground, whereupon the well of entrapment creates an extradimensional hole 15 feet deep. The space within the hole exists on a different plane, so it can't be used to open passages. The stone can be lifted to reveal the hole, which remains as long as the stone keeps at least one edge or corner touching the ground. If the stone loses contact with the ground, all creatures or objects within the hole remain in the extradimensional hole with no exit, and begin to suffocate within 10 minutes.",
+				"The floor of the hole is covered in a half inch of cold saltwater, and the sides of the hole are covered in slick spikes made of shell fragments. A creature attempting to climb must make a DC 18 Dexterity or Strength (Athletics) check. On a failure, they take 1d6 slashing damage and fall prone. On a success, they take half damage.",
+				"The top of the hole is magically weighted, and cannot be opened from the inside without a DC 25 Strength check or magic capable of lifting 2,000 pounds."
+			]
+		},
+		{
+			"name": "Whip of Bosa",
+			"source": "SSSOP",
+			"page": 280,
+			"reqAttune": false,
+			"rarity": "legendary",
+			"weapon": true,
+			"weaponCategory": "martial",
+			"type": "M",
+			"entries": [
+				"This efreeti weapon was once lost in the ruined giant city of Bosa. The long black thong of the whip crackles with flame. You have a +2 bonus to attack and damage rolls made with this weapon, which has a reach of 30 feet and deals 4d6 fire damage on a hit. When you hit a creature with the whip of Bosa, if another creature is within 30 feet of the target, you may make an attack roll against them, using the whip. If that attack hits, you may target another creature within 30 feet, and so on, continuing until you miss a target. You cannot target the same creature more than once in a single attack with the whip of Bosa."
+			]
+		},
+		{
+			"name": "Whispershell",
+			"source": "SSSOP",
+			"page": 280,
+			"reqAttune": false,
+			"rarity": "common",
+			"wondrous": true,
+			"entries": [
+				"This smooth green shell was once the home of a fey sea creature, and can be used to leave messages. When someone puts their mouth to the shell's opening, any message they speak up to 1 minute in length will be remembered by the shell. When they or anyone else holds the shell to their ear, they can hear the last message spoken into it."
+			]
+		},
+		{
+			"name": "Wolfskull Hood",
+			"source": "SSSOP",
+			"page": 280,
+			"reqAttune": false,
+			"rarity": "rare",
+			"armor": true,
+			"entries": [
+				"This hood, fashioned from the enchanted skull of a wolf, was worn by the Pack, a secretive band of giant-hunters from the Fields of Fargone. While wearing this hood, you have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated. Additionally, you have advantage on Wisdom (Perception) checks that rely on hearing or smell."
+			]
+		},
+		{
+			"name": "Writhing Flail",
+			"source": "SSSOP",
+			"page": 280,
+			"reqAttune": false,
+			"rarity": "very rare",
+			"weapon": true,
+			"weaponCategory": "martial",
+			"type": "M",
+			"entries": [
+				"This flail was originally recovered from a vault of aberrations, and features 8 short rubbery tendrils with hooks and barbs at the end. The tendrils writhe slightly when the flail is touched.",
+				"When you hit a creature with the writhing flail, instead of doing damage, you can choose to attempt to grapple the creature using the flail's Dexterity bonus, which is +1. If the flail successfully grapples the creature, it wraps its tendrils around the creature's head. The creature is blinded and cannot breathe while grappled by the flail. While grappling a creature in this way, the writhing flail cannot be used to attack another creature.",
+				"If the flail has a creature grappled at the start of your turn, it will attempt to extract the creature's brain. The creature must make a DC 13 Constitution saving throw or take 2d10 piercing damage. If this damage reduces the creature's health to 0, the flail extracts the creature's brain (if any), and releases the grapple."
 			]
 		}
 	]
