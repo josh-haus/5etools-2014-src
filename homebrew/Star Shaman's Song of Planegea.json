@@ -12370,6 +12370,662 @@
 													]
 												}
 											]
+										},
+										{
+											"type": "entries",
+											"name": "Afternoon",
+											"entries": [
+												"The afternoon is a subdued time at the clanfire, when most of the clan is hard at work at various tasks elsewhere.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Crafting.",
+															"entry": "The work of crafters continues throughout the day, and they are most likely to be found by the clanfire circle, heating their materials over its coals as needed."
+														},
+														{
+															"type": "item",
+															"name": "Talk.",
+															"entry": "Talk around the clanfire in the afternoon is scattered and infrequent, with most absorbed in their work. Infrequently, energetic debates will break out between the various crafters at work there, often on esoteric matters."
+														},
+														{
+															"type": "item",
+															"name": "Cooking.",
+															"entry": "Although other hearths are typically used for various needs throughout the day, some cooking takes place on the clanfire in the afternoon. Usually this is done by individuals heating their own food, but occasionally the evening meal will need extra preparation time and a large group will use the clanfire for that purpose."
+														},
+														{
+															"type": "item",
+															"name": "Lessons.",
+															"entry": "Some shamans and elders prefer to use the afternoon hours to instruct the younger members of the clan in the ways of the local gods and the traditions of the tribe. Often the children of the clan will gather to be instructed for a few hours before evening settles, allowing their caretakers to rest and the clan's lore to be passed down where everyone can listen in and be reminded of the essential truths the clan clings to."
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Evening",
+											"entries": [
+												"As darkness falls, the most important hour of the clanfire approaches. Early evening is the time of the shared clan meal, the time of magic and ritual, stories and ceremonies. It is at this time that the clanfire burns highest and hottest, as the hunters and gatherers convene around its heat and light as a ward against the darkness and proof that they are still alive for one more day.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Preparation.",
+															"entry": "As the shadows lengthen and the Day-Star tires and wanes, those skilled in preparing food stoke the clanfire, heating the shared meal. Large pots are set boiling, baskets of gathered goods are dragged to the clanfire's side, and meat is roasted. All is made ready."
+														},
+														{
+															"type": "item",
+															"name": "Star rise.",
+															"entry": "In Planegea, the stars don't appear in the sky—they shoot up from the horizon in sparkling fountains, rising from the Sea of Stars to swirl overhead once again in moving constellations. Star-rise is the signal for all members of the clan to gather at the fire."
+														},
+														{
+															"type": "item",
+															"name": "Gathering.",
+															"entry": "As the clan assembles, the characters have an opportunity to encounter almost anyone from the clan. Higher-status NPCs are seated closer to the fire, with the shaman and chieftain taking seats of greatest influence, surrounded by elders and other notables. Further back are the average clan members, and far from the light are the low-status members such as strangers and those being shamed for wrongdoing."
+														},
+														{
+															"type": "item",
+															"name": "Meal.",
+															"entry": "The meal is served in order of status, and can vary greatly in quantity and quality, depending on the bounty of the land and the skill of those working with the food. Salt is measured out by the chieftain, or a hand-picked surrogate, according to each member's contribution to the clan."
+														},
+														{
+															"type": "item",
+															"name": "Ceremonies.",
+															"entry": "As soon as the meal has been distributed, the evening's ceremonies begin. These can be prayers to the local god, weddings, exilings, namings, legal judgments—all the public life of the clan is conducted at this moment."
+														},
+														{
+															"type": "item",
+															"name": "Magic.",
+															"entry": "After the ceremonies, if the shaman has the strength and the clan has need, clan magic is wrought. The clanfire ceremony takes an hour to conduct, after which spells can be cast according to the shaman's power (see Clan Magic, p. 22). Each member who participates in the ceremony can be a conduit to cast the spells, and for that reason, the participants are carefully picked by the shaman as those worthy of trust and power."
+														},
+														{
+															"type": "item",
+															"name": "Talk.",
+															"entry": "Once the ceremonies and magic are completed, most clans relax, and conversation bubbles up throughout the gathered members. With the whole clan united, talk can range from jovial banter to bitter arguments to whispered secrets—if there's an interaction to be observed, it's probably happening somewhere in the firelight."
+														},
+														{
+															"type": "item",
+															"name": "Stories.",
+															"entry": "Depending on the clan and the night, those closest to the fire may begin to tell stories. If a chanter is present, they can usually keep a clan rapt with tales of the stars and the wide world. But without a chanter, it's usually elders or the young who share stories, and only to those who are nearby. Still, tales told by the clanfire often have more than a seed of truth, and wise characters will keep an ear pricked for stories that might lead to adventures greater than even the storyteller can imagine."
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Night",
+											"entries": [
+												"After the meal, ceremonies, talk, and stories, most of the clan retires to their dwellings. But for those who linger by the firelight, the storytelling and talk continues long into the night, growing quieter as the hours pass.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Talk.",
+															"entry": "Secrets are shared long after most have turned in, and confessions happen in the dark hours between those who keep vigil. Those up late are kept awake by fears or hopes or doubts, and often they seek someone to share them with."
+														},
+														{
+															"type": "item",
+															"name": "Watches.",
+															"entry": "Most clans set watches at their perimeter, and the sentries passing to or from their watches will stop by the clanfire to converse as they awake or head in to their night's rest. Characters can learn a little about what's been glimpsed in the darkness if they catch a passing sentry."
+														},
+														{
+															"type": "item",
+															"name": "Dawn Duel.",
+															"entry": "As the night ends, the stars overhead swirl faster, starting to spin in the ancient rite of the dawn duel. Bobbing and feinting, they rush at each other, knocking themselves out of the sky and plummeting out of sight beyond the horizon. The stars that triumph in these duels grow brighter until at last only one star remains—the Day-Star. Having claimed its victory, it begins its parade from east to west across the sky. And as the shadows wobble and weave from the spinning light of the duel, the clan arises and begins its day."
+														},
+														{
+															"type": "item",
+															"name": "Gathering.",
+															"entry": "With the Day-Star's victory, morning has begun, and the clan begins to gather once more for another meal. One by one, clan members emerge from their dwellings, bringing individual portions of food to the clanfire, where they'll heat them at the edge of the coals, warming themselves for a new day."
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "inset",
+									"name": "Dousing Raids",
+									"entries": [
+										"One of the most profound insults a clan can suffer is to have their clanfire doused by a rival clan. Since the clanfire represents the clan's life, a dousing raid is seen as the equivalent of killing every single member of the clan in an instant. Dousing raids, successful or not, often instigate violent inter-clan wars and blood feuds.",
+										"Dousing raids usually take place late at night, when the clanfire is burning low. Typically, they are set up as an ambush, with the raiding party sneaking up on any sentries posted by the clan. Then, with a sudden rush, often accompanied by a commotion to cause alarm and distraction, a band of water-carriers or spellcasters will rush in and seek to douse the flame. Such attacks often come with casualties, especially if the fire is not immediately drenched, as dousing parties often need to remain at the fire for a matter of a minute or more to try to extinguish all the coals. These minutes can be costly, as the enraged clan rallies around to defend their life symbol at all costs.",
+										"Still, such dangers are worth it to young hunters seeking to prove themselves. To successfully accomplish a dousing raid is to win prestige and renown among your own people… as long as the clan is prepared for the deadly repercussions to follow."
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Clan Travel",
+							"entries": [
+								"When resources run low, when winter draws near, or when morale drops, it's time to move on from one encampment to the next. Travel is a natural part of clan life in Planegea, and although it comes with its own challenges, it's a crucial survival strategy in an ever-changing, ever-hungry world.",
+								{
+									"type": "entries",
+									"name": "Seasonal Travel",
+									"entries": [
+										"There are different reasons to keep moving at different times of year, depending on where a clan might dwell and what resources are nearby.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Winter.",
+													"entry": "Winter is a time of constant small relocations, shifting only a day's walk at a time every few days, as the scant resources in each area are quickly consumed. During winter, clans barely take time to dig into their encampments, staying light on the surface of the earth, trying to keep a few feet ahead of starvation. It is the season of the chieftain, when the whole clan looks to their physical leader to issue direction that means the difference between life and death."
+												},
+												{
+													"type": "item",
+													"name": "Spring.",
+													"entry": "Spring is a joyful time, when plenty returns to the world—from here on out, resources will only increase for many months. Spring is the season of the gatherer, who knows where to find every green thing as it grows. When the herd animals move north, clans use the spring to migrate towards their preferred encampment sites, often traveling to ancestral places where longstanding structures, traditions, and gods await them."
+												},
+												{
+													"type": "item",
+													"name": "Summer.",
+													"entry": "In summer, a clan hardly needs to move at all. This is a productive season, when a clan can focus on making tools, weapons, love, and war, rather than rushing to a new location every few weeks. Sometimes clans will travel in the summer to chase greater plenty nearby, but most clans settle down for the hot months to enjoy a brief window of stability. Summer is the season of the shaman, who can cast great magic at the threshold of the clan's favored god."
+												},
+												{
+													"type": "item",
+													"name": "Fall.",
+													"entry": "North of the Venom Abyss, autumn brings dry, cold winds that cut like a knife, while in the south, increasing snowfall waters the land and allows life to continue. Resources dwindle, and the herd animals move south, with the clans close behind. The great migration called Winterwalk takes place in the fall, as clans seek to escape the oncoming winds of winter. Fall is the season of the hunter, as great herds thunder close by, ready to be harvested."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Planning",
+									"entries": [
+										"Whenever travel looms on the horizon, from short relocations to the great seasonal migrations, there is much work to be done by the clan's leaders to choose the best route and ensure the effort is worth the expenditure of the clan's limited resources.",
+										"The first and most important thing the leaders of a clan can do is to carefully choose the destination and the way. Given the metamorphic qualities of Planegea, both may have changed since the last time a clan traveled to a place, if they have ever been there at all. Much careful study is made of a site and a route before so much as a stick is packed to travel.",
+										"If the people of a clan see the leaders shut in their dwellings, casting spells, consulting with elders, and staring out at a fixed point in the distance, it's a good guess that travel is coming soon.",
+										{
+											"type": "entries",
+											"name": "Lore",
+											"entries": [
+												"Elders, ancestors, and chanters are key in preparation, as they are the ones who remember past journeys and can advise the leaders on the best direction to travel.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Memory.",
+															"entry": "Elders are living memories, and are explicitly required to recall past journeys. Their most important work, when traveling, is to study every part of the route and help the clan recall the way. If an elder falls sick or dies, or if their memory is compromised, the entire journey is jeopardized by the loss of knowledge."
+														},
+														{
+															"type": "item",
+															"name": "History.",
+															"entry": "Chanters and the spirits of ancestors are both called upon in preparation for a journey, to shed light on the ancient ways—especially whenever a clan travels through unfamiliar land. The stories handed down or recalled by those long-dead can be of great use, even though the land is ever-changing, to help give some idea of the perils that may lie ahead."
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Waypoints",
+											"entries": [
+												"It is essential for the clan to know they are still on the right path. As they prepare, leaders will choose known landmarks to be guided by and trails to follow—knowing full well both may have shifted since the last time the clan followed them.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Landmarks.",
+															"entry": "These include mountains, great trees, stone circles, dwarvish ruins—any outstanding feature in the land can serve as a promise or a warning. Most of these change from season to season, and it requires skill to read and remember the relationships between such waypoints."
+														},
+														{
+															"type": "item",
+															"name": "Trails.",
+															"entry": "Some clans have traveled the same circuit for so long that they can follow their own footsteps, or those of the great beasts that migrate from north to south and back again, trampling the land as they go. But such trails can just as easily be misleading, and it's essential that the leaders take proper time to distinguish trustworthy paths from those that would draw the clan out into the hungry wilderness and leave them lost and vulnerable."
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Guidance",
+											"entries": [
+												"Wise leaders will also seek counsel from those around them, using mundane and magical guidance to identify the way forward.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Mortal.",
+															"entry": "Traders, allied clans, wanderers—anyone who might know of the path ahead is of great interest to the leaders of a clan about to move. Most are willing to barter generously for useful information, and hiring wanderers as guides is quite common."
+														},
+														{
+															"type": "item",
+															"name": "Divine.",
+															"entry": "Shamans ask their gods for information on the path ahead, and most can offer good intelligence on the way within their reach—provided they are willing to help the clan depart. Some selfish gods would rather misdirect their followers, causing them to wander in circles within their domain. But gods who mean their clans well and understand the mortals' need for food and fire will seek to aid them on their way, often using their magic to prophesy the way ahead, to the best of their sight."
+														},
+														{
+															"type": "item",
+															"name": "Arcane.",
+															"entry": "Sorcerers, spellskins, and warlocks are all relied on to gather what knowledge they can during this time. The wise chieftain will use every scrap of information available to them, realizing that the path is likely to change as soon as they set foot upon it. Arcane casters are also sought out to help shape the way and, if their power is great enough, divine the dangers unknowable by any mortal powers within the clan."
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Preparation",
+									"entries": [
+										"Once a clan has a good idea of its chosen direction—or if there's no time to plan—preparations can begin in earnest. There is much work to be done before setting out. Depending on the size and efficiency of a clan, these preparations can take hours, days, or even weeks.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Hunting.",
+													"entry": "Before traveling, hunters will usually embark on a special kind of hunt called a scour, where they move as a group and kill as much as they can, hauling back whatever meat they're able to carry. Scours are bold hunts, tinged with desperation, and many deaths have taken place when scouring hunters took too many risks to provide another few pounds of meat for their tribe."
+												},
+												{
+													"type": "item",
+													"name": "Gathering.",
+													"entry": "Right behind the hunters are the gatherers, who fan out from the encampment on a final pass-through of the land for any missed provisions that could serve a purpose. This practice is called gleaning, and usually turns up little in new food, but is also a chance for the clan to recover any lost items that might have been scattered near the encampment by careless members. After the gleaning, some clans have a lighthearted tradition where lost items can be bought back from the gatherers with flowers, compliments, songs, and feats of strength or acrobatics."
+												},
+												{
+													"type": "item",
+													"name": "Crafting.",
+													"entry": "It is essential before departure for a clan's tents, sledges, and other traveling gear to be in working order. While the scouring and gleaning leaves the encampment empty, the crafters are hard at work attending to every stitch and peg of the clan's things, securing everything for travel and making sure there will be no nasty surprises when tents are rebuilt on the other side of the traveling. This busy time leaves few minutes for frivolity, but crafters compete to design the most impressive torches, lamps, and fire-sledges for carrying the clanfire on the journey."
+												},
+												{
+													"type": "item",
+													"name": "Diplomacy.",
+													"entry": "Before departure, chieftains coordinate with other nearby clans and shamans converse with gods. Both seek to minimize trouble on the road ahead, forging agreements to secure help and keep out of harm's way. Some neighboring clans or gods may drive hard bargains, requiring last-minute bartering deals, errands, or quests to secure their favor. On these occasions, with precious little time to spare, chieftains and shamans turn to their most skilled people to execute the needed tasks quickly and well."
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Travel",
+									"entries": [
+										"Once the clan embarks, the act of travel itself can quickly shift from thrilling to mundane and back again, with long miles of dangerous wilderness to be crossed. The best-case scenario is a dull journey, where planning and preparation minimize incidents and ensure everything goes smoothly. But such travel is the stuff of legend. Rare indeed is the journey without trouble.",
+										{
+											"type": "entries",
+											"name": "Weight",
+											"entries": [
+												"Clans must decide when they set out whether they'll travel light, heavy, or try to strike a balance.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Light.",
+															"entry": "Traveling light allows a clan to move more quickly, set up in more sites with a smaller footprint, and hide or flee from danger more easily. However, light travel involves carrying fewer supplies, which means that if anything goes wrong on the journey, hunger and want are a very real possibility. If a clan is in a particularly hostile region and needs to move quickly, they'll usually travel light."
+														},
+														{
+															"type": "item",
+															"name": "Medium.",
+															"entry": "Medium weight is by far the preferred means of travel for most clans. While it doesn't enable them to react particularly quickly, they also avoid the risk of starvation should they be delayed on their way."
+														},
+														{
+															"type": "item",
+															"name": "Heavy.",
+															"entry": "Only a well-defended and well-provisioned clan travels with a heavy load. By stocking up on supplies and defenses, clans can ensure they won't go hungry on the way—they may even eat well—but they trade nimbleness for the ability to shelter-in-place, should trouble come. This makes them a target for predators, raiders, and other hostile forces, but is worth the danger to some chieftains."
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Speed",
+											"entries": [
+												"Even a heavily-laden clan can hurry. Fast travel means a speedier arrival, but with very real and dangerous costs to stealth and watchfulness. The pace of a clan is similar to the pace of travel written in other 5th Edition materials, with the added note that traveling too fast or too slowly can cause morale issues for a fatigued or frightened clan."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Challenges",
+											"entries": [
+												"Many dangers lie along the trail when a clan sets out. Only a few are listed here, but all are real possibilities made worse by the clan's chaos and vulnerability as it travels.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Illness & Injury.",
+															"entry": "Drinking from untested water sources, the risk of parasites, and the strain of travel all expose the clan to the dangers of illness, and sprains or broken bones are commonplace. Shamans are often busy tending to the weak and injured, while simultaneously being called upon to help guide the clan and deal with local gods."
+														},
+														{
+															"type": "item",
+															"name": "Stragglers.",
+															"entry": "Keeping the clan together is difficult, especially when members must scatter to gather and hunt if the clan stops for even a single day. Lost clan members must be found, and those who fall behind can find themselves in great danger very quickly."
+														},
+														{
+															"type": "item",
+															"name": "Weather.",
+															"entry": "Rain, snow, wind, wildfires, fog—any whim of the weather can make travel more difficult, slowing or separating the clan and turning otherwise peaceful travel into a perilous journey. Sudden, unpredicted turns in the weather are especially dangerous, and in a land as living and active as Planegea, can often be a sign of magical ill-will rather than merely random misfortune."
+														},
+														{
+															"type": "item",
+															"name": "Obstacles.",
+															"entry": "Barriers and hazards abound on the trail, such as mud or tar, volcanic activity, fallen trees, floods, hunting traps, new boundaries surrounding the domains of gods or hostile clans, lingering spell effects… any of these could impact travel, slowing the journey or forcing the clan to improvise an entirely new path, at their own peril."
+														},
+														{
+															"type": "item",
+															"name": "Competition.",
+															"entry": "When traveling, paths are narrow and resources are scarce. If another clan decides to embark at the same time, and diplomacy fails, there may be competition for the safest campsites, the best resources, even room on the path. Having another clan on the same route immediately increases tension, and conflict is not uncommon."
+														},
+														{
+															"type": "item",
+															"name": "Attack.",
+															"entry": "Every clan fears attack as they travel—whether by predators, raiders, enemy clans, or any of the unnamed monstrosities and horrors that roam the land. Most clans move with their weapons at the ready, eyes in all directions in case an assault comes."
+														},
+														{
+															"type": "item",
+															"name": "Strife.",
+															"entry": "Travel puts a strain on a clan, and if the leaders aren't careful, morale can quickly drop, causing arguments and fights to break out along the path. Such strife, if not quickly contained and extinguished, can blossom into violent conflict. Low resources, extreme danger, or losing the path can all lead to dangerous fights—especially if any young upstart considers themself a better leader than the current chieftain."
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Rest",
+									"entries": [
+										"When a clan halts travel for the day, the work is far from over. Shelter and defenses must be made or found, and intelligence gathered for the way ahead.",
+										{
+											"type": "entries",
+											"name": "Shelter",
+											"entries": [
+												"Making or finding shelter is essential to survival and successful travel, offering the clan much-needed relief from weather and the perils of the journey.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Mobile shelters.",
+															"entry": "Tents, awnings, wind-screens, roofs for lean-tos—these can be carried with the clan and quickly set up, even if the clan is only remaining for a few hours."
+														},
+														{
+															"type": "item",
+															"name": "Temporary shelters.",
+															"entry": "Some dwellings, such as pithouses, roundhouses, and slinghouses can be set up with somewhat more effort, given the right conditions and enough time to prepare. They offer more comfort and security than tents and lean-tos, if circumstances allow."
+														},
+														{
+															"type": "item",
+															"name": "Found structures.",
+															"entry": "Many routes are chosen because the leaders know of old encampments along the way. Existing pithouses, huts, and other permanent or semi-permanent structures can make all the difference to a weary clan, and some see building and maintaining such structures as a crucial tradition to ensure the survival of the clans."
+														},
+														{
+															"type": "item",
+															"name": "Natural shelters.",
+															"entry": "Caves, cliffs, thick groves of sleeping trees, and other natural defenses are prized locations, though they must be carefully inspected to ensure no dangerous occupants inhabit them."
+														},
+														{
+															"type": "item",
+															"name": "Dwarvish ruins.",
+															"entry": "Dwarves are famous for building stone villages or fortresses, then abandoning them as soon as they are constructed—once the last carving is done, a place holds no interest for the dwarvish mind. Such ruins, though they must be cleared of pests and predators, are a windfall to a traveling clan… if a little small to be perfectly comfortable for humans and other taller folk."
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Defense",
+											"entries": [
+												"Although the clan is vulnerable while traveling, it's even more perilous to go to sleep. Keeping the clan safe is of paramount importance, and most chieftains would rather have their people keep vigil all night and travel without sleep than bed down without proper defenses.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Sentries.",
+															"entry": "The first and most practical measure of defense is to post capable hunters and vigilant watchers to keep eyes out for danger. On the trail, most clans sleep in shifts, and sometimes fully half the clan remains awake for half the night, if necessary, to ensure the rest can sleep without fear of attack."
+														},
+														{
+															"type": "item",
+															"name": "Camouflage.",
+															"entry": "Through magic or craft, it's normal for clans to hide their tracks and disappear into the landscape as much as possible while traveling. Although most encampments can't be fully concealed, avoiding obvious signals such as smoking flame, loud noises, or strong scents diminishes the chances of attracting predators or scavengers."
+														},
+														{
+															"type": "item",
+															"name": "Fortifications.",
+															"entry": "From hastily-dug trenches to spiked palisade walls, from spells of alarm to glyphs of warding, clans erect magical and material fortifications to keep their people safe when resting."
+														}
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Intelligence",
+											"entries": [
+												"Gathering news of the path ahead is essential. For some, the period when the clan is at rest are the busiest hours of the day.",
+												{
+													"type": "list",
+													"style": "list-hang-notitle",
+													"items": [
+														{
+															"type": "item",
+															"name": "Scouts.",
+															"entry": "Capable individuals are sent ahead along the path, to determine forthcoming dangers and report back to the clan if the path should be altered or if special preparations must be made."
+														},
+														{
+															"type": "item",
+															"name": "Trade.",
+															"entry": "Nearby mortals encountered are bartered with for information about the landscape, from politics to divine activity to the habits and hunting grounds of beasts and monsters, with a special premium on clues that might lead to safer routes or warnings of danger in the path."
+														},
+														{
+															"type": "item",
+															"name": "Magic.",
+															"entry": "Through scrying, augury, and other spells, those able to call upon divine or arcane magic are put to work while the clan recuperates, plying their craft to discover the dangers and opportunities that lie ahead."
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Taming & Training",
+							"entries": [
+								"Many clans—especially those with a human majority—rely on a close relationship with tamed and trained animals to survive. If your players want to try to tame their own wild beast, use the following section for inspiration about the stages of the interaction… but remember to trust your instincts, as every animal is unique.",
+								{
+									"type": "entries",
+									"name": "Taming",
+									"entries": [
+										"Each animal is different, and it's up to you to determine whether a creature can be tamed at all. In general, characters can't tame a creature that's capable of language—that's not taming, it's a negotiation. The creature must also have a high enough Intelligence to understand commands. After all, some creatures are just too stupid to influence. If the characters identify a beast they would like to tame, here are some potential steps in the process:",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												{
+													"type": "item",
+													"name": "Locate the creature.",
+													"entry": "To tame a creature, characters must first study its movement and locate its den or daily routine, if any. They should try and discern the best time of day to approach it. This may require Wisdom (Survival, Insight, Perception) checks, as well as Intelligence (Nature) checks to understand the creature's habits."
+												},
+												{
+													"type": "item",
+													"name": "Stalk, trap, or lure.",
+													"entry": "If the creature is on the move, the characters will need to keep pace with it, stalking it until the moment is right to make their approach. If they know where it will be, they can attempt to trap it or lure it. Trapping requires crafting a snare, net, or cage of sufficient size and strength to withstand the creature's attempts to escape. Luring requires a large amount of its preferred food—usually bait of one size smaller than the creature will suffice. For example, if the characters were attempting to tame a Large carnivore such as a bear, they might want to use a Medium creature (such as a deer) for bait."
+												},
+												{
+													"type": "item",
+													"name": "React.",
+													"entry": "When the creature becomes aware of the characters, there are at least three typical responses—flee, rush, or charge. A fleeing creature will attempt to disengage from any combat and simply outrun its pursuers. If the characters stand in its way, it may rush them, making an attack in order to get past, but still with the intent of running. Last, a more aggressive creature may choose to stay and fight, charging the closest perceived threat and engaging in direct combat. If a creature is adequately trapped, it will do anything it can to escape, often willingly injuring itself in the process."
+												},
+												{
+													"type": "item",
+													"name": "Calm.",
+													"entry": "One of the greatest challenges of the taming process is surviving the initial response of the surprised creature. The characters must show that their intent is not to kill it. This means surviving a number of rounds of an encounter without making an attack. This number is usually equal to the creature's CR (minimum 1). During this time they may or may not be able to cast spells—it might recognize somatic behavior as a threat. They may also use skill checks such as Wisdom (Animal Handling) or Charisma (Intimidation) to show their dominant-but-peaceful intent."
+												},
+												{
+													"type": "item",
+													"name": "Approach.",
+													"entry": "Once the creature is calm, the characters can make a Wisdom (Animal Handling) check to attempt to tame it. This check can be made by an individual or as a group ability check where a majority of successful checks represents a success. The DC of this check might be affected by such factors as whether a character making the attempt offers the creature's preferred food, the status of the character (higher status might imbue the character with more confidence), the condition of the creature (an injury might make the creature more intimidated or enraged), the alignment of the creature (a lawful creature might respond better to being commanded), and so on."
+												},
+												{
+													"type": "item",
+													"name": "Tame.",
+													"entry": "If the check succeeds, move the creature on the taming track, shown below. You determine the creature's starting score, as well as whether the tamed creature responds only to a single trainer or any friendly presence."
+												}
+											]
+										},
+										{
+											"type": "table",
+											"caption": "Taming Track",
+											"colLabels": [
+												"Score",
+												"Behavior"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"–5",
+													"Hostile. Actively attacks at any opportunity."
+												],
+												[
+													"–4",
+													"Frantic. Attempts to escape at any opportunity, attacks if approached."
+												],
+												[
+													"–3",
+													"Unwilling. Attempts to escape, but will not attack unless attacked first."
+												],
+												[
+													"–2",
+													"Sullen. Does not attempt to escape or attack, will not eat if fed, will leave if not confined."
+												],
+												[
+													"–1",
+													"Passive. Does not attempt to escape or attack, will eat if fed, will leave if not confined."
+												],
+												[
+													"0",
+													"Content. Does not attempt to leave. Will eat if fed."
+												],
+												[
+													"1",
+													"Dependent. Remains with trainer unless threatened, as long as food is regularly provided. Will not respond to commands."
+												],
+												[
+													"2",
+													"Familiar. Remains with trainer unless threatened, even without food. Will not respond to commands."
+												],
+												[
+													"3",
+													"Friendly. Remains with trainer unless threatened. Responds to simple commands."
+												],
+												[
+													"4",
+													"Loyal. Remains with trainer even if threatened. Responds to simple commands. Will not attack on command."
+												],
+												[
+													"5",
+													"Faithful. Remains with trainer even if threatened. Responds to complex commands, including attack. Will not die for its trainer."
+												],
+												[
+													"6",
+													"Devoted. Remains with trainer even if threatened. Responds to complex commands, including attack. Will die for its trainer."
+												]
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Subduing",
+									"entries": [
+										"Trainers might want to subdue a creature by dealing nonlethal damage and then moving it to a secure location. Obviously, finding or constructing the enclosure will be a separate task, and this ultimately does not eliminate the need to interact with and calm the creature (although it can provide more control over the environment while doing so).",
+										"Many creatures are likely to resent being trapped, and this approach may inflict disadvantage on skill checks made to calm or interact with the creature."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Training",
+									"entries": [
+										"Teaching a tamed creature commands is a complex process dependent on many factors, such as the relationship between the creature and its trainer, the creature's Intelligence and Wisdom (Insight), and the trainer's Wisdom (Insight, Animal Handling) and Charisma (Persuasion, Performance). Each behavior must be trained one at a time, and may require multiple checks and sessions to impart to the creature."
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Adventure Environments",
+							"entries": [
+								"When imagining prehistoric fantasy adventures, one might first think of a world consisting of nothing but unspoiled tundra and wild beasts. But Planegea is as varied and ripe for exploration as any world of magic. The complex and ever-changing wilderness, ruins, dungeons, and even great cities of the primordial era all offer ideal environments for challenging and surprising adventures.",
+								"This section offers guidance on seven Planegean adventure environments: aberrant vaults, the domains of apex predators, dwarvish ruins, roving forests, passages to Nod, spellskin sanctums, and vampiric tomblands.",
+								{
+									"type": "entries",
+									"name": "Aberrant Vaults",
+									"entries": [
+										"Buried out of sight, cloaked in eternal rain and mist, or frozen on peaks too distant to reach, the vaults of aberrant creatures can be found across the length and breadth of Planegea. These eerie, deadly places are unnatural and hostile to mortal life, and better left alone. Even if avoided, however, a single vault can menace an entire region, if by some unseen inner mechanism it should become active.",
+										"Mysterious purpose. Aberrant vaults are often difficult to find, and even harder to identify. A vault might look like a curving door in a cliff face, a crevasse in the ice, or a sucking hole under a lake. Once entered, these strange places have purposes that are almost impossible to guess. Use the table here to suggest the original intent of the constructors of a vault:",
+										{
+											"type": "table",
+											"caption": "Aberrant Intent",
+											"colLabels": [
+												"d6",
+												"Aberrant Intent"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Aggrandizement. This vault was designed as a shrine, monument, or tomb. It is built to impress, and its chambers and halls are massive, featuring elaborate, disturbing statues and carvings showing the incomprehensible exploits of aberrations long-dead."
+												],
+												[
+													"2",
+													"Consumption. This vault was made to devour the land, its magic, or its inhabitants. It has chambers where matter was once converted to energy (or vice versa), and heavy equipment to process raw goods, in whatever form they were once consumed."
+												],
+												[
+													"3",
+													"Containment. This vault was meant to keep everyone out—or something in. It features heavy defenses, locked doors, and a shape that spirals inward towards a fortified center, where something extremely valuable or extremely dangerous might remain."
+												],
+												[
+													"4",
+													"Infestation. This vault was built for the purpose of infesting living creatures. It features traps with needles, oozing liquid, or floating spores, which are meant to irreversibly change an unsuspecting creature into a form more to the aberrant builders' liking."
+												],
+												[
+													"5",
+													"Domination. This vault was intended as a center of power, and houses living chambers for those who once served its all-controlling purpose. It has a grand chamber where the dominant being once dwelt, and an aura of psychic influence sways those who enter it."
+												],
+												[
+													"6",
+													"Examination. This vault was constructed to analyze the surrounding region and its inhabitants. It has pictograms and maps of the land or the mortals that it took apart, piece by piece, and many gleaming, dripping instruments by which precious knowledge can be harvested from the unwilling."
+												]
+											]
 										}
 									]
 								}
