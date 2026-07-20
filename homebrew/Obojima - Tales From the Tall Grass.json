@@ -60,7 +60,11 @@
 				{
 					"name": "Locations",
 					"headers": [
-						"The Gift of Shuritashi"
+						"The Gift of Shuritashi",
+						"The Land of Hot Water",
+						"Mount Arbora",
+						"The Gale Fields",
+						"The Brackwater Wetlands"
 					],
 					"ordinal": {
 						"type": "chapter",
@@ -1363,15 +1367,1643 @@
 										{
 											"type": "entries",
 											"entries": [
-												"{@b Reception Area.} The top tier of the ziggurat was originally designed to be a comfortable waiting room for families arriving to give birth at the hatchery. The inner wall still bears the faded and flaking remnant of a fresco featuring a Nakudama monarch with arms outstretched in a gesture of welcome. The midwives now use this chamber as their quarters and it’s where the bulk of their restoration efforts are currently taking place. At any given time there are likely three to seven midwives here."
+												"{@b Reception Area.} The top tier of the ziggurat was originally designed to be a comfortable waiting room for families arriving to give birth at the hatchery. The inner wall still bears the faded and flaking remnant of a fresco featuring a Nakudama monarch with arms outstretched in a gesture of welcome. The midwives now use this chamber as their quarters and it’s where the bulk of their restoration efforts are currently taking place. At any given time there are likely three to seven midwives here.",
+												"{@b Old Quarters.} A spiral stair leads from the top tier down to the second. This is where the midwives of old used to live. A cursory glance in this area reveals only bits of broken pottery and the occasional piece of rotting wood. A successful DC 16 Wisdom ({@skill Perception}) check reveals a secret alcove in the wall of this chamber. Within the alcove is a lever, which is one of the two needed to operate the Flood Mechanism (see above).",
+												"This tier bears the only indication that the ziggurat had been occupied at all during its long abandonment by anything other than creatures. An enclosed chamber contains a fully stocked vending machine, three derelict arcade games with anonymous cabinets, and a stack of Ava and the Allstars collected edition books. Anyone who spends at least 10 minutes searching this area finds a spell scroll containing the {@spell daylight} spell tucked into one of the books.",
+												"{@b 1st, 2nd, & 3rd Hatchery.} The three middle tiers make up the core of the ziggurat. Each space is perfectly rounded like a compressed bubble, the polar opposite of the angular exterior. This is where the Nakudama once come to hatch their eggs. Under the care of the midwives, eggs were placed in niches cut into the walls and pillars. Now, only inky water fills these vast chambers. Aquatic elementals who once served the midwives now patrol the water here.",
+												"{@b Chamber of Future Monarchs.} At the very bottom of the primary hatchery is a small but ornate enclosure. This area was kept for royal eggs, on the occasion that the monarchs desired to visit Shoom. Now, it serves as Voraro’s lair.",
+												"An alcove in the wall contains a lever. This is one of the two levers that operate the ziggurat’s flood mechanism."
 											],
 											"name": "Points of Interest"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Zolde of the Midwives (female Nakudama).} Zolde is the de facto leader of the midwives currently living in the ruins at the lakeshore. She has a broad build and a perpetual scowl on her face, though she insists, “it’s just the way my face looks.” She is gruff and leary of strangers, but is warm hearted. Before becoming a midwife, she was an adventurer in her own right, and she can still swing a sword. Zolde was not the leader when the group set out, but when Beatri went missing, the other midwives naturally looked to her.",
+												"{@b Voraro the Parasite (male Nakudama).} Voraro is an ancient Nakudama who has made the ziggurat his lair. He is a powerful warlock who remains tightly bound to his unnamed spirit patron. He is centuries old, his life sustained by dark magic. Since being sealed in the ziggurat, he has grown large and bloated, and he can no longer tolerate being outside of water. His primary focus is on finding more Nakudama for his patron to consume."
+											],
+											"name": "NPCs"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b AHA Expedition.} Dini, a Nakudama member of AHA, enlists the adventurers to accompany them to Shoom as part of their field research on the Nakudama Age. Dini is unaware of midwives’ expedition or of Voraro’s presence in the ziggurat.",
+												"{@b The Royal Egg.} While exploring Shoom, the adventurers stumble across a single Nakudama egg that had been magically preserved within the ziggurat and miraculously left uneaten by Voraro and his patron spirit. If they share their discovery with anyone, such as the midwives, word spreads across the island. When word reaches the Lionfish King, he sends his minions to capture the egg for himself so he can assert a claim on the ancient title of monarch.",
+												"{@b Spellbound.} All at once, Nakudama from across the southern portion of the Gift of Shuritashi felt compelled to leave their homes and travel to Shoom. If asked about it, the traveling Nakudama explain it as an act of spontaneity. What they don’t know is that Voraro is desperate to appease his spirit patron and has spent his powers to stretch his enthralling magic to reach Nakudama far and wide, pulling them to Shoom. Once there, Voraro plans to offer them up to be devoured by his patron spirit.",
+												"{@b Missing Midwife.} Midwife Beatri has gone missing. The other midwives are desperate to find her. They’ve searched the lakeshore and all over the top two tiers of the Ziggurat, but it’s as though she disappeared. The last anyone saw of her, she had begun clearing the second tier."
+											],
+											"name": "Adventure Hooks"
 										}
 									],
 									"name": "Temple of Shoom"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Those who are repeat visitors to the Village of Sand never see the same village more than once. Change is such a constant here that it has earned the colloquial name of “Village of Sand.” It is also why the Village of Sand is among Obojima’s wonders. The village boasts master sculptors who create the colorful sand structures that give the village its name. With few exceptions, every building is made of hardened sand using a special spell that originates from the village. Rival sculptors compete with each other to construct wildly outlandish structures that push the limits of their craft with the help of giant crabs specially trained for the task. In this fashion, the Village of Sand has seen countless versions of itself, each one a temporary work of art. The fleeting nature of the village’s look is a point of cultural pride among the residents, who even create colored sand so that their village appears in a variety of vibrant colors.",
+										{
+											"type": "inset",
+											"name": "Tone/Vibe",
+											"entries": [
+												"Buzzing with energy, wondrous, competitive, artsy"
+											]
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The history of the village predates its tradition of sand building. In fact, it started as a sacred site when a diver named Rongol pulled an enormous pearl from the ocean. When he placed it on the sand, storm clouds gathered overhead and moments later, a bolt of lightning arced down, missing the pearl by inches and striking the sand instead. A twisting tower of fulgurite rose up where the lightning touched the sand, forming a tower of glass around the pearl. Rongol became the first of the pearl’s caretakers, contemplating the pearl from within the Tower of Glass.",
+												"Even though the Village of Sand grew up around the Tower of Glass, the pearl’s acolytes prefer a mostly hermetic existence, emerging only occasionally with an omen to share with the village’s residents."
+											],
+											"name": "The Pearl of Rongol"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Fish folk raiders pose a real and constant threat to the people of Tidewater. Attacks come mostly at night, which is why sand sculptors use their magic to raise a sandy bulwark to surround the village at dusk each day, only to dissolve it at sunrise. Though large-scale raids have tapered off as a result, clever raiders continue to find ways into the village from time to time."
+											],
+											"name": "Threat from the Sea"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The other curiosity that attracts visitors to the Village of Sand is the peculiar regularity with which stuff seems to wash up on the beach here. Enormous bones from an unknown species, bits of a wrecked ship, and bottled maps are only the most recent arrivals. This detritus is so infused with the village’s identity that some residents decorate their sand-build homes with the interesting items that wash up."
+											],
+											"name": "Washing Up on Shore"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Vorian, Apprentice Sand Sculptor (male elf).} The young elf is humble, shy, unsure of himself, and a perpetual mumbler–everything their mentor, the Great Ferek, is not, including being a gifted sand sculptor. Vorian is the true genius, and it’s been by his attention to detail and diligence that Ferek has come to enjoy his celebrity. Vorian has no interest in self-aggrandizement, preferring instead to continue his efforts to turn sand into works of art. When he’s not running about the village on errands for his mentor, Vorian can often be found sitting outside, scribbling in his vast sketchbook spread across his lap. Vorian uses the {@creature commoner|mm} stat block.",
+												"{@b Ulmat, The Pearl's Omenspeaker (female dara).} This dara is easily the tallest person in the village and possibly in the whole of the Gift of Shuritashi region. It falls to her to declare the omens she gleans from the pearl. Her voice carries with it an otherworldly quality that everything she says sounds like a dire omen, even when she’s engaged in simple chitchat. She is the only acolyte who leaves the Tower of Glass with any regularity, and she can be spotted strolling in the sculpture park, admiring the latest iterations. Most folks give Ulmat a wide berth, but she delights in conversation, especially about art.",
+												"{@b Gritty Groff, The Sand Witch (female human).} A strange and solitary witch who lives on the outskirts of the village, Gritty Groff prefers the company of her two giant sand fleas, Fleck and Speck. She has an abundance of knowledge about the Shallows, and it’s even rumored that she once served as advisor to the Lionfish King. It’s not true, of course, but it keeps most folks out of her way. Despite her antisocial nature, she remains near Tidewater because she believes it’s her responsibility to protect the pearl housed in the Tower of Glass for reasons that are her own.",
+												"Gritty Groff is hard to locate at any given moment, for she lives in a mound of sand that migrates around the area. The interior of her mound remains solid and constant, even as it moves about the beach.",
+												"{@b Beachcomber Kids (humans).} Kenta, Kaz, and Kersh are three kids who live on their own on the outskirts of the village, making a living by combing the beach for valuable miscellany that washes up on shore and selling them to AHA or at the market in the village. When times are lean, they’re not above pickpocketing. They have a small stash of treasure in their lair—a ship buried in the sand.",
+												"Kersh, the oldest kid, is a warlock who struck a bargain with a sea spirit. He carries a globe of glass in a mesh of rope at his hip, which contains the pufferfish spirit.",
+												{
+													"type": "inset",
+													"name": "Faction Presence",
+													"entries": [
+														"AHA maintains a semi-permanent encampment on the beach so its members can monitor the stuff-on-shore phenomenon and catalog the items.",
+														"The Courier Brigade maintains a small outpost made of sand, though the resident courier prefers to sleep in a tent behind the modest building.",
+														"The Tall Hats witch coven passes through Tidewater from time to time, but they don’t have any permanent presence here. Gritty Groff, the sand witch, is unaffiliated with any coven."
+													]
+												}
+											],
+											"name": "NPCs"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Tower of Pearl and Glass.} At the center of the village stands its original marvel—the tall fulgurite tower that holds the Pearl of Rongol. The tower’s twisting form juts from the beach at an angle, looking like it’s going to topple at any moment. Several branches splay out from the main structure, giving the tower a silhouette that resembles a deer’s antler. At its highest point, it looms thirty feet above the sand.",
+												"Within the tower, acolytes, using the technique of sand sculpting, cut a network of chambers and tunnels that branch from the original chamber of the pearl, which formed when the tower first rose up around it. Though the tower leans, it can be described as having three levels. The bottom level contains the Chamber of Audience, a circular room with seating arranged around the edge. It’s where people can come listen to the omenspeaker share what they have seen in the pearl. A tunnel leads from the Chamber of Audience to the acolytes’ quarters. These are modest lodgings, for the tower’s three acolytes. Another tunnel leads up to the Vault of the Pearl. Though it was formed naturally, the vault is a perfect three-sided pyramid. The pearl is kept here on a bed of sand. Only acolytes are allowed here.",
+												"The four acolytes of the tower are:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Ulmat the Omenspeaker—See NPCs above.",
+														"Harraga (nonbinary human)—They are a blind healer with a serious sweet tooth.",
+														"Eol (male human)—He is burly and bald, and he frets constantly about the cleanliness of the tower.",
+														"Kem (female Nakudama)—She is loud and friendly, and she is accompanied by a tiny black cat spirit named Boog."
+													]
+												},
+												"{@b Sculpture Park.} The Tower of Pearl and Glass leans out over the village’s sculpture garden, where sand sculptors make marvelous works of art. The sculptures here depict dramatic scenes from Obojiman myths and legends, or are sprawling abstract displays meant to show off the artist’s mastery. There’s a spirit who lurks in the sculpture park who likes to animate the sculptures to scare passersby.",
+												"The sculptures are not meant to be permanent fixtures. Like the village itself, the sculptures constantly rotate as artists are struck by new inspiration. When a sculpture is gone, it’s gone for good.",
+												"One corner of the Sculpture Park is reserved for Little Obojima, a map of the island made entirely of sand.",
+												"{@b Crab Caves.} Tidewater’s beach is nestled in a cove hemmed in by a crescent cliff that rises sharply from the sand. The base of the cliff is dotted with caves, some of which lead down to a waterlogged den of giant crabs. The crabs have been domesticated by the villagers, though those who don’t know the nuances of dealing with crabs might still run afoul of their generally irritable disposition. From time to time, adventurers are called upon to drive out monsters and scavengers who’ve made lairs in the caves."
+											],
+											"name": "Points of Interest"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Stolen Pearl.} The adventurers awake to hubbub in the center of Tidewater, where acolytes declare in ominous tones that the Pearl of Rongol has gone missing. The only clue is the large puddle in the inner sanctum, where the pearl had been kept.",
+												"{@b Trouble with Fleas.} A sand sculpting contest is disrupted by the burrowing of giant sand fleas. But it only happens when certain sculptors are demonstrating their skill. Is it a coincidence? Is it sabotage?",
+												"{@b Kidnapped by Fish Folk.} Three fishermen had gone out on water early in the morning, but only one returned. He was found unconscious in his boat, which had run aground near the shore. The rudder showed bite marks. When he regained consciousness, the fisherman revealed they were attacked by fishfolk. The last thing he remembered before being knocked out was seeing his comrades dragged overboard and down to the Shallows. He’s not sure how he survived.",
+												"{@b Washed Up.} As the adventurers walk the beach, they come across a pair of seagulls fighting over a corked, green glass bottle. The birds screech and fly off at the adventurers’ approach, leaving the bottle resting on a bed of seaweed. Within the bottle is a map to a rare ingredient of your choice. See page 215 for more information about rare ingredients."
+											],
+											"name": "Adventure Hooks"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b The Pearl is a Beacon.} Most villagers agree that the Pearl of Rongol can offer glimpses of coming events. But some speculate that the pearl is also a beacon. According to the legend, the pearl is calling out to something in the depths of the ocean. Versions of the legend differ on whether or not that something is benevolent.",
+												"{@b Gift Giving Spirits.} Some claim that the regularity with which bits and bobs show up on Tidewater’s beaches is due to coy water spirits who drag gifts onto the sand at night. More than one late night beach walker has attested to hearing burbling giggles and chatter in the surf, but no one has seen anything more than the waves lapping at the sand."
+											],
+											"name": "Legends"
+										}
+									],
+									"name": "Tidewater (The Village of Sand)"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Superimposed over an abandoned dockside fish market, is Uluwa, a bustling Spirit Realm town that attracts spirits of all varieties who come to trade, gossip, and enjoy the revelry offered here. It is also a frequently used crossing for folk from the Physical Realm to pass into the Spirit Realm, and it’s not uncommon to see them wandering wide-eyed through Uluwa’s labyrinthine streets.",
+										{
+											"type": "inset",
+											"name": "Tone/Vibe",
+											"entries": [
+												"Strange, Magical, Over the Top, Exciting"
+											]
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Uluwa’s reputation is known to those who get specialty ingredients—especially spirit fish, which have a certain umami flavor that is literally out of this world. It is also known as a place where fun is to be had, as the Master of Ceremonies is constantly inventing all kinds of events to keep the clients pouring in, whether they be restaurateurs, epicureans, or those who are simply seeking a fun, unique experience.",
+												{
+													"type": "entries",
+													"entries": [
+														"Physical beings who wish to enter Uluwa must be invited by a spirit or come by way of the Wandering Line or by the ferry crossing. For the train or the ferry, adventurers must obtain a special ticket that allows them to pass into the Spirit Realm."
+													],
+													"name": "Entering Uluwa"
+												}
+											],
+											"name": "Reputation"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Once in Uluwa, adventurers are met with a riot of color, movement, scents, and sounds. It is mainly a fish market, with all kinds of spirit fish floating in schools overhead and through the alleys of the market. Schools of fish swim through the air as merchants and vendors call out their wares and try to pull adventurers into their stalls to sample their tasty delights. The Master of Ceremonies is always about, advertising the latest specials and eagerly showing visitors around and giving them the grand tour of the market (of which they are terribly proud).",
+												"There is no rhyme or reason to the layout of Uluwa, which sprawls out from the original central market square. The square is surrounded by stalls, some of which are multiple stories tall, with stalls stacked atop one another. Streets and alleyways branch out from here, zig zagging between smaller squares, each one its own hub of commerce. The town’s main street leads from the central square down to the Bobbing Boat Market, where small fishing boats are lashed together—some of which are colorfully lit and serve as floating stalls to sell even more wares.",
+												{
+													"type": "inset",
+													"name": "Overwhelming Atmosphere",
+													"entries": [
+														"Uluwa is a colorful, bustling place where a hundred different things always seem to be happening at once, and vendors all want passersby to sample their wares—”the finest in market!” As GM, communicating Uluwa’s over-the-top atmosphere will help sell this location’s unique identity, where folk from the Physical Realm will likely feel overwhelmed by the frantic pace the market seems to move at all the time.",
+														"In the game, Uluwa is a great way to showcase the Spirit Realm as wondrous and fantastical, even when compared to the Physical Realm of Obojima, which is itself, a magical place."
+													]
+												}
+											],
+											"name": "Manic Market Maze"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Master of Ceremonies (spirit).} Those who visit Uluwa are sure to encounter the Master of Ceremonies, a tall, gangly, dancing spirit with a warm, expressive face punctuated by cartoonishly large eyebrows manicured to immaculate points. He appears almost human-like, but his movements and gesticulations have an uncanny, fluid quality that hints at his boneless form. When the need arises, like when he has to help multiple guests at once, he has been known to part with his shadow and send it on errands.",
+												"He revels in his role as Uluwa’s welcome committee, and he never sleeps. He fits right in with the general hubbub of the market, and his voice can be heard booming out over the din to announce the day’s catch at the Bobbing Boat Market or to summon guests to, “Marvel at the fish paste masters and their mighty mashers!”",
+												"{@b Emille the Busker (male dara).} Emille is a busker who can usually be found on a street corner or on a rooftop somewhere in Ulawa playing his one-of-a-kind stringed instrument known as a pluckerine. The music he plays matches the mood of his surroundings, but whether he plays to the mood or sets it is not entirely known, such is the enchanting quality of his craft. Emille came to Uluwa looking for a music teacher, but his search carried him deep into the Spirit Realm where he bound himself to a spirit in exchange for musical talent. When he returned to Uluwa, it was with his pluckerine in hand and unmatched skill to play it. Though Emille is a relative newcomer to Uluwa, he is already a fixture. Unknown to most, his playing is a compulsion that is a consequence of the pact he made with his spirit patron. He is a melancholic figure who accepts his fate. He is an excellent source of information, and he can also be hired to play his magical tunes.",
+												"{@b Throth With Eyes Everywhere (spirit).} The market’s constable is also one of the more bizarre residents of Uluwa. Throth is a collective spirit entity made up of dozens of floating eyes that spread out throughout streets to monitor for thieves and other ruffians. Despite its name, Throth does not, in fact, have eyes everywhere, but it’s fine having folks believe it to be true. When one of Throth’s eyes spots a violation, it turns skyward and emits a powerful beam of light, alerting Uluwa’s guards.",
+												"{@b Humble Utzu (spirit).} This tiny spirit with a head surrounded in magical black flame is one of Uluwa’s greatest smugglers and con artists. Utzu lives by the axiom that everything and everyone has a price, which means opportunity is around every corner. The diminutive spirit knows how to get just about anything, and if he doesn’t know, he likely knows someone who does. Utzu refers to itself in the third person, always as “humble Utzu.” Finding Utzu is no easy thing, though the spirit spends most of its time in the Plaza of Lanterns."
+											],
+											"name": "NPCs"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Below is a list of vendors you could include at the market.",
+												"{@b The Four Orbles.} These small, identical, human-like spirits are all-business fishmongers who specialize in catching fish that float above Uluwa’s roofline in great schools. They are each nimble tumblers, and they can be seen throughout the market balancing on each other’s shoulders and leaping high into the air to snare fish with their cartoonishly large butterfly nets. They are known for their skill at catching fish with magical properties. The Orbles have a stall in the Bobbling Boat Market, where they sell their exotic catches.",
+												"{@b Dapo Dapo! Fish Paste Masters.} Dapo Dapo! are a duo of spirits who are renowned fish paste mashers that make delicate pastes of a quality untasted in the physical world. The gummy paste squeaks with glee when it is smashed with the hammer. Both masters are named “Dapo” and when they start hitting the paste they yell out, “Dapodapodapodapodapodapodapo!!!” They are singularly focused on their craft, and are quite touchy about distractions, especially unsolicited advice about making fish paste. They’re local celebrities. Each Dapo secretly resents the other’s talent.",
+												"{@b Vymm and Vigor, Healers.} Vymm is a healer who tends to serve a more nefarious kind of patient: brawlers, cutpurses, and adventurers. Vymm is a spirit with spider qualities, who works her healing magic by cocooning her patients in webbing that mends bones, closes wounds, and can even leech poison from the body. She is assisted by a small rock spirit named Vigor.",
+												{
+													"type": "inset",
+													"name": "Coven Presence",
+													"entries": [
+														"The Talls Hats witch coven usually has one or more members in the village. They operate an apothecary and fortune-telling kiosk in the Plaza of Lanterns, and they help folks lost in the Spirit Realm return home. Though they are the only coven with a permanent presence in Uluwa, other witches on their own errands are common enough in the market."
+													]
+												}
+											],
+											"name": "Vendors"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Ferry Crossing.} Most folks enter Uluwa by way of the ferry. The landing on the side of the river that’s in the Physical Realm is a simple dock at the end of which is a wooden statue of a giant gull with a fish in its mouth. Twice a day—at dawn and dusk—the ferry arrives to carry passengers to Uluwa. The ferryman is a broad-shouldered spirit that looks like a stocky human, but without a head. It has a necklace of fish, and when the ferryman speaks, it’s the fish heads that do the talking. Only ticket holders are allowed to board the ferry, and the ferryman is quick to toss anyone else into the river.",
+												"On the Uluwa side of the river, frogs from the river gather to guide the ferry into its spot at the end of the Bobbing Boat Market, where it will meet passengers ready to journey back to the Physical Realm.",
+												"{@b Plaza of Lanterns.} Generally, the Spirit Realm appears to be in perpetual twilight, but in the Plaza of Lanterns, it’s always night. Sparkling lanterns bob in the air, shedding light that glitters off the scales of fish passing overhead. The plaza has a reputation as a gathering place for schemers, thieves, and others with ill intent in their hearts.",
+												"{@b Let's Have Another.} They serve drinks here, but to call it a tavern would not do it justice. The proprietor, a rotund, mustachioed spirit with perpetual grin, lovingly refers to his establishment as a “hall of joviality.” The place, located at the edge of Uluwa, is always crowded, and entertainers regularly play on the famous stage perched atop a pyramid that dominates the center of the hall. What sets this place apart from its counterparts in the Physical Realm is the fact that patrons can enjoy a drink and meal at one of the many tables set on the walls and ceiling, as the magic of the place grants each surface its own gravity. It is recommended that patrons indulge in the many sweet wines the establishment has to offer.",
+												"{@b Wandering Line Train Station.} The rooftop train station in Uluwa looks out over the central market plaza. Floating remoras tend to swarm the train as it pulls into the station, and some even latch onto unwary passengers who disembark here. For more about the Wandering Line, see page 113."
+											],
+											"name": "Points of Interest"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Fish Hooks.} Fisherfolk in the Spirit Realm are always on the lookout for materials from the Physical Realm, especially finger bones which they carve into fish hooks and lures. For some reason (whether it is true or merely spirit folk superstition) fish in the Spirit Realm are greatly attracted to finger bones from the Physical Realm.",
+												"{@b Search for a Spirit Filet.} Adventurers are given a mission by a discerning chef in the Physical Realm to find a way into Uluwa, locate a top-notch fishmonger, and procure a whole psychic snapper from the Spirit Realm. It’s the only way to create Farou’s Numinous Fish Fondue, a legendary dish that is known only to the most ambitious chefs of Obojima.",
+												"{@b Laying Low.} The adventurers are enlisted to find a known thief who fled from the Physical Realm into the Spirit Realm, and who has been hiding out in Uluwa, likely in disguise."
+											],
+											"name": "Adventure Hooks"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Original Crossing.} Some believe Uluwa is the site where mortals first entered the Spirit Realm.",
+												"{@b Royal Prisoner.} The Lionfish King once spent time as a captive in Uluwa and therefore regards the village with animosity. As the rumor goes, if he were to find a way back to Uluwa, he would launch an all out attack as an act of vengeance."
+											],
+											"name": "Rumors and Legends"
+										}
+									],
+									"name": "Uluwa (The Spirit Market)"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Near the southern coast of the Gift of Shuritashi, lies the largest city in all of Obojima—Yatamon. Yatamon is a relic of the First Age, a city that has existed before all written records, and is now home to around 10,000 people. Built on a hillside overlooking the southern cliff faces that drop down into the sea, Yatamon is a city of tall houses, narrow alleyways, steep streets, rows of shops, and twisting staircases.",
+										"Yatamon is known to be a bustling city, full of interesting sights and delicious smells; where the unique technology of the First Age such as bicycles, kei trucks, and vending machines can be found in abundance. Because of its reputation as a hub of trade where everything is happening, young people tend to flock to Yatamon to join one of the factions, learn skills and crafts from the resident masters, or to simply be in the thick of it and soak in the vibrancy of this magical city.",
+										"But despite Yatamon being the most populous city in Obojima, it is also a place of great mystery. The magic of the First Age that keeps its millennia-old structures and artifacts in pristine condition is still unknown. The city is full of strange occurrences, unique enchantments, and ancient and peculiar spirits, which make the city as strange as one can find on the island.",
+										{
+											"type": "inset",
+											"name": "Tone/Vibe",
+											"entries": [
+												"Busy, Fast Paced, Diverse, Modern"
+											]
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Most of the Obojimans who live in Yatamon are used to the anachronistic strangeness of the First Age technology and architecture, which has now become “home” to them. Kids play in the streets and climb on the walls and rooftops, neighborhood cats and dogs roam the alleyways and sit on garden fences, all of which look like they had been built years ago, but, in reality, they have existed this way for thousands of years.",
+												"Yatamon is also filled with the sounds of First Age technology, brought to life by spirits and magics that provide the energy for them to work again. The occasional kei truck whizzing by, the metallic rumble of a trolley car, or the scratchy tune of a record player are all sounds a city dweller may hear every day while staying in Yatamon. To an outsider, seeing and hearing these bizarre machines might be delightful, alarming, or bewildering at first but that is part of the personality of Yatamon—it is a unique place that moves at a much faster pace than the rest of Obojima."
+											],
+											"name": "Living In the First Age"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Because of the city’s potent enchantments, those who live in Yatamon long enough begin to develop magic of their own, usually in the form of a cantrip. Many witches theorize that the reason is because the city seems to “know” what its residents need and, through some unknown power of the First Age, it provides a spell to help them. For example, a baker or blacksmith may suddenly gain the ability to control flames to help them in their work; an enterprising florist may wake up one morning with the ability to entice flowers to grow or a hard-working gardener may, through a powerful dream, learn how to mold earth."
+											],
+											"name": "City Magic"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Despite its size, there’s no single leader and no official governance. Because of the nature of First Age magic, all the city’s municipal functions—plumbing, sanitation, running water—magically work so there’s no need for groups of people to worry about it. Small spirits love to light the streets at night, to power the neon signs, and light paper lanterns, so even lighting is taken care of by the strange magic of the First Age.",
+												"What Yatamon does have by way of leadership are influential people, and all of them care about Yatamon and their neighbors in their different ways, but one thing they all agree on is to keep the city from expanding. Preserving Yatamon’s unique First Age look is to honor both the historical and traditional value of this place—and perhaps to not disturb or insult the unknown power that gives all First Age sites their incorruptible nature."
+											],
+											"name": "Who Runs Yatamon?"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Yatamon is a haggler’s paradise. Among its many qualities, the city is known to have streets lined with shops and makeshift stalls, but the main area for trade is the central plaza, which hosts an open-air market every day. At night, merrymakers and shoppers flock to Fire Snake Alley, a long, narrow, winding street that is festooned with colorful lanterns and lights, where performers, street food, and all manner of oddities can be found.",
+												"Although copper buds, sea petals, and dawn flowers are the main currency, shopkeepers in Yatamon are always happy to barter for specific items. Witches and foragers deal in potion ingredients, while scavengers and scrappers trade their First Age wares to merchants who deal in ancient tech."
+											],
+											"name": "A Hub of Trade"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Being a relic of the First Age, Yatamon has the highest concentration of vending machines in all of Obojima, in fact, there are more vending machines here than perhaps all of the island. Because humans have lived here for centuries, all known vending machines have been claimed by wizards or spirits who sell or barter their wares for buds, flowers, petals, or other types of trade. Vending machines can contain anything from potion ingredients to strange items to snacks and drinks—whatever a wizard wants to put inside—but there are some vending machines that are as yet undiscovered, and they have items within them that are often from the time of the Nakudama or even the First Age."
+											],
+											"name": "Vending Heaven"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Because Yatamon’s inner workings are all magically taken care of, few ever find the need to go underneath the city to inspect its sewers, drainage pipes, or access tunnels. But, invariably, people go underneath the city—perhaps to rescue an errant kitten or to recover a ring that was fumbled through a gutter grate, not to mention curious kids who can’t resist a secret hideout.",
+												"But the deeper under the city an adventurer goes, the more dangerous it becomes as the concentrated magic of the First Age draws all manner of strange beasts and spirit aberrations to bathe in its arcane energies."
+											],
+											"name": "Under the City"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Dr. Zalia Frond and Krocius (female human and male Nakudama).} Dr. Frond is an AHA archaeologist who is working on excavating the undercity of Yatamon, specifically to study the mysteries of the First Age. Dr. Frond is an affable and enthusiastic scholar who is excited about discovering more about Obojima’s ancient past.",
+												"Krocius is a slender, reserved, and soft-spoken Nakudama who claims to be a scholar of the Second Age. Krocius prefers to let Dr. Frond do all the talking, quietly listening and occasionally nodding in assent. In reality, Krocius is using Dr. Frond and AHA to delve deeper into areas that are more and more dangerous in an effort to uncover some clue as to the lost prison of the ancient Nakudama emperor, Oghmai.",
+												"{@b Cholly (spirit).} Cholly is a pelican spirit who acts as the conductor of the trolley car that serves Yatamon. As people board the trolley car, they toss money into Cholly’s giant beak for fare. Cholly punches tickets and serves snacks, all while powering the trolley car, a feat most spirits claim to be quite impressive. Cholly is a scatterbrain but he is very enthusiastic about his job and loves to chatter with his patrons as the trolly rattles up and down the steep city streets.",
+												"{@b Granny Yuzu (female human).} If adventurers begin to ask around Yatamon for First Age relics, they will eventually hear the name, Granny Yuzu. Granny Yuzu lives in a small house surrounded by yuzu trees. Inside her house are all kinds of First Age items that Granny simply enjoys collecting as room and wall decor. She doesn’t like to sell her treasures, but she may take a liking to someone and, if they ask nicely or offer her something she likes such as a lawn gnome or a painting of a cottage in the woods, then she may give up one of her trinkets. Should anyone wish to steal any of Granny Yuzu’s First Age treasures or trouble her in any way, Tibor, Granny’s spirit mastiff, is prepared to unleash a tsunami of violence at the drop of a hat.",
+												"{@b Gomber and Beeks, Private Eyes (male human and spirit).} Gomber is a private eye and Beeks is his paunchy, humanoid bird spirit sidekick, together comprising the crime-fighting duo of Gomber and Beeks. Gomber is a hard-boiled, straight-shooting detective and Beeks pretty much just says, “Beek!” But Gomber understands his friend completely and seems to glean lots of information from a single “beek” to a frantic series of “beeks” from Beeks. Gomber and Beeks are officially part of the Courier Brigade, helping the faction track down mail fraud, apprehend package thieves, and thwart any kind of skullduggery that goes on within the city limits of Yatamon.",
+												"{@b Tatsu and the Goro Goros (male human).} Tatsu is the leader of a gang of miscreant youths who go around the city doing mostly harmless acts of vandalism. Tatsu talks a big talk and is followed by a scroungy-looking cast of youths who either fear Tatsu or idolize him. This rag-tag group goes by the Goro Goros, and they’re known for “magic tagging” where they paint their gang’s symbol—a grinning goro goro—on houses, walls, shops, and other areas of the city, irritating the local merchants and residents. These images are made with magic ink from the pigment potion and can be incredibly difficult to remove.",
+												"One of the Goro Goros is a Young Steward, Mikiko (female human), who is a budding witch and who knows how to find the ingredients and make the pigment potion. Mikiko feels bad about what she and the gang are doing, but she desperately wants to fit in and thinks Tatsu is totally cool.",
+												"{@b Imelda (female elf).} Imelda is a thief who can find anything thanks to the discerning nose of her spirit companion, Choofi. Choofi is a floating, fur-covered spirit with a special sniffer that can discern what any object is by smell alone. Imelda moonlights as a package thief, sneaking up to an unattended Courier Brigade postal wagon and sending Choofi to snuffle through it. If Choofi smells something expensive, Imelda is not above stealing the package and then selling it to the highest bidder.",
+												"The more success Imelda gets using Choofi’s magic nose, the more audacious she becomes. She’s now designed her own calling card that she leaves at the scene of her crimes.",
+												"{@b Master Hu (male human).} Master Hu is a baker and the creator of the Happy Joy Cake. Master Hu is not only a first-rate baker but he is also a kind of a guru, his most famous quote being, “As with all things, look to the cake and the answer will come”. Master Hu is an entertaining personality who is earnest in his love for making Happy Joy Cakes. Like he says, “I put a bit of love and First Age magic into every one!”",
+												"{@b Postmaster Miranda Escalante (female human).} Miranda Escalante is the current Postmaster of the Courier Brigade’s Yatamon office, and is Postmaster General Drubal’s right hand. Miranda oversees the training of every knight in the brigade, making sure that the recruits understand and respect their oath to the postal corps and are fully prepared for the challenges and trials ahead. She’s generally very honest and forthcoming and, when she can, tries to make a good effort in helping those around her.",
+												"{@b Mr. Basingstoke (male human).} To ensure non-partiality, the Witchery (see the Witchery in the factions section below) is run by a warlock, Mr. Basingstoke, who is purposely not affiliated with any of the covens. Mr. Basingstoke is an intimidating man who runs the Witchery with austere efficiency. Mr. Basingstoke’s spirit companion is a large disturbing octopus creature called “Sorrow”. Sorrow moves in total silence, observing everything through its colorless eyes as it drifts down hallways and floats through walls, and, because of this, Sorrow has the unsettling habit of appearing suddenly and startling everyone in the room. Even though Sorrow’s face is without expression, Mr. Basingstoke will often remark on how Sorrow is feeling, saying, “Sorrow is quite displeased with you today” or “Sorrow thinks that you should reconsider”. Many of the witches at the Witchery speculate if Mr. Basingstoke is just having fun or if Sorrow does indeed have feelings, whatever the case may be, Sorrow’s silent and ominous demeanor never betrays a single hint of emotion."
+											],
+											"name": "NPCs"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b AHA.} Although AHA’s headquarters reside east of Yatamon in the Coastal Highlands, the city does house the organization’s second largest outpost, which resides inside of a First Age library. The stacks, where hundreds of books used to be, are now filled with AHA research papers and equipment. Drawers, where Dewey decimal cards were once stored now, hold samples taken from the various sites that AHA is studying all over the island. Here in Yatamon, AHA members are studying the First Age in depth, as opportunity is abundant in the city. There are about 20 AHA members who work at the library outpost around the clock, one of them is Mortimus Fids (human male), the head curator of this AHA office. Mortimus rules the AHA office with a sense of self-importance and snobbery that makes everyone loathe the sound of his voice. If Mortimus senses even the slightest bit that a piece of information he has is of significance to the adventurers, he will make them go through all manner of hoop jumping, ego-stroking, and groveling before letting it go.",
+												"{@b AHA Underground Expedition.} Because of their interest in history, especially the giant mystery of the First Age, AHA has an ongoing archaeological dig led by Dr. Zalia Frond and her Nakudama colleague, Krocius, that has recently gone down into the sublayers of Yatamon to see if they can unearth more secrets of the First Age.",
+												"{@b The Courier Brigade.} Yatamon is where the Courier Brigade has its main headquarters. Housed in what was once a First Age bank, the Courier Brigade uses the vault to safely store their packages, and a row of tellers take the packages to be delivered either locally or abroad. On the roof is a large landing pad where the famous “flying lantern” is moored—it’s always a major attraction for the city of Yatamon when the lantern lands or takes off from the Courier Brigade headquarters.",
+												"The Courier Brigade has its own training ground here where they train their recruits in all the skills needed to deliver the mail and become a proper postal knight, whether it be riding on horseback, running on foot, or piloting one of the giant lanterns.",
+												"{@b The Witch Covens.} All of the witch covens have a circle or sanctum here, each one with its own special symbol emblazoned in some fashion outside to let those in the coven know where they can find refuge and commune.",
+												"{@b The Witchery.} In Yatamon, the covens have come together to create an academy known as the Witchery, where budding witches can come to train in the basics and then choose which coven they would like to join. Located in an ancient First Age movie theater, the Witchery has elder witches from each coven who teach the hopefuls and see if there are any who best suit their particular coven. As a main focus for their studies, the Witchery’s aim is to try and teach the basics of magic and how to incorporate First Age objects into spells."
+											],
+											"name": "Factions"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b The Beehive.} The Beehive is a kind of inn that is essentially a wall of hexagonal holes where people who are recovering from a hard night’s drinking, are down on their luck, or are just passing through can stay for free. There are around 50 capsules along a twisting alley that are available on a first-come-first-served basis. If an adventurer is looking to find someone who doesn’t want to be found, chances are they are staying at the Beehive.",
+												"{@b Happy Joy Cake Bakery.} If asked, most visitors to Yatamon say they are here to see the Happy Joy Cake Bakery where Obojima’s most favored delicacy, the original Happy Joy Cake, has been made with love and magic for the past 50 years or more. The bakery is on the eastern side of the city and if an adventurer has a nose and sense of smell, they can find it simply by following the most delicious pastry scent they can imagine back to its source. The bakery’s tour guide, a jolly chicken spirit named Bokka Bokka, is always ready to give anyone a tour of the bakery and hand out some free samples, and while on the tour, they might even meet Master Hu and watch him make a Happy Joy Cake by hand.",
+												"{@b Lula's Spirit Diner and Gambling Hall.} When residents of Yatamon want the best in traditional spirit cuisine, they all head to Lula’s, and, if they are feeling lucky, they can head into the large back room where there are multiple tables, each one with a few of the regulars playing all their favorite spirit games around the clock.",
+												"Lula is one of the rare spirits that can freely go to and from the Spirit Realm without needing a portal, so she has all of her drinks and ingredients stored there allowing her to effectively double the space of her establishment and serve her customers in a flash. Lula has heard stories of just about everything while serving in her diner, and word on the street is that she has been in Yatamon for centuries, some say even as early as the Age of Humanity.",
+												"{@b Bridge Cat.} Underneath one of Yatamon’s largest stone bridges sleeps a giant spirit known as Bridge Cat. Bridge Cat has been here as long as anyone in Yatamon can remember, snoring away in what seems to be an eternal slumber. Every now and then, Bridge Cat may twitch an ear or yawn or shift positions. Sometimes when it yawns, it disappears into the Spirit Realm or when it exhales it momentarily becomes transparent. Apart from these slight variations, Bridge Cat never moves from this spot. Little kids can often be found playing on Bridge Cat and people from Yatamon come to rub Bridge Cat’s belly for good luck and leave offerings and gifts for the spirit as it is said to bring longevity and a peaceful life. Every resident of Yatamon has opinions about Bridge Cat—why it is sleeping there and what it might mean if it ever wakes up—but no one really knows for certain, leaving Bridge Cat another one of Obojima’s enduring mysteries.",
+												"{@b Dappa's Bicycle Alley.} Down one of Yatamon’s twisting side streets is Dappa’s Bicycle Alley, the premier place in all of Obojima that deals in these magnificent, mechanical contraptions of the First Age. Dappa’s Bicycle Alley is run by an energetic Nakudama named Dappa, who has been helping Obojimans experience the joys of two-wheeled transport ever since he first rode one years ago. Here, an adventurer can rent or buy a bicycle or moped—some of which have already been enchanted for those who wish to ride without effort through the city.",
+												"Through the use of magic and spirits under his employment, Dappa is even known to send bicycles meandering about the city as two-wheeled taxis, actively looking for customers to transport.",
+												"{@b Gojo's Ramen Bucket.} Gojo and his gang of ramen goons run Yatmon’s premier ramen shop known as Gojo’s Ramen Bucket. Even though Gojo’s shop has its fair share of return customers, it has lived in the shadow of Hakumon’s legendary ramen shop for as long as they have been open. Gojo secretly admires Hakumon at the same time, but he resents being second best and can’t get over it. Gojo’s desire to be seen as the greatest ramen chef ever is a source of constant irritation for him and he is fed up with Hakumon winning every festival. Now, it’s a matter of wounded pride and Gojo is prepared to do almost anything to win.",
+												"{@b Himitsu's Arcane Izakaya.} Himitsu’s Arcane Izakaya is a tavern that is tucked away down a dark alley lit by red lanterns. Himitsu’s is primarily a tavern for spirits, so it vanishes during the day and is simply a stone wall, but to accommodate its physical guests, Himitsu’s appears at dusk, just as the lanterns are lit, already filled with a colorful cast of spirit regulars.",
+												"Himitsu is a spirit who runs the izakaya and is known to have the unique ability to alter their form.",
+												"Behind the bar, there’s a secret door that leads to another part of Himitsu’s Arcane Izakaya, but this area is accessible “by invitation only”. Should an adventurer be granted the password, they are taken through a thick wooden door, down a flight of stone stairs, into the basement where there are a number of stand-up arcade video games. There are a few of them that are homes to spirits, and those bathe the room with the colorful flicker of their cathode ray tube displays. The arcade games are considered to have strange magic within them. If a spirit whelms one of the dormant arcade games, they suddenly pop into life and some may transmit a cryptic message.",
+												"Himitsu says that they believe these artifacts from the First Age may have things to teach us—wisdom that is useful to our present times.",
+												"{@b The Gap.} There’s an alleyway that dead ends into a stone wall with a long crack going through it. This place is known as “the Gap” by Yatamon locals and it is a known portal to the Spirit Realm. Due to their ability to be insubstantial, spirits can ooze through the Gap and reform in the Physical Realm, so spirits can be seen entering and exiting the Gap as they transition between the realms. Because of the Gap, Yatamon is one of the most well-known cities in the Spirit Realm, and there are more than a few “spirit tourists” coming here to enjoy all the delights the Physical Realm has to offer.",
+												"{@b Jenni's General Store.} Jenni is a human witch whose general store is Yatamon’s hub for selling and buying potion ingredients. She has two little brothers, Hop and Jib, who she bosses around to get the shelves stocked and to run deliveries, which they do on their dilapidated motorcycle. Jenni is kind, helpful, and she simply adores adventurers and adventuring. She is very responsible, but if there was anything that would take her away from her duties running the store, it would be going on an epic adventure!",
+												"{@b The Ancient Subway.} There is an old subway system that may have at one time linked to terminals all across the island, but now the station lies dormant and the tunnels that lead out from under the city have long since collapsed."
+											],
+											"name": "Points of Interest"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b A Witch in Need.} A young witch needs to find her broom that flew off into the nearby woods and she desperately needs it to deliver the “special parcel” that she had tied to it. The special parcel was given to her by a “strange spirit” and she was to deliver it to Yatamon’s clockmaker.",
+												"If found, the parcel contains a complex and magic clockwork device that needs to be properly reassembled before it will function again, whatever that function may be.",
+												"{@b Trouble Brewing.} An AHA ranger has come into town and is drawing a crowd by holding a jar of Corruption aloft and imploring everyone to pay attention and to beware because the Corruption is coming to Yatamon. The local town elders are displeased with the hubbub and don’t like someone scaring townsfolk with these wild claims of Corruption and spreading their “doomsaying” about.",
+												"If approached, the AHA ranger will beseech any adventurers for help and will mention the plight of Polewater (see “Polewater” below). If there are any corrupted rangers in the party, the Corruption in the jar will suddenly be drawn to them, as if pulled by a magnet, and at the same time, their corrupted wounds will begin to throb painfully.",
+												"{@b A Vocal Dilemma.} Whiskers, a caramel-colored spirit cat, has lost his voice to a witch named Meg Wicklowe and can now only meow. With Meg long since gone from Yatamon, Whiskers now must find a chattershroom—a special kind of mushroom that can get his voice back—but the only place to find them around here is in the city sewer system, and Whiskers knows that going down there is a bad idea for a spirit cat as there are too many dangerous things looking for an easy meal. Whiskers’ only hope is to find some adventurers willing to get a chattershroom for him—but how can he ask any when all he can do is meow?"
+											],
+											"name": "Adventure Hooks"
+										}
+									],
+									"name": "Yatamon (The First Age City)"
 								}
 							],
 							"name": "The Gift of Shuritashi"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"Between Mount Arbora’s northern and eastern slopes and the sea lies the Land of Hot Water. This arid expanse is dotted with natural hot springs, boiling pools, and towering geysers, with mineral-rich earth painting the landscape in vivid reds and yellows.",
+								"The inhabitants here have forged a unique culture that combines industry with relaxation. They harness the geothermal energy to power their forges and heat their homes, while also indulging in the soothing hot springs and saunas. Recently, a fascination with flight has surged among their inventive tinkerers, who draw inspiration from the soaring birds, geysers, and thermal updrafts to craft all manner of flying machines.",
+								"The coastal waters around the Land of Hot Water are warmed by underwater vents, creating a haven for exotic marine life, from glowing fish to fearsome sea serpents. The people regard these creatures with both awe and caution—respect for the land’s volatile nature.",
+								"The residents of this region have a worldview shaped by the destructive and life-giving forces of this environment, which results in them often seeing things in a more dualistic fashion—yet another way this fiery, mountainous land shapes the art and philosophy of those who live within it.",
+								{
+									"type": "table",
+									"colLabels": [
+										"d12",
+										"Wandering Encounter"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-10"
+									],
+									"rows": [
+										[
+											"1",
+											"Geyser Eruption. A nearby geyser erupts unexpectedly; scalding steam and water threaten to engulf you. Make a successful DC 15 Dexterity ({@skill Acrobatics}) saving throw or take 2d10 fire damage."
+										],
+										[
+											"2",
+											"Soothing Hot Springs. You find a serene hot spring, perfect for rest and recovery. A short rest here provides an additional 1d8 healing."
+										],
+										[
+											"3",
+											"Lone Inventor. A lone inventor from Sky Kite Valley has traveled here and set up a temporary workshop by a geothermal vent, to test a prototype flying machine. They might offer assistance or trade if you help with their experiments."
+										],
+										[
+											"4",
+											"Sky Salamander. You see the long, sinuous form of the Sky Salamander flying in the air."
+										],
+										[
+											"5",
+											"Mineral Vein. You discover a rich vein of colorful minerals. Extracting them could be valuable but risky, as they are extremely hot and volatile. Make a DC 14 Intelligence ({@skill Investigation}) check to find a safe way to collect them."
+										],
+										[
+											"6",
+											"Thermal Updraft. A strong thermal updraft suddenly lifts you off the ground. Make a successful DC 12 Dexterity ({@skill Acrobatics}) saving throw to land safely or be carried away, taking 1d6 bludgeoning damage from a rough landing."
+										],
+										[
+											"7",
+											"Earthquake. You feel the ground begins to shake and roil under your feet as Mount Arbora rumbles violently. New fissures open up all around you. On a successful DC 12 Dexterity ({@skill Acrobatics}) saving throw you avoid falling into one of these fissures and taking 1d10 fire damage."
+										],
+										[
+											"8",
+											"Crashed Kite. A disoriented inventor from Sky Kite Valley was trying to discover new thermal columns and crashed their kite. They may need saving from monsters. They offer information or mechanical know-how in exchange for any assistance."
+										],
+										[
+											"9",
+											"Sulfur Plume. A noxious cloud of sulfur gas erupts from a vent, threatening to overwhelm you. Make a successful DC 15 Constitution saving throw or suffer 1d6 poison damage and be poisoned for 1 hour."
+										],
+										[
+											"10",
+											"Giant Koi Scale. On a successful DC 14 Wisdom ({@skill Perception}) check, you find a giant koi fish scale lodged in between some boulders."
+										],
+										[
+											"11",
+											"Grumpy Harpy. You stumble across a lone harpy’s nest. On a successful DC 15 Dexterity ({@skill Stealth}) check she doesn’t see you. On a failed roll she instantly sees and despises you."
+										],
+										[
+											"12",
+											"Demon Hole. A demon crawls out from a fumarole where it has its lair. It sees you unless you succeed at a DC 15 Dexterity ({@skill Stealth}) saving throw."
+										]
+									],
+									"caption": "Wandering Encounters"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"When following the Mosspot path up into the foothills of Mount Arbora, you’ll arrive at Chisuay’s Teahouse—an Obojiman Staple, run by the charismatic and eclectic tea master of the same name.",
+										"Chisuay’s Teahouse is fairly well-known throughout Obojima, even merchants in distant villages sell some of Chisuay’s heirloom teas. Each of Chisuay’s delicious, fragrant, and refreshing varieties comes in its own unique and beautifully wrapped package. Many Obojiman households have a package of Chisuay’s most famous blend known as Chisuay’s Heavenly Tea. Obojimans love tea and will happily describe their favorite blend, talking at great length about its beneficial effects. A few tea lovers could point out the location of the teahouse on a map and there might be a handful of true aficionados who have personally made the pilgrimage, and those who have gush with rave reviews of the teahouse and Chisuay’s hallmark charm.",
+										{
+											"type": "inset",
+											"name": "Tone/Vibe",
+											"entries": [
+												"Relaxing, Elegant, Curated, an Experience"
+											]
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The grounds that surround the teahouse are the perfect compliment to Chisuay’s soothing tea blends. Those that approach the teahouse during the daytime, will hear the bees and instantly smell the adjacent herb garden with its network of pebble stone paths that twist and meander through a host of sweet and exotic smelling herbs, flowers, and spices. A clear stream runs next to the teahouse providing fresh, cool water for all Chisuay’s offerings—as Chisuay says, “The water is the soul of the tea.”",
+												"At night time, the teahouse and grounds are no less stunning, lit up with scores of paper lanterns and a host of fireflies that dance among the trees."
+											],
+											"name": "Visiting the Teahouse"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The tea shop’s interior is just as breathtaking as its exterior. During the day, the sliding doors and windows are kept open, allowing the rays of sunlight to illuminate and bolster the warm tones of the wood floor, highlighting intricately embroidered silk tablecloths and Jacquard furniture.",
+												"At night, the sun’s light is replaced by the dull glow of a hundred burning butterflies, which drift and flutter near the top of the tall, arched ceiling."
+											],
+											"name": "Teahouse Interior"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Chisuay can usually be found in the main room of the house, paying close attention to every customer, telling stories of how he acquired his knowledge of tea, and regaling customers with a litany of frightfully witty anecdotes.",
+												"Behind a long wood bar made of a single mahogany plank is Migo (see below), Chisuay’s six-armed spirit companion. When Chisuay takes an order from a customer, he calls out a recipe, and Migo’s six arms go swiftly to work, pulling ingredients from the wall behind the bar filled with jars and drawers of different kinds of tea, herbs, and spices. Migo then either expertly wraps these ingredients in beautifully colored paper or he gives them to Chisuay in a tea sachet along with a cup, saucer, pot of hot water, and an assortment of biscuits. Chisuay then serves the customer their own personal blend of tea with dashing and sophisticated flair."
+											],
+											"name": "The Tea House & Its Service"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Chisuay, The Tea Master (male human).} The proprietor, Chisuay (use the mage or oni stat block depending on what guise Chisuay is in), is a slender and dashing oni sorcerer who, has spent over a decade earning his title, Tea Master. Chisuay is very charismatic and a tad pompous at times, but he knows how to work a crowd, entertaining all who enter his teahouse.",
+												"When he isn’t tending to customers or going over his inventory, Chisuay can be found tending to his expansive herb garden and tea plants. Chisuay knows almost everything there is to know about tea and its properties (or as he says, “proper teas”).",
+												"{@b In the Know.} Chisuay seems to befriend everyone who is anyone on the island of Obojima. For adventurers, one of his favorite referrals is the herbalist healer, Adira, who runs the apothecary at Hogstone Hot Springs as she is Chisuay’s go-to person for healing wounds and ailments from poisons to curses.",
+												"{@b The Dark Secret.} Despite his affable exterior, Chisuay has a secret—his oni side—that he never lets anyone see. In his quiet moments, away from the chatter and laughter of his customers, Chisuay wrestles with his urges that tempt him to fully embrace his oni powers. A struggle he’s dealt with his entire life and one that would later divide him and his older brother Hakumon, the master ramen chef.",
+												{
+													"type": "inset",
+													"name": "Playing Chisuay's Oni Nature",
+													"entries": [
+														"How you play Chisuay and his oni nature can be done in a number of ways, but here are two:",
+														"{@b A Dashing Scamp.} You can play Chisuay as a good guy whose oni nature is more mischievous and naughty than dangerous and evil. He’s quirky and rambunctious—it’s what makes him fun to be around!",
+														"{@b Dr. Jekyll and Mr. Hyde.} You can make Chisuay kind at heart and trying his best to keep his oni nature under wraps. But every now and then it slips out and wreaks havoc and his entire staff is trained to keep it all under wraps."
+													]
+												},
+												"{@b Migo (spirit).} Migo is a companion spirit who helps Chisuay run the teahouse. Migo can produce many arms that stretch and contract from his cylindrical torso, allowing him to pull tea and herbs off the towering shelves and package them for customers.",
+												"Migo doesn’t speak but nods or uses sign language that only Chisuay seems to comprehend. Migo can also tell when Chisuay is grappling with his oni side and is quick to help usher Chisuay away in dire circumstances.",
+												"{@b Indigo & the Fosa Helpers.} Chisuay’s serving staff are a group of awakened fossa that Chisuay discovered wandering the mountainside several years ago. They’re well mannered and even better dressed, which makes them the ideal team to help to serve the customers, keep the grounds clean, and take care of the tea gardens. Leading the staff as the self-appointed majordomo, is Indigo, a stuffy and somewhat self-important fossa, who pushes his weight around when Chisuay isn’t at the teahouse."
+											],
+											"name": "NPCs"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Hakumon's Old Ramen Shop.} If an adventurer inspects the back side of the tea house, they can see evidence of an entrance to a shopfront that has now been sealed off by numerous magical glyphs and waxwork seals. This was once the entrance to Hakumon’s old ramen shop, long ago when he and Chisuay were planning on working together.",
+												"The door to Hakumon’s old shop is not only expertly barricaded through magic, it’s also constantly watched by a group of Chisuay’s spirit helpers. They make sure that any nosy guests are directed back into the teashop.",
+												"Should an adventurer get past Chisuay’s guards and inspect the sealed door, a success on a DC 15 Intelligence ({@skill Arcana}) check reveals a collection of wards and seals. The first of which are several Iron Seals, placed by a waxwork rogue. To open the door a creature must first succeed a DC 16 Strength ({@skill Athletics}) check. If the Iron Seals are broken, a secondary seal triggers a {@spell sleep} spell cast at 5th level. If an adventurer gets inside, the room is kept immaculate and frozen in time, as if Chisuay is keeping it pristine for the day when his brother returns.",
+												"{@b Room of Repose.} Up a flight of wooden stairs and across a landing that overlooks the main room, there’s a wooden double door that leads to the Room of Repose. This room is elegantly furnished with carved wooden tables, comfortable chairs, and sofas. There are windows with sheer curtains that overlook the herb garden and stream, and there are several wooden shelves filled with all manner of curios. Every morning, fresh flowers are brought to the room by Chisuay’s spirit helpers, as well as silver trays of confections and an assortment of the day’s fresh-baked pastries.",
+												"The Room of Repose is used for guests of honor and clients who want that extra bit of ambiance, privacy, and sophistication.",
+												"{@b Chisuay's Patisserie Delights.} To the left of the mahogany bar is an assortment of pastries from choux to filo to puff and shortcrust. Every morning, the counter is covered with an exquisite array of petit-fours, croissants, eclairs, tarts, and strudels, but the one that people come from all over to sample is a flavor of Happy Joy Cake that is only served here—Chisuay’s Elegant Tea Cake. Chisuay is very proud of this honor and cannot help but find a casual way to bring up his friendship with the renowned cake maker and creator of the Happy Joy Cake, Master Hu."
+											],
+											"name": "Points of Interest"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b The Green Teapot.} During a visit to the teahouse, the adventurers are served a hot pot of tea in an ornately crafted, green ceramic teapot. When Chisuay’s back is turned, the teapot whispers to one of the party members and claims that it’s a wizard named Sallifas who has been trapped in the teapot by Chisuay. Sallifas quickly begs to be released by breaking a curse that is on the teapot. When Chisuay notices that the teapot was used to serve guests, he quickly switches the teapots with a disarming grin, saying that this teapot is rather naughty. The green teapot is never seen again.",
+												"{@b Strange Brew.} In a hidden section of Chisuay’s Teahouse there is a magically sealed lock box that contains notes and experiments on a recipe for a tea known as “Nightmare Tea”. This recipe is written in a handwriting that is unlike Chisuay’s flowing script because it is written by Chisuay when he’s in his oni form. By reading the notes thoroughly (1 hour of study) and making a successful DC 15 Intelligence ({@skill Arcana}) check, an adventurer can surmise the following:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"“Nightmare Tea” is a potion designed to give whoever drinks it a series of nightmarish dreams from which they cannot wake until the sun rises.",
+														"The spell requires a blend of special teas and herbs brewed in an enchanted teapot.",
+														"Anyone drinking Nightmare Tea loses 1 permanent point of Constitution but gains 1 permanent point of Intelligence."
+													]
+												}
+											],
+											"name": "Adventure Hooks"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The few that are aware of Chisauy and Hakumon’s kinship can only speculate about the split between them. What is known is that it happened long ago. While they worked in a single shop exploring their culinary arts, they were also sorcerers who pursued the unstable power of the oni. As their magic power grew, so did the gravity of their choice—would they embrace their emerging oni natures, and if they did, would they be able to contain the oni’s power and thirst for mayhem? Or would they turn away from the promise of power and only dream of the magic and monstrous might that lay just beyond the veil of their fragile humanity?",
+												"Whatever happened, Chisuay chose to remain in human form and Hakumon can no longer disguise his oni nature, and both of them do not speak of the other."
+											],
+											"name": "Legends and Rumors"
+										}
+									],
+									"name": "Chisuay's Teahouse"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The Mariners’ Guild in the Land of Hot Water operates out of Pelican’s Nest Lighthouse, a long-derelict structure the guild refurbished and continues to maintain. The northern branch was first of the four lodges that the guild established decades ago and in the guild’s heyday, it served as headquarters and primary residence of the guild’s leader, the maritime adventurer, Captain Clintock. But that was many years ago now, and as enthusiasm for the guild’s efforts waned so did the support. Now, the northern lodge remains one of only two left in use.",
+										"The lodge is located just off the coastline that hugs Sky Kite Valley on a rocky spit of land that juts northward into the sea from the cliffs. Travelers from the town used to frequent the lodge, and the Mariners’ Guild had plans to expand the facility. The crumbling remains of several partially built additions and out buildings are all that remain of these grand ambitions.",
+										{
+											"type": "entries",
+											"entries": [
+												"Captain Clintock, his wife Kara, and their two daughters Paloma and Holly were known throughout Obojima as the first family of adventure. But that was about ten years ago. Though their fame has since waned, the family name continues to loom large among maritime enthusiasts, and it remains a fixture within the divers’ lodges. It’s doubly true of the northern branch, which is where they resided together as family until Kara died. Several years ago, Paloma, the older daughter, took over management of the southern divers’ lodge.",
+												"Though the captain technically resides at this branch, he prefers to stay at sea aboard his submarine, the Pointue. It therefore falls to Holly, gifted engineer and shipwright, to oversee the lodge today. Together with her father, she is famous for advancing efforts to explore the underwater realm. For her part, Holly is responsible for developing new technology including diving suits, and most notably, her father’s current incarnation of the Pointue."
+											],
+											"name": "The Clintock Family"
+										},
+										{
+											"type": "inset",
+											"name": "Tone/Vibe",
+											"entries": [
+												"Empty, Disorganized, Friendly, Helpful"
+											]
+										},
+										{
+											"type": "inset",
+											"name": "Home Base for Seagoing Adventures",
+											"entries": [
+												"The northern branch of the Mariners’ Guild is the best place to get outfitted for anyone interested in venturing beneath the sea, as Holly is eager to have folks test out her experimental gear. The lodge, therefore makes a good homebase for seagoing adventures. In fact, it is featured in the Below the Shallows adventure, which is included in this book (see page 351).",
+												"The lodge is most closely linked to the southern branch of the Mariners’ Guild (see page 24) and nearby Sky Kite Valley (see page 58)."
+											]
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The lodge is associated with two of Obojima’s unfolding sources of conflict—the Corruption and the Lionfish King’s aggression.",
+												{
+													"type": "entries",
+													"entries": [
+														"Though Holly is at work on a dozen or so different projects at any given time, her father’s submersible is always front of mind. The current incarnation is her design, and she’s tinkering with it, adding improvements and modifications every time the vessel returns to the lodge. Of late, her thoughts have been on the Pointue’s latest expedition, in which Captain Clintock voyaged to investigate the Corruption on the east side of the island. On that trip, the Pointue was damaged, and belligerent fishfolk blocked him from returning to the northern lodge.",
+														"Holly is now furiously working on a patch for the hull, but is missing a few key materials. Furthermore, she can’t even begin to work on the Pointue until her father figures out a way to bring the submersible to the northern lodge."
+													],
+													"name": "The Pointue Stranded"
+												}
+											],
+											"name": "Happenings at the Lodge"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Holly Clintock (female human).} The younger daughter of Captain Clintock is a gifted engineer and fabricator, and head of the lodge. Her optimistic nature and general sense of wonder draw comparisons to her father from some of the old-timers who visit the Mariners’ Guild. She regards such comments warmly, for she loves her father, and she inherited his fascination with the sea. Her sister, Paloma, however, is an enigma to Holly, and while their relationship isn’t necessarily strained, there is little affection between them. Holly takes some blame for this because relationships tend to exasperate her, and she prefers heads-down work in her workshop. Anyone listening carefully while Holly is working might hear her talking to her tools as though they were old friends.",
+												"{@b Marcel, the Lighthouse Keeper (male human).} Marcel has been the lighthouse keeper since the Mariners’ Guild took over the building. He is broad-shouldered and tall, with a thick mustache and thick arms that feature tattoos of mythical marine life. Several years ago, Marcel lost his sight, but Holly modified a First Age fish finder that uses sonar to help him navigate the lighthouse tower and see to his duties. Holly regards Marcel as family and, though the gruff old man won’t admit it, the feeling is mutual.",
+												"Marcel has a companion spirit that takes the form of a pelican. Its name is Disaster, and it’s a prideful being who claims that the Pelican’s Nest Lighthouse was named for it.",
+												"{@b Captain Clintock (male human).} If the captain has any permanent residence beyond the walls of his prized submersible, it’s here in the northern Coastal Divers’ Lodge. Of late, however, he is stranded in the south. For more on him, see the section on the Coastal Divers’ Lodge, Southern Branch on page 24."
+											],
+											"name": "NPCs"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Holly's Workshop.} Anyone entering the lodge through the main entrance will find themselves in the middle of Holly’s workshop. This round room is crowded with several workbenches at one end, each one covered in tools, schematics, and scale models of ships. The other end of the workshop is where large-scale projects are put together and tested. The back of the workshop has two heavy metal doors that open onto the sea when they are slid apart. A large winch is used to carry heavy materials to and from the water.",
+												"Holly’s workshop is where one is likely to find Holly and her most recent projects.",
+												"{@b Kara's Studio.} When the Clintock family made their home at the lodge, Holly’s mother, Kara, had a dedicated studio on the second floor where she made her art and wrote her popular comic, Ava and the Allstars. After she died, the studio was left unchanged as a tribute to her. The room is filled with original comic book pages and Ava memorabilia. The door to this room is typically kept locked, though Holly likes to spend time here occasionally.",
+												"{@b The Clintock Collection.} A spiral staircase ascends from the second floor of the lighthouse up to the beacon. Anyone who climbs the stairs will find all kinds of treasures and curiosities on display on the circular inner wall of the lighthouse. Known as the Clintock collection, it features things pulled up from the sea on the many voyages of the Pointue. A few noteworthy pieces include a mysterious fish skull that has a ghostly light glowing in one of its eye sockets, an enormous sword far too big for any person to carry, and the dorsal fin of the original Pointue.",
+												"{@b The Beacon.} The pinnacle of the lighthouse is called the Beacon, and it’s where the lantern and lens are kept. A parapet encloses a wide deck, which is large enough to accommodate a small table and a handful of people who might want to dine under the stars. Marcel can often be found up here looking after the lamp. In addition to signaling passing ships, the light from the Beacon can be used to alert Sky Kite if any of the lodge’s residents spot fishfolk raiders heading toward the town.",
+												"{@b Crumbling Structures.} Just outside the lighthouse are a handful of partially built stone buildings that were meant to serve as guesthouse and a mess hall for visitors. However, the efforts were abandoned, and the structures have since been taken over by colorful crabs. Every once in a while, a pair of bulbous spirits appear in the open interior of what was going to be a bathhouse. Here, they wrestle for days, growing in size until they pop.",
+												"{@b Pixie Boat.} Halfway between the lodge and Sky Kite, there’s a charming houseboat that’s run aground on a sandbar. At first glance, the boat appears abandoned. However, any careful observer will notice that it is swarming with pixies. The boat has the name Spellbound painted on its stern, and the pixies who live here have adopted it as the name of their community. Several dozen pixies live here, and they don’t take kindly to uninvited guests. There’s a sailor in Sky Kite who claims he was heckled and tormented by pixies when he was adrift at sea after his boat capsized. There’s a good chance those pixies hailed from the Spellbound.",
+												"{@b Sunken Village.} This location is described in one of the adventures included in this book (see page 351)."
+											],
+											"name": "Points of Interest"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Supply Run in Sky Kite.} Sky Kite Valley has been overrun with teams of aeronauts who are snatching up the materials Holly Clintock relies on for her work. Holly has been trying to track down basic supplies for her work, but it’s all spoken for by the newcomers. She’s getting desperate and is willing to give the adventurers her experimental diving trinkets in exchange for what they can scrounge.",
+												"{@b Mission to Toggle.} Holly needs a sheet of a specialized alloy to fix the submersible. This rare metal can only be forged by Duro and Garo in the town of Toggle. She asks the adventurers to retrieve the metal from the masters.",
+												"{@b Fish Folk Exiles.} The lodge, like most places located on the coast, is subject to the occasional fishfolk raid. However, lately, a small but bold band of fishfolk have been exceptionally aggressive, even going so far as to sneak into the lodge and ransack Holly’s workshop. These fishfolk are a desperate lot, as they were exiled by the Lionfish King and are now willing to try anything to get back into their monarch’s good graces. They make their lair in a submerged village that stands on the sea floor several miles off the coast north of the lodge. This same group of fishfolk are the main antagonist in the Below the Shallows adventure (see page 351)",
+												"{@b Crab Invasion!} During a storm at night, crabs begin gathering on the small spit of land the lodge stands upon, swarming into the crumbling outbuildings and up the exterior of the lighthouse. By morning, the entire lodge is encrusted in crabs, and the clacking of their claws is deafening. And they keep coming ashore! Perhaps they’re drawn to the lighthouse’s lamp. Or maybe one of the crabs carries a magical object in its claw that compels the others to follow. Whatever the reason, Holly and Marcel plead with the adventurers for help."
+											],
+											"name": "Adventure Hooks"
+										}
+									],
+									"name": "Coastal Divers' Lodge (Northern Branch)"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Out of a spring high up the side of Mount Arbora, geothermally heated water comes boiling and bubbling out of a crack in the stone and flows down the mountainside, getting cooler as it finds its way to the River Yon far below. Legend has it that the great river spirit known as Yon would sometimes take on the form of a giant boar and bathe in the hot spring, scratching his bristles on the large stones.",
+										"Because of this legend, the ancient druids called this place Hogstone and marked the spring as a place of physical and spiritual healing. In today’s age, a spa has been built for travelers to utilize when journeying to the spring. Large pools have been carved at different elevations where the water issuing from the hot spring would collect. The hottest pools are higher up the mountain, closer to the source of the hot spring, and the cooler pools were carved out further down the mountain. Because of this, Hogstone has a main building with a series of wooden huts and bungalows that are dotted alongside the flow of the hot springs, connected by smooth stone paths and slate stairs. Some pools are wide and open, allowing for large gatherings of bathers, while others are smaller and more private, accommodating only a handful of people. Bards entertain with gentle music while Hogstone’s vigilant staff makes sure that everyone has what they need.",
+										"The hot springs are open day and night for all travelers. At night, they are especially delightful as the warm glow of ten thousand candles illuminates the pools and walkway.",
+										{
+											"type": "inset",
+											"name": "Tone/Vibe",
+											"entries": [
+												"Calming, Inviting, Mysterious"
+											]
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Most everyone on Obojima has heard of Hogstone and many have made long journeys across the land and up the side of Mount Arbora to get healed by its famously powerful waters. For those who have made the trip, there is always a story of the powers of Hogstone and on occasion, a magical vision from the river spirit, Yon."
+											],
+											"name": "Reputation"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Adira, Master Healer (female human).} Adira is a master herbalist and healer who specializes in all manner of plant medicines and runs the apothecary. She is a short, gentle woman with a calm yet intense presence. (Adira uses the Priest* stat block, but rolls all Medicine checks with advantage)",
+												"{@b Mocha (spirit).} Mocha is Adira’s companion spirit who helps Adira with her patients and enjoys being in the guise of a small pig. Usually, Mocha is happy to just be a pig and provide a cuddly creature for patients to pet during their time at the Apothecary. If Adira is ever in need of an assistant with thumbs, Mocha can begrudgingly take on the form of a large, anthropomorphic pig person.",
+												"{@b Jollah Everbreeze (male human).} Jollah is a human bard who specializes in what he calls the “numinous groove”, a style of music he learned from spending time in the Spirit Realm jamming with the spirits. He plays a unique wind instrument that has a companion spirit living inside it, allowing Jollah to get a range of smooth, melodic, and percussive sounds not possible with normal wind instruments. Jollah’s sole purpose is to “get everyone into the groove” and he is overjoyed when he feels someone has attained the numinous quality needed to “get there”.",
+												{
+													"type": "inset",
+													"name": "Courier Brigade Regulars",
+													"entries": [
+														"Many members of the Courier Brigade can be found here soaking off the weariness of riding many miles delivering goods. If their path takes them close to Hogstone, they are sure to stop by and get recharged by the hot spring’s enchanting waters as the extra trip is always worth it."
+													]
+												}
+											],
+											"name": "NPCs"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b The Druids Bath.} Within the array of soaking pools are three specialty pools, carved into the mountainside by the druids that discovered the hot spring. Over time, the water in these pools became saturated with magics left by the druids, enhancing the already potent curative properties of the water. These pools are kept apart from the main hot springs area and are reserved for special healing cases referred by Hogstone’s resident healer, Adira. Marked by sturdy wooden fences with simple, elegant gates that are left unlocked. Anyone can use them at any time, but signs clearly say they are for healing only.",
+												"The pools are as follows:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"{@b The Emerald Pool:} This pool is made of a solid block of malachite and its magic waters are capable of mending wounds and curing ailments. Every 10 minutes a creature spends soaking here heals them 1 hit point. If an adventurer spends more than 30 minutes in the pool, its magic ends any disease that is afflicting them and cures any poison.",
+														"{@b The Amber Pool:} This pool is carved out of a giant drop of amber and its magic waters can bring vitality back into the weariest of bones. Anyone staying in the pool for 30 minutes or more can remove all levels of exhaustion and its magic ends the paralyzed and petrified conditions.",
+														"{@b The Azure Pool:} This pool is made from a vein of azurite that has been smoothed over the centuries and its waters calm the mind and soothe the spirit. Those who bathe in it for 30 minutes or more find themselves overcome with a sense of peace and serenity, recovering all spent spell slots of 3rd level or lower."
+													]
+												},
+												"{@b Adira's Apothecary.} Along with Hogstone’s many buildings including changing rooms, meeting spaces, and relaxing areas is Adira’s Apothecary, a well-lit place filled with jars of herbs and pots growing various medicinal plants. On entering the apothecary, clients are met by Adira, Hogstone’s resident master of the healing arts. Usually, all it takes is a look from Adira’s magical staff to know what ails a person—often it is just a nice soak in one of the specialty pools or a rub down with her proprietary blend of magic oils and therapeutic herbs—but sometimes even her staff’s arcane eye needs a closer look. If this is the case, she will take patients into an examination room where she performs her evaluation and diagnosis using a combination of mundane and magical means, addressing any and all complaints from chronic ailments and nervous conditions to witch’s curses and supernatural wounds."
+											],
+											"name": "Points of Interest"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b The Mysterious Ailment.} Once Adira realizes that the party is a band of capable adventurers, she approaches one of them and asks for their help. If the adventurer accepts, Adira ushers the party into a back room where a man, covered in glowing red sores, lies on a bed.",
+												"If 10 points of healing are given to the man, he becomes conscious and, if asked, tells a story of an entire village on the eastern side of the island being taken over by the Corruption.",
+												"Adira says that she has heard rumors of this Corruption, but has never seen it until now. Her remedies are not producing any favorable results. She asks if the adventurers can help uncover the mystery of this Corruption and, if possible, help her find a cure.",
+												"{@b Return of Yon.} Lately, some strange occurrences have been happening at night. The water in certain pools becomes unbearably hot, and bathers report seeing a glowing, spectral boar wandering the mountainside. Some claim it’s the return of Yon, the great river spirit, but opinions vary. Some think that Yon is disturbed by the intrusion of the bathers at Hogstone. Others believe a more sinister force is imitating the spirit. The druids of old left a series of ancient totems around Hogstone, said to keep the spirit at peace. Recently, some of these totems have gone missing or been defaced. Is Yon’s spirit truly angry, or is someone—or something—manipulating the legend for their own ends?"
+											],
+											"name": "Adventure Hooks"
+										}
+									],
+									"name": "Hogstone Hot Springs"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"In a valley that slopes toward the coast, geothermal activity is on frequent display, sending spouts of warm air high into the sky. Most days, dozens of colorful gliders and kites can be seen chasing the updrafts and wheeling about in acrobatic displays above the seaside town called Sky Kite. In terms of size, Sky Kite is second only to Yatamon on the south end of the island.",
+										"The town got its name from its tradition of making extravagant kites and gliders, which, according to local beliefs, were inspired by the airborne jellyfish that float down from Mount Arbora. Kite festivals and competitions are frequent and considered serious business, and people come from all around to enjoy the colorful spectacle. Visitors to Sky Kite Valley often remark on the fearless, reckless spirit possessed of the locals who seem concerned only with the sky.",
+										"The town is perched on a rocky rise that was quarried long ago, which created the distinct levels that give Sky Kite the appearance of being built on an enormous stair that descends into the sea. Locally, the town is divided into two halves. There’s the Saltward by the waterfront, and it’s where fisherfolk, shipwrights, and merchants tend to live. As you ascend the stepped slope of the town, you eventually cross into the Skyward, where the most renowned kite families live. The boundary between Saltward and Skyward is colloquially known as “the water line”, which is also the name of a popular, centrally located pub where folk gather from late afternoon until the early morning hours.",
+										{
+											"type": "inset",
+											"name": "Tone/Vibe",
+											"entries": [
+												"Adventurous spirit, innovation all around, industriousness"
+											]
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Sky Kite Valley is primarily known for its kites, gliders, and experimental flying machines. The people here are generally content to attend to their own affairs and see to their own projects. This might be due to the town’s relative isolation, but whatever the reason, Sky Kite Valley remains fairly disconnected from the happenings of the rest of the island."
+											]
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Sky Kite Valley has always attracted aeronauts looking to ride their gliders on the region’s thermal vents. Of late, however, the town is experiencing a boom over the allure of flight. Tinkerers and aspiring aeronauts have turned Sky Kite Valley into a hub, with new workshops seeming to appear overnight. Rooftops have become makeshift launch sites, and the taverns are abuzz with talk of design ideas and recountings of failed attempts."
+											],
+											"name": "Calling All Aeronauts"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Many locals come from long lines of kite-making families who have adopted a specific spirit or animal design that they puts on all their kites. Often, these storied families have their doors emblazoned with their respective symbols, treating them like family crests. While some families embrace the new fascination with flight that has overtaken the town, most old-timers bristle at the development."
+											],
+											"name": "Kite Families"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Some months ago, renowned adventurer and aeronaut Rock Raley arrived in Sky Kite in dramatic fashion—on a glider in tatters that he somehow managed to pilot all the way from the peak of Mount Arbora. To the gathered crowd he said, “It has been many days since my feet felt the ground. I have climbed higher into the sky than even I thought possible. I met the Sky King, who personally welcomed us to his kingdom. We need only make it there ourselves!” Overnight, Sky Kite Valley exploded with activity, as dozens of teams of engineers and aeronauts strived to ascend to the frontier among the clouds.",
+												"Workshops have sprung up all across town, each one filled with teams of tinkerers and aeronauts all trying to be the one to build a flying machine capable of ascending to the Sky King’s domain high above the clouds. Naturally, rivalries have sprung up among them, and many teams keep watch to keep spies and saboteurs out.",
+												{
+													"type": "inset",
+													"name": "A Larger Locale",
+													"entries": [
+														"In Sky Kite Valley, adventurers can find gliders and spend time soaring about on thermal vents. They could get involved in the expedition to the clouds, or simply enjoy one of Obojima’s larger settlements."
+													]
+												}
+											],
+											"name": "Sky Kite Valley Today"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Rock Raley’s feat transformed him into an overnight celebrity, a status which thrust him into the limelight of local politics. For generations, the people of Sky Kite were content with their traditional kite and glider craft. But now, with the prodding of Rock Raley and his followers, much of the town has embraced this new pursuit of innovation. Many town elders are dismayed by this development, as they regard the “newfangled” contraptions as an unwelcome blight upon the beauty of the kites and gliders that fill the sky with graceful beauty. This simmering conflict often plays out in the town council."
+											],
+											"name": "Culture in Flux"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Rock Raley and his team of aeronauts are spearheading the effort to build the first vessel that can fly high enough to reach the Sky King. They have fostered a (mostly) friendly competition among the engineering teams, though they are not above stealing the best ideas for themselves."
+											],
+											"name": "The Sky Team"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Gliders and kites are the primary crafts made in Sky Kite Valley. Gliders are generally larger and carry pilots, while kites are built for maneuverability and are controlled from the ground with lines. Both harness the wind and updrafts to stay aloft. There are several craftspeople in the town and surrounding countryside who sell and repair gliders and kites. Those constructed for competitions typically fetch a higher price.",
+												"Traditional windborne crafts don’t cut it when it comes to the higher altitude flying that has captured the imaginations of many of Sky Kite’s aeronauts of late. For that, new workshops have sprung up all over town, each one busy with teams of hopefuls all trying to be the one to figure out how to soar into the clouds. Some try the pink candles associated with the Courier Brigade’s hot air balloons, while others hope to achieve success with flapping wings, twirling propellers, or some combination of various approaches."
+											],
+											"name": "Reaching for the Sky"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Near the town, danger from the sky is relatively rare, though it is not unheard of for malicious spirits or even daring air pirates to descend on vulnerable aeronauts and sightseers. Unpredictable winds and sudden storms pose additional risks. The region’s wild creatures remain the most common danger, however. Among these are the vast groups of giant floating jellyfish that stream down from Mount Arbora from time to time. Avoiding them is easy, as their arrival is easily anticipated. However, their venomous tentacles make them quite dangerous for anyone caught among them. There are also hammer gulls that circle high overhead, ready to plunk someone with the stones they often carry in their talons. Another nuisance are vent vaulters, an ambush predator that rides thermal vents to pull birds out of the air. They usually avoid people, but can cause serious damage to gliders."
+											],
+											"name": "Airborne Dangers"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Fish folk from the Shallows remain a constant threat to the inhabitants of Sky Kite’s saltward. The town maintains a garrison near the waterfront and a handful of boats that can be deployed to drive off any raiders."
+											],
+											"name": "Threats from the Sea"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Rockwell \"Rock\" Raley (male human).} Rock is the consummate aeronaut, with his head forever in the clouds. He has a seemingly bottomless supply of energy and can’t sit still. His excitement is infectious, and he is always sharing stories of past expeditions or talking about the next one. He has an easy charm, a warm smile, and is quick to address strangers as “friend.”",
+												"Beneath his friendly demeanor is a simmering ambition. Rock is more than willing to use others and exploit his own celebrity to further his own goals, which is to get the precious ambergris rumored to remain within the Sky King’s enormous skull.",
+												"{@b Councilor Jiko (female human).} Jiko is the oldest of the five leaders that make up the town council. She’s hotheaded and brash, and she often excuses her own words with, “I call it as I see it.” She is the most outspoken against what she calls “the reckless aeronauts who want to clog the skies with their noisy contraptions.” She’s at her wit’s end with the business, and has begun entertaining means beyond the council to deter or drive off the nuisance.",
+												"{@b Olaya (spirit).} This small serpentine spirit is drawn to creativity and the thrill of a breakthrough. It is easily bored and tends to latch onto folks who demonstrate ingenuity. Olaya is normally a transparent spirit, but it becomes more opaque as it feeds off creative energy. As Sky Kite Valley buzzes with activity surrounding the expedition to the Sky King, Olaya can often be found lurking in workshops. By some, it is regarded as a kind of muse, as it has a knack for asking the right questions. Others see the spirit as an ever-present nuisance who is all but impossible to get rid of.",
+												"{@b Louise, Master Kite Maker (female human).} Louise’s expertise in kite crafting is unrivaled in all of Sky Kite. However, she hasn’t come out with a new creation in quite some time. Some speculate that Louise has retired, while others whisper that she has lost her touch.",
+												"Unknown to the townsfolk, the master kite maker was once Rock Raley’s adventuring partner, but Rock had abandoned Louise in the Crawling Canopy years ago. As long as Rock has the hearts of the townsfolk, Louise wants nothing to do with them.",
+												"{@b Holly Clintock (female human).} Holly spends most of her time in the Coastal Divers’ Lodge near Sky Kite, but she comes to town from time to time to scoop up supplies and perhaps grab a meal and a drink at the Waterline Pub. With all the would-be aeronauts in town, supplies are hard to come by these days, and Holly is becoming increasingly frustrated with the newcomers. Anyone who can help her secure what she needs could quickly become a friend. For more on Holly, see the Coastal Divers’ Lodge on page 24.",
+												"{@b Marlon, Warden of Barges (male Nakudama).} Marlon oversees Sky Kite’s locks, and it falls to him to huff and puff his way up and down the stair that runs parallel to the lock as barges pass through it. However, he is also exceedingly lazy and perpetually aggrieved by the prospect of doing any amount of work. He grumbles nonstop about his lot in life, and bemoans anything that complicates matters on the locks.",
+												"{@b Rufus and Mal, Caretakers of the Waterline Pub (male and female human).} The brother and sister duo who currently operate the storied pub have run into a streak of good fortune with the recent boom in the city. They had run the pub into the ground in little less than a year and had been only days away from notifying the pub’s owner that the Waterline would have to close its doors. But that’s when Rock Raley showed up and instantly made the Waterline the place to be once again. The siblings now intend to ride out the success for as long as possible. Rufus is one of Rock’s most sycophantic allies, and Mal has even gone so far as to spread rumors that Councilor Jiko is a corrupt official.",
+												{
+													"type": "inset",
+													"name": "Faction Presence",
+													"entries": [
+														"The couriers have a base in the Saltward, where they maintain a small fleet of boats. They also run a small shop that outfits repair kits for both the ships’ canvas sails and the lantern currently kept in Yatamon.",
+														"Sky Kite Valley is the closest settlement to the northern lodge of the Mariners’ Guild, so it’s somewhat common for members of the Mariners’ Guild to pass through the city on their way there.",
+														"Even the local chapter of the Young Stewards is being swept up in the race to the clouds. Kite building has been a central feature of the local stewards, but now it has taken on a competitive dimension, complete with kite races.",
+														"The Patchwork Robe Coven, which makes its headquarters in Sky Kite Valley, now also has a storefront in the Skyward, which is almost exclusively dedicated to the mending of gliders. Behind the counter of their shop, a dozen or so witches, each with dozens of sewing needles hovering about them, furiously work to keep up with the demand for repairs."
+													]
+												}
+											],
+											"name": "NPCs"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b The Waterline Pub.} The drinks are adequate and the food leaves much to be desired, but the old pub is a favorite gathering place for anyone interested in the art of gliding, or—in recent days—flight. Patrons tend to file into the Waterline to grab a drink and witness the day’s test flights. The balconies that surround each of the pub’s four stories offer an unobstructed view of the dozen or so flight attempts that occur each day from the rooftop launch site—a thermal vent beneath the pub that has been harnessed and funneled to the roof.",
+												"{@b Rock's Workshop.} The center of the Skyward boasts an enormous hangar that Rock Raley and his crew have taken to be their workshop. The team has been hard at work planning and fabricating the vessel in which they intend to ascend to the Sky King. During the day, crowds gather at the entrance, hoping to catch a glimpse of the adventurer himself. Those who bear an invitation from Rock are welcome to enter the workshop and hang out, giving the place the air of an exclusive club. Others watch inward from an exterior rope that keeps the crowd at bay near the entrance of the hangar.",
+												"{@b Ember's Kite Shop and Rentals.} There’s no shortage of kite and glider shops in town. Some boast of selling the highest quality products, while others claim the honor of being the oldest. Only Ember claims to be the town’s friendliest kitemonger. Her shop is located in a charming warehouse building on the lock in the Skyward. Ember wants her customers to feel taken care of, especially the ones who don’t know their way around a kite or glider. That’s why she’s the only shop who offers rentals. She’s even willing to close the shop if business is slow to teach novices.",
+												"{@b The Locks.} Sky Kite is trisected into the south, central, and north city sections by the multi-stepped locks that allow boats to bring cargo from the sea all the way up to the highest reaches of the Skyward. The stair that runs parallel to the locks from top to bottom is a popular tourist attraction for those who like to watch the boats come and go. The warden of barges oversees the locks from the squat, round tollhouse on the waterfront at the gate of the lowest lock. Occasionally, fishfolk sneak into the locks and conduct raids in the town’s interior."
+											],
+											"name": "Points of Interest"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Glider Race.} A glider race is set to take place as the capstone event of a kite festival. It’s a team event, where participants use the updrafts provided by thermal vents to speed across the Land of Hot Water. Each participant has their own glider. To win, an entire team must cross the finish line before other teams do so. The size of the teams should match the number of players. This race has its complications, however. Strong wind could push racers out to sea or up against the slope of Mount Arbora. A bunch of hammer gulls might show up and begin dropping stones on the gliders from high in the air, forcing several gliders to crash land. Whatever happens, the adventurers and another team find themselves stranded together.",
+												"{@b Sabotage.} Councilor Jiko has taken matters into her own hands to thwart the upstart aeronauts who she believes have taken over her town. Her assistant has reached out to find willing saboteurs to pay a visit to Rock Raley’s workshop and make their contraptions disappear. This adventure could go in one of two ways:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"The adventurers are enlisted as the saboteurs and must figure out how to sneak into Rock Raley’s busy workshop and complete the mission.",
+														"Air pirates successfully made off with some crucial plan, and the adventurers are recruited by Rock Raley or a group of aeronauts to recover what was stolen. The pirates have a stronghold on the western slope of Mount Arbora."
+													]
+												},
+												"{@b Refugees from Polewater.} Two fisherfolk—Gav and Anders (male humans)—have been hanging around the Saltward and in the Waterline Pub where they pester strangers for news out of the village of Polewater on the east side of the island. They are refugees from that village and have been unable to return since the tsunami hit the island several months ago. They’ve attempted the voyage several times on their own boats, but have been forced to return because of attacks from particularly aggressive fishfolk. They are desperate to get home, or at least for any hint of news. When the pair sees the adventurers, they approach with hopeful eyes. For more on the events in Polewater, see page 85.",
+												"{@b Names in the Lock.} After a night of restless sleep, the adventurers are approached by a courier who gives them a summons from the warden of barges to come to the locks. Waiting at the locks is Marlon, the warden, who hands them a small cylindrical case. He explains that it was found today in the topmost segment of the lock, which had been drained to address a malfunction. Inside the case is a spindle of ivory, and on the spindle are written the names of each adventurer along with the name Ferris Skyright and Marlon himself. Marlon demands to know the meaning of this, and enlists the adventurers to find the connection. He would do it himself if he wasn’t so busy. The restless sleep continues until the adventurers determine what’s happening.",
+												"{@b Below the Shallows.} This is one of the adventures included in this book (see page 351)."
+											],
+											"name": "Adventure Hooks"
+										}
+									],
+									"name": "Sky Kite Valley"
+								}
+							],
+							"name": "The Land of Hot Water"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"Towering majestically over Obojima, Mount Arbora stands as the island’s most sacred peak and as its mystic sentinel. Its snowcapped summit is visible from every corner of the island, an ever-present reminder of its ancient power. From these icy heights, meltwater cascades down in shimmering rivulets, weaving through the island’s lush forests and fertile plains. Each of these rivers is inhabited by an elder spirit from whom the rivers each get their names. These rivers nourish the land, earning Mount Arbora the reverent title of “Obojima’s beating heart”.",
+								"But the mountain is more than a life source; it is a realm of awe and peril. Its rugged slopes are shrouded in mystery, cloaked in thick mists and treacherous crags. Legends speak of the mystical energies that course through its mineral-rich veins, infusing the mountain with a potent magic that both attracts and repels.",
+								"Beneath its serene exterior, Mount Arbora harbors untold dangers; massive creatures, believed to be remnants of a primordial era, roam its slopes. These titanic beings, both feared and revered, add to the mountain’s enigmatic allure. Few dare to venture into their dominion, but those who do seek the mountain’s deep secrets and the power said to lie within its hallowed peaks.",
+								{
+									"type": "table",
+									"colLabels": [
+										"d12",
+										"Wandering Encounter"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-10"
+									],
+									"rows": [
+										[
+											"1",
+											"Gentle Guide. Depending on your location on the mountain (above or below the tree line), you encounter either a dryad* or a peaceful spirit that looks like a boulder. They offer cryptic guidance or a minor boon if treated respectfully."
+										],
+										[
+											"2",
+											"Pesky Spirits. A band of mischievous fire spirits attempt to play tricks on the party. They may burn items, lead the party astray, or cause minor illusions."
+										],
+										[
+											"3",
+											"Avalanche! On a successful DC 12 Wisdom ({@skill Perception}) saving throw, the party hears the sounds of rocks and/or snow beginning to rumble, signifying an impending avalanche. A series of skill checks must be made to avoid imminent disaster!"
+										],
+										[
+											"4",
+											"Ancient Guardian. An awakened tree or spirit boulder blocks the path and demands to know who is treading on the sacred slopes of Mount Arbora. Some Charisma checks and roleplaying are in order to go beyond the stubborn yet wise guardian."
+										],
+										[
+											"5",
+											"Runic Stone. The party stumbles upon a glowing runic stone. Whoever touches or interacts with the stone gets put into an altered state where they come face to face with an elder spirit that may or may not be the spirit of Mount Arbora. After some roleplaying and skill checks, they may be granted a temporary magical boon."
+										],
+										[
+											"6",
+											"Snowstorm. A sudden, magical snowstorm engulfs the party. Visibility drops and navigation becomes challenging. Monsters adapted to the cold might take advantage of the party’s disorientation."
+										],
+										[
+											"7",
+											"Treasure Hunter. An eccentric treasure hunter from Toggle offers to trade information about hidden treasures on the mountain in exchange for assistance with a dangerous task. The prospector could be an ally or a secret foe who wishes to lead the party into peril."
+										],
+										[
+											"8",
+											"Frozen Clue. What looks like a person can be seen, frozen in the glacial ice. The frozen adventurer may hold a vital clue, magical item, or be revived through powerful magic to share tales of their journey."
+										],
+										[
+											"9",
+											"Snowball Fight! A group of snowball spirits greet the party. Will it be a friendly encounter or a snowball fight?"
+										],
+										[
+											"10",
+											"Find My Percy! A distraught and exhausted farmer pleads with the party to find their pet snowshoe pig, Percival. Some clever tracking can lead the party to Percival, but it also may lead them to a monster tracking the pig as well!"
+										],
+										[
+											"11",
+											"Hunters are the Hunted. The party begins to be tracked by a hill dragon that has taken to the mountain slopes in search of prey."
+										],
+										[
+											"12",
+											"Blood of the Mountain. In a small cave on the mountainside is a clear pool of water. Drinking from it could heal, provide visions, or mark someone for one of the great beasts such as the Sky Salamander or the Hunter."
+										]
+									],
+									"caption": "Wandering Encounters"
+								}
+							],
+							"name": "Mount Arbora"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"This small settlement on the southern slope of Mount Arbora is unique in that spirits don’t go near it. Whether they refuse to or simply can’t remains a subject of debate, though the most widely accepted theory credits the weather worn stone statues that ring the village. Whatever the reason, it must also be noted that the Graysteps has no parallel in the Spirit Realm.",
+								"The village is populated by folk who want to, as the locals say, “live in quiet”. To travelers passing through the village, it can come across as cold, its residents a bit standoffish. The truth of it is that a palpable suspicion for all things relating to spirits hangs heavy in the air. Spirit mediums and clairvoyants live here to calm the constant noise from the spirit world. People visit the Graysteps either as refuge against malevolent spirits, or to find specialists and items to help them deal with spirits.",
+								"Getting to the Graysteps isn’t always an easy journey. Where Mount Arbora rises up from the Gale Fields, there is a narrow path—a winding stair—cut directly into the mountainside. Those who manage the ascent eventually come to a tunnel that opens onto a sheltered vale where the Graysteps stands. Snow blankets the village for much of the year, but travelers who arrive when the snow has melted will see the green and black tiled rooftops arrayed in the pattern of an eye.",
+								{
+									"type": "inset",
+									"name": "Tone/Vibe",
+									"entries": [
+										"Remote, cold and wintery, close-knit, and suspicious"
+									]
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Many Obojimans aren’t aware of the Graysteps, but those who do typically regard it as an out-of-way village filled with ornery folk. Spirits know enough to stay away from there."
+									],
+									"name": "Reputation"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The oldest structures in the Graysteps are the five thirty-foot-tall statues that surround the village like great standing stones. They are known as the Statues of Warding and Welcome, or simply “the statues”. They resemble people, but with two fronts: one that faces outward depicted with a shield, and another that faces in toward the village, with arms outstretched in a gesture of comfort. In addition to the theory that they are the reason that spirits don’t come to the Graysteps, they serve as mausoleums for the village’s dead."
+									],
+									"name": "Mausoleum Statues"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Protection of the Graysteps falls to a small guard force called the Watchers. Though their main purpose is keeping spirits away, they mostly spend their time driving off monsters that wander down from the mountain. There are six watchers, five to parallel the five statues that surround the village, and one captain."
+									],
+									"name": "The Watchers"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"When a villager dies, their body is encased in red clay and placed inside one of the mausoleum statues. This tradition has been kept by the people of the Graysteps for centuries and is rooted in mutual agreement made by those who have chosen to live here. In times of need, the village can call upon the dead housed within a Statue of Warding and Welcome to awaken as a kind of golem to aid the village.",
+										"Though the people here keep this tradition, it is not a practice they reveal to outsiders. They believe that, if revealed to the rest of the island, they would be condemned and undone."
+									],
+									"name": "Unlikely Defense"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"{@b Phent, Village Elder (human male).} The leader of the small village is the charismatic Phent, an older man with a warm, folksy manner. He is overly complimentary to everyone, but talking to him for any length of time reveals his disdain for spirits. He’s somewhat new to his position as elder, and his tenure is defined by his campaign to safeguard the Graysteps from what he calls “encroachments” from the Spirit Realm. The Corruption is just the latest example of “spirit shenanigans,” according to Phent’s most recent refrain.",
+										"His contempt for spirits is deeper than the villagers know. The cellar in his home has a secret chamber where he keeps a bound spirit captive. The spirit was tainted by the Corruption, and with prodding from Phent, has lost itself to madness. Once its fully gone through its transformation to demon, Phent plans to set the spirit loose in the town of Toggle in order to foment more fear and paranoia about spirits amongst the people.",
+										"{@b Stout Crumm (male elf).} Short, stocky, and silent, Stout Crumm is a fixture in Murgin’s Tavern. It’s rumored that she was one of the Rangers of the Greenward Path who were among the first to encounter the Corruption. But you won’t readily hear it from her because she doesn’t say anything beyond the occasional grunt or snort. Most of the time, she communicates by scrawling on a slate with a piece of chalk. Only folks who buy her a drink can inquire about her experience with the Corruption.",
+										"Before she was marked by the Corruption, Crumm was known as an accomplished warrior, and she is a champion that can be challenged to earn a sword school signet.",
+										"{@b Grimcloak (female human).} The wizard known as Grimcloak runs a small arcana and curio shop in the cellar of Murgin’s Tavern and Inn. He has only been in the Graysteps for a few months, but he has established a reputation for his ability to reverse curses and hexes, particularly those associated with spirits. He has a short, wild black beard and a faded blue patch over one eye. Even indoors, he wears his hooded brown cloak. He speaks in hushed tones and his sentences tend to trail off.",
+										"He also carries a secret. Grimcloak is a disguise—a complete fabrication. If the old wizard were to remove his robe, he would revert to Nuharo, a fourteen year old human girl who apprentices with the Cloud Cap Coven. Her entrepreneurial spirit led her to set up shop in the Graysteps, and, so far, no one knows her true identity. The only thing she and Grimcloak share aside from magical talent is the eyepatch. Grimcloak/Nuharo uses the witch stat block.",
+										"{@b Patcher.} The current captain of the Watchers is a boisterous teller of tall tales known by the villagers only as Patcher. When he’s not making his rounds patrolling the perimeter of the village with the other Watchers, he can usually be found in his modest watchtower dwelling at the north end of the Graysteps. As captain of the Watchers, Patcher possesses the Rod of Awakening, a magical length of iron that gives him the ability to animate the dead within the village’s mausoleum statues."
+									],
+									"name": "NPCs"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"{@b The Way Gate.} Approaching the village from the mountain stair, travelers must first pass through the Way Gate, a tunnel that cuts straight through the rock face. The tunnel was bored by Nakudama in the time of the monarchs. Though its purpose has been lost to history, it remains a testament to the stonecarving prowess of that civilization, for within it, the walls and ceiling are all covered in a continuous bas-relief rendition of a royal procession through curling clouds.",
+										"The tunnel is approximately 120 feet long, and large enough for a cart pulled by two horses to pass through. The Watchers patrol the tunnel, but even so, monsters often nest here when the snow is deep outside.",
+										"{@b Murgin's Tavern and Inn.} The only tavern in the village is crowded most nights with locals. The occasional travelers that visit invariably end up here, and not only because it serves as the inn, but also because Murgin’s is famous for its perfect baguettes. The tavern keeper, affectionately called “the King” by locals, makes the baguettes himself each night, and he likes seeing the delight on peoples faces as they enjoy the meal he’s prepared.",
+										"The tavern’s main room has three hearths around which rustic wooden chairs are arranged. The place is often smokey and the air thick with the smell of earthy spices. A two-story wing branches off from the main room containing six rooms for guests."
+									],
+									"name": "Points of Interest"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"{@b Crash Across The Mountain.} An avalanche from high on the slopes of Mount Arbora overcame two of the village Watchers while traversing the mountainside. Patcher can’t abandon his post, so he has asked the adventurers to travel alongside the remaining Watchers and conduct a recovery mission.",
+										"{@b Sheep in Wolf's Clothing.} A spirit known as the Horned Wolf was spotted at the edges of the town on the same day that a villager has gone missing. Phent blames the spirit and asks the adventurers to drive it off or kill it. However, when the adventurers meet the spirit, they’re quick to discover that its cub is also missing."
+									],
+									"name": "Adventure Hooks"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"{@b Fiendish Origins.} Though few villagers want to talk about it, AHA academics have suggested that the mausoleum statues are a vestige of the demon tyrant from the Age of Nakudama."
+									],
+									"name": "Legends"
+								}
+							],
+							"name": "The Graysteps"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"High on the western slope of Mount Arbora is the lair of the Sky Salamander, one of the great beasts that circle the skies of Obojima. The Sky Salamander patrols its mountain territory and casts a shadow on any farmer who takes the risk to graze their cattle on the wide, verdant slopes of the great mountain. Although the slopes are the salamander’s domain, it’s a risk many are willing to take, as the grasses are said to contain the mountain’s magic, making any cow, sheep, or goat that grazes there fat and happy.",
+								{
+									"type": "entries",
+									"entries": [
+										"Near one of Mount Arbora’s low mountain peaks, where the sky salamander makes its lair is an outcropping of rock known as the Ledge of Offerings. Throughout the centuries, people have come here to leave offerings to the sky salamander for varying reasons. Many farmers make the pilgrimage up the steep trail in hopes of appeasing the giant beast or to ward off its hungry eyes from their cattle. But there is no evidence that the salamander takes their tokens into account as it still seems to enjoy nothing more than devouring a plump and ponderously slow cow.",
+										"Others make the journey to the ledge, for less practical reasons, making the trek to the Ledge of Offerings to ask for the salamander’s strength, believing wholeheartedly that simply being in the presence of the great beast will imbue power and wisdom.",
+										"But most who have witnessed or heard stories of the salamander’s devastating power believe that braving such a journey only gets one perilously close to the salamander’s bone-crushing jaws."
+									],
+									"name": "The Ledge of Offering"
+								},
+								{
+									"type": "inset",
+									"name": "Tone/Vibe",
+									"entries": [
+										"Mystifying, Grand, Humbling"
+									]
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The Sky Salamander is fairly well-known throughout Obojima and most islanders have heard of it.",
+										"Anyone who lives near the Sky Salamander, especially the Rockwinders (see below), knows that it has good days and bad days. On its good days, it is a splendid sight soaring through the clear mountain air—a true symbol of Mount Arbora’s awe and majesty. On the days when it is grumpy, the Sky Salamander can be an indiscriminate and savage predator that goes out of its way to take the largest and most succulent of all the herds that graze in Arbora’s foothills."
+									],
+									"name": "Reputation"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"There is a small village on the western side of Mount Arbora called Dorrin, where a group of people known as Rockwinders have lived for generations. These sure-footed people have traditionally been hired as guides for those wishing to traverse the mountain or for those who wish to make the dangerous journey to the Ledge of Offering and pay homage to the Sky Salamander, who the Rockwinders call Jumaga. The Rockwinders also act as guardians of the Ledge—keeping curious fools and reckless thrillseekers from getting themselves killed, as well as keeping desperate thieves from looting the mounds of treasure that lie exposed on the grassy cliff face.",
+										"The Rockwinders also protect Jumaga from people and protect people from Jumaga. They know the patterns and warning signs of the Sky Salamander—they can predict its moods and see to it that travelers don’t unduly put themselves in harm’s way."
+									],
+									"name": "Rockwinders"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The Sky Salamander is one of the great beasts that reside on the island. The Rockwinders say that of the three—the Hunter and the Sky King being the other two—Jumaga is the youngest, so if you were able to speak with a spirit that is old enough, they may even recall the day Jumaga arrived on the island.",
+										"Though Jumaga isn’t overly aggressive to those living around the base of the mountain, only swooping down on the rare occasion to take the errant cow or goat, it is very territorial. It has kept dominance in its small slice of Mount Arbora for centuries and has recently gained a reputation for being the bane of the aeronauts and glider pilots from Sky Kite Valley."
+									],
+									"name": "The Sky Salamander"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"{@b Jeelah (female human).} Jeelah is a Rockwinder and one of the best guides in Dorrin and recently has gained a heroic status as the only Rockwinder to have gotten close enough to Jumaga to actually touch it. Though she is grateful for the experience and is enjoying the attention, she also sees the Sky Salamander as immensely sacred and wishes to be respectful of the great beast. Because of this, she rarely talks about her experience.",
+										"{@b Karmajin (male human).} Karmajin is the least scrupulous of the Rockwinders, being one of the few who have traveled outside of the village. Though Karmajin was born in Dorrin, he spent his early years traveling the Gale Fields in a merchant’s caravan. When he returned to the village several years later, he was met with open arms but has since left a bad impression on those who took him in.",
+										"He’s now gained a less trustworthy reputation, as the Rockwinder most willing to lead an expedition of thieves to the Ledge of Offerings.",
+										"Though Karmajin’s tolerance for rapscallions and ne’er-do-wells is much higher than the average Rockwinder, he is very superstitious, so he won’t do any looting for himself. He would, however, be more than happy to take a cut from the ill-gotten gains stolen by others."
+									],
+									"name": "NPCs"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"{@b Ledge of Offering.} Those who travel to the Ledge of Offering bring a variety of gifts to be left to the Sky Salamander, which is why at any given time the plateau is likely to be filled with valuable items unusable by the creature they’ve been gifted to. From gold flowers to First Age trinkets, the ledge sees it all.",
+										"{@b Roost.} Nestled in the tree-covered heights of the mountain which overlook the Ledge of Offering, is a giant woven nest not too dissimilar to that of a bird. It’s in the location where the Sky Salamander rests its heavy head. Scattered across the lush forest and strewn about the rocky cliff faces surrounding the sky salamander’s roost, is the cattle graveyard that it has crafted over the hundreds of years it has called this roost its home. Though a fresh cattle carcass can be concerning, most have been overgrown and covered by blankets of bright green moss and vibrant flowers which seem to bloom year-round.",
+										"{@b Dorrin.} The village of Dorrin has called the western slopes of Mount Arbora home for centuries. It’s an unlikely settlement that has uncomfortable living conditions, to say the least, but the small group of 100-plus islanders that live there have done so for generations. Until recently, the village’s main source of trade came when outsiders desired a guide up the mountain. Now, after the discovery of the Dorrin Plate and its potion-brewing qualities, the village has turned its attention to the new commodity as it has drummed up quite a bit of trade and visitation to the small mountain town."
+									],
+									"name": "Points of Interest"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"{@b Cry From Above.} A distant cry for help can be heard overhead as the adventurers witness a member of the Young Stewards being carried off by the Sky Salamander. As the great beast swoops down low, the young steward pries free from its grasp and is dropped and left abandoned somewhere in the wilderness of Mount Arbora.",
+										"{@b Legendary Loot.} While the Ledge of Offering is considered a sacred site by the locals, there are those less scrupulous folks who, after a few ales, begin to whisper about some of the more valuable offerings rumored to have been left up there on the ledge.",
+										"Many would-be plunderers are kept away by the tales of the sky salamander swooping down to pluck a hapless traveler off the mountainside, and those who don’t fear the salamander shudder at the thought of being cursed after stealing sacred offerings. But there are some who are slowly working up the courage as rumors continue to spread of treasures being left there that would make the most devout monk break their vow of poverty."
+									],
+									"name": "Adventure Hooks"
+								}
+							],
+							"name": "Jumaga's Roost"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"On the eastern slope of Mount Arbora sits Toggle, a mining town built into the sides of a man-made canyon, dug out of the bedrock in the shape of a giant “X” over centuries of mining. The canyon mines have long since run dry and the empty mine shafts were renovated so they could be occupied by the two hundred or so people who currently call Toggle their home. Many of these occupants are miners who work all over the mountainside, but some occupants are merchants and artisans who set up their shops in the town center and serve the passing travelers and traders who come to Toggle.",
+								{
+									"type": "inset",
+									"name": "Tone/Vibe",
+									"entries": [
+										"Close Community, Unique lifestyle, Celebratory, Holds onto Tradition"
+									]
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Toggle’s town center, or the “Crossroads in the Canyon”, is filled with workshops, storefronts, and a bustling market where all kinds of metal goods, crafts, weapons, armor, and jewelry are made and sold. Each of the four streets of Toggle’s famous crossroads has a tavern that serves the populace day and night."
+									],
+									"name": "The Crossroads"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The townfolk of Toggle or “Togglers”, as they are known, are tough, no nonsense folk who speak directly and seldom conceal their thoughts when they arise. They have little use for pomp and festivals and prefer to celebrate in the taverns after a hard day’s work. One thing they do love is singing, and it is not uncommon that a spontaneous singing competition breaks out and a crowd gathers to applaud and shout out their favorite."
+									],
+									"name": "Togglers"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The miners of Toggle are proud to carry on the tradition of their forebears even after the ancestral mines ran dry. New claims are a fairly recent development, and only the Miner’s Code keeps these independent miners from squabbling for new mining space. Some say that Toggle is at the end of the boom, but others say the next boom is just around the bend.",
+										"During the day, Toggle’s hundred or so miners leave for their claims that are staked on the mountainside. Once at their mines, the miners wake up their various spirit companions, many of which sleep within copper lined cylinders on their belts. Known by the miners as a “light bunny”, these handy companions are used for igniting their headlamps and finding veins of ore within the mineshaft.",
+										"At dusk, they return to their favorite taverns where drinking and singing go well into the night. Even the most obvious outsider in Toggle will earn a clap on the back from the most hardened miner if they have a voice of gold. If you can sing, you can get respect."
+									],
+									"name": "Of Miners and Mining"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"If someone does something that the community feels crosses the line or breaks the Miner’s Code, like stealing another’s spot in the mines, the townsfolk have crafted a fitting punishment known as “getting Toggled”, which is short for being hogtied and thrown into a minecart that’s sent down the side of the mountain, off a ramp, and jettisoned into the woods."
+									],
+									"name": "Getting Toggled"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"In Toggle, people prefer to pay in chunks of metal ore in place of flowers and petals. All merchants are happy to accept copper buds, sea petals, and dawn flowers, but ingots are the local currency and another sign of the fierce independent streak in Togglers."
+									],
+									"name": "A Special Currency"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The mines of Toggle have more than just gems and ore inside them, they are also the home to many dangerous creatures.",
+										"Slaggers are bulbous, stone balloons that float through the caverns. Each with a menacing face and stony, gray skin like cooling magma. Because they are territorial and moody, anyone entering the mine will usually encounter a slagger and have to pay homage by giving it a shovelful of coal. If a slagger is not appeased, it can cause collapses or melt the steel of the mine cart rails, picks, and shovels.",
+										"Drumbellys are also a common occurrence within the mines. Because of a drumbellys attraction to rhythms, miners have learned to hit their picks and hammers in odd intervals to prevent attracting one."
+									],
+									"name": "Denizens of the Mines"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"{@b Duro and Garo (male daras).} Duro and Garo are dara forgemasters who, in the last decade, have made a name for themselves amongst crafters and creatives across the island. The pair invented a special forging technique with which they inscribe glyphs of knowledge into heated metal before folding and pressing it. In this special technique, known as “glyph folding”, the duo can create incredibly durable ingots and objects by layering numerous glyphs while forging.",
+										"The two will sporadically sell their glyph-folded metal in the form of ingots or tools and will rarely take on custom work. But the pair is always interested in a curious job and are more inclined to take you up on a query if they find it amusing.",
+										"{@b Johnny One-Eye and Thugg (human male & spirit).} Ever since Johnny One-Eye lost his eye, he’s turned even meaner and become a bit of a bully. His father, Rhemus Grood, was one of the most successful miners that Toggle has ever produced, and Johnny has never lived up to his father’s legend. But since Johnny has inherited all of his father’s mines, he does well simply renting them out and collecting half the haul of ore.",
+										"If anyone steps out of line, Johnny’s companion spirit—a hulking blob of swirling onyx smoke named Thugg—steps in to make sure there’s compliance.",
+										"{@b Isabel Skiff (human female).} Isabel is a high-society AHA member who is looking for a rare gemstone known as a dragon’s fist, that is, according to her research, said to only grow in the eastern region around Mount Arbora. The only dragon’s fist gemstones ever to be unearthed have all been excavated in and around the mines of Toggle. Isabel is well funded and has the most up to date gem hunting equipment which also has the effect of making her stick out like a sore thumb. But despite her city-born manners and dapper clothes, she is earnest in her desire to roll up her sleeves with the miners and show any and all that she can dig with the best of them—and find AHA a dragon’s fist while she’s at it.",
+										"{@b Tetsuri (human male).} Tetsuri is a corrupted ranger, who in the last few weeks has been hiding their identity as a new face in Toggle. During the initial incursion of the Corruption, Tetsuri was infected and fled his village to avoid potentially infecting those he loved. Weakened and desperate, Tetsuri made a deal with Venomous Rex who slowed Tetsuri’s Corruption using stonefish venom. Now Tetsuri is hooked and to get more doses of the rare venom, acts as Venomous Rex’s underling. Currently, the ranger is waiting for Holly to come to Toggle so he can kidnap her and take her to Venomous Rex’s headquarters. If Tetsuri hears the party talking about Holly, the Pointue, or tracking down Duro’s golem, Tetsuri will attempt to befriend and assist the party, waiting until the time is right to strike.",
+										{
+											"type": "inset",
+											"name": "Faction Presence",
+											"entries": [
+												"Isabel Skiff is looking for a dragon’s fist gem and, unless she finds anything else of note, plans to leave after she’s done it.",
+												"Because of trade, the Courier Brigade has a larger office here where they receive and send ingots and ore far and wide.",
+												"The Young Stewards occasionally stay at an inn in Toggle as they explore Mount Arbora."
+											]
+										}
+									],
+									"name": "NPCs"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"{@b The Four Paths.} The four paths of the crossroads are the four major streets within Toggle, which meet at the center of town. Named after the cardinal directions, each path has its own theme and variety of goods or services that it is known for.",
+										{
+											"type": "list",
+											"style": "list",
+											"items": [
+												"The Northern Path mostly deals in raw materials—iron, copper, nickel, and rare metals like gold and zinc ore. They also sell fabulous raw gemstones that the miners find while hunting in the caves.",
+												"The Southern Path deals in shipping and transporting all the goods that Toggle produces, and the street is lined with miners sending or receiving goods from the Courier Brigade, whose office is here running day and night.",
+												"The Eastern Path is where the smelters refine the raw ore and fashion it into ingots. The smelters here are also known to cast metal objects and sculptures, or make alloys with refined ores.",
+												"The Western Path is where forging and metal fabrication occurs, hence it is aptly named “Clanging Alley” with all the sounds of the smithies hard at work making their weapons, armor, tools, and other works of art amid a merry and constant clang of steel on steel."
+											]
+										},
+										"{@b The Toggle.} The Toggle is a massive metal lever that controls the flow of a small river that runs parallel to the town. Switching the Toggle one way directs some of the water to a power hammer known locally as Iddy Biddy. Pulling the lever the other way channels the water down a steep water flume which the Courier Brigade uses to send packages down the mountainside.",
+										"{@b The Iron Ore.} The Iron Ore is Toggle’s most popular inn. Located along the Northern Path, the Iron Ore is a giant, open floor A-frame feast hall and home to the famed power hammer Iddy Biddy. The barkeep and proprietor, Moko-Ji, is a retired Nakudama miner who has turned the Iron Ore into a kind of museum of mining and minerals. He has hung all his various pieces of mining gear, including his most epic finds which are all on display throughout the inn."
+									],
+									"name": "Points of Interest"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"{@b Mission to Toggle, Continued.} If the adventurers accepted Holly’s quest to find the forgemasters of Toggle, they arrive to find Duro and Guro lacking the metal Holly requested. The two explain that it is quite difficult to craft a metal of that quality, and in the weeks leading up to the adventurer’s arrival, they failed to produce said metal several times. They do, however, offer a solution.",
+										"Long ago, Duro and Garo built a metal golem out of ingots of glyph-folded steel that had been folded two hundred times—the most they had ever done. The metal alone was of an alloy so magical that the golem gained sentience and wandered off. The golem was last sighted in the Brackwater Wetlands without a spot of rust on its gleaming armor. If the adventurers could retrieve the golem, its chest plate could be reforged to fit Holly’s specifications.",
+										"{@b Missing Spirit.} A young miner has lost his companion spirit in one of the copper veins. The light bunny jumped inside one of the walls to hunt for ore and never returned. He’s offered all that he has to see his companion returned safely."
+									],
+									"name": "Adventure Hooks"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"{@b Clove.} Every veteran miner has a spine-chilling story about Clove, a legendary drumbelly that lurks in the miles of tunnels dug into the side of Mount Arbora. Every miner who claims to have survived an encounter with Clove (and the number is few) all say that they smelled something very odd just before they were attacked—the sweet smell of cloves."
+									],
+									"name": "Legends"
+								}
+							],
+							"name": "Toggle (The Steelwork Town)"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"In the heart of Obojima lies the Gale Fields, a sweeping expanse of towering grasses that sway and undulate in the breeze. In some places, the grassland seems to breathe with life, and in other areas the grass looks like plants from an ancient seabed transformed into a fantastical terrain.",
+								"Although many of the roads were forged by the Courier Brigade to ensure safer passage for their knights, the oldest of the roads are thought to be the last remaining remnants of the ancient Nakudama city Lilywin. These roads are maintained and used by the Courier Brigade to this day, but they are also traveled by the daring or desperate, as these roads offer little protection from the many dangers that lurk in the grasses—a host of fearsome monsters that make the Gale Fields their hunting ground.",
+								"But amid this wild, open space there are communities that thrive. The nomadic Stiltwalkers are among the more intriguing. Stiltwalkers have adapted to the Gale Fields’ unique challenges, walking high above the grass on stilts as do their tall, mobile dwellings, striding along on 12-foot tall poles. In this way, a Stiltwalker village can move several miles in a day. Most everyone who lives in the Gale Fields has learned to exist in harmony with the beasts that inhabit the fields, but there are ancient spirits here too, strange entities that guide or mislead travelers.",
+								{
+									"type": "table",
+									"colLabels": [
+										"d12",
+										"Wandering Encounter"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-10"
+									],
+									"rows": [
+										[
+											"1",
+											"Howlers. 2d4 Howlers begin to stalk and encircle the party. You can announce their presence by having the party hear their howls over the swishing of the wind through the grass or have the encounter be an ambush."
+										],
+										[
+											"2",
+											"Lethal Trickster. During the daytime, a monster that can make a cry like a small child tries to pull do-gooders off the path and into the tall grass."
+										],
+										[
+											"3",
+											"Stiltwalker Nomads. A group of 1d6+1 Stiltwalker nomads offers trade and tales of the Gale Fields. They have unique items, are knowledgeable about the safest routes, know hidden paths, have a quest or two, and may offer to have the party stay a night in one of their stilt houses."
+										],
+										[
+											"4",
+											"Gale Spirit. A spirit emerges from the tall grass. They could offer guidance, reveal a hidden path, ask for help, or lead the party into deeper danger."
+										],
+										[
+											"5",
+											"Ambush! 1d4+1 bandits (use bandit* stat block) are lying in wait within the tall grass. They attempt to ambush the party for valuables."
+										],
+										[
+											"6",
+											"The Crawling Canopy. The party encounters the Crawling Canopy. You could have them see it from a distance—oddly out of place in the Gale Fields. The forest could be moving or stationary for the time being. The forest could also engulf them as they camp in the Gale Fields (this could start the adventure in this book titled Lost Within the Crawling Canopy)."
+										],
+										[
+											"7",
+											"Howls of Pain. A lone, injured howler crosses paths with the party. It’s desperate and dangerous. It might have got separated from its pack or banished or it could all be a clever ploy."
+										],
+										[
+											"8",
+											"Witchcraft at Work. A witch from the Fish Head Coven has found a massive skeleton. They don’t know if it is a dragon or some ancient megafauna but they are trying to figure out how to unearth it. Once they do, they will try to animate it."
+										],
+										[
+											"9",
+											"Bugung the Smusher. Bugung the Smusher is a spirit with an ego the size of Mount Arbora. Bugung is looking to eat some gophers, but Bugung is hungry so, at this point, pretty much anything will do."
+										],
+										[
+											"10",
+											"Wind Eels. A school of wind eel spirits pass around the party, floating on the breeze. They’re generally harmless but they have been known to gnaw holes in stone buildings."
+										],
+										[
+											"11",
+											"Dandelion Spirits. The wind blows dandelion fluff spirits that get everywhere. The spirits are having the time of their lives. Some are small enough to tickle nose hairs and make an adventurer sneeze."
+										],
+										[
+											"12",
+											"Hidden Village. Expertly camouflaged in the tall grass is a hidden village of people who have lived here for generations. They can provide food, shelter, and information about the area. They also may have need of things from outside the Gale Fields and ask for the party’s assistance."
+										]
+									],
+									"caption": "Wandering Encounters"
+								}
+							],
+							"name": "The Gale Fields"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"The wilderness of the Gale Fields is home to the domain of the Fish Head Coven, a powerful and secretive league of witches. Their domain is dotted with their arcane geoglyphs and stone cairns. Its boundaries are marked by a magical hedgerow that alerts the leaders of the Fish Head Coven when someone crosses it. Gatehouses at the four cardinal directions are built into the hedgerow, each one garrisoned by a trio of witches.",
+								"Those who make the journey to the domain usually do so in search of ingredients they might purchase or to seek the counsel of a particular witch whose expertise in a specific corner of arcane knowledge can’t be found elsewhere on the island.",
+								{
+									"type": "inset",
+									"name": "Tone/Vibe",
+									"entries": [
+										"Witchy, Academical, Focused, Mysterious, Closed Off"
+									]
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Most folks on Obojima have no reason to consider this place at all other than it being a source of strangeness. But to those who practice magic, the domain of the Fish Head Coven is quite polarizing. Members of other covens might admire or resent the most powerful coven’s seat of power, but most witches envy the arcane secrets they’re certain must be housed there."
+									],
+									"name": "Reputation"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"At the heart of the domain, the coven makes its headquarters in a set of three brick towers connected by bridges. This is where witches of the Fish Head Coven have been known to gather for over a century, exchanging information, brewing potions, and occasionally inducting new members into the coven."
+									],
+									"name": "The Witching Tower"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The comings and goings of the Fish Head Coven are orchestrated by the Council of Three and Thirty. At any given time, a trio of powerful witches preside over the coven along with an amalgamated spirit entity known as the Thirty. The council is convened to weigh in on matters of great importance or to formally recognize new coven witches. The council also has the authority to call upon all witches of the coven to attend a gathering in the domain. When one of the council witches dies, a new one is chosen from among the coven to replace them."
+									],
+									"name": "The Council of Three and Thirty"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The Fish Head Coven possesses two volumes of Granny Prumple’s Almanac of Island Ingredients (for more on ingredients, see page 194). In addition to the volume on the Gale Fields, the coven also looks after the volume on the Shallows."
+									],
+									"name": "Almanacs"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"{@b Council Witches.} The current council presiding over the Fish Head Coven includes Yolikanter Crogiss—a paranoid female Nakudama who specializes in warding magic, Bim of the Beasts—an enigmatic female human of unknown age who speaks only through animals, and the venerable Brass Eye—a tiny withered male human whose eyes have been replaced with brass orbs and who it is said lives in both the Physical Realm and the Spirit Realm. No living witch knows Brass Eyes’ real name.",
+										"The council witches are almost always present at the Witches’ Bridge, though they prefer to keep to their own quarters, convening only when the need arises.",
+										"{@b Tan the Apprentice and Abi (male human & spirit).} A newcomer to the Witching Tower and aspiring coven witch is Tan, the thirteen-year-old human boy who apprentices for the renowned witch Ognev. Tan hails from Amak Shurak here in the Gale Fields. He was an awkward kid, who talked to himself constantly. On a visit to the town, Ognev met Tan and immediately recognized the kid’s gift for spellcraft. He offered to take Tan on as an apprentice, and his parents were all too quick to agree. Ognev saw what everyone else missed. When Tan appears to be talking to himself, he’s actually speaking to an invisible spirit that’s always by his side. The spirit is named Abi, and it is quite protective of Tan. In his apprenticeship, Tan is learning to become a spirit medium and though he excels, he prefers Abi’s company to that of other spirits.",
+										"Tan and Abi like to sneak out of the Witching Tower at night and explore the surrounding grounds. Their favorite spot is an enormous standing stone carved to depict a serpent coiled around it. At its base is a small niche that Tan uses to store a small trove of trinkets he’s taken from the tower.",
+										"Abi uses the spectral spirit companion stat block.",
+										"{@b Wandering Witch Companions (spirits).} The Witching Tower has two resident companion spirits that work with no one in particular, but are cared for by all. They’ve been here for as long as anyone remembers, and if they were companions to a particular witch at one time that witch has been lost to history. Both companions possess intelligence comparable to a child. One of them is a highly sociable spirit cat known as the Lady. The other is the Mighty Peapaleap—a fat and fluffy long-haired cat who prefers to move about perched like a loaf on its floating square cushion. The duo tends to wander the grounds together, but one or the other will often branch off to follow a visitor it finds interesting."
+									],
+									"name": "NPCs"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"{@b Ermy's Kiosk.} Below the Witching Tower’s lowest bridge is a cart that sells potion ingredients. It is run by Ermy Flower, a Fish Head Coven witch. Ermy is personable and chatty, particularly toward anyone who’ll talk with her about the best places to eat on the island. Helping Ermy are her three magpies, Licorice, Sugar, and Molasses.",
+										"Below is a table of ingredients she always has for sale. Feel free to add to or augment the list.",
+										{
+											"type": "table",
+											"colLabels": [
+												"Ingredient",
+												"Price"
+											],
+											"colStyles": [
+												"col-8",
+												"col-4"
+											],
+											"rows": [
+												[
+													"6 Apper Carrots",
+													"1 gp each"
+												],
+												[
+													"2 Clay Snake Tails",
+													"5 gp each"
+												],
+												[
+													"2 Cloud Horns",
+													"3 gp each"
+												],
+												[
+													"10 Itchi Beri",
+													"1 gp each"
+												],
+												[
+													"5 Jack-O'-Lantern Bits",
+													"1 gp each"
+												],
+												[
+													"1 Living Spud",
+													"10 gp each"
+												],
+												[
+													"4 Spindle Leg Spider Webs",
+													"3 gp each"
+												],
+												[
+													"1 Wind Bloom",
+													"2 gp each"
+												],
+												[
+													"1 Wolfenite",
+													"9 gp each"
+												]
+											],
+											"caption": "Ermy's Kiosk Ingredients for Sale"
+										},
+										"{@b The Closed Fists.} The Fish Head Coven has two vaults, about which all kinds of myths have circulated, the most outlandish is the claim that one of the vaults contains a bound elder spirit that the witches use as the source of their power. The coven does little to debunk such theories, as they only serve to enhance their mystique. The twin vaults, known as the Closed Fists, are kept deep within dungeons built into the foundations of the north and south towers. The northern vault is where the coven keeps the bulk of its store of ingredients. The domed chamber is lined with masks, several of which emerge as urugama demons who are bound to guard the vault.",
+										"Meanwhile, the southern vault is where the most dangerous magic items in the coven’s possession are held. Each item in this vault is attached by a thin, silver chain to a small silver cage containing a mushroom. If one of these cages is disturbed, the mushroom inside begins vibrating and, after 10 seconds, it releases a cloud of spores that quickly fills the vault. Creatures within the cloud of spores must succeed on a DC 20 Constitution saving throw or become paralyzed. When a creature first steps into the cloud or starts its turn within the cloud, it must make a saving throw. This effect lasts for 3 days or until neutralized with a secret concoction known only to the keeper of the vault. Undead and construct creatures are not affected by the spores. The cloud of spores dissipates after 5 minutes.",
+										"{@b The Sanctum.} Deep below the base of the central tower, at the bottom of a hidden stone staircase, is a natural cavern where the covens have kept their history, spells, and arcane lore for centuries. This secret library, the Sanctum, is known only to certain members of the covens. The Sanctum is lit with hundreds of magic candles that eternally burn within small alcoves carved into the twisting halls of the cavern. Each alcove contains a single, exquisitely carved, small statue no more than five inches tall.",
+										"Each one of these small statues, called a chot-to, contains a spirit that, like a book, knows a specific piece of knowledge—a spell, a certain event, or a particular ingredient. All these statues combined make up the arcane lore and history of the witch covens.",
+										"Chot-tos are carved out of many different kinds of stone, some are of animals and some look like people. Sometimes a chot-to is carved to look like one of the characters from the history that it contains.",
+										"When a witch wants a particular bit of information, they must hold a magic keystone, state what they are looking for, and ask the chot-to to come forward. If the knowledge is contained within the Sanctum, the chot-to is then whelmed by its inhabiting spirit, animating the statue, and it hops from its alcove, scurries over, and begins divulging its lore.",
+										"What people don’t know—even most witches—is that there are always several chot-tos that are listening and recording every conversation and ritual performed while in the Sanctum. These spies remain motionless and only report to the Council of Three and Thirty."
+									],
+									"name": "Points of Interest"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"{@b Coven Thief.} The adventurers accompany a member of the Fish Head Coven to the domain so he can attend a gathering of the coven witches. As the gathering concludes, the witches go their separate ways, but your friend quickly discovers that his spellbook is gone. He believes it was stolen by one of the other witches.",
+										"{@b Mirror Messenger.} The adventurers are waiting in a dim parlor inside of the Witches’ Bridge. Why they are there is up to you, but it could be because they seek an audience with one of the witches in residence, or because they are delivering something. While waiting, they notice that a fat cat laying on a floating cushion has been staring at a mirror for quite some time. After a moment, a youthful human appears in the mirror and then steps through it into the parlor with the adventurers. He pleads for their help to find his little brother who is lost in the Spirit Realm. If the adventurers agree, he bids them to follow him back through the mirror, which takes them into the Spirit Realm.",
+										"{@b Spirit Journey.} You are summoned by Alkun, a resident witch of the Fish Head Coven who needs your help to heal Sorolu, an elder spirit made of earth and vines who is suffering from some unknown malady. The witch says that one of the party must collect a variety of ingredients found in the Gale Fields so that they can craft an elixir to communicate in dreamlike visions with the elder spirit in hopes of understanding its pain."
+									],
+									"name": "Adventure Hooks"
+								}
+							],
+							"name": "Domain of the Fish Head Coven"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"The Crawling Canopy is exactly what the name implies—a massive forest that endlessly meanders, leaving a trail miles wide in its wake. It is a recent enigma, having appeared within the last 300 years, and most Obojimans who know of the Crawling Canopy are unsure what powerful magic allows it to move or why it never seems to leave the borders of the Gale Fields. Many have their speculations, but to most, the forest is yet another unsolved mystery that makes the locals shake their heads in puzzlement as they shepherd their flock and tend to their beans and pumpkins.",
+								"Those who have seen the interior of the forest (and were lucky enough to escape) have said that few creatures live on the ground. Because the forest moves, most creatures live in the canopy, riding along in the trees as the forest lumbers its way across the Gale Fields.",
+								"There are days, even months, where the Crawling Canopy will remain in a single spot, almost as if it is tempting the curious to venture into its depths and uncover its secrets. But for those who cannot resist and enter the forest’s unknown depths, it almost always ends in folly, as the forest, in an instant, can uproot itself and begin moving again, bewildering any unfortunate explorers, wanderers, or woodcutters within the confounding swirl of ever-moving trees.",
+								{
+									"type": "inset",
+									"name": "Tone/Vibe",
+									"entries": [
+										"Confusing, Whimsical, Frightening"
+									]
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The Crawling Canopy for most Obojimans is yet another strange rumor or myth, that many might wonder if it is even real. But the closer an adventurer goes to the Gale Fields, the more real the myth becomes until adventurers begin to encounter those who have seen the forest—or who know someone lost within it.",
+										"Because of its magical nature and relative danger to the curious or unwary, the Crawling Canopy is generally regarded by most Obojimans with a modicum of suspicion and a good dose of fear."
+									],
+									"name": "Reputation"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"As the Crawling Canopy moves along its meandering path through the Gale Fields, it invariably leaves behind branches and fallen trees. Although these bits of the Crawling Canopy are dead wood, they still have some of the magic left within them. But there are many superstitions that talk of curses and the wrath of the forest spirit, and because of this, most Obojimans do not touch the wood and leave it well enough alone.",
+										"Despite the warnings, some woodcutters throw caution to the wind and try to harvest living trees at the edge of the forest to get wood that is imbued with the forest’s magic. But the Crawling Canopy is known for being a place where monsters lurk and tales of woodcutters being snatched away by demons keep away all but the most courageous or desperate of lumberjacks.",
+										"Here are some properties the wood harvested from the forest could have:",
+										{
+											"type": "list",
+											"style": "list",
+											"items": [
+												"Dead wood harvested from the forest burns longer and hotter than normal wood.",
+												"Bows fashioned out of living wood are +1 bows.",
+												"Arrows made from living wood add 30 feet to the bow’s range.",
+												"If you build a house out of living wood taken from the wandering trees, the house is powered by the magic of the wood for several years. These houses magically heat themselves during the winter, and, in rare circumstances, have the ability to move at the owners’ command."
+											]
+										},
+										{
+											"type": "inset",
+											"name": "Coven Interest",
+											"entries": [
+												"Though no coven claims the woods as an outpost, several coven witches from all across the island study within the forest. Whether for broom and wand crafting or ingredient research, the shambling trees are known to draw the attention of the magically inclined."
+											]
+										}
+									],
+									"name": "Magic Wood"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"There is a group of people who live high up within the canopy who call themselves “the Saved”—a commune that claims to be “open to all”. The commune is built on a collection of wood and rope scaffolding which surrounds a large, hollow tree trunk filled with all manner of discarded items that members call the Trinket Trunk. When anyone wishes to join the Saved, they must go through a ritual of cleansing that culminates in the candidate walking to the Trinket Trunk and ridding themselves of all their worldly possessions as “these things are not needed here”.",
+										"The Saved have found ways of living in relative comfort within the forest—although their lives may be deemed by others as primitive, they appear to be a stable and functioning community.",
+										{
+											"type": "inset",
+											"name": "Playing the Saved",
+											"entries": [
+												"You can play the Saved as a helpful band of NPCs for parties that are lost within the Crawling Canopy. You can also play the Saved as a cult of oddballs who are quirky and comical at best or ominous and dangerous at worst. If you choose to go “ominous”, then the Saved may have a strange, magical relationship with the forest. Even going as far as using the party as an offering to the heart of the forest."
+											]
+										}
+									],
+									"name": "The Saved"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"{@b Zeb, Jeb, and Dingus (male Nakudama).} These are a group of “entrepreneurs” who came to the Crawling Canopy to collect the magical wood and are now hopelessly lost (although they don’t at first admit it). They heard that “certain buyers” in Sky Kite Valley would pay a king’s ransom for a single trunk of a magical moving tree, so they planned on cutting one down and hauling it back to Sky Kite to collect their reward. Now, after wandering for weeks, they just want to get out and return to their simple life as farmers.",
+										"{@b Edgarton Hargreaves III (male human) and the Council of Kroo (humans).} Should adventurers travel deep enough within the Crawling Canopy, they may happen upon a group of hermits living in ramshackle tree houses. Edgarton Hargreaves III is the erudite leader of a group of crazed hermits known as the Council of Kroo consisting of: Penelope Mibblethorpe—a witch of considerable power; Sheldrake Wobbledrain—a warlock who loves toads and warty things; and Thurston Smorkwaggle—a purveyor of wondrous fungal delights.",
+										"As explained by Edgarton, most of what the Council of Kroo does is beyond human comprehension as he claims they hold the cosmos together through various esoteric and magical means. However as a party endures their mad chatter, they may catch a bit of useful knowledge amid their talk of space toads, crystal shards, and journeys deep into the Spirit Realm.",
+										"{@b Slashface and the Barkers (howlers).} Slashface is a rough and tough howler boss with a scar across her face who is in charge of a howler clan known as the Barkers. Long ago, after her clan had done a full day of aggressive barking—chasing cows and scaring villagers—Slashface camped her gang out in the Gale Fields. But when the Barkers woke up, they found themselves deep inside the Crawling Canopy.",
+										"After a year of trying to find their way out, they eventually did, but after some loud and aggressive conversing among themselves, they came to the conclusion that this place was to their liking and worth staying in and so they walked themselves right back inside.",
+										"{@b Morgo (spirit).} Morgo is a sage who has been lost within the Crawling Canopy for almost 20 years. Morgo has studied the myths and legends of his people and was searching for evidence to support his theory that long ago, there was a great battle between the Sky King and the demon emperor of the Nakudama that created a large crater within the Gale Fields. Morgo believes that proof of this ancient battle lies somewhere in the forest and that it is just one of the many secrets the wandering forest holds dear.",
+										"{@b Bruno (awakened dog).} Bruno is the playful and loyal companion of the wizard brewmaster at the Wicked Wizard Tavern. In addition to having an amazing palate for ale, Bruno also has a general understanding of distilling alcohol and basic magical enchantments. This knowledge, of course, came through close observation of his master."
+									],
+									"name": "NPCs"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"{@b Wicked Wizard Tavern.} The Wicked Wizard Tavern is a tall, ramshackle tower that’s been jammed between two old-growth trees. The bottom floor is a tavern from which the building gets its name, while the upper floor is a wizard’s laboratory, study, quarters, and the Wicked Wizard Brewery.",
+										"It would seem that the Wicked Wizard Tavern only reveals itself to those it wishes to. Adding to its mystery is the fact that the barkeep and the servers are all animated, wooden puppets made from the forest’s magical trees. Rumors are that the Wicked Wizard needed staff for the tavern so he crafted marionette helpers. Others say that marionettes are the wizard’s unruly customers, who were turned into pleasant and helpful wooden puppets.",
+										"The tavern has all the amenities that one would find in any well-run establishment. Merry puppet musicians play well into the night, and tireless puppet bartenders keep the ale flowing. The kitchen serves all kinds of culinary delights and keeps the fire stoked with magic wood from the Crawling Canopy.",
+										"Although there are stairs leading up, no one is allowed in the rooms above. Should an adventurer wish to go up the stairs, the puppets get nervous and flustered to the point of begging if need be.",
+										"On the second floor is a brewery full of barrels and copper pots for brewing Wicked Wizard Small Batch Magic Ale. They also find an awakened dog, Bruno, who used to be the companion of the Wicked Wizard but who now is masquerading as him."
+									],
+									"name": "Points of Interest"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"{@b The Missing Wizard.} After some discussion with Bruno at the Wicked Wizard Tavern, the adventurers find out that the proprietor of the establishment has mysteriously disappeared and now Bruno is doing his best to keep the tavern and the wizard’s brewhouse going. Bruno only has a cursory understanding of brewing ale, and it’s only a matter of time before their reserves run out and Bruno must brew a batch by himself. Bruno is desperate for help and is just trying to be a very good boy.",
+										"{@b Paralyzing Fear.} Trapped within the center of three watchwood trees is an unlucky traveler who has been paralyzed by the trees’ gaze. Though the traveler can’t call out for help, it’s clear they’ve been stuck like this for days. It’s unknown how long they can hold up while enduring this torturous treatment.",
+										"{@b Runaway Stump.} One of the forest trees has been cut down and now its stump has uprooted itself and is on a rampage throughout the forest floor, causing mayhem and drawing attention from those around it.",
+										"{@b Lost Within The Crawling Canopy.} This is one of the adventures included in this book (see page 360)."
+									],
+									"name": "Adventure Hooks"
+								}
+							],
+							"name": "The Crawling Canopy"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"On the eastern reaches of Obojima, lies the mist-shrouded Brackwater Wetlands. Ruined settlements lie sinking in the murky waters, their weathered wooden stilts snapped by the recent tsunami which flooded the area and left behind a salty brine that soaks the gnarled trunks of broken trees.",
+								"Since the seismic upheaval and the tsunami’s wrath, a sinister new addition known as the Corruption has tainted this landscape. It has spread its tendrils across the wetlands, twisting and warping everything it touches, birthing living manifestations—corrupted muk—among the flora and fauna, and ensnaring unwary travelers in its suffocating embrace.",
+								"Even before the tsunami occurred, the howler and monster-ridden swampland was warily traveled by islanders, one of the many reasons the area has little to no towns or villages. Despite all this, those who journeyed through the wetlands could find the occasional respite at places like Haukan’s Ramen Shop, a lantern-lit sanctuary for those who dare to brave the haunted depths of the Brackwater Wetlands.",
+								{
+									"type": "table",
+									"colLabels": [
+										"d12",
+										"Wandering Encounter"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-10"
+									],
+									"rows": [
+										[
+											"1",
+											"Mud Eel Fishing. A group of fishers offers to share tales and freshly caught mud eels (use the animalistic spirit stat block in this book) in exchange for news from beyond the wetlands. Since the tsunami, they are managing to survive on their wits and knowledge of the wetlands."
+										],
+										[
+											"2",
+											"Quicksand! Whether by bad luck, being chased by a monster, or lured by a tricksy spirit, the party must deal with this environmental danger."
+										],
+										[
+											"3",
+											"Hakumon's Hospitality. The party stumbles upon Hakumon’s Ramen Shop. Hakumon offers a hearty meal and shelter for the night, but warns of the nearby Corruption’s advance."
+										],
+										[
+											"4",
+											"Unlikely Train Stop. Partially submerged in the mud is a lonesome platform and train stop. Sitting on the partially broken bench is an old man quietly reading a book and waiting for the Wandering line. (see below)"
+										],
+										[
+											"5",
+											"Railroad Passage. The party finds an entrance to the underground subway system that can be found in parts of the Brackwater wetlands. (see Goodie Mart below)."
+										],
+										[
+											"6",
+											"Muk Ambush. 1d4 Corrupted Muk ambush the party from under the swamp."
+										],
+										[
+											"7",
+											"Crawlers. The party encounters 1d4 Crawlers."
+										],
+										[
+											"8",
+											"Borgork. The party has stumbled into the territory of Borgork, a haughty and imperious young Dragon Frog who claims to rule this part of the Brackwater Wetlands. They must appease Borgork with tribute and flattery or suffer his wrath."
+										],
+										[
+											"9",
+											"Missing Villager. A woodcutter who was with Grifftang Crump (see “Polewater Village” below) got separated and is huddled in the hollow of a broken tree, clinging to life. They fled a howler attack, got disoriented, and now have no idea how to get back home."
+										],
+										[
+											"10",
+											"Bubbling Below. Suddenly the ground below the party's feet starts to feel like mud as black pools of Corruption seep from the ground like a sponge being squeezed. Anyone caught in it must make a DC 14 Dexterity saving throw. On a failed save the creature gains a level of exhaustion."
+										],
+										[
+											"11",
+											"Lion's Blume. The party encounters one (or several) lion’s blume vines. Entangled in one of them is a missing resident from Polewater who is calling for help."
+										],
+										[
+											"12",
+											"Roakraska. The party encounters the gulper eel spirit, Roakraska (see “Polewater Village” below)."
+										]
+									],
+									"caption": "Wandering Encounters"
+								}
+							],
+							"name": "The Brackwater Wetlands"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"The once pristine south-eastern coastline of Obojima is now the site of an unsettling encroachment of what Obojimans who have experienced it call “the Corruption”. A black, tar-like substance that can shimmer in iridescent purples, greens, or reddish-orange veins.",
+								"The Corruption appeared three months ago after an island-shaking earthquake that was then followed by a tsunami. Soon after the waters receded, a gigantic surge of this Corruption emerged from the sea and bubbled up onto the shores, oozing inland for several miles and leaving a thick swath of muck-covered devastation in its wake.",
+								"Although its initial surge was swift, over time, some areas of Corruption appear to have slowed down, and in certain places it appears to have stopped completely.",
+								{
+									"type": "inset",
+									"name": "Tone/Vibe",
+									"entries": [
+										"Eerie, Dark, Unsettling"
+									]
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Most Obojimans west of the Gale Fields are unaware of the corrupted coastline and may have only heard wild rumors of it. The farther east of the Gale Fields you go, the more concerned people are with it.",
+										"Those who have seen the Corruption or who have been directly impacted by it are most likely trying to survive its impact or they are simply fleeing for their lives and hoping it goes away so they might one day return to their homes.",
+										"As to what Obojimans think the Corruption is or its cause, speculations are many and varied."
+									],
+									"name": "Reputation"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Information is limited as to how far the Corruption has spread and how it is affecting wildlife and people, only members of the Courier Brigade and AHA are beginning to comprehend the full extent of the Corruption’s invasion. Those who once lived on the eastern coast are now mostly refugees having fled to the middle and westerly parts of the island, but they are among the only Obojimans who have first-hand information about this wretched sludge.",
+										"For an adventurer who asks, they will hear grim tales of forests turning into stagnant, barren fens, their creatures and plant life withered and mutated. The strangest thing, they say, when you walk into a forest afflicted with the Corruption is that you no longer hear the animal sounds or see their movement. Now, there is only silence and sorrow among the blackened shrubs and slime-covered trunks."
+									],
+									"name": "Evidence of Disaster"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The Corruption’s spread has nearly come to a stop on the island. When it first arrived through the tsunami it was hurled across the Brackwater Wetlands, casting a wide net, but since that day the Corruption’s spread has been a slow crawl across the floor of the island. The Corruption has, however, in the last month been appearing deeper into the woods, as it is being carried by infected creatures or sentient forms of the Corruption known as Corrupted Muk and Vile Corruption."
+									],
+									"name": "The Spread of the Corruption"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Creatures that come in contact with the Corruption for more than a few minutes can develop a harrowing illness, otherwise known as being “corrupted”—though it is unclear how the Corruption affects different creatures, most suffer from a wide variety of symptoms. At best, it seems humanoids can develop life-altering side effects, while in the worst-case scenario, corrupted humanoids die within a few days. These, however, are just the effects on humanoids. Beastial creatures have been seen fully skeletonized, stripped of any personality or higher intelligence and leaving them with basic instincts, while spirits seem to undergo a form of madness, which inevitably leads to a demonic transformation.",
+										"Mages and scholars are working tirelessly to determine how the Corruption functions, but there are still so many questions to be answered. What is known is listed below:",
+										{
+											"type": "list",
+											"style": "list",
+											"items": [
+												"Touching the Corruption doesn’t mean that you’re infected, but the longer you have direct contact with it, the more chance it has of infecting you.",
+												"The Corruption doesn’t spread through the air. You can breathe in a corrupted zone and not get infected.",
+												"You can touch a corrupted thing—like a tree, creature, or human—and not get corrupted.",
+												"If you stay in a corrupted area for a long period of time, and you are careful not to touch the Corruption, you won’t get corrupted, but you may suffer weird side effects. Having special armor, potions, or spells can eliminate the risk of incurring a condition or ill-effect.",
+												"If a humanoid is infected, it isn’t always all downside. The Corruption has this strange way of taking things and giving things. In certain circumstances, in addition to more standard symptoms and negative effects, the Corruption can grant powers that seem connected to the negative symptoms the infected is experiencing."
+											]
+										}
+									],
+									"name": "Sickness"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Since coming ashore, some parts of the Corruption have ceased to move horizontally and have started seeping down into the ground. Very few people know of this, with just a handful of AHA members who are actively studying the Corruption being aware of this phenomenon. AHA’s research suggests the Corruption is sinking deeper and deeper into the heart of the island."
+									],
+									"name": "What is it Doing?"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"AHA members theorize the following:",
+										{
+											"type": "list",
+											"style": "list",
+											"items": [
+												"The Corruption might be seeping into the groundwater and using it to move throughout Obojima—polluting wells and springs as it goes.",
+												"The Corruption seems to be in contact with itself and some AHA members theorize that, if stimulated sufficiently, it might be able to respond as one massive organism.",
+												"Some AHA members fear that it is hunting for the source of Obojima’s life force—the spirit of the island."
+											]
+										}
+									],
+									"name": "AHA Theories"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"{@b Olundu (demon).} Spirits are exceedingly vulnerable to the effects of the Corruption and elder spirits are no exception. Olundu, a giant tree sloth, was once an elder spirit that protected and tended to a wondrous grove of ancient bashu trees known as Ten Wheels Grove—a once beautiful area that has now become ravaged by the tendrils of thick slime. Olundu became afflicted and slowly rotted away until he turned into a demon.",
+										"Now, Olundu prowls his ruined grove, a shaggy, oil-covered predator with unnatural swiftness and a desire to harm. He lurks in the blackened canopy, vomiting Corruption on unsuspecting prey below before he pounces on them, tearing his prey asunder with his talons.",
+										"{@b Bim of the Beasts (female human).} A member of the Fish Head Coven, Bim of the Beasts can be found here collecting and studying the Corruption (see “Domain of the Fish Head Coven”, above). Bim is very concerned about the well-being of all beasts in the wake of this disaster, and she has constructed a makeshift laboratory on the fringes of the corrupted coastline where she tries to rehabilitate afflicted animals while studying the Corruption’s effects on them.",
+										"{@b Bloop (beast).} Bloop is a weird skeletonized fish that follows the party like a stray dog.",
+										"{@b Gnasher (howler).} Gnasher is a howler chieftain (use the howler snarler stat block) who was caught in the initial flood of Corruption. He is now a wraith-like version of his former self who laps up Corruption as if it were a delicacy.",
+										{
+											"type": "inset",
+											"name": "AHA Along the Coastline",
+											"entries": [
+												"AHA is working hard all along the corrupted coastline to try and answer all the burning questions. Where did it come from? What is it made of? How can it be stopped? In their efforts to get answers, many AHA members have succumbed to the Corruption, so their motivation to find a cure is very high. That said, their numbers are limited, and with more and more researchers getting ill, the organization is questioning if this type of research is sustainable.",
+												"After the earthquake and the subsequent tsunami, the established paths through this already treacherous area have been almost entirely washed away. Because of this, the Courier Brigade is now struggling to cross through the Brackwater Wetlands and, in the last few months, has lost several dozen members in the corrupted swamps.",
+												"Brim of Beasts, one of the fish head coven’s most influential witches, is swampland testing and sampling the Corruption. Although she originally came to see if the Corruption had any magical properties or uses in potion brewing, she stayed to assist the creatures affected by the encroaching Corruption."
+											]
+										}
+									],
+									"name": "NPCs"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"{@b Gobo Village.} On the eastern coastline, there is a village that is now a ruin, devastated by the tsunami and earthquake. Black pools of Corruption snake along every abandoned street and infest the crumbled walls of every empty home. Despite the danger, a single, mad druid still lives here. For some reason, unknown to the druid, he is not affected by the Corruption’s magics. Instead, he is plagued by horrific memories that haunt him. At night, the druid claims demons overrun the town, but even he can’t be sure it’s not all in his mind.",
+										"{@b Sunken Village Graveyard.} Just offshore, in the blackened, corrupted water, boats bob on the surface, held there by"
+									],
+									"name": "Points of Interest"
+								}
+							],
+							"name": "Corrupted Coastline"
 						}
 					]
 				}
