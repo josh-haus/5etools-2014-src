@@ -10380,6 +10380,281 @@
 										}
 									],
 									"name": "Rubble Golem"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Terrifying tales of seaweed elementals are told in many of the taverns along the Obojiman coastline—sailors wrapped in swaths of green kelp and being dragged to the bottom of the Shallows are a common thread in stories that send chills down the spine. For the most part, the Shallows are clear of kelp, so spotting a seaweed elemental is easy for a vigilant sailor, but for those who wish to explore the underwater realm, a seaweed elemental is a serious threat, especially if one wanders into its domain.",
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Seaweed Elemental",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Seaweed Elemental"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"These playful creatures are known to live among the rolling hills alongside livestock and other grazing beasts. Although their name and serpent-like body might confuse some, the sheep dragon is not a dragon, but rather more akin to a dog. These odd creatures aren't known to be violent but do have a variety of tools to protect themselves when they feel they're in danger.",
+										{
+											"type": "entries",
+											"entries": [
+												"The sheep dragon is often regarded as the epitome of goodness and authenticity on the island. Their seen as a symbol of freedom and unwavering kinship, which is why their likeness can be found all throughout villages and towns as a way to let travellers know they're welcome."
+											],
+											"name": "Iconic Symbol"
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Sheep Dragon",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Sheep Dragon"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Skeletal Fish are a result of the Corruption that has infected the waters off the eastern shore of Obojima. Whether it is some strange property of the Corruption or whether it is Obojima's magic keeping them alive, the fish still swim—Both in water and in the air.",
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Skeletal Fish",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Skeletal Fish"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The Sky King is the first and the oldest of the \"Three Great Beasts\" of Obojima—and perhaps the oldest being on the island. Its age is so great that its body, which was once a majestic glistening shark with a blue hue that was said to make the skies look dull, is now rendered to cartilage and bone. Still, the great beast continues to soar through the clouds and dive below the waves—the island's magic keeping the king's body intact.",
+										{
+											"type": "entries",
+											"entries": [
+												"It's said that the Sky King was once the great protector of Obojima—in an age when the Hunter was just a hatchling and the island was at war. The Sky King was a vigilant guardian who helped the Nakudama people and saw the end of a demonic rule over the island. Since that time, the Sky King has become more recluse. Its once watchful gaze over the island has subsided, aiding in the rise of the Hunter's role as the protector and adding to the mystery and intrigue that now permeates around the Sky King."
+											],
+											"name": "Historic Past"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Many believe that the Sky King is being kept alive by the Obojima for some reason. These rumors and stories have spread all across the island for hundreds of years and have been the catalyst for many famed adventurers and explorers to uncover the truth behind the Sky King and its mysterious past."
+											],
+											"name": "Truth or Legend?"
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Sky King",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Sky King"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Jumaga is the third and youngest of the \"Three Great Beasts\" of Obojima—Though its reputation is considerably less prestigious than that of its counterparts. Most would consider Jumaga to be the most reckless and unpredictable of the islands chosen three, a sentiment supported by Jumaga's actions. In the Age of Dara alone, Jumaga has caused many disasters, from avalanches to tsunamis, and forest fires alike—each incident painting Jumaga differently. At one point, Jumaga was even seen entangled in a brawl with the Hunter, a fight which lasted several days. Still, the Great Beast has garnered the respect of the Islanders.",
+										"Unlike the Sky King or the Hunter, Jumaga calls a portion of the island its domain. It is here that the locals have found a symbiotic relationship with Jumaga, and in doing so, shown a new side to the Great Beast.",
+										{
+											"type": "entries",
+											"entries": [
+												"In the last 100 years, Jumaga has seemingly satiated its reckless and wild desires, its bestial actions now seen by islanders as almost ceremonial. Its domain has also become a sight in which islanders pay respect, leaving behind at the ledge of offering valuables, which they hope will please the great beast, and hide their cattle from Jumaga's view."
+											],
+											"name": "The Last Century"
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Jumaga the Sky Salamander",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Jumaga the Sky Salamander"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Slaggers are thought to be ancient elemental beings born from the merging of magma and earth spirits deep in the mines. Many miners believe they are the jealous guardians of Obojima's riches, which is why miners must tread carefully in their domain. While not inherently malevolent, their moody and territorial nature makes them unpredictable. Miners often leave offerings of coal, hoping to avoid the destructive wrath of the slagger. There's more than one story of an entire mine being abandoned due to the stubbornness of one particularly irritable and enormous slagger.",
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Slagger",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Slagger"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"On Obojima, witches, warlocks, and wizards have long studied the wonders of slimes. Their strange, natural properties have been an object of fascination for centuries, and harnessing their powers has been an ongoing alchemical pursuit that has left more than one would-be potion brewer missing their eyebrows or a finger.",
+										"Slimes are intelligent enough to know that they are sought out for their properties, so most of them are furtive and will scatter at the first sign of an ingredient hunter. Each slime has adapted clever and explosive ways of deterring and escaping from various forms of danger.",
+										"Although most Obojimans don't travel that far from their villages, almost all have heard of slimes as every school kid gets a lecture about the peculiarities and dangers of slimes.",
+										{
+											"type": "entries",
+											"entries": [
+												"Green slimes live in wet and damp places, jungles, caverns, and deep underground where the moistness soothes and softens their prickly, acidic skin. Green slimes are notoriously terrified of everything. They're capable of forming spike-like appendages which it uses to move with an uncanny agility and they can also shed parts of its body as distractions to predators and ingredient hunters while they scurry away to safety.",
+												{
+													"type": "statblock",
+													"tag": "creature",
+													"name": "Green Slime",
+													"source": "OBOJIMA"
+												}
+											],
+											"name": "Green Slime"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Due to their stomach-churning stench, many yellow slime stories are told with visible distress at even the memory of the encounter. In its undisturbed state, yellow slimes smell slightly vile, but disturb it through careless footfalls or poke it with a stick, and it spurts out jets of foulness that can nauseate even the most iron-bellied of companions. Many children who are in the Society of Young Stewards have their \"yellow slime story\" that they are more than eager to tell.",
+												"Yellow slimes are partial to swamps and forests where rotting wood and decaying leaf-litter is readily available.",
+												{
+													"type": "statblock",
+													"tag": "creature",
+													"name": "Yellow Slime",
+													"source": "OBOJIMA"
+												}
+											],
+											"name": "Yellow Slime"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Orange slime is perhaps the most dangerous of all the known slimes and, although it is rare, it can live almost anywhere on the island, turning up in the most inopportune ways. Most orange slimes explode before a witch can carefully collect it or, if found near a village, a mage can be called to safely dispose of it. In and around Mount Arbora, there have been stories of orange slimes big enough to blow up a house or blast a hole in a stone wall.",
+												"Orange slimes are sticky and gelatinous and have a signature acrid odor. They can be found near fumaroles and bubbling sulfur springs. They range widely in size and there are some Obojimans who make a business out of collecting tiny bits of orange slime to put in firecrackers.",
+												{
+													"type": "statblock",
+													"tag": "creature",
+													"name": "Orange Slime",
+													"source": "OBOJIMA"
+												}
+											],
+											"name": "Orange Slime"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Corrupted slimes are strange and unpredictable, as not much is known about how the Corruption affects the various slimes. But the most dangerous thing about them is that they can potentially spread the Corruption to whomever they come in contact with.",
+												"Corrupted slimes are glutinous and will adhere to their prey that becomes afflicted with a ghastly, growing weakness until it is removed or the slime is satiated.",
+												"Outside of the rare bottle of it in some witch's grotto or a wizard's study, corrupted slime in the wild is only to be found in or near the Corruption zone on the eastern side of Obojima. Thus, it is virtually unknown to the island at large.",
+												{
+													"type": "statblock",
+													"tag": "creature",
+													"name": "Corrupted Slime",
+													"source": "OBOJIMA"
+												}
+											],
+											"name": "Corrupted Slime"
+										}
+									],
+									"name": "Slimes"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Snowball spirits are small, fist-sized spirits that are curious and playful. They can be found anywhere there is a thick blanket of snow and are easy to locate due to their clinking, tinkling laughter. But if a group of snowball spirits feel threatened they can swarm together to create a larger and larger snowball made up of their tiny bodies. The more and more grumpy a snowball spirit gets, the larger it grows, until it becomes a terrifying behemoth as big as a house. Even at this giant size, a snowball spirit is a surprisingly fast adversary that can shoot out snowballs like a cannon and can leap through the air to easily engulf a horse and rider.",
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Snowball Spirits",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Snowball Spirits"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Grape, Orange, Strawberry, and Cola, these ancient sodas and more can be found across the island, kept pristine by the magics of the First Age and Obojima. But when the magic protecting these delicious treats begins to spoil, a peculiar creature can start to form inside these colorful metal cans. Soda slimes have been the lament of adventurers and mages alike who have taken it upon themselves to explore the forgotten buildings left behind from the First Age. Also known by the name Sugar Slimes, these tiny oozes can be very territorial when they're not hibernating or searching for other slimes to consume.",
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Soda Slime",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Soda Slime"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Spirits are beings that have their origins in the Spirit Realm but they can be found living all across Obojima and they are as much a part of Obojiman society as all the other beings who live there whether human, elf, Nakudama, or dara.",
+										{
+											"type": "entries",
+											"entries": [
+												"Spirits by their nature are immaterial but when in the Physical Realm, they take on material form to be as solid as anyone else. Many spirits look one way when in the Physical realm and look wholly different when they return to the Spirit Realm. When they take on a physical form, they usually mimic or incorporate some shape or characteristics of plants, animals, or minerals. A spirit may take on the form of a radish or a cat or a stone, but they can be of any size and coloration that the spirit chooses. Spirits seem to choose their form and stay happy with it but there are cases where a spirit may transform its shape or metamorphose into another form, when this happens, it is usually a result of some magical evolution, the removal of a curse, or the movement from one realm to the other."
+											],
+											"name": "From the Formless, Many Forms"
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Spirit",
+											"source": "OBOJIMA"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Animalistic spirits are often far removed from society, taking comfort and respite with the wild animals of the island rather than the people. They can take many forms, but they almost always look like some version of a bestial creature. These spirits, unlike normal spirits, are less evolved and desire simpler lives. Because of this, they're seen by Obojimans (including other spirits) as lesser beings, more akin to the animals they commune with.",
+												{
+													"type": "statblock",
+													"tag": "creature",
+													"name": "Animalistic Spirit",
+													"source": "OBOJIMA"
+												}
+											],
+											"name": "Animalistic Spirits"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Pest spirits are usually the least intelligent of the spirits and are considered even by spirits as an unfortunate irritation to tolerate. Pest spirits are usually obsessed with a singular thing—gobbling sugary treats, tying things in knots, and your general compulsive thievery. They are normally innocent creatures without malice aforethought, simply compelled to do whatever it is that brings displeasure and annoyance to the rest of the island.",
+												{
+													"type": "statblock",
+													"tag": "creature",
+													"name": "Pest Spirit",
+													"source": "OBOJIMA"
+												}
+											],
+											"name": "Pest Spirits"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Elder spirits are the most ancient beings of the Spirit Realm and their power is such that their influence extends into the realm of the material as well. If an elder spirit embodies a river or inhabits a singular mountain or stretch of forest, their presence can be seen in the morning stillness of a lake and their voice can be heard in the rustling wind through the trees.",
+												"Sometimes an elder spirit takes the form of a great and mythical beast like a sinuous dragon that twists through the clouds or a mountainous toad that gazes at the moon and weeps magic pearls.",
+												"Almost all elder spirits on Obojima are known—most are known by many, but some may only be known by a few or a single person. These people who know of the elder spirits tend to mark the borders of their domains by erecting shrines or gateways that provide a reminder to all who pass that they are entering hallowed ground.",
+												"For the most part, elder spirits are respected by Obojimans who see them as protectors and providers, creatures of great power and mystery, and another wonderful excuse for a festival with competitions and celebrations.",
+												"The relationship of Obojimans to elder spirits is as intertwined as the bees to the flowers, for there is a give and take where one helps the other. Elder spirits may need the aid of heroes to restore life to the land and in turn they may grant boons and magic to those who honor their quests."
+											],
+											"name": "Elder Spirits"
+										}
+									],
+									"name": "Spirit"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Although the stone whales were not the first sea creatures to take to the skies, they have done better than any at adapting to life above the ocean. Their friendly demeanor and natural affinity with surface flora have made a comfortable life on the island.",
+										{
+											"type": "entries",
+											"entries": [
+												"Stone Whales have become significant to many islanders due to their migratory nature and the vegetation that grows on their backs. To some, stone whales serve as a method of travel. Wanders & Merchants are known to use the great beasts for quick transport across the island. Others like witches and farmers utilize the plants that grow on the backs of the stone whales for tonics, elixirs, and potions. These whales are also known to carry vegetables and plants that might normally only grow in one section of the island, which is why many would jump at the opportunity to explore the back of a stone whale."
+											],
+											"name": "Island Culture"
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Stone Whale",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Stone Whale"
 								}
 							]
 						}
@@ -18554,6 +18829,1424 @@
 						"The golem targets a 15-foot-diameter circle within 15 feet of itself. Each creature in the area must make a DC 17 Dexterity saving throw or be crushed as the golem leaps and lands in the designated location, turning into a shockwave of rubble and transforming into its rubble form. On a failed save, a creature takes 22 (5d8) bludgeoning damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.",
 						"While the golem is in rubble form, the area of impact is considered difficult terrain, the golem is incapacitated and has resistance to all damage, and it automatically fails Dexterity saving throws.",
 						"The golem returns to its original form at the start of its next turn, shunting any creature in its space to another unoccupied space within 5 feet of it."
+					]
+				}
+			]
+		},
+		{
+			"name": "Seaweed Elemental",
+			"source": "OBOJIMA",
+			"page": 307,
+			"size": [
+				"L"
+			],
+			"type": {
+				"type": "elemental"
+			},
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				14,
+				"natural armor"
+			],
+			"hp": {
+				"average": 102,
+				"formula": "12d10 + 36"
+			},
+			"speed": {
+				"walk": 30,
+				"swim": 90
+			},
+			"str": 17,
+			"dex": 15,
+			"con": 16,
+			"int": 5,
+			"wis": 9,
+			"cha": 8,
+			"cr": "5",
+			"senses": [
+				"blindsight 60 ft.",
+				"passive Perception 9"
+			],
+			"immune": [
+				"poison"
+			],
+			"resist": [
+				"bludgeoning, piercing, and slashing from nonmagical attacks"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained",
+				"unconscious"
+			],
+			"languages": [
+				"-"
+			],
+			"trait": [
+				{
+					"name": "Entangling Form.",
+					"entries": [
+						"A creature that touches the Seaweed Elemental or hits it with a melee attack while within 5 feet of it must succeed on a DC 14 Strength saving throw or become restrained by the elemental. At the start of each of the restrained creature's turns, it takes 5 (1d10) bludgeoning damage as the tendrils of seaweed squeeze it. The restrained creature can spend its action to attempt the saving throw again, ending the effect on a success. If the elemental moves more than 10 feet away from the restrained creature, the effect ends."
+					]
+				},
+				{
+					"name": "False Appearance.",
+					"entries": [
+						"If the Seaweed Elemental is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the Seaweed Elemental move or act, that creature must succeed on a DC 18 Intelligence (Investigation) check to discern that the Seaweed Elemental isn't ordinary seaweed."
+					]
+				},
+				{
+					"name": "Mostly Clumps.",
+					"entries": [
+						"The Seaweed Elemental can move through a space as narrow as 5 inches wide without squeezing."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The elemental makes two Slam attacks."
+					]
+				},
+				{
+					"name": "Slam.",
+					"entries": [
+						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}10 (2d6 + 3) bludgeoning damage plus 3 (1d6) poison damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Sheep Dragon",
+			"source": "OBOJIMA",
+			"page": 307,
+			"size": [
+				"L"
+			],
+			"type": {
+				"type": "beast"
+			},
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				14
+			],
+			"hp": {
+				"average": 75,
+				"formula": "10d8 + 30"
+			},
+			"speed": {
+				"walk": 20,
+				"fly": 90
+			},
+			"str": 13,
+			"dex": 16,
+			"con": 16,
+			"int": 5,
+			"wis": 10,
+			"cha": 7,
+			"cr": "3",
+			"skill": {
+				"perception": "+2"
+			},
+			"senses": [
+				"darkvision 60 ft.",
+				"passive Perception 12"
+			],
+			"languages": [
+				"understands Common but can't speak"
+			],
+			"trait": [
+				{
+					"name": "Rush.",
+					"entries": [
+						"If the sheep dragon moves at least 20 feet in a straight line, during which it moves within 5 feet of a creature and flies past it, that creature must make a DC 14 Strength saving throw. On a failed save, the creature is pulled 10 feet in the direction the sheep dragon is moving and knocked prone, and the sheep dragon doesn't provoke an opportunity attack from it. On a successful save, the creature isn't pulled or knocked prone, and if it makes an opportunity attack against the sheep dragon, it does so with disadvantage."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The sheep dragon makes two attacks: one with its bite and one with its headbutt. Alternatively, it makes three wind pistol attacks."
+					]
+				},
+				{
+					"name": "Bite.",
+					"entries": [
+						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 (1d8 + 1) piercing damage."
+					]
+				},
+				{
+					"name": "Headbutt.",
+					"entries": [
+						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}4 (1d6 + 1) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Wind Pistol.",
+					"entries": [
+						"{@atk rw} {@hit 5} to hit, range 100/200 ft., one target. {@h}5 (1d4 + 3) bludgeoning damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Skeletal Fish",
+			"source": "OBOJIMA",
+			"page": 308,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "swarm",
+				"swarmSize": "T",
+				"tags": [
+					"beast"
+				]
+			},
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				13,
+				"natural armor"
+			],
+			"hp": {
+				"average": 35,
+				"formula": "10d8 - 10"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": 40,
+				"swim": 40
+			},
+			"str": 12,
+			"dex": 15,
+			"con": 9,
+			"int": 1,
+			"wis": 4,
+			"cha": 2,
+			"cr": "1",
+			"senses": [
+				"blindsight 60 ft. (blind beyond this distance)",
+				"passive Perception 7"
+			],
+			"immune": [
+				"poison"
+			],
+			"resist": [
+				"piercing",
+				"slashing"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained",
+				"stunned"
+			],
+			"languages": [
+				"-"
+			],
+			"trait": [
+				{
+					"name": "Shrapnel.",
+					"entries": [
+						"If a creature within 5 feet of the swarm hits it with a melee attack while the swarm isn't underwater, the creature must make a DC 10 Wisdom saving throw as bits of tiny bones pelt it. On a failed save, the creature flinches, giving it disadvantage on the next attack roll it makes this turn."
+					]
+				},
+				{
+					"name": "Skeletonized.",
+					"entries": [
+						"The swarm doesn't require air, food, drink, or sleep."
+					]
+				},
+				{
+					"name": "Swarm.",
+					"entries": [
+						"The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny fish. The swarm can't regain hit points or gain temporary hit points."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Chomp.",
+					"entries": [
+						"{@atk mw} {@hit 4} to hit, reach 0 ft., one target in the swarm's space. {@h}16 (4d6 + 2) piercing damage, or 9 (2d6 + 2) piercing damage if the swarm has half of its hit points or fewer."
+					]
+				}
+			]
+		},
+		{
+			"name": "Sky King",
+			"source": "OBOJIMA",
+			"page": 310,
+			"size": [
+				"G"
+			],
+			"type": {
+				"type": "beast"
+			},
+			"alignment": [
+				"NG"
+			],
+			"ac": [
+				25,
+				"natural armor"
+			],
+			"hp": {
+				"average": 350,
+				"formula": "20d20 + 140"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": 120,
+				"swim": 120
+			},
+			"str": 25,
+			"dex": 20,
+			"con": 25,
+			"int": 18,
+			"wis": 30,
+			"cha": 20,
+			"cr": "28",
+			"save": {
+				"dex": "+14",
+				"int": "+13",
+				"wis": "+19"
+			},
+			"skill": {
+				"insight": "+19",
+				"perception": "+19"
+			},
+			"senses": [
+				"blindsight 150 ft.",
+				"passive Perception 29"
+			],
+			"immune": [
+				"poison",
+				"bludgeoning, piercing, and slashing from nonmagical attacks"
+			],
+			"conditionImmune": [
+				"blinded",
+				"charmed",
+				"deafened",
+				"exhaustion",
+				"frightened",
+				"petrified",
+				"poisoned",
+				"stunned"
+			],
+			"languages": [
+				"understands Common and Torum but can't speak"
+			],
+			"trait": [
+				{
+					"name": "Cloud Trail.",
+					"entries": [
+						"Wherever the Sky King flies, it creates a trail of giant fluffy white clouds in its wake."
+					]
+				},
+				{
+					"name": "Legendary Resistance (5/Day).",
+					"entries": [
+						"If the Sky King fails a saving throw, it can choose to succeed instead."
+					]
+				},
+				{
+					"name": "Limited Magic Immunity.",
+					"entries": [
+						"Unless it wishes to be affected, the Sky King is immune to spells of 6th level or lower. It has advantage on saving throws against all other spells and magical effects."
+					]
+				},
+				{
+					"name": "Magic Weapons.",
+					"entries": [
+						"The Sky King's weapon attacks are magical."
+					]
+				},
+				{
+					"name": "New Life.",
+					"entries": [
+						"When the Sky King dies, a new great beast is born into the world."
+					]
+				},
+				{
+					"name": "Spirit of Obojima (1/Day).",
+					"entries": [
+						"If the Sky King drops below 150 hit points, a giant storm begins to brew above and the oceans begin to become uneasy. For the next minute, creatures that touch the Sky King or hit it with a melee attack take 9 (2d10) lightning damage."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The Sky King makes three attacks: two with its Chomp and one with its Tail."
+					]
+				},
+				{
+					"name": "Chomp.",
+					"entries": [
+						"{@atk mw} {@hit 16} to hit, reach 15 ft., one target. {@h}17 (3d6 + 7) piercing damage."
+					]
+				},
+				{
+					"name": "Tail.",
+					"entries": [
+						"{@atk mw} {@hit 16} to hit, reach 15 ft., one target. {@h}20 (3d8 + 7) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Inspiring Presence.",
+					"entries": [
+						"Each creature of the Sky King's choice that is within 300 feet of the Sky King and aware of it gains inspiration and a flying speed of 30 feet for the next minute. Once a creature benefits from the Sky King's Inspiring Presence, it can't do so again until 7 days have passed."
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "Chomp.",
+					"entries": [
+						"The Sky King makes a Chomp attack."
+					]
+				},
+				{
+					"name": "Turbulent Shift (Costs 2 Actions).",
+					"entries": [
+						"The air or water surrounding the Sky King begins to spin violently. Each creature, other than the Sky King, within 60 feet of the Sky King must make a DC 20 Constitution saving throw. On a failed save, a creature takes 28 (8d6) bludgeoning and is disoriented until the end of its next turn. A disoriented creature makes all ability checks and saving throws with disadvantage. On a successful save, the creature takes half as much damage and isn't disoriented. Objects and structures in the area automatically take maximum damage from this effect."
+					]
+				},
+				{
+					"name": "Nullify (Costs 3 Actions).",
+					"entries": [
+						"The effects of all spells of 3rd level or lower within 120 feet of the Sky King are suspended (as if by the {@spell Antimagic Field} spell) until the start of the Sky King's next turn, at which point their magic returns."
+					]
+				}
+			],
+			"legendaryHeader": [
+				"The Sky King can take 5 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The Sky King regains spent legendary actions at the start of her turn."
+			]
+		},
+		{
+			"name": "Jumaga the Sky Salamander",
+			"source": "OBOJIMA",
+			"page": 313,
+			"size": [
+				"G"
+			],
+			"type": {
+				"type": "beast"
+			},
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				22,
+				"natural armor"
+			],
+			"hp": {
+				"average": 462,
+				"formula": "25d20 + 200"
+			},
+			"speed": {
+				"walk": 20,
+				"fly": 150
+			},
+			"str": 24,
+			"dex": 24,
+			"con": 26,
+			"int": 13,
+			"wis": 16,
+			"cha": 30,
+			"cr": "23",
+			"save": {
+				"dex": "+14",
+				"con": "+15"
+			},
+			"skill": {
+				"perception": "+10",
+				"stealth": "+14"
+			},
+			"senses": [
+				"darkvision 120 ft.",
+				"truesight 60 ft.",
+				"passive Perception 20"
+			],
+			"immune": [
+				"bludgeoning, piercing, and slashing from nonmagical attacks"
+			],
+			"languages": [
+				"understands Common and Torum but can't speak"
+			],
+			"trait": [
+				{
+					"name": "Color Shift.",
+					"entries": [
+						"Jumaga naturally changes color to blend into its environment, giving it advantage on Dexterity (Stealth) checks made to hide from creatures that are more than 300 feet away from it."
+					]
+				},
+				{
+					"name": "Legendary Resistance (3/Day).",
+					"entries": [
+						"If Jumaga fails a saving throw, it can choose to succeed instead."
+					]
+				},
+				{
+					"name": "Magic Weapons.",
+					"entries": [
+						"Jumaga's weapon attacks are magical."
+					]
+				},
+				{
+					"name": "New Life.",
+					"entries": [
+						"When Jumaga dies, a new great beast is born into the world."
+					]
+				},
+				{
+					"name": "Spirit of Obojima (1/Day).",
+					"entries": [
+						"If Jumaga drops below 200 hit points, its color turns a bright orange for 1 minute. For the duration, its Chomp attack deals an extra 5 (1d10) poison damage on a hit, and it regains 5 (1d10) hit points each time it's targeted by a spell of 3rd level or lower."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"Jumaga makes three attacks: two with its Chomp and one with its Tail."
+					]
+				},
+				{
+					"name": "Chomp.",
+					"entries": [
+						"{@atk mw} {@hit 14} to hit, reach 15 ft., one target. {@h}21 (4d6 + 7) piercing damage."
+					]
+				},
+				{
+					"name": "Tail.",
+					"entries": [
+						"{@atk mw} {@hit 14} to hit, reach 30 ft., one target. {@h}25 (4d8 + 7) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Paralyzing Breath (Recharge 5-6).",
+					"entries": [
+						"Jumaga exhales its paralyzing breath in a 60-foot cone. Each creature in that area must succeed on a DC 23 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+					]
+				}
+			],
+			"legendary": [
+				{
+					"name": "Tail Attack.",
+					"entries": [
+						"Jumaga makes a Tail attack."
+					]
+				},
+				{
+					"name": "Skin Toxins (Costs 2 Actions).",
+					"entries": [
+						"Jumaga's body excretes a dangerous toxin. Until the start of Jumaga's next turn, creatures that touch it or hit it with a melee attack take 16 (3d10) poison damage."
+					]
+				},
+				{
+					"name": "Bestial Hiss (Costs 3 Actions).",
+					"entries": [
+						"Jumaga produces a thunderous hiss which terrifies creatures around it. Each creature within 150 feet of Jumaga must succeed on a DC 25 Wisdom saving throw or be pacified until the end of the creature's next turn."
+					]
+				}
+			],
+			"legendaryHeader": [
+				"Jumaga can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Jumaga regains spent legendary actions at the start of its turn."
+			]
+		},
+		{
+			"name": "Slagger",
+			"source": "OBOJIMA",
+			"page": 314,
+			"size": [
+				"H"
+			],
+			"type": {
+				"type": "spirit"
+			},
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				16,
+				"natural armor"
+			],
+			"hp": {
+				"average": 126,
+				"formula": "11d12 + 55"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": {
+					"number": 60,
+					"condition": "(hover)"
+				}
+			},
+			"str": 18,
+			"dex": 10,
+			"con": 20,
+			"int": 7,
+			"wis": 12,
+			"cha": 8,
+			"cr": "8",
+			"senses": [
+				"darkvision 120 ft.",
+				"passive Perception 11"
+			],
+			"immune": [
+				"fire",
+				"poison"
+			],
+			"conditionImmune": [
+				"petrified",
+				"poisoned"
+			],
+			"languages": [
+				"Torum"
+			],
+			"trait": [
+				{
+					"name": "Heat Wave.",
+					"entries": [
+						"A creature that starts its turn within 20 feet of the Slagger takes 2 (1d4) fire damage. If the creature is wearing metal armor or wielding metal weapons, the damage is doubled."
+					]
+				},
+				{
+					"name": "Scorch.",
+					"entries": [
+						"Flammable objects ignite if they come within 15 feet of the Slagger."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The Slagger uses its Cough. It then makes one Slam attack."
+					]
+				},
+				{
+					"name": "Slam.",
+					"entries": [
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}25 (6d6 + 4) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Spew Magma (Recharge 5-6).",
+					"entries": [
+						"{@atk rw} {@hit 7} to hit, range 30/90 ft., three targets. {@h}18 (2d12 + 5) fire damage. Regardless of whether the attacks hit or miss, the area within 5 feet of each target is covered in lava. The lava is considered difficult terrain, and a creature that starts its turn in the lava takes 6 (1d12) fire damage. The lava cools and hardens after 1 minute, at which point it becomes harmless and is no longer difficult terrain."
+					]
+				},
+				{
+					"name": "Cough.",
+					"entries": [
+						"The Slagger coughs a sulfurous cloud in a 30-foot cone. Each creature in the area must make a DC 18 Constitution saving throw, taking 13 (2d12) poison damage on a failed save, or half as much damage on a successful one."
+					]
+				}
+			]
+		},
+		{
+			"name": "Green Slime",
+			"source": "OBOJIMA",
+			"page": 316,
+			"size": [
+				"S"
+			],
+			"type": {
+				"type": "ooze"
+			},
+			"alignment": [
+				"NE"
+			],
+			"ac": [
+				13
+			],
+			"hp": {
+				"average": 19,
+				"formula": "3d6 + 9"
+			},
+			"speed": {
+				"walk": 20
+			},
+			"str": 10,
+			"dex": 16,
+			"con": 16,
+			"int": 11,
+			"wis": 11,
+			"cha": 9,
+			"cr": "1/4",
+			"senses": [
+				"passive Perception 10"
+			],
+			"conditionImmune": [
+				"blinded",
+				"charmed",
+				"deafened",
+				"exhaustion",
+				"prone"
+			],
+			"languages": [
+				"-"
+			],
+			"trait": [
+				{
+					"name": "Amorphous.",
+					"entries": [
+						"The green slime can move through a space as narrow as 1 inch wide without squeezing."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Spike.",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}5 (1d4 + 3) piercing damage plus 2 (1d4) acid damage."
+					]
+				},
+				{
+					"name": "Flee.",
+					"entries": [
+						"To save itself from danger, the green slime can sever off a part of its body to cause a distraction. The slime chooses to lose any number of hit points when using this ability. For each hit point lost, a tiny copy of the slime leaps from its body and moves 30 feet in a random direction, after which it falls lifeless."
+					]
+				}
+			]
+		},
+		{
+			"name": "Yellow Slime",
+			"source": "OBOJIMA",
+			"page": 316,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "ooze"
+			},
+			"alignment": [
+				"NE"
+			],
+			"ac": [
+				14
+			],
+			"hp": {
+				"average": 90,
+				"formula": "12d8 + 36"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 12,
+			"dex": 17,
+			"con": 16,
+			"int": 11,
+			"wis": 12,
+			"cha": 9,
+			"cr": "5",
+			"senses": [
+				"passive Perception 11"
+			],
+			"conditionImmune": [
+				"blinded",
+				"charmed",
+				"deafened",
+				"exhaustion",
+				"prone"
+			],
+			"languages": [
+				"-"
+			],
+			"trait": [
+				{
+					"name": "Amorphous.",
+					"entries": [
+						"The Yellow Slime can move through a space as narrow as 1 inch wide without squeezing."
+					]
+				},
+				{
+					"name": "Horrid Stench.",
+					"entries": [
+						"When a creature starts its turn within 20 feet of the Yellow Slime, it must make a DC 14 Constitution saving throw or be gagged by the terrible smell of the slime. On a failed save, the creature must use all of its movement to move away from the slime by the safest available route."
+					]
+				},
+				{
+					"name": "Sticky.",
+					"entries": [
+						"If the Yellow Slime doesn't move for a round, the space that it occupies becomes slathered in a sticky, acrid yellow coating. For all creatures except oozes, the space is difficult terrain, and when the creature enters the space for the first time on a turn or starts its turn there, it must succeed on a DC 14 Constitution saving throw or take 4 (1d8) acid damage."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The Yellow Slime makes one Spike attack and uses its Arrange."
+					]
+				},
+				{
+					"name": "Spike.",
+					"entries": [
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}7 (1d6 + 4) piercing damage plus 7 (2d6) acid damage."
+					]
+				},
+				{
+					"name": "Arrange.",
+					"entries": [
+						"The Yellow Slime attempts to pull a creature within 5 feet of it through its body and into another space. The target must succeed on a DC 15 Strength saving throw or take 4 (1d8) acid damage and be moved to an unoccupied space within 10 feet of the slime."
+					]
+				}
+			]
+		},
+		{
+			"name": "Orange Slime",
+			"source": "OBOJIMA",
+			"page": 317,
+			"size": [
+				"L"
+			],
+			"type": {
+				"type": "ooze"
+			},
+			"alignment": [
+				"NE"
+			],
+			"ac": [
+				16,
+				"natural armor"
+			],
+			"hp": {
+				"average": 157,
+				"formula": "15d10 + 75"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 20,
+			"dex": 16,
+			"con": 20,
+			"int": 12,
+			"wis": 14,
+			"cha": 9,
+			"cr": "10",
+			"save": {
+				"str": "+9",
+				"dex": "+7",
+				"wis": "+6"
+			},
+			"senses": [
+				"passive Perception 12"
+			],
+			"conditionImmune": [
+				"blinded",
+				"charmed",
+				"deafened",
+				"exhaustion",
+				"prone"
+			],
+			"languages": [
+				"-"
+			],
+			"trait": [
+				{
+					"name": "Amorphous.",
+					"entries": [
+						"The Orange Slime can move through a space as narrow as 1 inch wide without squeezing."
+					]
+				},
+				{
+					"name": "Explosive.",
+					"entries": [
+						"If the Orange Slime takes fire damage, a portion of its body explodes. Each creature within 10 feet of the slime must make a DC 17 Dexterity saving throw, taking fire damage equal to the amount dealt to the slime on a failed save, or half as much damage on a successful one."
+					]
+				},
+				{
+					"name": "Steaming.",
+					"entries": [
+						"If water touches the Orange Slime, a burning hot wave of steam erupts from it, filling the area within 20 feet of the slime. The area is heavily obscured until the end of the slime's next turn or until a strong wind disperses it. This steam doesn't impede the vision of Orange and Yellow Slimes."
+					]
+				},
+				{
+					"name": "Sulfurous Haze.",
+					"entries": [
+						"Creatures within 60 feet of the slime take a −5 penalty to ranged attack rolls against it."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The Orange Slime makes two Spike attacks and uses its Arrange."
+					]
+				},
+				{
+					"name": "Spike.",
+					"entries": [
+						"{@atk mw} {@hit 9} to hit, reach 10 ft., one target. {@h}18 (3d8 + 5) bludgeoning damage plus 9 (2d8) fire damage."
+					]
+				},
+				{
+					"name": "Arrange.",
+					"entries": [
+						"The Orange Slime attempts to pull a creature within 10 feet of it through its body and into another space. The target must succeed on a DC 17 Strength saving throw or take 13 (3d8) fire damage and be moved to an unoccupied space within 15 feet of the slime."
+					]
+				}
+			]
+		},
+		{
+			"name": "Corrupted Slime",
+			"source": "OBOJIMA",
+			"page": 317,
+			"size": [
+				"S"
+			],
+			"type": {
+				"type": "ooze"
+			},
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				13
+			],
+			"hp": {
+				"average": 45,
+				"formula": "7d6 + 21"
+			},
+			"speed": {
+				"walk": 20
+			},
+			"str": 10,
+			"dex": 16,
+			"con": 16,
+			"int": 11,
+			"wis": 11,
+			"cha": 9,
+			"cr": "1",
+			"senses": [
+				"passive Perception 10"
+			],
+			"conditionImmune": [
+				"blinded",
+				"charmed",
+				"deafened",
+				"exhaustion",
+				"prone"
+			],
+			"languages": [
+				"-"
+			],
+			"trait": [
+				{
+					"name": "Amorphous.",
+					"entries": [
+						"The corrupted slime can move through a space as narrow as 1 inch wide without squeezing."
+					]
+				},
+				{
+					"name": "Sickness.",
+					"entries": [
+						"Each time a creature comes in contact with the corrupted slime, it must succeed on a DC 13 Constitution saving throw or suffer one level of exhaustion. Once a creature has been affected by a corrupted slime's Sickness, it is immune for the next 24 hours."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Spike.",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6 (1d6 + 3) piercing damage plus 3 (1d6) necrotic damage."
+					]
+				},
+				{
+					"name": "Drain.",
+					"entries": [
+						"The corrupted slime deals 2 (1d4) necrotic damage to each creature affected by its sickness within 120 feet of it. It then regains a number of hit points equal to the damage dealt."
+					]
+				}
+			]
+		},
+		{
+			"name": "Snowball Spirits",
+			"source": "OBOJIMA",
+			"page": 318,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "swarm",
+				"swarmSize": "T",
+				"tags": [
+					"spirit"
+				]
+			},
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				14,
+				"natural armor"
+			],
+			"hp": {
+				"average": 58,
+				"formula": "9d8 + 18"
+			},
+			"speed": {
+				"walk": 60
+			},
+			"str": 17,
+			"dex": 12,
+			"con": 15,
+			"int": 11,
+			"wis": 10,
+			"cha": 10,
+			"cr": "4",
+			"senses": [
+				"passive Perception 10"
+			],
+			"immune": [
+				"cold"
+			],
+			"resist": [
+				"bludgeoning",
+				"piercing",
+				"slashing"
+			],
+			"vuln": [
+				"fire"
+			],
+			"conditionImmune": [
+				"grappled",
+				"paralyzed",
+				"prone",
+				"restrained",
+				"unconscious"
+			],
+			"languages": [
+				"-"
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The snowball spirits make two pelt attacks."
+					]
+				},
+				{
+					"name": "Pelt.",
+					"entries": [
+						"{@atk rw} {@hit 5} to hit, range 20/40 ft., one target. {@h}6 (1d6 + 3) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Slam.",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}17 (4d6 + 3) bludgeoning damage. If the target is at least one size smaller than the snowball spirits, it must succeed on a DC 14 Strength saving throw or be whelmed by the snowball spirits. A whelmed creature is considered grappled (escape DC 14) and is carried with the snowball spirits when they move. A creature within 5 feet of the spirits can pull a whelmed creature out of them by taking an action to make a DC 14 Strength check, freeing the creature on a success. The snowball spirit can have no more than one creature whelmed at a time, unless it reaches the Huge size, at which point it can whelm up to three creatures at a time."
+					]
+				},
+				{
+					"name": "Snowball.",
+					"entries": [
+						"Whenever the snowball spirits take the Dash action, they can make a slam attack as part of that action. Alternatively, if they are in snowy terrain, they can choose to absorb the snow during the movement, growing by one size and regaining 10 hit points."
+					]
+				}
+			]
+		},
+		{
+			"name": "Soda Slime",
+			"source": "OBOJIMA",
+			"page": 319,
+			"size": [
+				"T"
+			],
+			"type": {
+				"type": "ooze"
+			},
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				11,
+				"can armor"
+			],
+			"hp": {
+				"average": 17,
+				"formula": "5d4 + 5"
+			},
+			"speed": {
+				"walk": 10,
+				"climb": 10
+			},
+			"str": 8,
+			"dex": 12,
+			"con": 12,
+			"int": 3,
+			"wis": 6,
+			"cha": 2,
+			"cr": "1/2",
+			"skill": {
+				"stealth": "+5"
+			},
+			"senses": [
+				"blindsight 60 ft. (blind beyond this radius)",
+				"passive Perception 8"
+			],
+			"conditionImmune": [
+				"blinded",
+				"deafened",
+				"exhaustion",
+				"prone"
+			],
+			"languages": [
+				"understands Common but doesn't speak"
+			],
+			"trait": [
+				{
+					"name": "False Appearance.",
+					"entries": [
+						"If the soda slime is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the soda slime move or act, that creature must succeed on a DC 18 Intelligence (Investigation) check to discern that the soda slime isn't an ordinary soda can."
+					]
+				},
+				{
+					"name": "Soda Pop.",
+					"entries": [
+						"When a soda slime is reduced to 0 hit points, each creature within 10 feet of the soda slime must succeed on a DC 10 Dexterity saving throw or take 6 (1d10 + 1) force damage as it explodes in a fizzy pop."
+					]
+				},
+				{
+					"name": "Sticky Nature.",
+					"entries": [
+						"The soda slime can occupy the same space as another creature. While in the same space as the soda slime, a creature has disadvantage on attack rolls and Dexterity checks. When a creature leaves the soda slime's space, it must first make a DC 10 Strength (Athletics) check, carrying the slime with it on a failure."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"Smack. {@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 (1d8 + 1) bludgeoning damage plus 9 (2d8) poison damage."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Sticky Tendril.",
+					"entries": [
+						"When a hostile creature's movement provokes an opportunity attack from the soda slime, it forces the provoking creature to make a DC 12 Dexterity saving throw, causing it to fall prone on a failed save."
+					]
+				}
+			]
+		},
+		{
+			"name": "Spirit",
+			"source": "OBOJIMA",
+			"page": 322,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "spirit"
+			},
+			"alignment": [
+				"NG",
+				"N"
+			],
+			"ac": [
+				10
+			],
+			"hp": {
+				"average": 16,
+				"formula": "3d8 + 3"
+			},
+			"speed": {
+				"walk": 30,
+				"fly": {
+					"number": 30,
+					"condition": "(0 ft. walk in flying form)"
+				}
+			},
+			"str": 10,
+			"dex": 10,
+			"con": 12,
+			"int": 10,
+			"wis": 12,
+			"cha": 12,
+			"cr": "1/8",
+			"skill": {
+				"arcana": "+2"
+			},
+			"senses": [
+				"passive Perception 11"
+			],
+			"languages": [
+				"Common",
+				"Torum"
+			],
+			"trait": [
+				{
+					"name": "Variant Abilities.",
+					"entries": [
+						"Here is a list of abilities a Spirit can have. Some of these abilities may have an impact on the Spirit's Challenge Rating.",
+						{
+							"type": "list",
+							"style": "list-hang-notitle",
+							"items": [
+								"{@b Commune with Animals.} The Spirit can communicate with beasts as if they shared a language.",
+								"{@b Ethereal Sight.} The Spirit can see 60 feet into the Spirit Realm (Ethereal Plane) when it is on the Physical Realm, and vice versa.",
+								"{@b Incorporeal Movement.} The Spirit can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
+								"{@b Invisible.} The Spirit is always invisible.",
+								"{@b Magical.} The Spirit knows two cantrips and one 1st-level spell, which it can cast at will.",
+								"{@b Ocular Prowess.} The Spirit has truesight out to a range of 30 feet.",
+								"{@b Shift.} The Spirit can enter the Spirit Realm (Ethereal Plane) from the Physical Realm, or vice versa.",
+								"{@b Action: Spectral Pass.} {@atk mw} {@hit 2} to hit, reach 5 ft., one target. {@h}14 (4d8) force or necrotic damage."
+							]
+						}
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Smack.",
+					"entries": [
+						"{@atk mw} {@hit 2} to hit, reach 5 ft., one creature. {@h}2 (1d4) bludgeoning damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Animalistic Spirit",
+			"source": "OBOJIMA",
+			"page": 322,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "spirit"
+			},
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				15,
+				"natural armor"
+			],
+			"hp": {
+				"average": 39,
+				"formula": "6d8 + 12"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"str": 15,
+			"dex": 15,
+			"con": 15,
+			"int": 7,
+			"wis": 12,
+			"cha": 9,
+			"cr": "1",
+			"skill": {
+				"intimidation": "+1",
+				"perception": "+3",
+				"stealth": "+4"
+			},
+			"senses": [
+				"passive Perception 13"
+			],
+			"languages": [
+				"Common",
+				"Torum"
+			],
+			"trait": [
+				{
+					"name": "Promising Threat.",
+					"entries": [
+						"The bestial spirit has advantage on Charisma (Intimidation) checks if the target has seen it hit a creature with its Chomp attack in the past minute."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Chomp.",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}9 (2d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Devour.",
+					"entries": [
+						"When the bestial spirit reduces a creature to 0 hit points, it consumes some of the creature's essence, regaining 1d10 hit points."
+					]
+				}
+			]
+		},
+		{
+			"name": "Pest Spirit",
+			"source": "OBOJIMA",
+			"page": 322,
+			"size": [
+				"T"
+			],
+			"type": {
+				"type": "spirit"
+			},
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				11
+			],
+			"hp": {
+				"average": 10,
+				"formula": "4d4"
+			},
+			"speed": {
+				"walk": 20,
+				"fly": {
+					"number": 20,
+					"condition": "(0 ft. walk in flying form)"
+				}
+			},
+			"str": 3,
+			"dex": 12,
+			"con": 11,
+			"int": 10,
+			"wis": 10,
+			"cha": 12,
+			"cr": "0",
+			"senses": [
+				"passive Perception 10"
+			],
+			"languages": [
+				"Torum"
+			],
+			"trait": [
+				{
+					"name": "Distracting Maneuver.",
+					"entries": [
+						"When the Pest Spirit takes the Dash action, it doesn't provoke opportunity attacks until the end of its turn."
+					]
+				},
+				{
+					"name": "Hard to Catch.",
+					"entries": [
+						"The Pest Spirit has advantage on ability checks and saving throws against grapples and other effects that would impede its movement."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Frustration.",
+					"entries": [
+						"The Pest Spirit interacts with a creature within 5 feet of it. The target must succeed on a DC 10 Wisdom saving throw or the spirit gains inspiration."
+					]
+				}
+			]
+		},
+		{
+			"name": "Stone Whale",
+			"source": "OBOJIMA",
+			"page": 324,
+			"size": [
+				"H"
+			],
+			"type": {
+				"type": "beast"
+			},
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				16,
+				"natural armor"
+			],
+			"hp": {
+				"average": 85,
+				"formula": "9d8 + 45"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": 60,
+				"swim": 60
+			},
+			"str": 20,
+			"dex": 10,
+			"con": 20,
+			"int": 8,
+			"wis": 13,
+			"cha": 11,
+			"cr": "6",
+			"skill": {
+				"perception": "+4"
+			},
+			"senses": [
+				"blindsight 120 ft.",
+				"passive Perception 14"
+			],
+			"immune": [
+				"poison"
+			],
+			"resist": [
+				"bludgeoning, piercing, and slashing from nonmagical attacks"
+			],
+			"conditionImmune": [
+				"paralyzed",
+				"petrified",
+				"poisoned"
+			],
+			"languages": [
+				"-"
+			],
+			"trait": [
+				{
+					"name": "Earth Aquatic.",
+					"entries": [
+						"The stone whale can move through stone and earth as if they were difficult terrain."
+					]
+				},
+				{
+					"name": "Echolocation.",
+					"entries": [
+						"The stone whale can't use its blindsight while deafened."
+					]
+				},
+				{
+					"name": "Hold Breath.",
+					"entries": [
+						"The stone whale can hold its breath for 30 minutes."
+					]
+				},
+				{
+					"name": "Keen Hearing.",
+					"entries": [
+						"The stone whale has advantage on Wisdom (Perception) checks that rely on hearing."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Bite.",
+					"entries": [
+						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}22 (5d6 + 5) bludgeoning damage."
 					]
 				}
 			]
