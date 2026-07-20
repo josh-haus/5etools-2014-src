@@ -9191,12 +9191,667 @@
 											"tag": "creature",
 											"name": "Animated Object Spirit",
 											"source": "OBOJIMA"
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Powerful Animated Object Spirit",
+											"source": "OBOJIMA"
 										}
 									],
 									"name": "Animated Object Spirit"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Aquatic beast spirits are among the most fascinating spirits to behold. Even far beyond the shore, these sea spirits are found swimming through the air as though sky was simply a part of the vast ocean that surrounds the island.",
+										"The table below has a list of examples of forms an aquatic beast spirit might take. Feel free to create your own.",
+										{
+											"type": "table",
+											"colLabels": [
+												"d8",
+												"Aquatic Beast Spirit Forms"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Angler Fish"
+												],
+												[
+													"2",
+													"Crab"
+												],
+												[
+													"3",
+													"Eel"
+												],
+												[
+													"4",
+													"Jellyfish"
+												],
+												[
+													"5",
+													"Octopus"
+												],
+												[
+													"6",
+													"Sea Horse"
+												],
+												[
+													"7",
+													"Sea Slug"
+												],
+												[
+													"8",
+													"Sea Turtle"
+												]
+											],
+											"caption": "Aquatic Beast Spirit Forms (d8)"
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Aquatic Beast Spirit",
+											"source": "OBOJIMA"
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Powerful Aquatic Beast Spirit",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Aquatic Beast Spirit"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Beast spirits may or may not be the most common type of companion. Many household pets are treated as though they were spirits, and some spirits prefer to remain anonymous to their chosen person. It is perhaps the ambiguous nature of their presence that has led many Obojimans to regard pets with a semi-reverence.",
+										"The table below has a list of examples of forms a beast spirit might take. Feel free to create your own.",
+										{
+											"type": "table",
+											"colLabels": [
+												"d12",
+												"Beast Spirit Forms",
+												"d12",
+												"Beast Spirit Forms"
+											],
+											"colStyles": [
+												"col-1",
+												"col-4",
+												"col-1",
+												"col-4"
+											],
+											"rows": [
+												[
+													"1",
+													"Cat",
+													"7",
+													"Mouse or Rat"
+												],
+												[
+													"2",
+													"Fox",
+													"8",
+													"Pig"
+												],
+												[
+													"3",
+													"Hedgehog",
+													"9",
+													"Possum"
+												],
+												[
+													"4",
+													"Insect (non-flying)",
+													"10",
+													"Rabbit or Hare"
+												],
+												[
+													"5",
+													"Lizard",
+													"11",
+													"Tortoise"
+												],
+												[
+													"6",
+													"Monkey",
+													"12",
+													"Weasel"
+												]
+											],
+											"caption": "Beast Spirit Forms (d12)"
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Beast Spirit",
+											"source": "OBOJIMA"
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Powerful Beast Spirit",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Beast Spirit"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Unlike their land-bound counterparts, flying spirits tend to keep a degree of distance from settlements, while not altogether rejecting them. People are fascinating, and flying spirits prefer to watch from a distance. It's not uncommon for a person to claim they are being watched by the same owl or followed by the same chicken every day. When the time is right, the spirit will reveal itself to their chosen person.",
+										"The table below has a list of examples of forms a flying beast spirit might take. Feel free to create your own.",
+										{
+											"type": "table",
+											"colLabels": [
+												"d8",
+												"Flying Beast Spirit Forms"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Bat"
+												],
+												[
+													"2",
+													"Bird of Prey (owl, falcon, shrike)"
+												],
+												[
+													"3",
+													"Chicken or Rooster"
+												],
+												[
+													"4",
+													"Corvid (crow, raven, magpie)"
+												],
+												[
+													"5",
+													"Goose"
+												],
+												[
+													"6",
+													"Heron, Stork, or Crane"
+												],
+												[
+													"7",
+													"Sea Bird (gull, pelican)"
+												],
+												[
+													"8",
+													"Winged Insect (beetle, bee, moth)"
+												]
+											],
+											"caption": "Flying Beast Spirit Forms (d8)"
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Flying Beast Spirit",
+											"source": "OBOJIMA"
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Powerful Flying Beast Spirit",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Flying Beast Spirit"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"It's easy to look past these enigmatic spirits, whose elemental nature allows them to blend in with their surroundings, given the right environment. There is a theory among those who study spirits, that claims elemental spirits are likely the first to cross from their realm into the physical. There are probably more of them than we know about, existing as part of and on behalf of nature.",
+										"The table below has a list of examples of forms an elemental spirit might take. Feel free to create your own.",
+										{
+											"type": "table",
+											"colLabels": [
+												"d6",
+												"Elemental Spirit Forms"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Animated Bubbles—Thunder—Fly"
+												],
+												[
+													"2",
+													"Animated Cloud—Lightning—Fly"
+												],
+												[
+													"3",
+													"Dust Wisp—Slashing—Walk, Fly"
+												],
+												[
+													"4",
+													"Earth Spirit (clay, crystal, sand, stone)—Bludgeoning—Walk"
+												],
+												[
+													"5",
+													"Flame Wisp—Fire—Walk"
+												],
+												[
+													"6",
+													"Water Wisp—Bludgeoning—Walk, Swim"
+												]
+											],
+											"caption": "Elemental Spirit Forms (d6)"
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Elemental Spirit",
+											"source": "OBOJIMA"
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Powerful Elemental Spirit",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Elemental Spirit"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"These mysterious spirits are unique among their kind that dwell in the Physical Realm because they have rejected the notion of a fixed physical form. Rather, they prefer the fluidity of taking on any form or no form even if it limits their ability to interact with the world around them.",
+										"Spectral spirits take on the form of an amorphous wisp. A spectral spirit might shift its form, taking on different shapes and colors to suit its mood.",
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Spectral Spirit",
+											"source": "OBOJIMA"
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Powerful Spectral Spirit",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Spectral Spirit"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Spirits of this variety can resemble all kinds of foliage. They get a form as they enter the Physical Realm, growing into it as though they were actual flora. They might be mistaken for a plant or mushroom at a cursory glance, but anyone paying attention will notice that they have arms, legs, and expressive little faces.",
+										"Flora spirits tend to see the plants or fungus that resemble them as kindred, and they are most often found tending the places where they appeared. However, some leave their familiar soil, venturing forth to roam the island.",
+										"The table below has a list of examples of forms a flora spirit might take. Feel free to create your own.",
+										{
+											"type": "table",
+											"colLabels": [
+												"d8",
+												"Plant Spirit Forms"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Acorn or Nut - Walk"
+												],
+												[
+													"2",
+													"Flower - Fly"
+												],
+												[
+													"3",
+													"Leaf - Fly"
+												],
+												[
+													"4",
+													"Mossling - Walk"
+												],
+												[
+													"5",
+													"Mushroom - Walk"
+												],
+												[
+													"6",
+													"Jack-o'-Lantern - Fly"
+												],
+												[
+													"7",
+													"Radish - Fly"
+												],
+												[
+													"8",
+													"Sapling - Fly"
+												]
+											],
+											"caption": "Plant Spirit Forms (d8)"
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Flora Spirit",
+											"source": "OBOJIMA"
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Powerful Flora Spirit",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Flora Spirit"
 								}
 							],
 							"name": "Companion Types"
+						},
+						{
+							"type": "section",
+							"name": "Thinking About Antagonists",
+							"page": 266,
+							"entries": [
+								{
+									"type": "entries",
+									"entries": [
+										"Every adventure wants a compelling antagonist—a primary obstacle that stands in the heroes' way. When done correctly, they can become one of the most memorable elements of your game. Left unhindered, an antagonist would harm or at least disrupt the lives of the heroes and the people and places they care about. Antagonists are often characters with ambitions that drive them to stand at odds with the heroes. These characters are typically described as villains with self-serving aims and a willingness to harm others to get what they want. Some antagonists are forces of nature or supernatural phenomena that don't necessarily act with malicious intent, but are dangerous nonetheless.",
+										"As you approach crafting the antagonist of your adventure, keep in mind that they exist so that the heroes will have to confront them in some manner, and likely as the centerpiece of the adventure's climax. To help make that showdown one for the books, consider the following questions:",
+										{
+											"type": "entries",
+											"entries": [
+												"The heroes might have been hired to do it, or it might just be the right thing to do. But if it's personal, the heroes' victory over the antagonist is sure to be more meaningful and therefore more memorable."
+											],
+											"name": "What drives the heroes to thwart the antagonist?"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Find ways to make them stick out in the players' minds. If the antagonist is a character, what peculiarities and affectations do they have? Do they have an interesting manner of speaking or wield an odd form of magic? If an aspect of nature is the looming threat, how is its presence felt or foretold?"
+											],
+											"name": "What makes the antagonist unique?"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"An antagonist who we might empathize with can influence how players see them, and consequently how they'll approach dealing with them. Truly brutal, cruel, and monstrous antagonists might exist to have the heroes kick their teeth in. However, if you can create an antagonist who demands empathy despite their actions, you leave room for that character's transformation or even redemption. This often requires the heroes to learn more about the antagonist—to humanize them—in order to understand why they do what they do. See the table below for some inspiration for your antagonist's motivation.",
+												{
+													"type": "table",
+													"colLabels": [
+														"d12",
+														"Motivations for Antagonistic Behavior"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"They have a different sense of right and wrong"
+														],
+														[
+															"2",
+															"They are driven by a reckless ambition/greed/pursuit of power"
+														],
+														[
+															"3",
+															"They have contempt for or are jealous of someone"
+														],
+														[
+															"4",
+															"They have to prove themselves"
+														],
+														[
+															"5",
+															"They are doing what they believe is necessary to protect what they value"
+														],
+														[
+															"6",
+															"They are a trickster by nature"
+														],
+														[
+															"7",
+															"They are dispassionate or distant, with a mind that operates in an alien manner"
+														],
+														[
+															"8",
+															"They are misguided or lack key information"
+														],
+														[
+															"9",
+															"They have a chip on their shoulder about something in their past"
+														],
+														[
+															"10",
+															"They are cursed"
+														],
+														[
+															"11",
+															"They act on behalf of a different group"
+														],
+														[
+															"12",
+															"They believe they have no choice"
+														]
+													],
+													"caption": "Motivations for Antagonistic Behavior (d12)"
+												}
+											],
+											"name": "If the antagonist is a character, do they deserve empathy?"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"One of the great joys in RPGs is when adventurers turn an enemy into a friend. This complicated relationship is rich, and the ongoing encounters with these characters can be quite rewarding for players. That doesn't mean that all antagonists are pals to be, however, and there's no guarantee that the players will have an appetite for friendship once an enemy crosses them. But as you plan your ongoing adventures, it might be helpful to think about your antagonists as existing on a spectrum. There are the antagonists that aren't all bad—the lovable scoundrels, the knights loyal to masters who may be unworthy of them, the reckless wizards in over their heads, the dumb lunks who don't know their own strength, etc. But then there are the true baddies—the villainous scum whose defeat is so sweet for the players.",
+												"The way this dynamic often plays out in stories is that the protagonist first encounters what they believe to be the villain, only to later discover the existence of the true big bad. In an RPG, that discovery is a chance to recontextualize how the players regard the other antagonists—the ones who aren't so bad by comparison. These characters might simply have goals that are at odds with the characters due to circumstance or misunderstanding. You might have an antagonist who the characters get along with, but they are sworn to an enemy. There could be a cursed warrior who has been tasked with capturing the characters in exchange for a cure. The options are limitless, but the point is that the evolving nature of the relationship that develops between them and the characters is a wonderful opportunity for satisfying storytelling."
+											],
+											"name": "The Spectrum of Antagonists"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"What happens when the heroes overcome the antagonist or at least thwart them? Often, we think of a large boss fight as the end of an adventure, but that's just the climax of the action. It's the fallout from the heroes' actions that will serve as the final note of an adventure. It's a beat that is too easily rushed. However, it's worth thinking about what \"winning\" looks like. Let the conclusion linger a bit—it was hard won, after all.",
+												"Below is a breakdown of approaches to handling your antagonist at the conclusion of an adventure once the heroes have overcome them.",
+												{
+													"type": "entries",
+													"entries": [
+														"This is the \"we did it!\" ending. Often, players just want to roll initiative, crack skulls, and feel good about the skulls they cracked along the way. They know that the antagonist is defeated and all will be right on Obojima. If that works for your players, there's no need to complicate it. Onward to the medal ceremony!"
+													],
+													"name": "Straightforward"
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"This is the \"at what cost?\" ending. With victory comes lasting scars. Heroes might be forever changed. Evidence of a great battle might mark the landscape for years to come. The player might be left with mixed feelings about what it took to stop the antagonist. Perhaps only a few NPCs truly understand what was sacrificed to get there."
+													],
+													"name": "Bittersweet"
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"This is the \"I'm a good guy now\" ending. There's no help for an antagonist who does villainous things simply because they are evil by nature. However, there are all sorts of reasons for an antagonist to stand in the way of the heroes, which means it's possible that, with the right words and/or actions, the heroes could actually turn the antagonist to their cause."
+													],
+													"name": "Redemption"
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"This is the \"you always knew who I was\" ending. The antagonist betrays the heroes only after convincing them they'd changed. It's a great way to propel a single adventure's antagonist into the role of a campaign's big bad."
+													],
+													"name": "False Redemption"
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"This is the \"we'll meet again!\" ending. The outcome is not conclusive, and it results in the antagonist and heroes going their separate ways. Though the heroes might have thwarted the antagonist's scheme, there are sure to be more confrontations down the road. Like the false redemption ending, this is a powerful way to conclude an adventure with the promise of a larger campaign."
+													],
+													"name": "Anticlimax"
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"This is \"the bad guy was right\" ending. It's possible that the heroes overcome the antagonist only to realize that perhaps their own actions were misguided, and that they were on the wrong side of the conflict. It's a tricky one to pull off, as it runs the risk of feeling like a moral bait and switch. If the reversal is something you think your players would enjoy, it's best to leave signposts in the adventure to seed doubt in the heroes. That way, the outcome is more likely to come across as plausible."
+													],
+													"name": "Reversal"
+												}
+											],
+											"name": "Consider the Outcome"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"name": "Creatures",
+							"page": 268,
+							"entries": [
+								{
+									"type": "entries",
+									"entries": [
+										"Below you will find a list of creatures that can be found throughout the island of Obojima. These creatures are listed in alphabetical order."
+									]
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Although their name implies a small, nut-sized creature, acorn crabs are enormous land crabs that have a penchant for climbing into trees and dining on acorns. They are territorial and will defend their trees, sometimes falling from great heights and using their shells as battering rams to smash interlopers far below.",
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Acorn Crab",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Acorn Crab"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Akaobata are hoarders and covetors of truths and secrets. Reveling in the power and delight brought from knowing some unknown truth about another person—especially if that secret causes great consternation.",
+										"Though the stories of the Akaobata aren't well known among the islanders, those who do know of the spirit will advise you to keep out of the affairs of such a creature—Failing to do so will have you engrossed by its cursed games, unaware of how to escape.",
+										{
+											"type": "entries",
+											"entries": [
+												"Akaobata is said to approach a creature and offer a gift in exchange for an answer to their question. These gifts are rumored to be as simple as a meal in desperate times, or as lavish as a priceless piece of art. The gift however should not be of concern to the creature whom the Akaobata has parleyed with, but rather its question. As for most, the question of the nefarious spirit is often unanswerable, and the Akaobata will only accept the truth.",
+												"The bargain must be honored if a deal is struck with an Akaobata. If the deal is broken, the consequences can be disturbing."
+											],
+											"name": "Akaobata's Gift"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"If a creature is unable to answer the Akaobata's question, the spirit will haunt the deal breaker until its side of the bargain is fulfilled — a process the Akaobata enjoys more than anything else. These haunts have started with minor pestering and stalking, to devious tricks and dangerous actions."
+											],
+											"name": "Broken Deal"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"If an Akaobata has struck a bargain, until that bargain is met, death on the physical realm is only temporary — Over time it will eventually return to its gravesite—a process that can take days or even months. Once returned, it seeks out the fulfillment of its unfulfilled bargains, often reinvigorated by actions one has taken to flee its question."
+											],
+											"name": "In Death"
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Akaobata",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Akaobata"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The fur-covered bearracuda fish live on the snowy slopes of Mount Arbora and are synonymous with the dangers of traveling at the heights of the mountain. Though the practice is uncommon now, there was a time when large bands of fisherman and trackers would hunt the predator for its meat and furs, but due to the practice's high casualty rate and the rise in popularity of potion crafting, it became easier and more lucrative for islanders to go after smaller fish.",
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Bearracuda",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Bearracuda"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Cats are beloved creatures on Obojima—They are among the most loyal of companions, skilled workers, and, in some cases, even peers to other islanders. To most, a cat's life is considered too short, but that is not the case for all cats. When a cat lives beyond its years, there is sometimes a transformation that can occur. Rather than fading away, the cat continues to flourish, growing stronger and larger, over several years, until eventually, they gain a status: cat of prodigious size.",
+										"This transformation is just one of many that the cats of Obojima can go through and is regarded as one of the rarest.",
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Cat of Prodigious Size",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Cat of Prodigious Size"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Viota is a powerful spirit that takes the form of a little girl made of black smoke. She has hundreds of bodies, all of which look like this same unsettling and somehow disarming young lady. Each of her clones has a unique personality and is living out its life somewhere on the island. Though each of these clones has a different personality, some of which are kind and caring, while others are dangerous and cruel, they are all connected. What one clone experiences, so do the others.",
+										{
+											"type": "entries",
+											"entries": [
+												"Viota goes by many names and holds hundreds of professions. She lives on every corner of the island and dines with all types of people, very few of which, truly understand what Viota is. In one town, she might be a young witch apprentice studying to join a coven alongside dozens of other students. In another settlement, she might be the guard captain or owner of the local inn. At all times, she is loved, hated, admired, and feared by those around her."
+											],
+											"name": "Member of Society"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Not every one of Viota's clones are kind individuals—Some are quite the opposite. They can be as cruel and manipulative as a demon or as dangerous and wild as a feral beast. Some of these clones have found ways to live within the confines of society, while others are cast out to the areas of the island that few people wish to travel to. It's these clones that most wish to avoid at all costs."
+											],
+											"name": "Danger to Society"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"At some point in the last few decades, an unknown witch was able to tap into Viota's magic and summon one of her clones through the use of the Shadow Child potion. To this day Viota is unsure how this happened and does whatever she can to stop the use of that potion."
+											],
+											"name": "Mystery of her Magic"
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Clone of Viota",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Clone of Viota"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Corrupted muk are shallow mockeries of humanoid form that emerge from pools of Corruption to wander about. Apparently mindless, corrupted muk don't seem to have any agency, but they can suddenly act as a single entity if alerted.",
+										{
+											"type": "entries",
+											"entries": [
+												"Only a week after the tsunami brought the Corruption onto the eastern side of the island it began to move and gradually coalesce into more and more human-like forms that then huddled together or shambled about in a seemingly mindless manner. Some who have encountered corrupted muk have speculated that the Corruption may have some intelligence, trying to mimic life. Some temple sages have said that each corrupted muk is an Obojiman who was taken in the disaster and that each muk slain is a spirit released back to the island."
+											],
+											"name": "Muk-Filled Mystery"
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Corrupted Muk",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Corrupted Muk"
+								}
+							]
 						}
 					]
 				}
@@ -13650,6 +14305,1464 @@
 					"name": "Telekinetic Reach.",
 					"entries": [
 						"The spirit casts the {@spell Mage Hand} cantrip. When it does so, the spectral hand created by the spell is invisible."
+					]
+				}
+			]
+		},
+		{
+			"name": "Powerful Animated Object Spirit",
+			"source": "OBOJIMA",
+			"page": 258,
+			"size": [
+				"T"
+			],
+			"type": {
+				"type": "spirit"
+			},
+			"alignment": [
+				"A"
+			],
+			"ac": [
+				15,
+				"natural armor"
+			],
+			"hp": {
+				"average": 54,
+				"formula": "12d4 + 24"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": {
+					"number": 30,
+					"condition": "(hover)"
+				}
+			},
+			"str": 7,
+			"dex": 13,
+			"con": 14,
+			"int": 16,
+			"wis": 14,
+			"cha": 10,
+			"cr": "3",
+			"skill": {
+				"insight": "+6",
+				"investigation": "+5",
+				"stealth": "+5"
+			},
+			"senses": [
+				"passive Perception 12"
+			],
+			"immune": [
+				"poison"
+			],
+			"conditionImmune": [
+				"poisoned"
+			],
+			"languages": [
+				"Common",
+				"Torum"
+			],
+			"trait": [
+				{
+					"name": "False Appearance.",
+					"entries": [
+						"If the spirit is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the spirit move or act, that creature must succeed on a DC 18 Intelligence (Investigation) check to discern that the spirit isn't an object."
+					]
+				},
+				{
+					"name": "New Form (2/Day).",
+					"entries": [
+						"When the spirit is reduced to 0 hit points but not killed outright, it can choose a different object it can see within 10 feet of it and send its consciousness into that object. After it does so, it drops to 1 hit point instead."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Slam.",
+					"entries": [
+						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}4 (1d6 + 1) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Telekinetic Reach.",
+					"entries": [
+						"The spirit casts the {@spell Mage Hand} cantrip. When it does so, the spectral hand created by the spell is invisible."
+					]
+				}
+			]
+		},
+		{
+			"name": "Aquatic Beast Spirit",
+			"source": "OBOJIMA",
+			"page": 259,
+			"size": [
+				"T"
+			],
+			"type": {
+				"type": "spirit"
+			},
+			"alignment": [
+				"A"
+			],
+			"ac": [
+				12,
+				"natural armor"
+			],
+			"hp": {
+				"average": 27,
+				"formula": "6d4 + 12"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": {
+					"number": 30,
+					"condition": "(hover)"
+				},
+				"swim": 40
+			},
+			"str": 12,
+			"dex": 12,
+			"con": 14,
+			"int": 8,
+			"wis": 10,
+			"cha": 4,
+			"cr": "1/2",
+			"skill": {
+				"intimidation": "+1",
+				"nature": "+1",
+				"persuasion": "+1"
+			},
+			"senses": [
+				"darkvision 60 ft.",
+				"passive Perception 10"
+			],
+			"languages": [
+				"Common",
+				"Torum"
+			],
+			"action": [
+				{
+					"name": "Bite, Pinch, or Sting.",
+					"entries": [
+						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 (1d8 + 1) piercing damage."
+					]
+				},
+				{
+					"name": "Bubble Lift (1/Day).",
+					"entries": [
+						"The spirit casts the {@spell Bubble Lift} spell, using Wisdom as its spellcasting ability."
+					]
+				}
+			]
+		},
+		{
+			"name": "Powerful Aquatic Beast Spirit",
+			"source": "OBOJIMA",
+			"page": 259,
+			"size": [
+				"T"
+			],
+			"type": {
+				"type": "spirit"
+			},
+			"alignment": [
+				"A"
+			],
+			"ac": [
+				15,
+				"natural armor"
+			],
+			"hp": {
+				"average": 60,
+				"formula": "11d4 + 33"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": {
+					"number": 30,
+					"condition": "(hover)"
+				},
+				"swim": 40
+			},
+			"str": 14,
+			"dex": 14,
+			"con": 16,
+			"int": 8,
+			"wis": 10,
+			"cha": 4,
+			"cr": "3",
+			"skill": {
+				"intimidation": "+1",
+				"nature": "+1",
+				"persuasion": "+1"
+			},
+			"senses": [
+				"darkvision 60 ft.",
+				"passive Perception 10"
+			],
+			"languages": [
+				"Common",
+				"Torum"
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The spirit makes two attacks."
+					]
+				},
+				{
+					"name": "Bite, Pinch, or Sting.",
+					"entries": [
+						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 (1d8 + 1) piercing damage."
+					]
+				},
+				{
+					"name": "Bubble Lift (1/Day).",
+					"entries": [
+						"The spirit casts the {@spell Bubble Lift} spell, using Wisdom as its spellcasting ability."
+					]
+				}
+			]
+		},
+		{
+			"name": "Beast Spirit",
+			"source": "OBOJIMA",
+			"page": 260,
+			"size": [
+				"T"
+			],
+			"type": {
+				"type": "spirit"
+			},
+			"alignment": [
+				"A"
+			],
+			"ac": [
+				12,
+				"natural armor"
+			],
+			"hp": {
+				"average": 18,
+				"formula": "4d4 + 8"
+			},
+			"speed": {
+				"walk": 30,
+				"climb": 30
+			},
+			"str": 12,
+			"dex": 14,
+			"con": 14,
+			"int": 8,
+			"wis": 12,
+			"cha": 11,
+			"cr": "1/2",
+			"skill": {
+				"acrobatics": "+4",
+				"stealth": "+4",
+				"sleight of hand": "+4"
+			},
+			"senses": [
+				"darkvision 30 ft.",
+				"passive Perception 11"
+			],
+			"languages": [
+				"Common",
+				"Torum"
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The spirit makes two attacks."
+					]
+				},
+				{
+					"name": "Chomp.",
+					"entries": [
+						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 (1d6 + 2) piercing damage."
+					]
+				},
+				{
+					"name": "Scratch.",
+					"entries": [
+						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}7 (2d4 + 2) slashing damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Powerful Beast Spirit",
+			"source": "OBOJIMA",
+			"page": 260,
+			"size": [
+				"T"
+			],
+			"type": {
+				"type": "spirit"
+			},
+			"alignment": [
+				"A"
+			],
+			"ac": [
+				15,
+				"natural armor"
+			],
+			"hp": {
+				"average": 49,
+				"formula": "11d4 + 22"
+			},
+			"speed": {
+				"walk": 30,
+				"climb": 30
+			},
+			"str": 12,
+			"dex": 16,
+			"con": 14,
+			"int": 8,
+			"wis": 14,
+			"cha": 12,
+			"cr": "3",
+			"skill": {
+				"acrobatics": "+5",
+				"stealth": "+5",
+				"sleight of hand": "+5"
+			},
+			"senses": [
+				"darkvision 30 ft.",
+				"passive Perception 12"
+			],
+			"languages": [
+				"Common",
+				"Torum"
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The spirit makes three attacks: two with its chomp and one with its scratch."
+					]
+				},
+				{
+					"name": "Chomp.",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}8 (1d10 + 3) piercing damage."
+					]
+				},
+				{
+					"name": "Scratch.",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 (2d6 + 3) slashing damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Flying Beast Spirit",
+			"source": "OBOJIMA",
+			"page": 260,
+			"size": [
+				"T"
+			],
+			"type": {
+				"type": "spirit"
+			},
+			"alignment": [
+				"A"
+			],
+			"ac": [
+				12,
+				"natural armor"
+			],
+			"hp": {
+				"average": 17,
+				"formula": "5d4 + 5"
+			},
+			"speed": {
+				"walk": 15,
+				"fly": 40
+			},
+			"str": 12,
+			"dex": 16,
+			"con": 12,
+			"int": 8,
+			"wis": 13,
+			"cha": 10,
+			"cr": "1/4",
+			"skill": {
+				"perception": "+5",
+				"stealth": "+5"
+			},
+			"senses": [
+				"darkvision 120 ft.",
+				"passive Perception 15"
+			],
+			"languages": [
+				"Common",
+				"Torum"
+			],
+			"trait": [
+				{
+					"name": "A Tinge Lucky (1/Day).",
+					"entries": [
+						"The spirit can choose to grant itself advantage on one attack roll, ability check, or saving throw it makes."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Scratch.",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}10 (2d6 + 3) slashing damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Powerful Flying Beast Spirit",
+			"source": "OBOJIMA",
+			"page": 260,
+			"size": [
+				"T"
+			],
+			"type": {
+				"type": "spirit"
+			},
+			"alignment": [
+				"A"
+			],
+			"ac": [
+				15,
+				"natural armor"
+			],
+			"hp": {
+				"average": 49,
+				"formula": "14d4 + 14"
+			},
+			"speed": {
+				"walk": 15,
+				"fly": 40
+			},
+			"str": 12,
+			"dex": 18,
+			"con": 12,
+			"int": 8,
+			"wis": 14,
+			"cha": 12,
+			"cr": "3",
+			"skill": {
+				"perception": "+6",
+				"stealth": "+6"
+			},
+			"senses": [
+				"darkvision 120 ft.",
+				"passive Perception 15"
+			],
+			"languages": [
+				"Common",
+				"Torum"
+			],
+			"trait": [
+				{
+					"name": "A Tinge Lucky (3/Day).",
+					"entries": [
+						"The spirit can choose to grant itself advantage on one attack roll, ability check, or saving throw it makes."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The spirit makes two scratch attacks."
+					]
+				},
+				{
+					"name": "Scratch.",
+					"entries": [
+						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}11 (2d6 + 4) slashing damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Elemental Spirit",
+			"source": "OBOJIMA",
+			"page": 261,
+			"size": [
+				"T"
+			],
+			"type": {
+				"type": "spirit"
+			},
+			"alignment": [
+				"A"
+			],
+			"ac": [
+				13,
+				"natural armor"
+			],
+			"hp": {
+				"average": 31,
+				"formula": "7d4 + 14"
+			},
+			"speed": {
+				"walk": 30,
+				"fly": {
+					"number": 30,
+					"condition": "(hover)"
+				},
+				"swim": 40
+			},
+			"str": 14,
+			"dex": 14,
+			"con": 14,
+			"int": 10,
+			"wis": 8,
+			"cha": 4,
+			"cr": "1/2",
+			"skill": {
+				"athletics": "+4",
+				"survival": "+3"
+			},
+			"senses": [
+				"blindsight 30 ft.",
+				"passive Perception 9"
+			],
+			"languages": [
+				"Common",
+				"Torum"
+			],
+			"action": [
+				{
+					"name": "Smack.",
+					"entries": [
+						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}7 (1d10 + 2) damage of the type associated with the spirit."
+					]
+				},
+				{
+					"name": "Duplicate (1/Day).",
+					"entries": [
+						"The spirit casts the {@spell Duplicate} spell (spell save DC 10), using Intelligence as its spellcasting ability, requiring no material components."
+					]
+				}
+			]
+		},
+		{
+			"name": "Powerful Elemental Spirit",
+			"source": "OBOJIMA",
+			"page": 261,
+			"size": [
+				"T"
+			],
+			"type": {
+				"type": "spirit"
+			},
+			"alignment": [
+				"A"
+			],
+			"ac": [
+				16,
+				"natural armor"
+			],
+			"hp": {
+				"average": 67,
+				"formula": "15d4 + 30"
+			},
+			"speed": {
+				"walk": 30,
+				"fly": {
+					"number": 30,
+					"condition": "(hover)"
+				},
+				"swim": 40
+			},
+			"str": 16,
+			"dex": 16,
+			"con": 14,
+			"int": 12,
+			"wis": 8,
+			"cha": 4,
+			"cr": "3",
+			"skill": {
+				"athletics": "+4",
+				"survival": "+3"
+			},
+			"senses": [
+				"blindsight 30 ft.",
+				"passive Perception 9"
+			],
+			"languages": [
+				"Common",
+				"Torum"
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The spirit makes two smack attacks."
+					]
+				},
+				{
+					"name": "Smack.",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}8 (1d10 + 3) damage of the type associated with the spirit."
+					]
+				},
+				{
+					"name": "Duplicate (2/Day).",
+					"entries": [
+						"The spirit casts the {@spell Duplicate} spell (spell save DC 11), using Intelligence as its spellcasting ability, requiring no material components."
+					]
+				}
+			]
+		},
+		{
+			"name": "Spectral Spirit",
+			"source": "OBOJIMA",
+			"page": 262,
+			"size": [
+				"T"
+			],
+			"type": {
+				"type": "spirit"
+			},
+			"alignment": [
+				"A"
+			],
+			"ac": [
+				12,
+				"natural armor"
+			],
+			"hp": {
+				"average": 21,
+				"formula": "6d4 + 6"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": {
+					"number": 30,
+					"condition": "(hover)"
+				}
+			},
+			"str": 10,
+			"dex": 13,
+			"con": 13,
+			"int": 10,
+			"wis": 10,
+			"cha": 9,
+			"cr": "1/2",
+			"skill": {
+				"arcana": "+2",
+				"deception": "+3",
+				"persuasion": "+3"
+			},
+			"senses": [
+				"darkvision 30 ft.",
+				"passive Perception 10"
+			],
+			"languages": [
+				"Common",
+				"Torum"
+			],
+			"trait": [
+				{
+					"name": "Incorporeal Movement.",
+					"entries": [
+						"The spirit can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object."
+					]
+				},
+				{
+					"name": "Spiritual Sight.",
+					"entries": [
+						"The spirit can see 60 feet into the Spirit Realm (Ethereal Plane) when it is on the Physical Realm, and vice versa."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Spectral Pass.",
+					"entries": [
+						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}4 (1d6 + 1) necrotic damage."
+					]
+				},
+				{
+					"name": "Etherealness.",
+					"entries": [
+						"The spirit enters the Spirit Realm (Ethereal Plane) from the Physical Realm, or vice versa. It is visible on the Physical Realm while it is in the Spirit Realm, and vice versa, yet it can't affect or be affected by anything on the other plane."
+					]
+				},
+				{
+					"name": "Incorporeal Transfer.",
+					"entries": [
+						"While holding an item, the spirit can cause it to become incorporeal, allowing it to pass through other objects and creatures. If the spirit lets go of the item while inside of an object or creature, the item is shunted to the nearest unoccupied space outside of the object or creature."
+					]
+				}
+			]
+		},
+		{
+			"name": "Powerful Spectral Spirit",
+			"source": "OBOJIMA",
+			"page": 262,
+			"size": [
+				"T"
+			],
+			"type": {
+				"type": "spirit"
+			},
+			"alignment": [
+				"A"
+			],
+			"ac": [
+				15,
+				"natural armor"
+			],
+			"hp": {
+				"average": 52,
+				"formula": "15d4 + 15"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": {
+					"number": 30,
+					"condition": "(hover)"
+				}
+			},
+			"str": 10,
+			"dex": 14,
+			"con": 13,
+			"int": 12,
+			"wis": 12,
+			"cha": 10,
+			"cr": "3",
+			"skill": {
+				"arcana": "+3",
+				"deception": "+4",
+				"persuasion": "+4"
+			},
+			"senses": [
+				"darkvision 30 ft.",
+				"passive Perception 11"
+			],
+			"languages": [
+				"Common",
+				"Torum"
+			],
+			"trait": [
+				{
+					"name": "Incorporeal Movement.",
+					"entries": [
+						"The spirit can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object."
+					]
+				},
+				{
+					"name": "Spiritual Sight.",
+					"entries": [
+						"The spirit can see 60 feet into the Spirit Realm (Ethereal Plane) when it is on the Physical Realm, and vice versa."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Spectral Pass.",
+					"entries": [
+						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}8 (1d12 + 2) necrotic damage."
+					]
+				},
+				{
+					"name": "Etherealness.",
+					"entries": [
+						"The spirit enters the Spirit Realm (Ethereal Plane) from the Physical Realm, or vice versa. It is visible on the Physical Realm while it is in the Spirit Realm, and vice versa, yet it can't affect or be affected by anything on the other plane."
+					]
+				},
+				{
+					"name": "Incorporeal Transfer.",
+					"entries": [
+						"While holding an item, the spirit can cause it to become incorporeal, allowing it to pass through other objects and creatures. If the spirit lets go of the item while inside of an object or creature, the item is shunted to the nearest unoccupied space outside of the object or creature."
+					]
+				},
+				{
+					"name": "Invisibility (1/Day).",
+					"entries": [
+						"The spirit casts the {@spell Invisibility} spell on itself, using Intelligence as its spellcasting ability, requiring no material components."
+					]
+				},
+				{
+					"name": "Sleep (1/Day).",
+					"entries": [
+						"The spirit casts the {@spell Sleep} spell, using Intelligence as its spellcasting ability, requiring no material components."
+					]
+				}
+			]
+		},
+		{
+			"name": "Flora Spirit",
+			"source": "OBOJIMA",
+			"page": 263,
+			"size": [
+				"T"
+			],
+			"type": {
+				"type": "spirit"
+			},
+			"alignment": [
+				"A"
+			],
+			"ac": [
+				12,
+				"natural armor"
+			],
+			"hp": {
+				"average": 21,
+				"formula": "6d4 + 6"
+			},
+			"speed": {
+				"walk": 30,
+				"fly": {
+					"number": 30,
+					"condition": "(hover)"
+				}
+			},
+			"str": 10,
+			"dex": 15,
+			"con": 12,
+			"int": 12,
+			"wis": 14,
+			"cha": 7,
+			"cr": "1/2",
+			"skill": {
+				"animal handling": "+4",
+				"medicine": "+4",
+				"nature": "+3",
+				"perception": "+4",
+				"stealth": "+4"
+			},
+			"senses": [
+				"darkvision 30 ft.",
+				"passive Perception 14"
+			],
+			"languages": [
+				"Common",
+				"Torum"
+			],
+			"trait": [
+				{
+					"name": "Body Bite (1/Day).",
+					"entries": [
+						"While the spirit has at least 5 hit points, a friendly creature can use a bonus action to take a bite out of the spirit. The spirit takes 1d4 piercing damage, and the creature regains a number of hit points equal to the damage taken."
+					]
+				},
+				{
+					"name": "Regeneration.",
+					"entries": [
+						"The spirit regains 2 hit points at the start of each of its turns if it has at least 1 hit point."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Push.",
+					"entries": [
+						"{@atk mw} {@hit 2} to hit, reach 5 ft., one target. {@h}2 (1d4) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Spellcasting.",
+					"entries": [
+						"The spirit's spellcasting ability is Wisdom (spell save DC 12). The spirit can cast the following spells, requiring no material components:",
+						{
+							"type": "list",
+							"style": "list-hang-notitle",
+							"items": [
+								"{@i At will:} {@spell Druidcraft}, {@spell Thorn Whip} (deals no damage)",
+								"{@i 1/day:} {@spell Entangle}"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Powerful Flora Spirit",
+			"source": "OBOJIMA",
+			"page": 264,
+			"size": [
+				"T"
+			],
+			"type": {
+				"type": "spirit"
+			},
+			"alignment": [
+				"A"
+			],
+			"ac": [
+				15,
+				"natural armor"
+			],
+			"hp": {
+				"average": 52,
+				"formula": "15d4 + 15"
+			},
+			"speed": {
+				"walk": 30,
+				"fly": {
+					"number": 30,
+					"condition": "(hover)"
+				}
+			},
+			"str": 10,
+			"dex": 16,
+			"con": 12,
+			"int": 12,
+			"wis": 16,
+			"cha": 9,
+			"cr": "3",
+			"skill": {
+				"animal handling": "+5",
+				"medicine": "+5",
+				"nature": "+3",
+				"perception": "+5",
+				"stealth": "+5"
+			},
+			"senses": [
+				"darkvision 30 ft.",
+				"passive Perception 15"
+			],
+			"languages": [
+				"Common",
+				"Torum"
+			],
+			"trait": [
+				{
+					"name": "Body Bite (1/Day).",
+					"entries": [
+						"While the spirit has at least 10 hit points, a friendly creature can use a bonus action to take a bite out of the spirit. The spirit takes 3d4 piercing damage, and the creature regains a number of hit points equal to the damage taken."
+					]
+				},
+				{
+					"name": "Regeneration.",
+					"entries": [
+						"The spirit regains 4 hit points at the start of each of its turns if it has at least 1 hit point."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Push.",
+					"entries": [
+						"{@atk mw} {@hit 2} to hit, reach 5 ft., one target. {@h}4 (1d8) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Spellcasting.",
+					"entries": [
+						"The spirit's spellcasting ability is Wisdom (spell save DC 13). The spirit can cast the following spells, requiring no material components:",
+						{
+							"type": "list",
+							"style": "list-hang-notitle",
+							"items": [
+								"{@i At will:} {@spell Druidcraft}, {@spell Thorn Whip} (deals no damage)",
+								"{@i 1/day:} {@spell Animal Friendship}, {@spell Charm Person}, {@spell Entangle}"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Acorn Crab",
+			"source": "OBOJIMA",
+			"page": 269,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "monstrosity"
+			},
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				16,
+				"natural armor"
+			],
+			"hp": {
+				"average": 67,
+				"formula": "9d8 + 27"
+			},
+			"speed": {
+				"walk": 30,
+				"climb": 30
+			},
+			"str": 16,
+			"dex": 13,
+			"con": 16,
+			"int": 6,
+			"wis": 6,
+			"cha": 6,
+			"cr": "2",
+			"skill": {
+				"athletics": "+5",
+				"perception": "+3"
+			},
+			"senses": [
+				"darkvision 60 ft.",
+				"passive Perception 13"
+			],
+			"languages": [
+				"-"
+			],
+			"trait": [
+				{
+					"name": "Great Heights.",
+					"entries": [
+						"When the acorn crab falls from a height of 10 feet or higher, it can make a Slam attack at the end of the fall. When it does so, it takes no falling damage."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The acorn crab makes two Pinch attacks."
+					]
+				},
+				{
+					"name": "Pinch.",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}7 (1d8 + 3) piercing damage."
+					]
+				},
+				{
+					"name": "Slam.",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6 (1d6 + 3) bludgeoning damage, plus an extra 3 (1d6) damage for every 10 feet the acorn crab fell before the attack."
+					]
+				}
+			]
+		},
+		{
+			"name": "Akaobata",
+			"source": "OBOJIMA",
+			"page": 270,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "spirit"
+			},
+			"alignment": [
+				"NC"
+			],
+			"ac": [
+				16,
+				"natural armor"
+			],
+			"hp": {
+				"average": 45,
+				"formula": "10d8"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": {
+					"number": 60,
+					"condition": "(hover)"
+				}
+			},
+			"str": 11,
+			"dex": 13,
+			"con": 11,
+			"int": 15,
+			"wis": 16,
+			"cha": 20,
+			"cr": "5",
+			"skill": {
+				"deception": "+8",
+				"insight": "+9",
+				"perception": "+9"
+			},
+			"senses": [
+				"darkvision 60 ft.",
+				"truesight 15 ft.",
+				"passive Perception 19"
+			],
+			"resist": [
+				"bludgeoning, piercing, and slashing from nonmagical attacks"
+			],
+			"languages": [
+				"Common",
+				"Naku Naku",
+				"Torum"
+			],
+			"trait": [
+				{
+					"name": "Incorporeal Movement.",
+					"entries": [
+						"The Akaobata can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object."
+					]
+				},
+				{
+					"name": "Limited Magic Immunity.",
+					"entries": [
+						"The Akaobata can't be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Cursed Touch.",
+					"entries": [
+						"{@atk ms} {@hit 8} to hit, reach 5 ft., one creature. {@h}19 (4d6 + 5) psychic damage, and it must make a DC 16 Wisdom saving throw. On a failed save, the target's emotions are overwhelmed with fear, hate, sorrow, confusion, or regret. When a creature fails this saving throw, the Akaobata becomes emboldened until the end of the turn, gaining access to its bonus action options."
+					]
+				}
+			],
+			"bonus": [
+				{
+					"name": "Fleeting Strengths.",
+					"entries": [
+						"The following bonus actions can only be taken by the Akaobata while it is emboldened. The Akaobata chooses a creature it can see within 60 feet of it. The target must succeed on a DC 16 Wisdom saving throw or be cursed by the Akaobata's intrusive magics. This magical curse causes the target to lose proficiency in one saving throw or skill of the Akaobata's choice. The curse lasts until it is lifted by a {@spell Remove Curse} spell or similar magic."
+					]
+				},
+				{
+					"name": "Levitate.",
+					"entries": [
+						"The Akaobata casts {@spell Mass Levitate} (save DC 16), requiring no material components. Its spellcasting ability for this spell is Charisma."
+					]
+				},
+				{
+					"name": "Power of Whispers.",
+					"entries": [
+						"The Akaobata chooses up to two creatures it can see within 60 feet of it. Each target must succeed on a DC 16 Constitution saving throw or take 9 (1d8 + 5) psychic damage and become restrained until the end of its next turn."
+					]
+				}
+			]
+		},
+		{
+			"name": "Bearracuda",
+			"source": "OBOJIMA",
+			"page": 271,
+			"size": [
+				"L"
+			],
+			"type": {
+				"type": "beast"
+			},
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				13,
+				"natural armor"
+			],
+			"hp": {
+				"average": 51,
+				"formula": "6d10 + 18"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": 60
+			},
+			"str": 19,
+			"dex": 13,
+			"con": 17,
+			"int": 2,
+			"wis": 10,
+			"cha": 5,
+			"cr": "2",
+			"skill": {
+				"perception": "+4",
+				"stealth": "+3"
+			},
+			"senses": [
+				"passive Perception 14"
+			],
+			"languages": [
+				"-"
+			],
+			"trait": [
+				{
+					"name": "Aquatic Memory.",
+					"entries": [
+						"The Bearracuda can move under and through heavy snow as if it weren't difficult terrain. While moving through snow, the Bearracuda has advantage on Dexterity (Stealth) checks."
+					]
+				},
+				{
+					"name": "Pacifying Light.",
+					"entries": [
+						"If the Bearracuda becomes blinded by a light-based effect, it must also succeed on a DC 13 Constitution saving throw or fall unconscious for 1 minute, until it takes damage, or until a creature uses an action to shake or slap it awake."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Chomp.",
+					"entries": [
+						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}15 (2d10 + 4) piercing damage."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Drag.",
+					"entries": [
+						"When the Bearracuda successfully grapples a creature that is its size or smaller, it moves up to its speed, carrying the grappled creature with it."
+					]
+				}
+			]
+		},
+		{
+			"name": "Cat of Prodigious Size",
+			"source": "OBOJIMA",
+			"page": 271,
+			"size": [
+				"H"
+			],
+			"type": {
+				"type": "beast"
+			},
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				13,
+				"natural armor"
+			],
+			"hp": {
+				"average": 115,
+				"formula": "11d12 + 44"
+			},
+			"speed": {
+				"walk": 50
+			},
+			"str": 22,
+			"dex": 16,
+			"con": 19,
+			"int": 7,
+			"wis": 12,
+			"cha": 12,
+			"cr": "8",
+			"skill": {
+				"perception": "+4",
+				"stealth": "+6"
+			},
+			"senses": [
+				"passive Perception 14"
+			],
+			"languages": [
+				"-"
+			],
+			"trait": [
+				{
+					"name": "Keen Smell.",
+					"entries": [
+						"The Cat of Prodigious Size has advantage on Wisdom (Perception) checks that rely on smell."
+					]
+				},
+				{
+					"name": "Light on Its Feet.",
+					"entries": [
+						"When the Cat of Prodigious Size falls and isn't incapacitated, it can subtract up to 200 feet from the fall when calculating falling damage."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The Cat of Prodigious Size makes two attacks: one with its Chomp and one with its Paw."
+					]
+				},
+				{
+					"name": "Chomp.",
+					"entries": [
+						"{@atk mw} {@hit 9} to hit, reach 10 ft., one target. {@h}32 (4d12 + 6) piercing damage, and if the target is a Medium or smaller creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the Cat of Prodigious Size can't bite another target."
+					]
+				},
+				{
+					"name": "Paw.",
+					"entries": [
+						"{@atk mw} {@hit 9} to hit, reach 10 ft., one target. {@h}19 (3d8 + 6) slashing damage."
+					]
+				},
+				{
+					"name": "Leaping Strike.",
+					"entries": [
+						"The Cat of Prodigious Size pulls its body low to the ground before leaping vertically 90 feet into the air. While in the air, the Cat of Prodigious Size can make a Paw attack before slamming back down to the ground. Each creature within 20 feet of the Cat of Prodigious Size when it lands must succeed on a DC 17 Strength saving throw or be knocked prone."
+					]
+				}
+			]
+		},
+		{
+			"name": "Clone of Viota",
+			"source": "OBOJIMA",
+			"page": 272,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "spirit"
+			},
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				12
+			],
+			"hp": {
+				"average": 58,
+				"formula": "13d8"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 10,
+			"dex": 14,
+			"con": 13,
+			"int": 17,
+			"wis": 12,
+			"cha": 12,
+			"cr": "4",
+			"save": {
+				"int": "+5",
+				"wis": "+3"
+			},
+			"senses": [
+				"darkvision 60 ft.",
+				"passive Perception 11 (13 if proficient in Perception)"
+			],
+			"immune": [
+				"cold",
+				"necrotic",
+				"poison"
+			],
+			"resist": [
+				"acid",
+				"fire",
+				"lightning",
+				"thunder",
+				"bludgeoning, piercing, and slashing from nonmagical attacks"
+			],
+			"conditionImmune": [
+				"blinded",
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained"
+			],
+			"languages": [
+				"Common",
+				"Naku Naku",
+				"Torum"
+			],
+			"trait": [
+				{
+					"name": "Skills.",
+					"entries": [
+						"Clone of Viota has proficiency in any two skills of the GM's choice; the skill bonuses depend on which skills are chosen."
+					]
+				},
+				{
+					"name": "Innate Spellcasting.",
+					"entries": [
+						"Clone of Viota's innate spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). Clone of Viota can innately cast the following spells, requiring no material components:",
+						{
+							"type": "list",
+							"style": "list-hang-notitle",
+							"items": [
+								"{@i At will:} {@spell Prestidigitation}, {@spell Retrieve}, {@spell Task}",
+								"{@i 1/day each:} {@spell Invisibility}, {@spell Misty Step}"
+							]
+						}
+					]
+				},
+				{
+					"name": "Lessons Learned.",
+					"entries": [
+						"If any Clone of Viota has fought a creature before, the current Clone of Viota can choose at the start of combat to either have advantage on all attack rolls made against that creature or advantage on saving throws against effects created by that creature."
+					]
+				},
+				{
+					"name": "Shared Experience.",
+					"entries": [
+						"Any Clone of Viota can spend 1 minute to perfectly recall an experience that one of her other clones had. This is true even if that clone has been killed."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The Clone of Viota makes two Spectral Pass attacks."
+					]
+				},
+				{
+					"name": "Spectral Pass.",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}11 (2d8 + 3) force damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Corrupted Muk",
+			"source": "OBOJIMA",
+			"page": 273,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "undead"
+			},
+			"alignment": [
+				"NE"
+			],
+			"ac": [
+				11
+			],
+			"hp": {
+				"average": 18,
+				"formula": "4d8"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 13,
+			"dex": 12,
+			"con": 11,
+			"int": 3,
+			"wis": 6,
+			"cha": 5,
+			"cr": "1/4",
+			"senses": [
+				"passive Perception 8"
+			],
+			"languages": [
+				"-"
+			],
+			"trait": [
+				{
+					"name": "Endless Resource.",
+					"entries": [
+						"If the Corrupted Muk is standing in a pool of Corruption or is connected to the greater Corruption in some way, it regains 10 hit points at the start of its turn; its Persistent Disease trait also automatically activates immediately after the Corrupted Muk dies."
+					]
+				},
+				{
+					"name": "Persistent Disease.",
+					"entries": [
+						"There is a 15 percent chance that 1 week after a Corrupted Muk is killed, a new Corrupted Muk materializes in the location where the previous one died."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Slam.",
+					"entries": [
+						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}4 (1d6 + 1) bludgeoning damage."
 					]
 				}
 			]
