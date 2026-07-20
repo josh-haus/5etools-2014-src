@@ -1,0 +1,1391 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "OBOJIMA",
+				"abbreviation": "OBOJIMA",
+				"full": "Obojima: Tales from the Tall Grass",
+				"authors": [
+					"Adam Lee",
+					"Ari Levitch",
+					"Jeremiah Crofton"
+				],
+				"convertedBy": [
+					"Anonymous"
+				],
+				"version": "0.0.1"
+			}
+		],
+		"dateAdded": 1784592000,
+		"dateLastModified": 1784592000
+	},
+	"book": [
+		{
+			"name": "Obojima: Tales from the Tall Grass",
+			"id": "OBOJIMA",
+			"source": "OBOJIMA",
+			"group": "supplement",
+			"author": "Adam Lee, Ari Levitch, Jeremiah Crofton",
+			"contents": [
+				{
+					"name": "Foreword"
+				},
+				{
+					"name": "About The World",
+					"headers": [
+						"Themes and Tone",
+						"Spirit Realm",
+						"Spirits"
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 1
+					}
+				},
+				{
+					"name": "The Island",
+					"headers": [
+						"How Obojimans Live",
+						"History",
+						"Technology",
+						"The Corruption",
+						"Factions",
+						"Regions"
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 2
+					}
+				},
+				{
+					"name": "Locations",
+					"headers": [
+						"The Gift of Shuritashi"
+					],
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 3
+					}
+				}
+			]
+		}
+	],
+	"bookData": [
+		{
+			"id": "OBOJIMA",
+			"source": "OBOJIMA",
+			"data": [
+				{
+					"type": "section",
+					"name": "Foreword",
+					"page": 1,
+					"entries": [
+						{
+							"type": "entries",
+							"entries": [
+								"Like many people reading this book, I’ve spent much of my free time playing games, watching anime, and reading comics. They’re all hobbies I’ve been passionate about since I was a child, and they have not become any less relevant to me in my adult life. I know that those aren’t unusual claims, and I imagine that I’m probably not any more invested in these hobbies as some of the other amazing community members I’ve come to know during the creation of this book.",
+								"I say all that to let you know that I recognize and am incredibly grateful for the opportunity I’ve been given with this project. Obojima wasn’t something I ever thought I would be able to make, even after starting a gaming company. It requires not only dozens of talented individuals coming together to craft a book worth reading, but also the support of a community, such as yourself, that is willing to give their time, energy, and hard earned money to support a project that very well could have sucked! (Lol, it doesn’t, I promise!)",
+								"I’m so appreciative for you giving me a chance to make something I’m truly proud of.",
+								"Thank you all.",
+								"{@i —Jeremiah Crofton}"
+							]
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"If you are reading this, then welcome to the world of Obojima! You’ve made it to this mysterious island where all manner of adventures await you. Whether you are a player or a GM, we’re sure you will enjoy this setting that invites you to play in a world with a very distinctive flavor. From spirit festivals to abandoned convenience stores, Obojima is sure to hold a story worth telling. We hope as you explore the island, its people, and its mysteries that you are able to experience DnD in a new and refreshing way.",
+								"Good luck, and may the wind find your sails."
+							],
+							"name": "Welcome to the Island of Obojima"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"Here are some guidelines and recommendations that we feel will give you the best experience of playing or running a game in the world of Obojima.",
+								{
+									"type": "entries",
+									"entries": [
+										"As with most sourcebooks that describe a world, there are sections for all readers—players and Game Masters alike—but in this book there are sections to be read only by the Game Master. These sections for GM eyes only contain secrets better left unread by players, sections such as the three adventures that come with this book or the explanations of the great mysteries of Obojima. And so to ensure your Obojima experience will be of the highest caliber, we’ve color coded the book!"
+									],
+									"name": "Player and GM Facing Material"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Titles, Headers, Tables, Boxes, and Glyphs that are colored blue, are ways we’ve marked a section for GMs only. As a player that’s glancing through the book, be on the lookout for blue."
+									],
+									"name": "Look For Blue"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"If something is followed by an *, it means it’s an option introduced in a book other than Obojima, such as the 5E Basic Rules."
+									],
+									"name": "Other Books"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Before you roll up your first character, we invite you to live in the world a little before you take the plunge and start rolling the dice. Learn a bit about the island, read over some of the locations, look at the art and allow your mind to make up stories in your head. Absorb the backgrounds and the factions sections to get a feel of what it’s like to be an Obojiman out here on this idyllic, magic island filled with spirits and mysteries.",
+										"If you’re used to playing or running games in DnD, Obojima provides a potentially refreshing break into another realm of storytelling and roleplaying. While fighting monsters and getting treasure can certainly be a part of any Obojima adventure, figuring out relationships, discovering clues to solve weird mysteries, and parlaying with elder spirits to appease their wrath are among some of the less combat-centric and more roleplaying heavy aspects of gaming in this world. And so, really immersing yourself and becoming an Obojiman is something that we highly recommend.",
+										"Readers should be on the lookout for our Notes throughout the book. As writers we often leave alternative interpretations, options, or notes on a topic. These notes are completely optional, so feel free to ignore them if you prefer the standard writing.",
+										"So with that, we bid our noble Game Masters happy storytelling! May you delight and surprise your friends at the table of imagination. And to our intrepid players may you enjoy boundless adventures filled with wonder in the world of Obojima!",
+										"{@i —Adam, Ari, and Jeremiah}"
+									],
+									"name": "Live in the World"
+								}
+							],
+							"name": "How to Use the Book"
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "About The World",
+					"page": 2,
+					"entries": [
+						{
+							"type": "entries",
+							"entries": [
+								"Obojima is a world full of magic and spirits; where people live and explore, and where there are festivals for every occasion. Although life here is mostly idyllic with farmers tilling their fields and shepherds tending to their sheep dragons, there is plenty of adventure to be had. Travelers will find their fair share of it by simply walking from village to village, following rumors and spirit companions, and allowing the strange and wonderful tales of the tall grass to unfold."
+							]
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"Most tales told within Obojima are generally going to be pleasant and relaxing experiences both for you and your players—a journey into a realm of leisure fantasy where time slows down and descriptions delight in the small details: how the warm breeze blowing across the Gale Fields dances on the skin, or the cozy comfort of sipping from a hot cup of soup on a cool evening around a campfire with companions. In Obojima, these small, sensory vignettes are the biggest tool in a GM’s repertoire.",
+								"But that isn’t to say that everything in the world of Obojima is pastoral and easy going. There are monsters and plenty of peril here that the GM can use to turn a delightful stroll through the countryside into a harrowing situation where blades, bloodshed, and arcane magics are required. These contrasting facets of Obojima make for compelling storytelling as your moments of danger will feel that much more dangerous and your moments of tranquility will feel that much more earned.",
+								"Here are a few things to keep in mind as you create your Obojima adventure:",
+								{
+									"type": "entries",
+									"entries": [
+										"An Obojima story is a journey into a world of wonder, where innocence, laughter, and simple joys are just as important as discovering magic, unraveling intrigues, and exploring the mysteries of the island. Tales told here feel small and contained, like getting to know every subtle nuance, quirk, and charm of a village and the various characters who inhabit it. We invite you to slow down and tell small stories here. Allow them to come to an end. Not every adventure here needs to continue as a long, epic campaign."
+									],
+									"name": "Magic in the Mundane"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The conclusion to an adventure is that much sweeter when the players are truly invested in the world around them, one that you have filled with multifaceted characters who bring your narrative to life. The stories that Obojima is best suited for telling are stories that revolve around the unique flavor of the world and the heartwarmingly odd people that inhabit it. So we invite you to try out “character driven” over “conflict driven” stories for your Obojima tales.",
+										"A conversation can be as fulfilling as combat!",
+										{
+											"type": "inset",
+											"name": "Multiverse Note",
+											"entries": [
+												"To embrace the two-plane reality of Obojima, we recommend having all plane-oriented spells such as {@spell Plane Shift} , {@spell Contact Other Plane} and similar type spells that involve a multiverse be limited to only contacting the Spirit Realm."
+											]
+										}
+									],
+									"name": "Roleplaying Heavy"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Most situations on Obojima can usually be solved with some smarts, a bit of tact, heaps of creativity, and a dose of magic. There are conflicts and perils on the island to be sure, but not every confrontation has to result in combat. More often than not, combat can be averted with a creative solution.",
+										"However, the further east you go, the more dangerous the world becomes. Past the Gale Fields, being handy with a blade is more and more a skill worth having. Even if one is drawn into a conflict, it doesn’t always have to end in death; there’s always pleading, parleying, and good old fashioned fleeing. Creatures of all shapes and sizes tend to value their life over being the victor of a combat."
+									],
+									"name": "Combat"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Evil does not have a strong presence on Obojima, generally, creatures and monsters are forces of nature, motivated out of natural fear or greed rather than of evil. Most villains are comically ambitious, predictably greedy, or filled with obstinate conviction, but dig under the surface and they often have the reasons for their actions rooted in a misguided desire to do good. But that being said, there are evil forces here, spirits that have been corrupted into demons who seek unsettling ends; so there is a small pinch of the spice of evil that you can certainly throw into any story soup you simmer here on the shores of Obojima. For more information on crafting villains for an Obojima story, see page 267."
+									],
+									"name": "Evil and Villainy"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"To completely immerse your game in the flavor of Obojima, there are some spells in Dungeons & Dragons that do not exist here, and there are some new spells that we have created specifically for the world. The omission of these spells helps to further immerse your players into the world and the overall experience. For a full list of all the spells both new and removed, see page 179."
+									],
+									"name": "Island Magic"
+								}
+							],
+							"name": "Themes and Tone"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"Spirits are found all throughout Obojima, and they have lived side by side with people for as long as anyone can remember, but despite living here, they originate from a mystical plane that is all their own—the Spirit Realm. The Spirit Realm is a plane of eternal twilight that is overlaid on top of Obojima; occupying the same space but existing and operating beyond the ken of most physical beings. What may appear to be an abandoned farmstead on the Physical Realm might be a bustling marketplace in the Spirit Realm.",
+								"Most Obojimans know of the Spirit Realm, but few have traveled to it. There are, however, those on the island who know how to catch a glimpse of the Spirit Realm through potions or special magics. There are some who even know how to use these powers to enter it.",
+								{
+									"type": "inset",
+									"name": "Plane Note",
+									"entries": [
+										"The Spirit Realm in Obojima is a replacement for the Ethereal Plane and the Border Ethereal in Dungeons & Dragons. The Physical Realm is the Material Plane."
+									]
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"There are many ways to enter the Spirit Realm, but these methods are by far the most common: through a portal, casting a spell, catching the Wandering Line, drinking a potion, or using a magic item.",
+										{
+											"type": "entries",
+											"entries": [
+												"Spirit portals are locations on the island where the veil that keeps the Spirit and Physical Realms separated is stretched thin enough to allow a traveler to pass between them.",
+												"These places are often areas of unearthly beauty or areas where strange occurrences are rumored to have taken place. For those that witness another pass through to the Spirit Realm, they would see them fade out of existence, leaving no trace of where they might have gone."
+											],
+											"name": "Spirit Portals"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"When you pass into the Spirit Realm, you remain a physical being and spirits can sense the material nature of you. Spirits might remark that you “smell different” or are “abrasively loud”. Whatever the quirk is, they know that you are not of this realm."
+											],
+											"name": "Stranger in a Strange Land"
+										},
+										{
+											"type": "inset",
+											"name": "Legendary Places",
+											"entries": [
+												"There are legendary places in the Spirit Realm—bustling markets, floating shrines, ghost ships, and megalithic temples. These locations can be anywhere on Obojima, in the most remote mountain regions or right next to a large village. Because they’re invisible to anyone rooted in the Physical Realm, most Obojimans have no idea that these places exist, even though it may be right under their noses."
+											]
+										}
+									],
+									"name": "Entering the Spirit Realm"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Entering the Spirit Realm is one thing, but leaving it can be quite another. Gates between worlds aren’t always open, which means physical beings often need a plan B if the passage they took into the Spirit Realm closes whilst they’re visiting.",
+										"Some spirits and some very special physical beings are able to wander freely between both worlds taking whomever they like with them; however they often don’t work for free, so you may need to strike a bargain to gain their assistance."
+									],
+									"name": "Getting Out"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Every now and then, activity from one realm can be detected by the other. Spirits in the Spirit Realm can sometimes sense the living energy of a creature in the Physical Realm, but they appear as vague, smudgy images. Conversely, beings in the Physical Realm might experience a movement out of the corner of their eye or hear a strange knocking or scratching sound of a spirit that is nearby but in the Spirit Realm.",
+										"For example, the laughter of a particularly raucous spirit playing a nightly poker game in the Spirit Realm could keep a nearby villager in the Physical Realm awake with their haunting or annoying chuckles which can be heard across the planes.",
+										{
+											"type": "inset",
+											"name": "Spirit Time",
+											"entries": [
+												"As a general rule, time moves in the Spirit Realm at a different rate—sometimes drastically—than on the Physical Realm. This is for the GM to adjust to their liking."
+											]
+										}
+									],
+									"name": "A Thin Veil"
+								}
+							],
+							"name": "Spirit Realm"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"Spirits on Obojima are magical entities that come in all kinds of shapes and sizes and have lived among the islanders for centuries. Spirits are as much a part of Obojiman society as all the other races, and it has been this way for as long as anyone can remember.",
+								{
+									"type": "entries",
+									"entries": [
+										"In the world of Obojima, there are no other planes of existence other than the Spirit Realm and the Physical Realm, and because of that, extraplanar creatures such as Fey, Celestials, and Aberrations instead become the creature type “spirit”. That also means that spells and other special abilities that would affect those creature types affect the “spirit” creature type instead."
+									],
+									"name": "Spirit Creature Types"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Since there are no “souls” in the world of Obojima, there are no ghosts as we know them. Obojimans use the word “ghost” to refer to a spirit that never leaves the Spirit Realm but occasionally can be sensed on the Physical Realm.",
+										"You could use the D&D ghost stat block for an undead anomaly or a corrupted spirit (see “Corrupted Spirits’’ below)."
+									],
+									"name": "Ghosts in Obojima"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"There is a wide variety of spirits, from animalistic nature spirits that run through forests and climb along mountain ridges, to ancient and powerful elder spirits that guard sacred groves and mountain tops. There are chatty intelligent spirits who are shopkeepers and chefs, and there are non-sapient spirits who are everything from adorable critters to naughty pests. Unlike any other creature in the Physical Realm, spirits encompass an incredibly vast and diverse range of roles in the world. Because of this, material beings hold no universal opinion of them and it often boils down to a simpler and more common thought process—if your actions are not harmful, then you are respected and cared for."
+									],
+									"name": "Many Kinds"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Although most spirits can speak Common, spirits have their own language of Torum that is generally only heard in the Spirit Realm."
+									],
+									"name": "Language of the Spirits"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"There are ancient and powerful spirits known to inhabit both the Spirit and Physical Realm. These elder spirits are well known by those who live around them, evidenced by the many shrines that lie at the foot of mountains and at the shoreline of lakes and rivers to mark the entrance into an elder spirit’s domain.",
+										"Elder spirits are often guardians of their domain—protecting and caring for the land—but that’s not always the case, as some are so otherworldly that all anyone can do is guess as to their motives.",
+										{
+											"type": "entries",
+											"entries": [
+												"Encountering an elder spirit is a quest in itself. Not all elder spirits want to be contacted, and even if they did, most aren’t easily found. Many elder spirits are not interested in humans, and some may even kill humans the way a wild animal might if threatened. If the proper care is taken, elder spirits may tolerate the presence of a non-spirit being, and those that can understand language may even converse.",
+												"Meeting an elder spirit is an extreme experience. For some, it is like meeting a force of nature, a paragon of beasts, the wildness of a river, or the soul of a mountain. For other types it could be speaking to the voice of the wind, witnessing the unfolding of a cosmic flower, or hearing legends from an ancient oak tree.",
+												"The lore of Obojima talks about elder spirits knowing magic, myths, and mysteries and the many who have sought their wisdom, their knowledge, or their heads. These stories of adventuring into the realm of an elder spirit are repeated in children’s tales, around campfires, and in taverns late at night. Some tales are terrifying, while others are stories of strange beauty and otherworldly journeys, but every time an adventurer has met with an elder spirit, it has assuredly been a tale worth retelling."
+											],
+											"name": "Meeting an Elder Spirit"
+										}
+									],
+									"name": "Elder Spirits"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"As you already know, in the world of Obojima, there are no other planes of existence other than the Spirit Realm and the Physical Realm, and because of that, certain extraplanar creature types have been changed to the “spirit” creature type. This is not the case for the fiends. Although fiends are just as wicked on Obojima as their standard fantasy counterparts, they no longer spawn from fiery hellscapes nor battle angelic warriors.",
+										"In Obojima, the fiend creature type embodies a spirit that has undergone a sinful transformation. These spirits are so filled with malice and devoid of love, that their bodies become too weak to hold the wickedness festering inside itself; it is cursed to transform, taking on a twisted caricature of itself, far removed from any of its original beauty. Spirits transformed in this way are called “demons”.",
+										"When a spirit becomes a demon, they lose their affinity with the Spirit Realm. Crossing over to their realm of origin becomes almost impossible, as the realm itself is revolting to them."
+									],
+									"name": "Demons"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Spirits that have somehow become tainted by the Corruption (see page 16 for more information about the Corruption) are forced into the demon transformation. This process can happen in a matter of hours, days, or weeks depending on the strength of the spirit and the amount of interaction they had with the Corruption. Over that time, the spirit is painfully transformed in shape and demeanor which can range from enraged to scared to diabolical, while others might experience desperation or confusion, and wish to return to normal."
+									],
+									"name": "Corrupted Spirits"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Obojima is a two-plane world—the Physical Realm and the Spirit Realm. All other planes do not exist in this universe. There are no gods per se, but there are elder spirits and great beasts that are revered and respected among Obojimans. Other powerful spirits can become patrons of warlocks, sharing pieces of their own power. They can become an inspiration to a paladin or cleric who, through their own faith and practice, can work wonders of magic inspired by the concepts these spirits embody.",
+										"Although there are many spirits worthy of respect and even fear, it is the island itself—Obojima—that is honored more than any single spirit on the island. Most inhabitants of Obojima rely on the land, and because of this, they generally give a nod of gratitude toward the island during a bountiful harvest or at the completion of a safe trip, but that doesn’t mean that everyone feels the same way. Some Obojimans don’t give two hoots about great beasts or the land’s will and think that all these offerings and shrines don’t amount to a hill of zelk beans. On the whole, Obojimans are not an overly religious lot and are more interested in a hot bowl of soup and listening to good music in a comfy tavern with some friends than bothering some powerful being with their endless appeals."
+									],
+									"name": "Cosmology"
+								}
+							],
+							"name": "Spirits"
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "The Island",
+					"page": 8,
+					"entries": [
+						{
+							"type": "entries",
+							"entries": [
+								"To the people who live here, the world begins and ends at the shore. The ocean surrounds Obojima, stretching out to the horizon in all directions. The island, the ocean, and the sky are all there is. What does this mean for Obojimans?",
+								"This chapter explores what life is like on the island. It contains an overview of the island’s history, culture, and geography, as well as a breakdown of the island’s currency. You will also find descriptions of factions—organizations that are active across Obojima."
+							]
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"Obojima is small enough that a general island culture has developed over the centuries. It’s predominantly a mix of Nakudama and human root cultures but has since developed into something that transcends race and region. Spirits, magic, and gadgetry from the island’s distant past all have a place in Obojiman culture. Each settlement has its own character, with quirks, nuances, and traditions of their own, but they are not so removed from the wider culture that they would be considered something wholly different.",
+								"With few exceptions, Obojimans live in villages and small towns scattered across the island. No monarch or governing body claims rulership of the island. Instead, governance is left to the individual settlements. Some look to elders or elect mayors to lead them. Others form affiliations with other settlements to form a cooperative league—a common practice in the region known as the Gift of Shuritashi.",
+								"However they are governed, most Obojimans get by as farmers or fisherfolk. Other common trades and professions include artisans, merchants, specialty chefs, and potion crafters. Specialties vary by region and village.",
+								"The general independence of settlements means each one is also responsible for defending itself. Larger towns might have a town guard, while smaller settlements might rely on a militia or even a solitary local champion to come to their defense. It also means adventurers are frequently called upon to ensure a settlement’s safety.",
+								{
+									"type": "entries",
+									"entries": [
+										"Perhaps no other factor shapes the typical Obojiman worldview more than the fact that their entire world is made up of the island.",
+										{
+											"type": "entries",
+											"entries": [
+												"Walk to the water’s edge. Stick your toes in the sand. Now look out across the ocean. Nothing but the glistening sea. Do this again wherever the island meets the sea and the result will be the same. There is Obojima and then there is the vastness of the endless ocean. What else is there?",
+												"This is how Obojimans see their island’s place in their watery world—they are an island unto themselves. Every time an intrepid soul gets the itch to see beyond the horizon for themselves, this worldview is reinforced because those who leave don’t return.",
+												"That doesn’t mean there is no speculation or fantasizing about what might be hiding just out of view. In fact, “Beyond the Island” is a favorite storytelling game among tavern goers. In the game, players weave a fantastical tale about something that exists beyond the island. Each player builds on the previous player’s idea until they’re left with a truly outlandish story."
+											],
+											"name": "Beyond the Island"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The people of Obojima coexist with spirits, which occupy a unique position in Obojiman society. People respect and even revere certain spirits, while other spirits live among their corporeal counterparts as residents in villages and towns. Some spirits are even regarded as pests or nuisances. Whatever the case may be, spirits are part of everyday life.",
+												"That’s not to say that spirits and the Spirit Realm are mundane. It’s more that the people of Obojima have resigned themselves to never fully understanding their mysterious manner. It’s simply another quirk in their charming world.",
+												"Certain spirit behaviors have led Obojimans to at least place spirits into one of three categories that reflect their relationship with the Physical Realm. The three types are: spirits who live in the Physical Realm, spirits who wander back and forth between the realms, and spirits that live exclusively in the Spirit Realm. To non-spirit Obojimans they are known colloquially as Homebodies, Wanderers, and Ghosts.",
+												"{@b Homebodies.} Spirits that live in the Physical Realm are called Homebodies by the locals as they prefer to live and work among Obojimans rather than among other spirits in the Spirit Realm. There are many reasons why these spirits have left their plane of origin—some may prefer the bustle and sensations of the Physical Realm while others may live here because they cannot go back, perhaps due to a magic curse, having spent too long on the Physical Realm, or being corrupted.",
+												"{@b Wanderers.} Spirits who can travel freely back and forth between the Physical Realm and the Spirit Realm are known as Wanderers by Obojimans. These spirits often work as guides, messengers, and merchants who deal in goods from both realms, but there are some who are not to be trusted and seek to exploit the foolish and naive.",
+												"{@b Ghosts.} Spirits who have, for various reasons, never set foot in the Physical Realm and are bound to the Spirit Realm are known as “Ghosts”. In fact, Obojimans will often say if someone has a noisy spirit that they “have a ghost”, as some spirits can make such a ruckus that even in the Spirit Realm they can be heard in the Physical Realm.",
+												{
+													"type": "inset",
+													"name": "Spirit Go-Betweens",
+													"entries": [
+														"Spirits who can move back and forth freely between the planes are a fun plot device to tell some interesting stories. A spirit intermediary is a useful NPC as they can negotiate deals and give quests between the Physical and Spirit Realms. Spirit go-betweens can set up adventures where the party is called on to help the spirits, or if the adventurers get trapped in the Spirit Realm, they can help guide them."
+													]
+												}
+											],
+											"name": "Regarding Spirits"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Magic permeates Obojima, and not just in the sense that the island is magical—which it is. It’s also part of the daily lives of Obojimans. Various traditions of folk magic, academy wizardry, and trade secrets of the witch covens are all part of the magic that people employ to make their lives easier. Most folks are not gifted in the magical arts, but those who are often find places in settlements to offer their services to the locals.",
+												"Potions, in particular, are always in demand. The “work smarter not harder” minded farmer might use a {@item Potion of Rabbit's Speed|OBOJIMA} to finish the harvest. Or a traveling merchant whose cart broke a wheel could reach for a {@item Potion of Liquid Mending|OBOJIMA} to quickly make a repair. This kind of common magic is not something Obojimans fear or mistrust, in fact, new magical breakthroughs are more often than not greeted with curiosity and excitement.",
+												"Then there’s the magic that can dazzle and awe. Spirits and powerful spellcasters can tap into arcane energy that is beyond the ordinary and mundane, revealing a peek into the unseen sea of magic that roils all across Obojima."
+											],
+											"name": "Everyday Magic"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Beliefs about death are as varied as Obojimans themselves. An adventurer who roams the island and studies the different locations will find that where an Obojiman lives effects what they believe and shapes their view of what happens after death. When an Obojiman passes away, they might hear someone in a coastal village say they’ve gone “beyond the horizon” or a farmer in the Gale Fields say that they have “returned to the island.” There are many on the island who believe that everyone’s essence is magic, the same power that can shake the earth, conjure flame, or heal a wound, is the same power that puts the light of consciousness in every being.",
+												"For the most part, Obojimans don’t really think that much about death as they are largely focused on living each day to the fullest. An adventurer will often find Obojimans working, playing, loafing, and singing during the day then, as the sun begins to set, they all come into the village to enjoy the comforts of the community with music, food, drink, and tall tales.",
+												"When death does come for one of the villagers, it is a bittersweet moment. Many approach death with curiosity and wonder, for to reunite with the magic and mystery of Obojima is the greatest of blessings. Because of this, an Obojiman funeral is often both a celebration and a sorrow. Depending on where they live, Obojimans may bury their departed in the earth, burn them on a pyre, immerse them in the ocean, or leave them on a hilltop—in all cases, the belief is that Obojima will reclaim its children and take them back into its heart, perhaps even to return again in some other form."
+											],
+											"name": "Beliefs About Death"
+										}
+									],
+									"name": "Life’s Big Questions"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Though bartering is commonplace, particularly in the rural reaches of the island, most Obojimans accept a standard coinage that is minted by sages of the Dawn Blossom Guild. The currency has three denominations: gold flower, sea petal, and copper bud. Colloquially, they are just called flowers, petals, and buds.",
+										"All coins produced by the Dawn Blossom Guild are infused with a magical energy that the sages channel into them. To these secretive sages, the exchange of money is an exchange of energy—it’s a critical transaction that keeps energy flowing through the island. The clink of guild minted coins is a sound that is pleasing to the ear. Coins that were not created by the Dawn Blossom Guild or those that lost the magic within them sound dead by contrast. Therefore, most people only accept what are deemed true coins—those minted by the Dawn Blossom Guild—as currency.",
+										{
+											"type": "entries",
+											"entries": [
+												{
+													"type": "table",
+													"colLabels": [
+														"Obojima",
+														"Player's Handbook"
+													],
+													"colStyles": [
+														"col-6",
+														"col-6"
+													],
+													"rows": [
+														[
+															"Copper Bud",
+															"1 copper piece"
+														],
+														[
+															"Sea Petal",
+															"1 silver piece"
+														],
+														[
+															"Gold Flower",
+															"1 gold piece"
+														]
+													],
+													"caption": "Currency Converter Table"
+												},
+												"{@b Copper Bud.} A bud is a small, oblong ingot of copper etched to look like a dawn blossom flower yet to bloom. 100 copper buds are equal to the value of 1 gold flower.",
+												"{@b Sea Petal.} Sea petals are unique in that they are not made of metal at all. Instead, they are made of glass that is formed to resemble the petals of a dawn blossom flower. The technique the sages use to craft petals is a closely guarded secret, but what is known is that a specific kind of sand found on Obojima’s shores is used. 10 sea petals are equal to the value of 1 gold flower.",
+												"{@b Gold Flower.} Both faces of these large gold disks are embossed with the likeness of a dawn blossom flower in full bloom. A “flower” plunked down on a tavern table is an unmistakable sound."
+											],
+											"name": "Coin Types"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Because of their spiritual essence, gold flower coins are real in both realms, and spirits will readily trade in gold for goods and services, though there are some spirits that are less interested in precious metals and more interested in bartering for goods brought from the Physical Realm."
+											],
+											"name": "Currency in the Spirit Realm"
+										}
+									],
+									"name": "Currency"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The common language of Obojima is based primarily on the one brought by the humans, though it also contains a smattering of the Nakudama language, Naku Naku. Most Nakudama continue to speak their original language as well as the common tongue, and they claim theirs is far richer for the telling of tales.",
+										"Torum is the favored language of the Spirit Realm. Though non-spirits can learn to understand it, beings of the Physical Realm often can’t make the layered sounds required to voice the words.",
+										"The objects and structures from the island’s earliest age contain a variety of written languages known to the islanders as First Age languages. Other than the academics who devote themselves to studying these mysterious languages, people generally know only a handful of words."
+									],
+									"name": "Languages"
+								}
+							],
+							"name": "How Obojimans Live"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"The history of Obojima is best understood as a series of eras, each one named for the people who arrived at that era’s start. The only exception to this rule is the era of prehistory, known simply as the First Age, which encompasses all Obojiman history until the arrival of the Nakudama. Discussions of the First Age refer mostly to one of two topics—the peculiar technology scattered across Obojima and the spirits of the island, who may have always been part of it.",
+								"The second age, which stretches back into myth, is the Nakudama Age. Whether we are to believe the myths about how the Nakudama queen traveled across the vast ocean to land upon the shores of the island is not as important as understanding that the Nakudama have inhabited Obojima for generations beyond count.",
+								"The Nakudama Age gave way to the Age of Humanity 1200 years ago, when the first humans—seafaring people—found their way to the island. Humans and Nakudama quickly took to one another, establishing many joint settlements that continue to thrive today. This era also saw the first elves born among humans.",
+								"The current era began 300 years ago, when the dara first emerged from the forest. It has therefore been dubbed the Dara Age. However, the coming of what has been called the Corruption may yet herald a new era altogether.",
+								{
+									"type": "entries",
+									"entries": [
+										"The following notable events are marked on the island’s historical timeline, organized by the era in which they occurred.",
+										{
+											"type": "list",
+											"style": "list-hang-notitle",
+											"items": [
+												"{@b First Age (unknown).} Age of the unknown.",
+												"{@b Age of Nakudama (2000 years ago).} Arrival of the Nakudama; Founded the capital city of Lilywin; Fish folk raids mark the start of the Lionfish King’s reign; Kite racing established in Sky Kite Valley; Ascent of Oghmai, the demon usurper; Death of the Mountain Strider; Monarchy dissolves; Formation of the Courier Brigade.",
+												"{@b Age of Humanity (1200 years ago).} Arrival of the humans; First elves are born; Sky Salamander appears; Laughing Plague chuckles along the east coast; First currency minted; Vanishing Mountain first sighted; Earthquake & Tsunami shake the island.",
+												"{@b Age of Dara (300 years ago).} Arrival of Dara the Nomad; Arrival of the Dara People."
+											]
+										}
+									],
+									"name": "Timeline of Obojima"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Little is known about the time before the Nakudama. Scholars speculate that there was once a people who created the wonders of the First Age, but there is no understanding of how they came to be or where they’ve gone."
+									],
+									"name": "Age of Unknown"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Nakudama history states that the first Queen of the Nakudama swam across the great ocean to land on the shores of Obojima. It was on those shores that she birthed the first 100 Nakudama and founded her kingdom."
+									],
+									"name": "Arrival of the Nakudama"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Very little archaeological evidence has been found of the great Nakudama city, but historical texts state that Lilywin once stretched across miles and miles of the Gale Fields. Some scholars and historians believe that the roads and trails commonly used in the Gales Fields today could have origins rooted in the city of Lilywin."
+									],
+									"name": "Founded the Capital City of Lilywin"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The fall of the Nakudama kingdom came at the hand of a powerful demon known as Oghmai. Through Oghmai’s manipulation, two factions formed among the Nakudama people, hatred grew among them, and an inevitable war would later devastate the countryside. Oghmai took the opportunity to seize the throne, which began his brief but brutal reign."
+									],
+									"name": "Ascent of Oghmai, the Demon Usurper"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Despite Oghmai’s cruelty, resistance was never fully extinguished, and before long, the Nakudama rose up against the demon and his armies. Oghmai was deposed and imprisoned, but the kingdom was left in shambles.",
+										"Rather than rebuilding, the remaining Nakudama, led by a sage known as Shalwin, chose to disband the monarchy and rebuild a new society in the areas unchanged by the war."
+									],
+									"name": "Monarchy Dissolves"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"It is said that the first humans arrived by boat, but no record shows from where they traveled. What scholars do know is that the Nakudama historical texts state that the humans carried with them a greater understanding of the First Age—far beyond what Nakudama scholars had ever understood."
+									],
+									"name": "Arrival of the Humans"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"As a gift to the people of Okiri, an elder spirit blessed the bloodline of humans that lived there so that their children and their children’s children would every so often give birth to an elf—beings connected to the Spirit Realm and bearing marks of power. Since the advent of this blessing however, the frequency of elven births are less and less."
+									],
+									"name": "First Elves Are Born"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The first sighting of the Vanishing Mountain came with much excitement. The idea of a mountain that appears and disappears on the horizon would go on to spur a generation of sailors and explorers who ventured out and never returned."
+									],
+									"name": "Vanishing Mountain First Sighted"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"A destructive earthquake and tsunami rattled the island and its people, causing mass damage across many regions and nearly destroying the town of Polewater."
+									],
+									"name": "Earthquake & Tsunami Shake the Island"
+								}
+							],
+							"name": "History"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"On Obojima the most advanced technology is also its oldest. For as long as anyone can remember, and even as far as historians can discern, the island has always been home to this peculiar category of technology. Instead of being an oddity, however, the islanders have embraced what they call First Age relics and integrated them into their society so that Obojima today is a mix of vaguely medieval and near modern technology.",
+								"The adoption of relics from the First Age into the everyday lives of Obojimans is one of the things that gives this setting its unique flavor. A wizard with headphones might cast spells from a cassette instead of a spellbook. A vending machine at a dangerous crossroads might provide a desperately needed healing potion to an injured traveler. A floppy disk might be the key to a hidden vault. First Age relics don’t have to be fully understood in order to be fully embraced.",
+								"That’s not to say that the mystery of the First Age is ignored. There are those who devote themselves to studying it, but technology has been part of island life for so long that it is just a part of their world.",
+								{
+									"type": "entries",
+									"entries": [
+										"Many relics from the First Age require power to run. Without gasoline, batteries, or outlets, Obojimans have had to find other ingenious methods to get them powered up. Certain spirits possess the ability to function like batteries or as a source of fuel known as “whelming”, and they are happy to lend their services for the right price. Alternatively, Obojimans can turn to magic. At some point in the island’s long history, wizards discovered the spell, {@spell Jolt|OBOJIMA}, which can be used to power devices.",
+										{
+											"type": "inset",
+											"name": "First Age Technology Conditions",
+											"entries": [
+												"{@b Working Condition.} The machine can be powered by a spirit or the {@spell Jolt|OBOJIMA} spell.",
+												"{@b Damaged.} The machine won’t work if whelmed by a spirit or targeted by the {@spell Jolt|OBOJIMA} spell, but could be fixed by making the appropriate skill checks.",
+												"{@b Sundered.} The machine is damaged beyond repair. It’s time to scrap it for parts."
+											]
+										},
+										{
+											"type": "inset",
+											"name": "Real-World Comparison",
+											"entries": [
+												"First Age technology describes the real world era of, roughly, the 1980s. It’s when analog tech was in the process of transitioning to digital. It’s the era of cassette players and 8-bit video games. There are clunky computers, VCRs, action figures, and even automobiles. This is a pre-cell phone world.",
+												"{@b On Guns.} For the purest Obojima flavor, we suggest leaving guns out, despite them existing alongside the technology described in this section. As always, it’s up to you."
+											]
+										}
+									],
+									"name": "Spirits, Magic, and Tech"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Obojima is full of wonders and oddities of every shape and size, but few are as numerous as the vending machines littered throughout the island. Most of these relics of metal and glass from the First Age stand as part of the landscape like any other rock or shrub. But many have been given renewed purpose. By means of magical enchantment, these once abandoned vending machines are operational again, but with magical trinkets on display. The trend is so widespread that it’s safe to assume a machine found in decent condition is already claimed by a young wizard making plans to turn it into their own magical shop. Over the years, many boastful wizards and witches alike have claimed the idea to enchant vending machines was theirs, but that’s an argument best left to historians.",
+										"Leaving dozens of magical whatnots on display amongst the wilds of Obojima certainly has its risks. For every talented mage that enchants a vending machine, two talented thieves are plotting to steal the vulnerable goods. This is why most vending machines are protected by a guardian in the proprietor’s absence. Guardians are often spirits, monsters, or another willing person who has entered a deal with the wizard. Of late, awakened cats have become the guardian of choice."
+									],
+									"name": "Vending Machines"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Once the curious, crinkly black ribbon was first unspooled from the plastic casing of a cassette, it didn’t take long for sages to uncover it contained hidden messages—singing voices and music somehow contained within, and revealed only through the use of a cassette player. The same was true of the cassette’s larger cousins, the odd black blocks labeled VHS, only these contained images too. These objects, which seemed to reveal a world from beyond, captivated sages.",
+										"Tapes were among the first objects from the First Age to be adopted by spellcasters when they learned to imbue tape with their own magic. This became incredibly popular amongst witches and wizards who would use the odd trinkets as spell scrolls. When portable cassette players were discovered, wizards quickly adopted them too, replacing their spellbooks with an array of cassettes."
+									],
+									"name": "Cartridges, Cassettes, and VHS"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"A favorite among the First Age gadgets that are found on the island is the camera, particularly instaprint cameras, which miraculously spit out a small card that reveals the captured image after a few moments, with the help of vigorous shaking. In addition to the (almost) instant gratification, it was discovered that the film cards these cameras use are sensitive to magic, which shows up as an aura in pictures. It was through the playful use of an instaprint camera that a family in Okiri Village discovered that their heirloom ladle was, in fact, enchanted with a powerful curse that soured every soup it touched.",
+										"Original packs of film cards are hard to come by these days, but savvy alchemists have recently found a way to make new ones using silver dust and a bit of magic."
+									],
+									"name": "Instaprint Cameras"
+								}
+							],
+							"name": "Technology"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"Obojimans have noticed some odd things over the years, and being Obojimans, they take it all in stride. But since the great earthquake and tsunami three months ago, there has been more chatter than usual. There’s the typical grumbling among farmers, ever concerned about the well-being of their crops and the worried talk from merchants about their wagons being slowed down by the whims of the island spirits. But there’s more serious talk that has been drifting in from the far side of Obojima, the eastern side, where rumors and strange tales of a growing Corruption are beginning to spread across the island and get whispered by patrons in taverns and by travelers who cross paths on trails.",
+								"The odd and the mysterious are nothing new to Obojimans, so hearing about a weird patch of magic grass that hampers travel across the Gale Fields or an upwelling of bubbling pools of random goo that suddenly appears in a farming village, are something that Obojimans have dealt with on several occasions. Obojima is, after all, a land where spirits and magic are intertwined with daily life.",
+								"But there’s a sense of worry about this particular anomaly. Perhaps it was because the Corruption was heralded first by an earthquake that shook the entire island, and then was followed by a tidal wave that caused the villagers on the eastern shores to run for the high ground. These events and the ensuing encroachment of this supernatural Corruption has the residents of the eastern side of the island quite alarmed.",
+								"For those who have seen the Corruption zones with their own eyes, it is their testimony alone that is helping to spread the news westward. But Obojimans are not wanderers by nature, so news is traveling slowly. The eastern witch covens are reacting to its presence with a mixture of arcane fascination, metaphysical concern, and, of course, devious witchery, and many of them are spending their time sampling the Corruption and exploring its magical implications and arcane efficacy in their potions and brews."
+							],
+							"name": "The Corruption"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"This section describes organizations that have a presence throughout Obojima. Over the course of a campaign, characters could become affiliated with one or more of them. Or, characters who run afoul of a faction might find they have created a whole slew of enemies.",
+								{
+									"type": "entries",
+									"entries": [
+										"Much of the Obojima’s past may be unknown, but the guild of archaeologists, historians, and archivists known as AHA believe it is not unknowable. From their observatory headquarters in the Coastal Highlands, AHA oversees a collection of field research teams scattered throughout the island at no less than a dozen ruins and excavation sites.",
+										"AHA is directed by a trio of academics—one drawn from each of the guild’s three traditions. Collectively, they are known as the Asloh. The trio is made up of an archaeologist known as Gurriko, a female Nakudama interested primarily in the ancient building techniques of her people; Loninni, a female human and historian from the foothills of Mount Arbora; and finally, a towering male blue dara named Uba, who serves as the guild’s chief archivist.",
+										"The nature of AHA’s work takes its research teams to some of the most perilous and wild parts of the island, so they are always in need of intrepid research assistants and armed escorts."
+									],
+									"name": "AHA — Academic Adventurers"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"“Deliverance through delivery.” This is the code of the Courier Brigade, an order of postal knights devoted to the safe delivery of parcels all across Obojima, no matter how dangerous the trip or remote the destination. Most of the time, couriers deliver packages, but they also serve as escorts for travelers. Most couriers prefer large flightless birds as mounts, though this is not a requirement of the brigade’s regulations.",
+										"Most settlements have parcel boxes that fall under the jurisdiction of a courier, and the larger towns have brigade halls, where squads of couriers reside.",
+										"The brigade also maintains a string of forts that protect important crossroads, including the formidable Fort Harglo in the Gale Fields. Here, Postmaster General Escalante oversees the brigade’s operations and personally leads a small group of elite knights who are dispatched to relieve imperiled couriers."
+									],
+									"name": "Courier Brigade — Knights of the Postal Service"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Thirty years ago, enthusiasts of the world beneath the waves formed the Mariners’ Guild to support submarine exploration. Under the leadership of its founder, Captain Clintock, the guild established four lodges—one at each of the islands’ cardinal directions. These lodges serve as both home and workshop for the divers of the guild, each equipped with a small boatyard and launch, where members can test their latest seagoing vessels.",
+										"After an initial boom in popularity, the guild’s membership has diminished over the decades. Of the four lodges, only the north and south ones remain in use, with Captain Clintock’s two daughters, Holly and Paloma, operating out of them respectively. The captain only rarely comes ashore, preferring to remain aboard the Pointue, his famous swordfish submersible.",
+										"Of late, Captain Clintock, his daughters, and the remaining members of the Mariners’ Guild have all been working diligently to figure out how to fight back the Corruption that has emerged on the eastern side of the island. Most of their recent studies are regarding the Corruption’s effects on the marine flora and fauna. In an expedition to the corrupted coastline, the captain’s sub was damaged. His efforts to get to his daughter, Holly, a gifted engineer who could repair the Pointue, have been thwarted by the Lionfish King."
+									],
+									"name": "Mariners' Guild — Undersea Explorers"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Youths all across Obojima are members of their local chapter of the Society of Young Stewards, an organization dedicated to teaching stewardship of nature and general good citizenship. Young stewards earn special badges that mark particular achievements or masteries, such as whittling, making campfires, or demonstrating the best way to calm an angry hill dragon.",
+										"Chapter leaders hold ceremonies to honor exceptional service, acts of kindness, and other achievements that exemplify what it means to be a steward. As the saying goes, “Once a steward, always a steward.” Stewards have all kinds of ways that they help the community and the island, and there’s been more than one example of a steward finding an ingenious way to save the harvest, cross a flooded river, or help a lost flock of goats get back to the safety of their barn.",
+										"The wilderness is a steward’s second home. That means it’s not uncommon for steward camping trips to become imperiled by one of the many dangers the island has to offer. Howlers might descend on a camp, or the stewards might wake to find themselves in the middle of the Wandering Forest. In such cases, adventurers often muster to come to their rescue.",
+										"Each chapter of the Young Stewards is named after a type of bird. You can pick the name of the chapter you belonged to or roll on the table below.",
+										{
+											"type": "table",
+											"colLabels": [
+												"d10",
+												"Chapter Name"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"Chickadees"
+												],
+												[
+													"2",
+													"Bluebills"
+												],
+												[
+													"3",
+													"Kingfishers"
+												],
+												[
+													"4",
+													"Grebes"
+												],
+												[
+													"5",
+													"Herons"
+												],
+												[
+													"6",
+													"Sparrows"
+												],
+												[
+													"7",
+													"Finches"
+												],
+												[
+													"8",
+													"Rooks"
+												],
+												[
+													"9",
+													"Robins"
+												],
+												[
+													"10",
+													"Kestrels"
+												]
+											],
+											"caption": "Young Steward Chapter Names"
+										}
+									],
+									"name": "Society of Young Stewards — Youth Scouts"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Obojima boasts a proud tradition of swordplay—several, actually. Each sword tradition has two masters of equal rank who oversee a school and take on worthy pupils to share the secrets of their craft.",
+										"Students who train at a sword school earn the opportunity to train alongside, and eventually test their skills against, one of the masters in a duel. These tests are most commonly first to touch, where the combatants use blunted blades to see who can land a blow first. The reward for scoring a touch against a master is something truly special—the opportunity to learn that school’s signature master technique.",
+										"The schools are named after the founding masters. Here is a list of the current schools and their locations.",
+										{
+											"type": "list",
+											"style": "list",
+											"items": [
+												"Canden and Moon is located in Yatamon in the south of the Gift of Shuritashi.",
+												"Lom and Salt is located on the northern slope of Mount Arbora close to the summit.",
+												"Tellu and Scale is located in the Gift of Shuritashi’s northern coast.",
+												"Toraf and Boulder is located in the middle of a waterlogged plain in the Brackwater Wetlands."
+											]
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"There are two common ways to gain admittance to one of the sword schools. The first is by invitation. Sword masters are always on the lookout for prospective pupils, so folks who have earned a reputation as a sword talent through their exploits are likely to garner attention from one or more of the schools. It’s not uncommon for a talented candidate to be given multiple invites to attend two or more of the schools. Alternatively, a warrior can earn their way into a school by proving their skill and challenging a designated champion to a nonlethal duel. At the champion’s discretion, they will gift a challenger with a signet, which can then be presented to any master that recognizes the champion at their school."
+											],
+											"name": "Becoming a Pupil"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Students train at a school for as long as they like. Some stay for a season, while others have become permanent fixtures and masters in their own right. During their training they’ll live alongside other pupils and work to maintain the school. Students who wish to train for longer periods can even be assigned quests and simple tasks, which they oversee and complete as representatives of the school. These quests are often charitable acts the school has chosen to take on and can take as little as a day to complete or stretch as long as a year’s time."
+											],
+											"name": "Training"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"When a pupil believes they are ready to learn a school’s master technique, they can ask to challenge one of the masters during one of the testing periods, which occur 4 times a year. The test is a duel with blunted swords. To prove they are ready, the pupil must land a hit on the master in three rounds without the use of magic. Those who succeed are given the opportunity to learn the school’s master technique. Those who fail must wait three months for the next testing opportunity.",
+												{
+													"type": "inset",
+													"name": "Master's AC",
+													"entries": [
+														"A master’s AC starts at 30. For each week or month (your choice) the pupil has trained at that school, the master’s AC drops by 1. For example, if a pupil has studied at the school for five weeks, the master’s AC drops from 30 to 25 for the purpose of the duel."
+													]
+												}
+											],
+											"name": "The Duel"
+										}
+									],
+									"name": "Sword Schools — Rival Masters of the Blade"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Need to diagnose a curse? Are you looking for ingredients to brew a potion? Do you want to learn for yourself the magical secrets Obojima keeps hidden from those who don’t know where to look? If the answer is yes to any of these questions, you’re likely seeking a witch. Witches are found all over the island. They are found operating out of settlements as resident magic specialists or in wilderness dwellings and strongholds where they develop their craft away from the prying eyes of jealous rivals.",
+										"Most witches are linked to a coven—a group of witches sworn to aid the other members and share their arcane secrets with each other. Other witches remain solitary, preferring to stay out of inter-coven feuds. That doesn’t mean that covens won’t try to recruit them, or at least exert influence over them.",
+										"Covens are always on the lookout for apprentices worthy of their unique tradition of magic. Individual witches, with the right kind of convincing, might agree to take on an apprentice as well.",
+										{
+											"type": "entries",
+											"entries": [
+												"The decision to join a coven is no small thing. Typically, young mages apprentice with a coven witch for a time before being asked to join. Others are talented witches who practice on their own and are then recruited directly into a coven’s ranks. In either case, when a new witch is chosen for potential membership, it is the coven who ultimately decides whether or not to extend an invitation to join.",
+												"For a witch to be admitted into a coven, they must take the coven’s oath. This is a special ritual that binds that witch to the coven and in return the coven becomes bound to the witch. Those who take the oath become fully inducted into that coven’s ways. They gain access to the power and magical traditions at the coven’s disposal, and they gain the protection of their covenmates against threats both arcane and mundane. Some covens offer witches a place to stay and practice magic, though many witches prefer to keep their own dwellings.",
+												"A witch who breaks a coven oath suffers a curse that manifests physically to mark the oathbreaker. The nature of the curse varies by coven."
+											],
+											"name": "Joining a Coven"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"From their domain in the Gale Fields, the witches of the ascendant Fish Head Coven spread their arcane influence across the island to control the discovery and trade of magical ingredients, to feed their insatiable obsession with their art. Dozens of witches on the island are affiliated with the Fish Head Coven, answering to the whims of the coven’s ruling Council of Three and Thirty, an arrangement that smaller covens envy or bemoan."
+											],
+											"name": "Fish Head Coven"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Though the Fish Head Coven wields the most influence, there’s still enough room on Obojima for a handful of other covens, with lairs of their own. Inter-coven hostilities are usually kept to a sportsmanlike rivalry, but feuds bubble up from time to time, and some even result in duels.",
+												"Other notable covens include:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Cloud Cap Coven at the base of Mount Arbora",
+														"Patchwork Robe Coven in the Land of Hot Water",
+														"The Tall Hats who wander in their caravan primarily in the Gift of Shuritashi",
+														"Crowsworn in the Brackwater Wetlands",
+														"League of the Gilded Gourd in the Coastal Highlands"
+													]
+												}
+											],
+											"name": "Other Covens"
+										}
+									],
+									"name": "Witches and Covens — Witches Bound to Each Other by Oaths"
+								}
+							],
+							"name": "Factions"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								{
+									"type": "entries",
+									"entries": [
+										"Walking is a common enough way to travel the roads that crisscross Obojima, but there are plenty of other ways if you’d like to give your feet a rest. Many Obojimans travel by mount or in the back of a cart or wagon. The islanders rely on a wide variety of creatures to handle this. Horses and bestial spirits are the most prevalent, but you will find sturdy goats on the slopes of Mount Arbora, thick-scaled reptiles in the Gale Fields, and even the occasional giant dragonfly.",
+										"Some folks prefer vehicles to get around. Hot air balloons and gliders are common sights. Relics from the First Age also provide even more options, which include bicycles, motorbikes, and scooters. Even cars and trucks are not so rare that they would be met with disbelief on the road. For more information on vehicles, see page 161.",
+										"The most truly wondrous mode of transportation is via the Wandering Line, a train that makes stops all over the island, including several in the Spirit Realm. For more information on the Wandering Line, see page 113.",
+										"No matter the method you choose to travel, you’ll surely have quite the adventure on your hands. There is almost 300 miles between the quaint western coastline to the dangerous eastern beaches, most of which are uninhabited wilds."
+									],
+									"name": "Getting Around the Island"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Most maps of Obojima divide the island into six regions that are widely recognized by the islanders. The regions are not political divisions, but rather, they describe larger geographical areas that share certain characteristics. A seventh region describes the submerged landscape that surrounds the island. It is known as the Shallows. Beyond the shelf of the Shallows is the vast expanse of ocean that the islanders refer to as the Deep."
+									]
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Also known as the Gift, the westernmost and largest region is named after a great spirit that once roamed the western forests of the island. The land is a patchwork of idyllic landscapes that include rolling hills, lush forests, and sandy beaches. Most of its scattered villages and towns are home to farmers and craftspeople.",
+										"For more on the Gift of Shuritashi and the locations in it, see page 23."
+									],
+									"name": "The Gift of Shuritashi"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Natural hot springs dot an otherwise arid landscape that stretches between the northern slope of Mount Arbora and the sea. The people who live here enjoy a culture that balances industry and relaxation. Of late, a fad of flight has spread among the engineers and tinkerers who live here.",
+										"For more on the Land of Hot Water and the locations in it, see page 48."
+									],
+									"name": "The Land of Hot Water"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The looming peak of this ancient mountain can be seen from every corner of Obojima. Meltwater from its snowy slopes feed the island’s rivers, so some of the island’s residents regard Mount Arbora as Obojima’s beating heart. Though majestic, the mountain is treacherous. The terrain can be unforgiving, and some of the island’s largest monsters dwell here.",
+										"For more on Mount Arbora and the locations in it, see page 64."
+									],
+									"name": "Mount Arbora"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The center of the island is a vast, sweeping plain—a wilderness of uncommonly tall grass. Crossing the Gale Fields is no easy task, but it’s the quickest way to travel from one end of the island to the other. The honorable Courier Brigade maintains the major roads that crisscross the Gale Fields, though the nomadic communities who call the area home know its secret paths for good reason: this is the domain of the howlers.",
+										"For more on the Gale Fields and the locations in it, see page 74."
+									],
+									"name": "The Gale Fields"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Aside from the peak of Mount Arbora, the soggy Brackwater Wetlands in the east of Obojima are the island’s most sparsely populated region. The people here are accustomed to a hardscrabble life, and they have adapted to the swamp by building entire settlements on stilts. The region is known for its time honored tradition of mud eel fishing, though its greatest point of pride is that it is the home of the island-famous Hakumon’s Ramen Shop. Of late, the treacherous wetlands have become even more dangerous, as a large swathe of it has been overrun by the mysterious Corruption that came from the sea only months ago.",
+										"For more on the Brackwater Wetlands and the locations in it, see page 81."
+									],
+									"name": "The Brackwater Wetlands"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The land in the southeastern corner of Obojima rises sharply from the Gale Fields and Brackwater Wetlands, forming a plateau of craggy rock that ends at the sea as a dramatic, sheer cliff. Within the cliff face are several sprawling networks of caves that open out over the sea.",
+										"For more on the Coastal Highlands and the locations in it, see page 97."
+									],
+									"name": "The Coastal Highlands"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Obojima is ringed by a reef known as the Shallows. The beach drops under the surf creating a sandy bottom that stretches out several miles offshore and can get to a depth of 200 feet before the reef rises up, creating a coral wonderland around Obojima. Beyond, a steep shelf gives way to the deep waters of the open ocean. Aside from being home to all kinds of sea creatures, a portion of the Shallows is also claimed by the Lionfish King, who has become increasingly agitated and belligerent since the Corruption arrived on the island.",
+										"For more on the Shallows and the locations in it, see page 108."
+									],
+									"name": "The Shallows"
+								}
+							],
+							"name": "Regions"
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Locations",
+					"page": 22,
+					"entries": [
+						{
+							"type": "entries",
+							"entries": [
+								"Below, you will find 30 unique locations found all across the island. These locations are organized by region and range from a small ramen shop to the largest city on Obojima. However, these are not the only important locations on the island. There are many unlisted towns and villages, which we implore you to create yourself.",
+								{
+									"type": "inset",
+									"name": "Player Information vs GM Information",
+									"entries": [
+										"At the start of every location is a paragraph or more of text which gives the reader a general overview of the location. This section is intended for players and GMs to read. The text that follows the Blue “Tone / Vibe” section is for GMs only."
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"The Gift of Shuritashi, known by locals as “the Gift,” is named after the legendary spirit Shuritashi who once roamed Obojima. This region is a harmonious blend of tropical paradise and pastoral tranquility. Its landscape is a tapestry of verdant farmland, thick forests, and rolling hills blanketed in lush meadows where the scent of flowers fills the air. In the valleys, gentle rivers meander towards the coast and the golden beaches that the Gift is known for.",
+								"Scattered across the land are quaint villages and towns where the rhythm of life is slow and relaxed. The inhabitants, primarily farmers and craftspeople, cultivate the land, growing vegetables, spices, tea, and fruit, as well as raising all manner of livestock to graze the hillsides. These settlements, with their thatched roofs and open markets, exude a rustic charm that complements the natural beauty surrounding them. The artisans’ handiwork captures the essence of Shuritashi’s spirit in their intricate crafts. In the Gift, the serene lull of nature and the gentle hum of daily life merge together to create a sanctuary where the legacy of the great spirit Shuritashi resonates in every rustling leaf and crashing wave.",
+								{
+									"type": "table",
+									"colLabels": [
+										"d12",
+										"Wandering Encounter"
+									],
+									"colStyles": [
+										"col-2 text-center",
+										"col-10"
+									],
+									"rows": [
+										[
+											"1",
+											"A herd of wild horses (use the {@creature pony|mm}* stat block)."
+										],
+										[
+											"2",
+											"A band of 1d6+2 yokario."
+										],
+										[
+											"3",
+											"A spirit companion that is lost."
+										],
+										[
+											"4",
+											"A herd of wild boar*."
+										],
+										[
+											"5",
+											"An overgrown First Age vehicle is discovered."
+										],
+										[
+											"6",
+											"An awakened cat."
+										],
+										[
+											"7",
+											"A wandering band of troubadours on the way to the nearest village to spread music and good cheer."
+										],
+										[
+											"8",
+											"A shooting star streaks through the sky and lands a few miles away."
+										],
+										[
+											"9",
+											"A merchant can be heard grumbling in the distance about her wagon having a broken wheel."
+										],
+										[
+											"10",
+											"The Hunter can be seen flying overhead."
+										],
+										[
+											"11",
+											"A successful DC 17 Wisdom ({@skill Perception}) check reveals a dara glyph etched into a tree."
+										],
+										[
+											"12",
+											"A young wizard (use the {@creature acolyte|mm}* stat block) who knows just enough magic to cause a mishap or two."
+										]
+									],
+									"caption": "Wandering Encounters"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"One of the two remaining divers’ lodges is the southern branch, which is located in the Gift of Shuritashi. Like the other divers’ lodges, the southern branch has a deep connection to the Clintock name. It was the renowned Captain Clintock who first established the lodge with the Mariners’ Guild in an abandoned fisherman’s cliff dwelling decades ago, and the captain’s eldest daughter, Paloma, now looks after the place. Though general interest in ocean exploration has waned across the island, stalwarts who still heed the lure of the sea continue to be drawn to the lodge. Along with Paloma, a handful of guild members live at the lodge, and at any given time, there might be a handful of guests or researchers staying here as well.",
+										"The Lodge’s position in the cliff wall has proved perfectly situated to ward off attacks from the Lionfish King’s warriors.",
+										{
+											"type": "inset",
+											"name": "Tone/Vibe",
+											"entries": [
+												"Eclectic, Comradely, Empty"
+											]
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The southern divers’ lodge is known for its aquarium, which hosts a rotating collection of marine creatures that the resident naturalist studies before releasing them back into the wild."
+											],
+											"name": "Aquarium"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Clintock himself is currently in residence while his submarine, the Pointue, remains in drydock for repairs."
+											],
+											"name": "Captain of the Pointue"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Captain Clintock and the Lionfish King have maintained a decades long feud that accounts for much of the mayhem in the Shallows during that time. Both parties have reason to hate the other. The Lionfish King spent time as a prisoner in the spirit town of Uluwa due to Clintock’s handywork, and he in turn managed to sink the captain’s original submersible—the Pointue.",
+												"However, Captain Clintock’s usual resolve at countering his bitter foe appears to have diminished since his most recent arrival at the lodge. Paloma believes it’s his age that has tempered him, despite his insistence that dealing with the Corruption is far more important right now."
+											],
+											"name": "Old Feud"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Corrupted fish folk from the eastern side of the island have begun encroaching on the domain of the Lionfish King. Paloma only recently encountered them when they attacked her ship. She managed to escape, but not before one of the attacker’s darts struck her, secretly infecting her with the Corruption."
+											],
+											"name": "New Menace"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Captain Clintock brought with him samples of Corruption-affected aquatic life, and the resident member of AHA has been researching it, much to the discomfort of the other lodge members."
+											],
+											"name": "Corruption Research"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Paloma Clintock (female human).} Paloma runs the lodge and to her, it’s her castle. She grew up traveling between the four divers lodges, but she always felt like the southern branch was home. She lacks her sister Holly’s gift for engineering, but her strength is in her fearlessness, which tends to dip into recklessness. Though she loves her father and sister, the members of this lodge have become closer to her than her family.",
+												"With the increasing belligerence of the fish folk, Paloma has recently begun launching solitary missions into the domain of the Lionfish King to disrupt possible attacks. On these missions, she wears a magical cloak of mist that spreads around her and her small ship.",
+												"{@b Captain Clintock (male human).} The captain of the Pointue is a man of few words, but he can command a room with his presence. He is driven, introspective, and insatiably curious about the sea. The sea is his passion, and as he ages, he is increasingly aware that his legacy of celebrating the world beneath the waves will be overshadowed by his squabbles with the Lionfish King.",
+												"The Corruption he encountered during his most recent voyage to the eastern side of the island has kindled a new sense of purpose, as the threat to the sea life he reveres is threatened.",
+												"The only thing Captain Clintock loves more than the sea are his daughters, whom he is immensely proud of, though his affection for them is reserved for the letters he sends from his voyages.",
+												"{@b Figby, the naturalist, musician, chef, and freediver extraordinaire (male Nakudama).} Figby is a boisterous personality who is quick to laugh and share in the laughter of others. He serves as the lodge’s chef, with meals prepared from the fish he catches on his morning dives. When he’s not in the water or in the kitchen, the lodge echoes with the jaunty sounds of his accordion. He is the glue that keeps the lodge together.",
+												"{@b Leobini, the Navigator (male human).} The old navigator has lived at the lodge longer than anyone and they are one of Captain Clintock’s closest friends. Leobini moves about the lodge with the help of a crab-like spirit named Mr. Tamlin, who carries the navigator on its back. Although they rarely go on excursions these days, they’re more than happy to tell one or more of the thousands of stories they know about sea monsters, brave sailors, and foolish captains to any and that will listen.",
+												"{@b Dahlia, Apprentice Diver (female elf).} After a diver passed away in an excursion in the Land of Hot Water, Paloma invited his young daughter, Dahlia, to stay at the lodge. Dahlia’s mother had passed just a few months prior, so the young lady was quick to accept the offer and grateful to have a place to stay. Since then, Dahlia has come into her own, and has become a beloved member of the lodge. Known as a bookworm, Dahlia spends much of her time at the lodge investigating objects from the First Age that were hauled up from the sea. She has a deep fascination with action figures, and she might have the largest such collection on the island. Since the return of Captain Clintock, she’s assisted in his research of the Corruption."
+											],
+											"name": "NPCs"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b The Pointue.} There’s no mistaking Captain Clintock’s submarine, which is shaped like a giant, plump swordfish. The Pointue’s riveted exterior and bulbous lines gives it a clunky appearance, but it is actually quite graceful in the water. The interior sports elegant dark wood paneling and chic furniture from an older age.",
+												"Captain Clintock is most proud of the Pointue’s robust nautical library, which includes a small collection of documentary films about the sea.",
+												"The Pointue is no ordinary vessel. It is both a mechanical and magical marvel. It never runs out of breathable air, and it can even stretch to pass through narrow passages, though this power has a limit. The swordfish’s sword is no mere decoration, as many of the Lionfish King’s ships rotting on the seafloor can attest.",
+												"At present, the Pointue is in drydock at the divers’ lodge. The submarine, which had been damaged during an expedition to the island’s Corruption-tainted coastline, is in need of repairs, but the Lionfish King prevented the captain from voyaging to the divers’ lodge in the north, where his mechanically gifted daughter, Holly, and the appropriate tools to fix the submersible reside. As no one here knows how to fix the Pointue, it remains at the southern branch along with the captain.",
+												"{@b The Ogo Mo Vogo.} The lodge’s closest neighbor is an enormous spirit that resembles a snail with a multi-spired shell that sparkles in moonlight. The spirit is called the Ogo Mo Vogo, a fact that everyone who comes near it somehow spontaneously knows. The Ogo Mo Vogo seems to favor the lodge, and it is often found clinging to the cliff face close-by. The lodge’s resident naturalist, Figby, discovered that the spirit is often willing to transport people it trusts down to the seafloor."
+											],
+											"name": "Points of Interest"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Missing Diver.} When the adventurers arrive, they soon discover from the divers at the lodge that one of their members went missing the night before. Most believe he was taken by fish folk raiders, but whether they were sent by the Lionfish King or by the Venomous Rex is not known. Paloma Clintock asks the adventurers to help her find her friend.",
+												"{@b Fish Folk Defector.} A fish folk turns up at the lodge, claiming they no longer want to serve the Lionfish King, who they claim has grown paranoid and unstable. He says he has information about an impending attack on the village of Tidewater."
+											],
+											"name": "Adventure Hooks"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Taverns along the Gift of Shuritashi are abuzz with chatter about a mysterious vessel that’s been seen intercepting and driving off fish folk raiders. The rumor credits the lodge, with most folks speculating that Captain Clintock is the unsung hero.",
+												"The Coastal Divers’ Lodge connects to two of Obojima’s looming dangers—the ongoing conflict with the fish folk of the Lionfish King’s domain, and the threat posed by the Corruption. The lodge serves as a great location to bring the adventurers in contact with either issue or as a jumping off point to explore the Shallows."
+											],
+											"name": "Rumors and Legends"
+										}
+									],
+									"name": "Coastal Divers' Lodge (Southern Branch)"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Located in a damp, forested pocket in the western foothills of Mount Arbora is a village of mushroom farmers, who have discovered a patch of woods so steeped in magic that the lichen and fungi they grow there have reached such extraordinary sizes that they are large enough to live inside of and for generations, that is exactly what they’ve done. What was once an empty forest floor and canopy are now sprawling with magnificent homes and businesses, all carved from the giant mushrooms the farmers planted so many years ago.",
+										{
+											"type": "inset",
+											"name": "Tone/Vibe",
+											"entries": [
+												"Festive, Jovial, Inviting, Magical"
+											]
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Matango Village is known to villages in proximity to it or by anyone who has an affinity for mushrooms, like chefs and healers. There are a few who go there to experience its other features, like purchasing some fine clothing from the Red Chanterelles or experiencing the solitude of the Reishi Clan Monastery."
+											],
+											"name": "Reputation"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"There are several known farming groups in Matango Village, each one with its own specialty mushroom that they have grown for generations. They’ve cultivated the land for years to produce the optimal conditions for their fungi to bear fruit. This terraforming has created sections of the surrounding forest that are unique to each of the families."
+											],
+											"name": "Mushroom Clans"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The farming community of Matango Village has always been jovial and kind to one another. Each week, the villagers gather in the center of town where they swap stories, share new ideas, discuss whose gourmet mushrooms are the most coveted, and, after a bountiful harvest, they host their mushroom market where buyers come from all around to purchase the latest flush of mushrooms.",
+												"The quaint town is also known for its Truffle Festival, which sees eager truffle hunters from all across the island flooding into the nearby woods."
+											],
+											"name": "Culture in Matango"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Matsutake Gang.} The Matsutake Gang are a proud, rough and tumble group of disparate people who joined together out of a sense of found family and a common love of mushrooms. Matsutake Gang members are often covered in earth from their work cultivating and harvesting their produce and live in large, rough hewn houses.",
+												"{@b Red Chanterelles.} The Red Chanterelles are a family of fashionable farmers who are known for their crimson cloth and exceptional haberdashery. Along with their outstanding mushrooms, the Red Chanterelles produce fine clothing, lush dyes, and stylish shoes.",
+												"{@b Reishi Clan.} The Reishi Clan are an order of farmer-philosophers who live and work in a way where farming has become a deep, contemplative act. Their monastic lifestyle has become known throughout Obojima, and occasionally the Reishi Clan will allow visitors to come to their mushroom monastery and meditate.",
+												"{@b Porcini Family.} The Porcini family has been in Matango for generations, and are known for their singing, their joie de vivre, and their lavish dinner parties where any welcomed guest becomes an honorary Porcini family member for the evening. Although the Porcini family is well cultured, they are not above rolling up their sleeves, gathering their gardening tools, and standing fast to fend off would-be mushroom thieves."
+											],
+											"name": "Farmers of Matango Village"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Every year, people from around the island descend on Matango Village to participate in the annual Truffle Hunt. A celebrated competition where hundreds of villagers, adventurers, and truffle aficionados search the wilderness surrounding the village in hopes to find as many of the 73 unique mushrooms that grow in the area. The winner of the contest is crowned the Truffle Prince, a title that comes with the distinction of communing with the Great Pig Spirit, Roghora, and enjoying delightful feasts prepared in the spirit’s honor. The Truffle Prince reigns, enjoying all the benefits and honors befitting the title, until the next hunt the following year."
+											],
+											"name": "The Reign of the Truffle Prince"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The elder pig spirit, Roghora, has called the Matango woods its home for centuries. It’s said that the spirit found respite here after it fought the Great River Mu and lost in a devastating defeat that nearly took Roghora’s life. While injured, Roghora lived in the woods, feasting on the vast variety of mushrooms and wildlife. After a year of recovery, Roghora eventually decided to stay and make the land its domain.",
+												"Since then the woods have slowly become infused with Roghora’s magic, shaping the land to its liking and producing an abundance of its favorite food—mushrooms."
+											],
+											"name": "The Domain of Roghora"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Reheni, the Current Truffle Prince (female human).} Reheni is a good-natured young woman who, with the help of her pet piglet, Gooma, won last year’s Truffle Hunt, and is now reaping the rewards. She proudly wears the regalia around the village and passes on any wisdom that she gleans from her contact with the Great Pig Spirit, Roghora.",
+												"{@b Myron the Lichen Sage (male human).} Myron is the village druid who has taken it upon himself to make sure that the special magic of Matango Village, which allows for such phenomenal mushroom growth, is kept in balance and that the proper spirits are appeased. He can often be found digging and sniffing in the soil, dowsing with his divining rod, or wandering the forest humming an ever-changing tune.",
+												"{@b Chogo (male human).} The leader of the Matsutake Gang is a heavyset, muscular man in his mid-thirties named Chogo. Chogo is rough on the exterior, but underneath all the tattoos and sternness lies a heart of gold. His main concern is caring for the well-being of all the waifs, urchins, drifters, and ragamuffins that have found a home in the Matsutake Gang and making sure that they all find a sense of purpose and belonging.",
+												"{@b Marvolio (male human).} The majordomo of the Red Chanterelles is the dashing and ever-fashionable Marvolio. It is well known in Matango Village that Marvolio has brought the Red Chanterelles to a new level of creativity and style. Some say that Marvolio is a genius, whether that is true or not, what is known is that he is uncompromising when it comes to his vision. Whenever possible, Marvolio seeks out possible collaboration with famed adventurers and festival winners. As he always says, “An icon of the island must be dressed to impress, and what’s more impressive than a Chanterelle original”.",
+												"{@b Mama Amala (female human).} The head of the Reishi Clan is Amala, an intense yet gentle woman in her mid 50’s. A handshake from her lets anyone know the power—physical and spiritual—that lies within her unassuming form. She is welcoming and is a wealth of information, happy to share her knowledge with anyone who is wise enough to listen. Her mission is to bring the power of the forest spirits through the fungi that the Reishi Clan cultivate. It is her belief that being connected to the island brings humility, insight, and intelligence.",
+												"{@b Madame Porcini (female human).} The head of the Porcini household is a stout and friendly woman everyone calls Madame Porcini. On arrival at the border of the Porcini farm, the first thing you’ll hear is the lilting voice of Madame Porcini singing to her mushroom fields along with the rest of the extended Porcini family chiming in. Everyone in Matango Village associates her voice with good food and a grand party."
+											],
+											"name": "NPCs"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Mushroom Houses.} Each farming clan in Matango Village has a giant house version of their particular species of mushroom, complete with hallways, staircases, and rooms in which the group lives. There are smaller mushroom houses that surround the main house, where guests and other members of the farming community live. These homes are carved from centuries-old mushrooms that can grow in the forest in the right conditions.",
+												"{@b Pig Pen.} The aptly named Pig Pen is the communal home and facility of a local guild of big farmers known as Snout. For decades the guild has produced some of the highest quality truffle hunting pigs the town has seen, all of which were born and raised behind the closed doors of their barn-like manor. Recently, they have lost some of their sway within the community after the title of Truffle Prince was given to Reheni and her mutt of a truffle-hunting pig, Gooma.",
+												"{@b Moss Boiler.} This outdoor food stall is home to a local delicacy called moss boil, an unusual dish that takes the normally inedible laughing moss and turns it into a deliciously complex and springy faux noodle dish. The famed dish was created by the owner and chef of the Moss Boiler, Rokoko, a large bipedal beetle spirit and collector of odd ingredients. Since the humble shop was established a year ago, Rokoko has enjoyed the fame of a local celebrity but in recent months has struggled to keep up with the demand his fame has created."
+											],
+											"name": "Points of Interest"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Mushroom Raiders!} A collection of greedy spirits and mushroom poachers have set up a camp not far from town. The 4 major mushroom clans are in a panic trying to decide what to do about it.",
+												"{@b Angered Spirits.} The farmers of Matango Village are experiencing a sudden and underwhelmingly low yield in their most recent crop. Myron the Lichen Sage believes that the cause is an angry spirit of the forest that has not been properly appeased. He needs help scouring the forest to find the angered spirit.",
+												"{@b Moss Doesn't Grow on Trees.} Rokoko, the owner of the Moss Boiler, is in desperate need of more Laughing Moss. His famous dish requires a heap of the uncommon potion ingredient and he’s dangerously low in supply. Those willing to hunt down the illusive moss can trade for any one ingredient from his curated collection.",
+												"{@b Joining the Truffle Hunt.} The adventurers have joined the annual Truffle Hunt with little time to prepare. They must quickly gather their gear and start their search for the rarest of fungi this side of the mountain. To find these elusive mushrooms, they must work as a team to scour the forest floor, but that’s not the only thing they’ll need to worry about. A group of howlers are heading to the village and, if they arrive, they’re sure to ruin the festival."
+											],
+											"name": "Adventure Hooks"
+										}
+									],
+									"name": "Matango Village"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Quaint, charming, and idyllic, Okiri is a farming village in the Gift of Shuritashi, nestled in rolling hills between a modest wood and a lazy river. It’s a place where everyone knows everyone else. The river, which flows south from Mount Arbora, intersects with the east-west road, placing Okiri on a crossroads. Travelers frequently pass through the village, bringing news from the outside world, but generally, Okiri has remained somewhat insulated from the larger dangers that lurk in the vast expanse of the Gale Fields just beyond the farmland.",
+										"Though small, Okiri boasts a diverse population, with Nakudama, humans, and elves all making the village their home for generations. The history of the village stretches back to the earliest days of the Nakudama Age, and then, like today, has been the stomping grounds for a variety of nature and beast spirits.",
+										"Compared to other villages of similar size, Okiri supports quite a large amount of trade. The village is perhaps best known for its sheep dragon herders, who shear the wool to craft a variety of goods such as wooly hats, sweaters, cloth, and blankets. Other villagers grow a variety of vegetables, fish on the river, or ply their trade as craftspeople.",
+										{
+											"type": "inset",
+											"name": "Tone/Vibe",
+											"entries": [
+												"Warm, comforting, familiar, charming, like home"
+											]
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Okiri is known for the quality of wool it produces, which comes from the sheep dragons that graze the surrounding hills. Sheep dragons are clever and mischievous creatures, and tending to them is no easy task. There is great pride among the shepherds of Okiri for the rich tradition that they are a part of. The village has embraced sheep dragons to such a degree that its sigil depicts one."
+											],
+											"name": "The Importance of Sheep Dragons"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Okiri is a village of many faces. Most of the time, it’s a sleepy farming village, but market days and festivals transform it into a festive hub, where folk from villages come throughout the region to celebrate, trade, and compete. The festivals are determined by and even named for certain crops. The Cabbage Festival and Wrinklefruit Festival tend to draw the largest crowds."
+											],
+											"name": "The Farm Collective"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Most festival days are accompanied by festival games, which have become a major reason why people from nearby villages and farmsteads descend on Okiri. All at the festival are welcome to join in the games, which include wrestling and tests of accuracy of various sorts.",
+												"However, the main event is a game called blotcher, where participants are divided into teams, and each person is given a shepherd sling and a bag of overripe produce to hurl at the other team. A variant of the game lets folks use pot lids as shields. Participants must wear a traditional tunic of undyed wool so that when a person is hit with a flying fruit or vegetable, it’ll leave a clear blotch. The game is played over a series of rounds, each one featuring a different projectile. By the end of the match, the participants are covered in multicolored stains, which they are encouraged to wear proudly.",
+												{
+													"type": "inset",
+													"name": "A Feel-Good Village",
+													"entries": [
+														"Okiri is a feel good village—a location where nothing catastrophic happens. No matter what’s going on in the world, the people of the village seem to be unconcerned and unaware. Possibly to their detriment. Communicating its charm, and fostering connections between the adventurers and the villagers can really help Okiri become a beloved location, and a place they look forward to returning to throughout your Obojima campaign."
+													]
+												}
+											],
+											"name": "Festival Games"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Okiri describes the village and the stretch of farms and grazing lands that reach from the village to the edge of the Gale Fields. The folk living in farmsteads are considered villagers every bit as much as those with homes in the village proper.",
+												"Tradition guides day-to-day life for most villagers. All trades and associated responsibilities are handed down through generations.",
+												"The people of Okiri have a strong sense of community, and they prefer a light touch when it comes to governance. Most of the time, villagers handle their issues among themselves, and only in major disputes between neighbors, or in matters of the village’s defense will they call together representatives of the farmers, shepherds, fishers, and crafters to gather at the hall known as High Hearth, to decide on such matters."
+											],
+											"name": "Life in Okiri"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Broad Naldo (male human).} Naldo is built like an ox, with a large, muscled frame and thick arms. If not for his boyish, friendly face and easy smile, folk might flinch at the sight of him. He is always eager to help, and he can usually be found on one of the farms lending a hand, or delivering heavy things to folks in the village. Naldo is a bit of a chatterbox, and can be easily distracted, which is why he employs his hound companion, Block, to keep him on track.",
+												"{@b Miss Lindley (female human).} When equipment fails in Okiri, villagers look to Miss Lindley to repair them but not without a bit of trepidation. Miss Lindley is usually not one to entertain guests, and expects visitors and customers to be direct with their requests. If asked to make a repair, she’ll often demand that she be brought some seemingly absurd component in order to complete the task. One time, a customer presented her with a busted plow, and Miss Lindley told her to return with a bucket of shards of blue glass and a turnip—“and the glass had better be blue!” But folk stopped questioning their odd duck neighbor because objects that have passed through her care are often better than new.",
+												"What the people of Okiri don’t know is that their peculiar repair specialist is a witch and was once one of the most powerful and politically influential witches in the Fish Head Coven as a member of the Council of Three and Thirty. She retired years ago, and she now uses her transmutation magic to conduct her trade.",
+												"{@b The Torrelli Brothers (male humans).} Thim and Torrio Torrelli are the most adventurous shepherds in the area, taking their sheep dragons to graze lands far from the village. Their wanderings make them a great source of information about the outside world, though they often lace their tales with humorous anecdotes. Both brothers love to collect and share jokes, and they spend much of their time cracking each other up while their flock grazes. The pair are also formidable slingers, and tend to do quite well in blotcher matches.",
+												"{@b Morna (female Nakudama).} If you’re new in the village, there’s a good chance you’re being watched. Morna, a Nakudama child, loves shirking her work to spy on strangers who she claims, “are too damn interesting!” She’s not shy. She simply likes to observe newcomers, and she can appear in random hiding places all over Okiri. If she’s discovered, she’ll happily engage in conversation, though. Morna is fearless, and she is drawn to dangerous places, as they hold the greatest potential for fun. She has a small knife that she found, and she likes to play with it, pleased that it seems to make adults uncomfortable. Morna might just be the best informed person in the whole village.",
+												"{@b Wenneth (female human).} Okiri is not known for its warriors, but that doesn’t mean there aren’t any here. Wenneth, a middle-aged farmer living with her family on the village outskirts is a sanctioned sword champion representing the island’s sword schools. Those aspiring to join one of the schools can challenge Wenneth to a friendly duel. She is ruthless with a blade but encouraging to her opponents.",
+												{
+													"type": "inset",
+													"name": "Courier Outpost",
+													"entries": [
+														"For folks traveling east, Okiri Village is the last settlement before entering the Gale Fields. As such, the Courier Brigade maintains an outpost here. It has a stable that is always stocked with one or two fresh mounts for courier brigadiers passing through."
+													]
+												}
+											],
+											"name": "NPCs"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b The Commons.} At the center of Okiri village is the commons, a low mound covered in grass and topped by three pillars of stone, each one a different height. The grass here is usually left overgrown until the “grazing of the commons” when the sheep dragons are permitted to eat the grass. This tradition prepares the site for blotcher to be played here.",
+												"{@b The High Hall.} This tall timber hall is built on a rise on the bank of the creek. It’s not always in use, but it serves multiple functions in Okiri. First, the High Hall is where village meetings are held. In winter, it’s transformed into a more traditional feasting hall. Finally, it’s likely the sturdiest structure in the village, so it’s where folks gather if the village is ever under attack. The cellar even has a small cache of weapons that can be distributed to a makeshift militia if necessary.",
+												"{@b Outdoor Hearths.} Okiri villagers have a tradition of eating outdoors whenever possible to encourage gatherings. Beside the commons is a cluster of cooking sites, each one with its own hearth set into the floor of a gazebo. A derelict food truck and relic from the First Age stands at the center of the gathered gazebos like a monument to outdoor dining.",
+												"{@b Bree's Mercantile.} This simple merchant shop is the only one in Okiri. It has a decent variety of general goods, but it specializes in selling potion ingredients. The shop’s proprietor is Bree, a small, roundish spirit with prickly skin that resembles the outside of a Pyramid Melon. She is happy to take customers’ money but prefers a good trade.",
+												"{@b Sheep Dragon Grazing Grounds.} Beyond the orchards and tilled farmland is a large span of low hills that shepherds use to graze their sheep dragons. The land is dotted with rusted out husks of vehicles from the First Age. It’s generally a quiet place, well away from the village proper, but even still it has its unique dangers. Hill dragons have been known to ambush travelers, and on rare occasions, field giants range into this territory, causing panic as they go."
+											],
+											"name": "Points of Interest"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Party Crashers.} The celebratory air of one of the village’s vegetable festivals attracts a rowdy band of yokarios whose antics threaten to disrupt all the fun.",
+												"{@b The Flying Bicycle.} A young boy in town got a hold of a levitation potion and poured it on the spokes of his bike and climbed on, hoping to join a school of flying jellyfish passing overhead. His bike carried him skyward, but it doesn’t look like it’s coming down any time soon. Terrified, the boy’s parents implore the adventurers to get their son back safely.",
+												"{@b Missing Shepherds.} At dawn, a lone sheep dragon is spotted in the center of town. It’s recognized as one the Torrelli brothers’ flock. No one can find the two shepherds, however. The grazing grounds might point to what happened.",
+												"{@b Settle it on the Field.} On the eve of a festival, braggarts from a neighboring village stir up trouble by picking fights with the locals, and then with the adventurers. If things escalate, the locals intervene, and challenge both groups to settle the issue on the blotcher field.",
+												"{@b Deputy Couriers.} When an injured courier brigadier enters the town wounded and exhausted, she deputizes the adventurers and charges them with completing the delivery of an important parcel bound for the Graysteps on Mount Arbora."
+											],
+											"name": "Adventure Hooks"
+										}
+									],
+									"name": "Okiri Village"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"In a remote part of the Gift of Shuritashi, an ancient Nakudama ziggurat stands, mostly submerged, in the deep waters of Lake Ellior, one of Obojima’s great lakes. The ziggurat is called Shoom, and though time and neglect have taken their toll, the structure remains mostly intact.",
+										"The ruins of a settlement on the lake’s southern shore hint at the site’s bygone importance. At the height of the Nakudama monarchy period, Shoom was part of a sprawling complex where Nakudama families came to hatch their young and stay for a time to raise them in their earliest days of life. The ziggurat was where the eggs were brought, and the waters were carefully monitored and maintained by a host of midwives and attendants who kept the conditions here ideal. It was the largest such site on the island, and even took on a semi-sacred status by the time it had been largely abandoned centuries ago.",
+										"Shoom is seldom visited today by Nakudama, let alone other travelers. The fact that the site was so thoroughly forgotten might indicate that the cultural amnesia surrounding it was deliberate.",
+										{
+											"type": "inset",
+											"name": "Tone/Vibe",
+											"entries": [
+												"Mysterious, ancient, hopeful, ominous"
+											]
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"As the largest lake on the island, Ellior was once the cradle of nakumada civilization, and pockets of ruins can be found all along the lakeshore. The lake is deepest at its northern end, and that’s where the ziggurat stands."
+											],
+											"name": "Lake Ellior"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"There are no widespread stories about Shoom, and the ones that do exist don’t shed much light on the place. The only tidbit worth hearing that has been attributed to Shoom is that people ceased visiting all at once when the water became home to a dangerous beast.",
+												{
+													"type": "inset",
+													"name": "Sunken Dungeon",
+													"entries": [
+														"Shoom is a great place to have adventurers explore part of Obojima’s history as well as ancient Nakudama culture. If it fits your campaign, you could present Shoom as a sunken dungeon with each of the stacked tiers offering their own challenges to overcome."
+													]
+												}
+											],
+											"name": "Rumors and Legends"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"At its height, Shoom was a thriving hatchery with scores of families visiting at any given time to hatch their young. Seemingly all at once, the place was abandoned and promptly forgotten. Here’s why:",
+												"After being central to Nakudama culture, Shoom was deserted and left to languish in its lake soon after the enigmatic figure known as Vararo the Parasite showed up. The charismatic Voraro, a Nakudama known for his oracular powers, claimed he knew the destinies of all living creatures. Parents intent on knowing the fortunes of their children brought Voraro to Shoom. Once inside the ziggurat, the truth of Voraro’s powers became known. He was a warlock who served a greedy and gluttonous spirit. Voraro used his magic to enthrall many midwives and offered the Nakudama eggs as tribute to his spirit patron. Unable to drive Voraro and the spirit out, it was decided to seal them in the ziggurat and abandon Shoom."
+											],
+											"name": "Why Shoom was Abandoned"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Left derelict for centuries, Shoom was recently rediscovered by an expedition of eight Nakudama midwives who’d been seeking the site for some time. The earthquake and the tsunami that followed spurred them to look for answers in the history of their people. Upon entering the ziggurat, they took to restoring it with the hope of rededicating the place as a Nakudama hatchery. The work has been slow going, and their leader, Beatri, has gone missing.",
+												"The ziggurat is operational again, and despite the possible dangers, word has spread. For the first time in many centuries, families are making the trek."
+											],
+											"name": "Shoom Today"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Voraro the Parasite’s power is once again stirring after a long hibernation. He is biding his time, for he believes his patience will be rewarded with ever more Nakudama returning to the site to be enthralled and consumed by his spirit patron. He now aims to lure more Nakudama back here to enthrall or feast upon."
+											],
+											"name": "The Lingering Power of Voraro"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												{
+													"type": "entries",
+													"entries": [
+														"The ziggurat of Shoom is made up of six rectangular tiers. Each tier is 15 feet tall. The bottom tier is 100 feet wide and 80 feet long, and each tier above is smaller than the one below until the top tier, which is 25 feet wide and 20 feet long.",
+														"The top two tiers are the only ones above the waterline."
+													],
+													"name": "Tiers"
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"There are two ways to get into the ziggurat. The main entrance is in through the rounded entryways set into the eastern and western walls of the ziggurats top tier.",
+														"The second entrance in the bottom tier of the ziggurat. This secret passage is through the flood mechanism and can easily be exploited by smaller creatures."
+													],
+													"name": "Entrances"
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"The ziggurat was built with an ingenious mechanism that controls the water level within it. Two levers control it, and they must both be toggled the same direction to either let water in or draw it out. One lever is in the second tier from the top. The other is in the Chamber of Future Monarchs."
+													],
+													"name": "Flood Mechanism"
+												}
+											],
+											"name": "Ziggurat Features"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"{@b Reception Area.} The top tier of the ziggurat was originally designed to be a comfortable waiting room for families arriving to give birth at the hatchery. The inner wall still bears the faded and flaking remnant of a fresco featuring a Nakudama monarch with arms outstretched in a gesture of welcome. The midwives now use this chamber as their quarters and it’s where the bulk of their restoration efforts are currently taking place. At any given time there are likely three to seven midwives here."
+											],
+											"name": "Points of Interest"
+										}
+									],
+									"name": "Temple of Shoom"
+								}
+							],
+							"name": "The Gift of Shuritashi"
+						}
+					]
+				}
+			]
+		}
+	],
+	"race": [],
+	"subrace": [],
+	"subclass": [],
+	"subclassFeature": [],
+	"background": [],
+	"spell": [],
+	"baseitem": [],
+	"optionalfeature": [],
+	"item": [],
+	"monster": []
+}
