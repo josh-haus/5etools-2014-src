@@ -11684,15 +11684,522 @@
 														"The stainless steel ice cream machines are still here although they no longer work and are covered in Knobble Leaf Seaweed. Inside the cash register are a handful of Seashells."
 													],
 													"name": "4. Jolly Cone"
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"In this large warehouse, there are 8 fish folk pirates who are on alert, guarding the kite-plane while Bloodfin figures out her plan of either presenting her prize to the Lionfish King or taking it to Venomous Rex to spite her former king.",
+														"Bloodfin has a 25% chance of being here when the characters investigate.",
+														"Up to 10 Fish Folk Teeth can be found here after a 10-minute search."
+													],
+													"name": "5. Fish Folk Hideout"
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"Moxy's is an ancient First Age music store. Rows of racks that once held vinyl albums, cassettes, and CDs line the store. Hidden behind the counter is a Vinyl Record.",
+														{
+															"type": "entries",
+															"entries": [
+																"Swimming inside the music store is a giant sea horse spirit (use the aquatic beast spirit stat block) named Morris, the cowardly thief of the kite-plane. Morris is terrified of Slurpgill and is doing his best to get through a dangerous partnership with her, which is why he felt compelled to steal the kite-plane when asked by Bloodfin—her new favorite pet.",
+																"Although he is scared of Bloodfin, he is even more terrified of Slurpgill, which is why he will remind Bloodfin at times, \"That's not what Slurpgill would want\" if he senses that she might not bend to the sea hag's will.",
+																"Because of his fears, he won't hesitate to lie to or tattle on the party to Bloodfin to survive."
+															],
+															"name": "Morris"
+														}
+													],
+													"name": "6. Moxy's Music Grotto"
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"This was a First Age cafe. There's a few tables for customers, a counter where the food was ordered and a small kitchen with all the utensils, cookware, chef's tools, and cafe items.",
+														"A series of thumping sounds can be heard coming from inside the oven. The window to see the inside of the oven is obscured by a layer of soot. If anyone opens the oven door, a blowbelly pufferfish (see stat block below) bursts out in a jump scare moment."
+													],
+													"name": "7. Kat's Island Kitchen"
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"This is a First Age garage with all the tools still intact. There are wrenches, a mechanical car jack, oil cans, grease guns, and gauges. There's an old kei truck and 2 mopeds here.",
+														{
+															"type": "entries",
+															"entries": [
+																"This is a First Age tool shed that still has a wide assortment of spanners and ratchets, but it is now a lair for 4 {@creature giant crab|mm}s."
+															],
+															"name": "8a. Toolshed"
+														}
+													],
+													"name": "8. Jerry's Garage"
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"Bloodfin's Lair is actually an old Goodie Mart—a First Age chain of markets. This Goodie Mart is now the private lair of Bloodfin the Foul (use the {@creature merrow|mm} stat block) who has removed all of the usual things that one would find in a mini market and has decorated it in what can only be described as \"gothic deepsea chic\".",
+														"Among the decorative ribbons of Tangle Weed, skeletons of sea creatures, garlands of Oporion Glass, Seashells and sea urchins, Bloodfin has a giant clam that has a 500gp pearl inside of it. The clam can be opened with a successful DC 16 Strength (Athletics) check. Also in the giant clam is a large cluster of giant octopus eggs that belong to the giant octopus, Lucinda (see area 10a. \"Giant Octopus Den\" below)."
+													],
+													"name": "9. Bloodfin's Lair"
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"Borisss is a sea snake spirit (use the {@creature giant constrictor snake|mm} stat block but with an INT of 10) who is fiercely loyal to Bloodfin. He is currently coiled up around his favorite teddy bear that he found when Bloodfin's gang first came to the sunken town.",
+														"There is nothing of value here.",
+														{
+															"type": "entries",
+															"entries": [
+																"In this little shack is a sad Awakened Giant Octopus (use the {@creature giant octopus|mm} stat block but with an INT of 10) named Lucinda. Lucinda is a gentle creature, but Bloodfin is holding her eggs hostage and is forcing Lucinda to be her junkyard dog. Lucinda doesn't know her own strength, but she fears both Bloodfin and Slurpgill and can't figure out a way to get her eggs back."
+															],
+															"name": "10a. Giant Octopus Den"
+														}
+													],
+													"name": "10. Borisss' Lair"
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"This building contains rows of storage lockers, many of which are open but there are a few that are still locked (DC 20 Dexterity check to unlock).",
+														"Inside one of the storage lockers is an indestructible suitcase covered in coral. To open the suitcase requires a successful DC 25 Dexterity check to open the magic lock. If it is opened, inside is a Neko Ronin figurine in its original packaging. The interior of the suitcase has been magically kept dry, but if opened underwater, the enchantment is broken and the pristine contents are soaked."
+													],
+													"name": "11. Train Station Storage Lockers"
 												}
 											],
 											"name": "Exploring the Sunken Town"
 										}
 									],
 									"name": "Crash of the Kite-Plane"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"At any time during the exploration, you can choose to use monsters to create tension, chaos, or an uneasy alliance, especially if you want your adventure to be more of a roleplaying experience than a combat experience.",
+										{
+											"type": "list",
+											"style": "list",
+											"items": [
+												"The blowbelly pufferfish (see below) can act like a ticking time bomb or a laser motion sensor that can go off if a character makes one wrong move, causing all kinds of interesting situations. It can also be used against enemies if used carefully.",
+												"A school of frenzied {@creature giant shark|mm}s can also be used as a surprise threat.",
+												"Seaweed elementals can be introduced as a deadly and common enemy to create an alliance between the party and Bloodfin's gang."
+											]
+										}
+									],
+									"name": "Using Monsters to Avert Mayhem"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"No matter which direction they approach from or how many buildings they explore, the adventurers will eventually need to face the fish folk guarding the kite-plane. This conflict can be solved through clever roleplay and bargaining or combat.",
+										"As the party deals with the fish folk in the sunken town, keep the following in mind:",
+										{
+											"type": "list",
+											"style": "list",
+											"items": [
+												"If an adventurer rolls a natural 20 in combat against a fish folk, they knock out a fish folk tooth—an item which can be used to make potions.",
+												"Fish folk are always on the lookout for a Nakudama princess of royal bearing who the Lionfish King is so eager to marry. (For more details, read \"Domain of the Lionfish King - Royal Aspirations\" in the Locations section).",
+												"If one fish folk is alerted, an alarm is sounded (banging a tin can), and the other pirates in the gang come running.",
+												"Fish folk will flee when there are 3 or less of them left.",
+												"Bloodfin the Foul may barter for the glider. Keep in mind her objective which is to either rejoin the Lionfish King or betray her former king and join with his archrival, Venomous Rex, which will please her evil mentor, Slurpgill. Bloodfin will start with unreasonable demands for the kite-plane. Here are a few ideas:"
+											]
+										},
+										{
+											"type": "list",
+											"style": "list",
+											"items": [
+												"Wanting Holly Clintock as a captive in exchange for the kite-plane.",
+												"Destroy the new Pointue and bring back a trophy for proof of its destruction.",
+												"Destroy the Mariners' Guild Northern headquarters."
+											]
+										}
+									],
+									"name": "Pirates"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"If a fight breaks out between the adventures and the fish folk and you wish to give the adventures another opportunity to make amends through conversation. We recommend introducing two seaweed elementals at the beginning of the second round of combat with Bloodfin and the fish folk. Bloodfin and her gang may be villains, but they're not dummies, and when faced with the threat of the elementals, they can be reasoned with and perhaps even become allies, if just for a moment."
+									],
+									"name": "Common Enemy"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Slurpgill is a sea hag who is attempting to start her own coven. For that, she needs two other hags and Slurpgill believes that Bloodfin will make a fine hag with the proper training; her anger and exiled status are perfect tools for manipulation and drawing her deeper into the hag's evil clutches.",
+										"All the water spirits tremble when they hear Slurpgill's name, and her reputation even extends to the witch covens on land. While Slurpgill doesn't make a physical appearance in this adventure, the threat of her power and influence is felt by all the NPCs that the party interact with in the sunken town. Slurpgill, like Venomous Rex, is designed to be an underwater nemesis who can plague the party throughout their adventures on Obojima. Where Slurpgill's lair is, is up to you.",
+										"The more you play up the NPCs fear of Slurpgill and have them tell stories of her wickedness, the more effective and fun she becomes as a villain in your story. A great villain makes great heroes."
+									],
+									"name": "Slurpgill"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Once the adventures have finally obtained the kite-plane, they'll have to get creative to remove the craft from the seafloor. We recommend rewarding creativity here, but if necessary, Tokko can give a gentle nudge to use any remaining goatskin balloons to help surface the sunken kite-plane. If needed, he may even have one or two on the ship he can offer to the party.",
+										"Once Tokko returns, he fesses up to Gramps and explains what has happened. Rather than being angry, Gramps is incredibly grateful that Tokko is safe and will turn to embrace the party. Gramps, in Tokko's absence, has been worried sick about the grandson. When he saw the kite-plane missing and Tokko along with it, he feared the worst. So with their return, a huge relief washes over him and he begins to shed tears of joy.",
+										"With the kite-plane returned, along with Tokko, the adventurers have made friends for life and if you choose, the story can continue. Tokko and Gramps have a lot of work ahead of them if they still plan to finish the kite-plane and enter it into the Rock Raley aviation contest. This will assuredly lead to numerous adventures and side quests."
+									],
+									"name": "Wrapping it All Up"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Here is a unique Magic Item that can be found in this adventure.",
+										{
+											"type": "entries",
+											"entries": [
+												"{@i Very Rare, Wondrous}",
+												"This magic suitcase is indestructible and fully sealed from the outside world. When closed, it magically locks itself, setting its DC equal to 1d20+5."
+											],
+											"name": "Sunken Suitcase"
+										}
+									],
+									"name": "Magic Items"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Here is a unique monster that can be found in the Shallows.",
+										{
+											"type": "entries",
+											"entries": [
+												"Blowbelly pufferfish are generally docile creatures but are easily startled. If they feel threatened, they inflate instantly to an enormous size. Anyone touching their prickly skin can get injected with doses of toxins. When a blowbelly pufferfish dies, they burst, sending a spray of poisonous spines in all directions.",
+												"Blowbelly pufferfish are often found bobbing along coral reefs and on the sandy bottom of the sea.",
+												{
+													"type": "statblock",
+													"tag": "creature",
+													"name": "Blowbelly Pufferfish",
+													"source": "OBOJIMA"
+												}
+											],
+											"name": "Blowbelly Pufferfish"
+										}
+									],
+									"name": "Monsters"
 								}
 							],
 							"name": "Adventure: Below the Shallows"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								{
+									"type": "entries",
+									"entries": [
+										"\"Lost Within The Crawling Canopy\" is intended for 2 to 4 5th-level characters.",
+										"The adventurers have saved Miga, a dara novelist, and Goose, her beloved dog companion from a dangerous howler attack, only to be surrounded and engulfed by the Crawling Canopy—a moving forest that roams the Gale Fields. While in the forest, the party encounters a fearsome monstrosity—a crow-like abomination that captures their newfound friend and melts into the forest. They must now save Miga from this unfortunate series of events and return her beloved Goose to her."
+									]
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"While wandering in the Gale Fields, the adventurers hear sounds of distress amid the cackling of howlers. If they investigate, they see a lone dara named Miga (female dara, {@creature commoner|mm}) who is fending off 5 howler yippers.",
+										"On closer inspection, the adventurers can see that one of the howlers is holding a small dog, which is yapping and writhing in the hands of the cackling creature. This is Miga's beloved pup, Goose, which the howlers have taken from poor Miga and who she is desperately trying to get back from them.",
+										"When the adventurers arrive, the howlers stay for no longer than one round, after which they attempt to flee with Goose in hand. Miga will run after them and ask for assistance getting her dog back.",
+										{
+											"type": "entries",
+											"entries": [
+												"After the encounter, Miga will rejoice as she reconnects with Goose. She will thank the adventurers and return to where the fight took place to pick up her scattered papers and books. Miga tells the party that she is wandering Obojima looking for glyphs from other dara and writing a novel about her adventures.",
+												"It's at this point that she exclaims how exciting this chapter will be in her book and how she desperately needs to know more about the beloved heroes who came to her and Goose's aid. She'll then ask that the party join her for a meal and share a camp with her for just one night, after which she will leave them to continue their journey without her.",
+												"Miga's personality is quite bubbly and excited. She's quite young for a dara at the age of 17 and is overly interested in learning about life outside of Roa Kala."
+											],
+											"name": "After the Conflict"
+										}
+									],
+									"name": "Adventure Begins!"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"During camp, like the ocean crashing around a stone, the Crawling Canopy surrounds the party after they've been lulled to sleep by the sweet scent of spinning Windbloom.",
+										"If someone is on watch, they hear the forest coming in the darkness, the rustling of leaves and branches, the groaning of wood, and the shaking of the earth, all growing in intensity as the forest encroaches and encircles the party.",
+										"If they try to make a run for freedom, it makes no difference. No matter what direction the party sets off in, they encounter a wall of trees. The forest is miles wide.",
+										{
+											"type": "entries",
+											"entries": [
+												"Miga has heard rumors about the Crawling Canopy. How much she knows is up to you, but at a minimum, she tells the party that the Crawling Canopy shifts and changes, and the unlucky are trapped in it for a lifetime."
+											],
+											"name": "What Miga Knows"
+										}
+									],
+									"name": "Engulfed by the Crawling Canopy"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Whether the adventurers woke up in the forest or were overtaken by its crawling trees read the following:",
+										{
+											"type": "inset",
+											"name": "Read Aloud",
+											"entries": [
+												"The trunks and treetops of the forest that now surrounds you gently sway in all directions—their bulbous roots curling above ground like a corkscrew drilling into the soil. Pillars of light pierce through the canopy above, before suddenly disappearing as the ground begins to rumble and shake. In the distance, you watch as a copse of trees uproot themselves, shifting and trading places, before planting their roots once more."
+											]
+										},
+										"While inside the Crawling Canopy, the forest is constantly moving and changing. (To learn more about this magical location see the Gale Fields section of the Locations chapter.)",
+										{
+											"type": "entries",
+											"entries": [
+												"At this level, it would be quite uncommon for the party to have the ability to give all characters flight to escape. If one or more characters try to fly away, you can describe that the forest stretches for miles in each direction, making it an arduous task to attempt to lead the party out of the forest, especially as it's constantly shifting and changing."
+											],
+											"name": "Flying Characters"
+										}
+									],
+									"name": "Inside The Canopy"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Now that the adventurers are thoroughly stuck, you can choose to extend the story by having the party encounter a number of mysteries, characters, and odd magics. These encounters can grow the adventurers' understanding of the forest, plant seeds for future adventures, or give breathing space until the next plot point.",
+										"Use any of the NPCs or Notable Locations in the Crawling Canopy section of this book. You can also use any of the following:",
+										{
+											"type": "entries",
+											"entries": [
+												"The adventurers discover a caravan of three wagons, overgrown with roots and vines; their once bright colors now faded. The wagons are intact, though their wooden wheels are fused with the forest floor by roots.",
+												"With an Intelligence (Investigation) check DC 14, the adventurers will find Lover's Vine, Peeping Willow, and Essence of Glumbug stashed away inside the wagons.",
+												"Among some rotting ledgers and inventory lists, there is a journal that tells the tale of a group of merchants who entered the Crawling Canopy lured by tales of rare herbs, only to become hopelessly lost as the forest shifted around them. The journal ends abruptly."
+											],
+											"name": "Overgrown Caravan"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"These curious forest creatures follow the party from high in the canopy and eat any fruit, bread crumbs, or nuts left behind."
+											],
+											"name": "Flying Squirrels"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Every so often, the forest pauses, and a cool breeze blows through the trees which all sway in unison as if breathing one great breath."
+											],
+											"name": "Breath of the Forest"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Every now and then, the party may hear distorted echoes of their own voices. It could be a conversation that they had or a version of it. They could also hear premonitions, their voices bordering on panic at being lost forever or their voices could carry a warning of a monster that is hunting them."
+											],
+											"name": "Echo of the Canopy"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Anytime you feel your players need an encounter or a combat as they are exploring the forest, feel free to choose one of these monsters.",
+												{
+													"type": "table",
+													"caption": "Wandering Monsters",
+													"colLabels": [
+														"d20",
+														"Monster"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1",
+															"Stul"
+														],
+														[
+															"2-4",
+															"Watchwood Tree (can be more than 1)"
+														],
+														[
+															"5-8",
+															"1d6+2 Mosslings"
+														],
+														[
+															"9-14",
+															"Lion's Blume (can be more than 1)"
+														],
+														[
+															"15-16",
+															"Kafuka"
+														],
+														[
+															"17-19",
+															"1d4+2 Howlers"
+														],
+														[
+															"20",
+															"Yellow Slime"
+														]
+													]
+												}
+											],
+											"name": "Wandering Monsters"
+										}
+									],
+									"name": "Other Adventures in the Crawling Canopy"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"When you are ready, the adventurers encounter Senmo, an old and delusional crowlike creature who's called the crawling canopy its home for over 70 years.",
+										"Read the following:",
+										{
+											"type": "inset",
+											"name": "Read Aloud",
+											"entries": [
+												"You walk in an area darkened by thick clusters of trees when you catch wind of a sickening stench wafting on the breeze. The same zephyr sends a chill up your body, as the ambient sounds of the forest animals suddenly grow louder and louder—the croaking of frogs and buzzing of insects now burning your ears with their intensity.",
+												"Then, as if switched off like some ancient machine, the air goes silent, and from the distance, you hear a hollow clacking that echoes across the forest floor.",
+												"A rasping voice then hisses, \"I smell you, Dara.\""
+											]
+										},
+										"Senmo was made from Malgrotha's torn flesh and is a distorted copy or \"child\" of the imprisoned creature. (See more on Malgrotha and the origin of the Crawling Canopy in the Mysteries, History, and More chapter.)",
+										"Since Senmo's creation, it's been wandering the forest searching for the dara that imprisoned Malgrotha all those years ago. It too is bound to the confines and the Crawling Canopy, and after 70 years of searching for dara, has begun to lose its mind.",
+										"Even in its confused and altered state, it still recognizes its goal. So when it saw Miga it was quick to act. Its tactic is to rush in, grab Miga, and run off into the forest and back to its lair, allowing the constantly shifting forest to cover its tracks behind it.",
+										"If one of the party members is a dara, Senmo might hiss in a panic, unsure which dara to grab, before eventually deciding to take Miga. While acting out its actions, it might shout \"Which one!?! Which one!?! Which ONE!?!\"",
+										"In this encounter, Senmo wants to capture its prey and flee. The moment it has successfully grappled Miga, it will dash away as quickly as it can, using its abilities to slow and distract the party when necessary.",
+										{
+											"type": "entries",
+											"entries": [
+												"To make Senmo feel even more cunning, you could have it attack the party during an encounter from the Wandering Monster Table above."
+											],
+											"name": "Attack of Opportunity"
+										}
+									],
+									"name": "Senmo the Corvid"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"If the adventurers decide to give chase, they'll be thrust into a paced sprint where they'll need to navigate the changing environment while keeping track of the beast they're hunting. As you describe the shifting trees and adventurer's efforts to find Miga and Senmo, have each player roll two skill checks (one Survival and one Acrobatics). If the sum of a player's two skill checks is less than 25, their character suddenly falls behind and is left out of the chase.",
+										"Each player must make this dual skill check 3 times before Senmo eventually escapes with Miga. If any of the players are able to succeed in all 3 of these skill checks, they are rewarded with a trinket that will aid them in their search for Miga. While running, Senmo accidentally slams into one of the moving trees, knocking loose one of his black feathers."
+									],
+									"name": "The Search"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Whether it is directly after the abduction or during a wrong turn while chasing Senmo, the adventurers will eventually stumble on a curious sheep creature who's taking a break on a downed tree.",
+										"Mr. Sheep can be found wandering all over Obojima and the Spirit Realm and is known by many names—Lord Dengu, Ram-Ram, Omen, Din-Poko, and many more, but he is fine with being called Mr. Sheep. Some say he is an elder spirit while others say he's something far beyond that, but no one knows for sure.",
+										"Mr. Sheep is usually accompanied by a host of mice that walk on their hind legs and chatter in nonsensical language. There are always as many mice as there are lit candles in Mr. Sheep's magic lantern as the mice are people who have broken deals they have made with him.",
+										{
+											"type": "entries",
+											"entries": [
+												"Mr. Sheep has a bubbly and curious personality. When he speaks, he does so with odd phrasing and misused words. Though no matter how confusing he might be, he never seems to be confused himself, as he always seems to have the answer for everything.",
+												"When the adventurers first stumble upon him he seems quite intrigued and immediately offers the party a seat at his table, the fallen tree he's laid a small pile of crackers on. It's here, in this moment, that he'll poke and prod in his disarming way to uncover what the party desires—eventually offering to make a deal with them.",
+												"Though Mr. Sheep is known to make simple deals, especially for his favorite food—goat cheese, he's also known to ask for more cryptic items such as \"the color green\" or \"the sound of birds\". Should a character make a deal with Mr. Sheep, he, more often than not, has the magic ability to deliver on that deal, resulting in the character losing the ability to see the color green or hear birdsong for example. This deal can be permanent or temporary.",
+												"Should a character make a deal with Mr. Sheep to help find Miga, he explains that he knows how to find a sage, who in return can lead them to the Senmo's lair. What the players don't know is that the Sage is being held by the Sheep as one of his mouse followers (see \"The Mice\" below).",
+												"{@b Breaking a Deal.} Should a character attempt to break a deal, a curious thing happens. Mr. Sheep gives one warning. If Mr. Sheep is not around, this warning can come telepathically or in a dream. If the warning is not heeded, he lights one of its candles, and the character is turned into a mouse—thereafter following him on his merry journey until their debt is paid."
+											],
+											"name": "Deals with the Sheep"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Mr. Sheep never expresses any negative emotions, strolling through danger and rarely showing alarm or distress. He instead finds most things amusing and treats them as playthings. Though he is often curious and nosey, he's just as likely to lose interest in or outright ignore things he doesn't care about. Beyond his seemingly endless array of known magics, he also seems to be completely invulnerable, able to consume anything, and immune to spells that attempt to make him reveal the truth, change form, charm, or try to read his mind.",
+												"There is no stat block for the Sheep as he is not meant for combat and will simply disappear if attacked."
+											],
+											"name": "Roleplaying The Sheep"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The mice are all cursed, deal breakers who are serving out their sentences, and they are all wary of Mr. Sheep's uncanny power. Every now and then, one of the mice may try to sneak a hand gesture to get a party member's attention, but the Sheep shoots them a stern look and they go back to behaving. The Sheep doesn't reveal the true nature of the mice and if asked, says that they just follow him, but because they are mischievous, he has to keep an eye on them.",
+												"The Sage is one of these deal breakers who is now a mouse in the Sheep's entourage.",
+												{
+													"type": "inset",
+													"name": "Get Lost, Sheep!",
+													"entries": [
+														"If the party chooses to not deal with the Sheep, then after the encounter, the Sage (in his mouse form) finds the party and gestures for them to follow him (the Sage in mouse form can't speak Common but can understand it). If the party follows him to his hut, and assists in bringing him one of his old potions, he'll drink it to restore his form and will answer their questions."
+													]
+												}
+											],
+											"name": "The Mice"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The Sage was a powerful witch who lived within the Crawling Canopy. One hundred and fifty years ago, he broke a deal with the Sheep and ever since then he has been one of the mice, cursed to follow the Sheep. The Sage can't remember what the deal was that he broke, he has been a mouse for so long that many of his memories have vanished only to be replaced by a burgeoning desire for cheese and a furtive fear of predators."
+											],
+											"name": "The Sage"
+										}
+									],
+									"name": "Meeting the Sheep"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Whether Mr. Sheep takes the adventurers or they are led by the Sage in mouse form, they arrive at an old abandoned hut in the woods. The inside of the hut is covered in dust, and is now home to an array of forest critters.",
+										"Once the Sage is inside, either the Sheep releases him and then vanishes or the Sage asks the party through charades to fetch a dusty potion from a locked cabinet (DC 14), after which he drinks it and is restored to his human form.",
+										"Grateful for being saved, the Sage agrees to help the party by giving them an ornate box with a golden beetle inside. Once released from its box, the golden beetle will fly away leaving a trail of glowing light—a path of the shortest distance to the edge of the Crawling Canopy. The golden trail vanishes in 1 minute, so the Sage warns to only release the beetle when they are ready to leave.",
+										"The Sage also gives them a bottle with a piglet spirit inside of it. This piglet spirit can sniff out the Senmo and lead the party to its lair and their friend, Miga."
+									],
+									"name": "The Sage's Hut"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"As the party nears the lair of Senmo, read the following:",
+										{
+											"type": "inset",
+											"name": "Read Aloud",
+											"entries": [
+												"Again, a sickening stench assaults the senses as you near the monster's lair. The trees get thicker and more twisted until they are no longer trees but a slick, snarl of thick roots, trunks, and interwoven vines that create a massive, squirming nest. Locked within knotted roots are the carcasses of rusted and crushed cars, mashed and bent from the pressure of the squirming trees.",
+												"You can hear an unearthly muttering coming from within the tangled structure. \"You will free us or you will die, dara.\""
+											]
+										},
+										"If one of the adventurers was able to procure one of Senmo's feathers, then the party is able to sneak up on Senmo without it noticing.",
+										"In the crushed bed of an old truck is Miga, she looks up in distress and Senmo paces beside the vehicle berating her, hoping to obtain some information on the magic that binds it to the forest.",
+										"Its attention is on Miga unless it senses any invaders in its domain. If it does, it attacks.",
+										{
+											"type": "entries",
+											"entries": [
+												"Although it's likely to end in some conflict, Senmo can be reasoned with. It has begun to lose some of its better judgment, and so a clever or conniving character might be able to outwit the creature or convince it to let Miga go."
+											],
+											"name": "Non Combat Option"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"With skill, bravery, and a bit of luck, the Senmo is defeated or outsmarted and Miga is saved. If Senmo is dispatched the party can then search its lair for loot.",
+												"In the tangle, they find:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"1 Black Pearl (Ingredient)",
+														"1 Potion of Stink Brew",
+														"6 Spark Plugs (Ingredient)",
+														"1 Sunbaked Cassette (Magic Item)",
+														"1 Potion of Freezing"
+													]
+												},
+												"Once all the loot is divided up, then the party can release the golden bug and follow it out of the Crawling Canopy."
+											],
+											"name": "After The Encounter"
+										}
+									],
+									"name": "Showdown!"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Here is what can be found in the Crawling Canopy:",
+										{
+											"type": "entries",
+											"entries": [
+												"Every now and then, Malgrotha tears at its own body in mindless rage, rending off a piece of its own flesh. This flesh then wriggles and grows, sprouting limbs and talons of its own as it struggles to its feet and lurches off into the forest to hunt. These are the Children of Malgrotha, and they tirelessly search the forest for their mother. They believe that every dara is the First Dara—the being that imprisoned their mother in the Crawling Canopy and who has the key to releasing them from this moving prison.",
+												{
+													"type": "statblock",
+													"tag": "creature",
+													"name": "Senmo",
+													"source": "OBOJIMA"
+												}
+											],
+											"name": "Senmo (The Child of Malgrotha)"
+										}
+									],
+									"name": "Monsters"
+								}
+							],
+							"name": "Adventure: Lost Within the Crawling Canopy"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"{@i Thank you. We'll see you all in the next adventure.}"
+							]
 						}
 					]
 				}
@@ -15994,6 +16501,16 @@
 			],
 			"source": "OBOJIMA",
 			"page": 166
+		},
+		{
+			"name": "Sunken Suitcase",
+			"source": "OBOJIMA",
+			"page": 358,
+			"rarity": "very rare",
+			"wondrous": true,
+			"entries": [
+				"This magic suitcase is indestructible and fully sealed from the outside world. When closed, it magically locks itself, setting its DC equal to 1d20+5."
+			]
 		}
 	],
 	"monster": [
@@ -22177,6 +22694,185 @@
 					"name": "Pollen Burst (Recharge 5-6).",
 					"entries": [
 						"The Venus Fly Rat releases a burst of pollen in a 15-foot cone. Each creature in that area must succeed on a DC 11 Wisdom saving throw or be affected by the {@spell Confusion} spell for 1 minute. An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+					]
+				}
+			]
+		},
+		{
+			"name": "Blowbelly Pufferfish",
+			"source": "OBOJIMA",
+			"page": 358,
+			"size": [
+				"S"
+			],
+			"type": {
+				"type": "beast"
+			},
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				12,
+				"natural armor"
+			],
+			"hp": {
+				"average": 55,
+				"formula": "10d6 + 20"
+			},
+			"speed": {
+				"walk": 5,
+				"swim": 30
+			},
+			"str": 14,
+			"dex": 10,
+			"con": 14,
+			"int": 2,
+			"wis": 12,
+			"cha": 5,
+			"cr": "2",
+			"save": {
+				"con": "+4"
+			},
+			"skill": {
+				"perception": "+5",
+				"stealth": "+5"
+			},
+			"senses": [
+				"darkvision 60 ft.",
+				"passive Perception 13"
+			],
+			"languages": [
+				"-"
+			],
+			"trait": [
+				{
+					"name": "Death Burst.",
+					"entries": [
+						"When the blowbelly pufferfish dies, it bursts. Each creature within 15 feet of it must make a DC 12 Dexterity saving throw, taking 9 (2d8) piercing damage on a failed save, or half as much damage on a successful one."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The blowbelly pufferfish makes two Chomp attacks."
+					]
+				},
+				{
+					"name": "Chomp.",
+					"entries": [
+						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}8 (1d10 + 3) piercing damage."
+					]
+				},
+				{
+					"name": "Puff Up (Recharge 5-6).",
+					"entries": [
+						"The blowbelly pufferfish inflates its size, becoming Huge and filling its space. Each creature in its space is pushed to an unoccupied space outside the area and must make a DC 13 Constitution saving throw. On a failed save, a creature takes 9 (2d8) poison damage and is poisoned for 1 minute as the barbs of the pufferfish poke and prod them. On a successful save, the target takes half as much damage and isn't poisoned. If the creature is pushed into a wall or similar solid surface, it takes an extra 4 (1d8) bludgeoning damage and is grappled (escape DC 13); until this grapple ends, the creature is also restrained.",
+						"The blowbelly pufferfish stays puffed up until the start of its next turn, after which it returns to its normal size. While puffed up, it gains a +2 bonus to its AC."
+					]
+				}
+			]
+		},
+		{
+			"name": "Senmo",
+			"source": "OBOJIMA",
+			"page": 364,
+			"size": [
+				"L"
+			],
+			"type": {
+				"type": "monstrosity"
+			},
+			"alignment": [
+				"NE"
+			],
+			"ac": [
+				15,
+				"natural armor"
+			],
+			"hp": {
+				"average": 123,
+				"formula": "13d10 + 52"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 18,
+			"dex": 14,
+			"con": 12,
+			"int": 14,
+			"wis": 13,
+			"cha": 10,
+			"cr": "7",
+			"save": {
+				"dex": "+5",
+				"wis": "+6"
+			},
+			"skill": {
+				"perception": "+6",
+				"stealth": "+5"
+			},
+			"senses": [
+				"darkvision 60 ft.",
+				"passive Perception 16"
+			],
+			"immune": [
+				"necrotic"
+			],
+			"conditionImmune": [
+				"frightened"
+			],
+			"languages": [
+				"Common",
+				"Dara"
+			],
+			"trait": [
+				{
+					"name": "Keen Sight.",
+					"entries": [
+						"Senmo has advantage on Wisdom (Perception) checks that rely on sight."
+					]
+				},
+				{
+					"name": "Innate Spellcasting.",
+					"entries": [
+						"Senmo's innate spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). Senmo can innately cast the following spells, requiring no material components:",
+						{
+							"type": "list",
+							"style": "list-hang-notitle",
+							"items": [
+								"{@i At will:} {@spell Control Animal}, {@spell Fog Cloud}, {@spell Swallow Magic}",
+								"{@i 2/day each:} {@spell Beast Transmutation}, {@spell Mirror Image}, {@spell Misty Step}",
+								"{@i 1/day:} {@spell Lightning Bolt}"
+							]
+						}
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"Senmo makes two attacks: one with its Beak and one with its Talons."
+					]
+				},
+				{
+					"name": "Beak.",
+					"entries": [
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}11 (2d6 + 4) piercing damage."
+					]
+				},
+				{
+					"name": "Talons.",
+					"entries": [
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}9 (2d4 + 4) slashing damage."
+					]
+				},
+				{
+					"name": "Black Feather Storm (Recharge 6).",
+					"entries": [
+						"Senmo flaps its twisted wings, unleashing a flurry of sharp, magical feathers. Each creature in a 30-foot cone must make a DC 14 Dexterity saving throw, taking 18 (4d8) slashing damage and being knocked prone on a failed save, or half as much damage and not being knocked prone on a successful one."
 					]
 				}
 			]
