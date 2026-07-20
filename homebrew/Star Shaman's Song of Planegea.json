@@ -252,7 +252,7 @@
 					}
 				},
 				{
-					"name": "Planegea Adventures",
+					"name": "Stone Age Adventures",
 					"headers": [
 						"Your Own Planegea",
 						"Themes",
@@ -316,6 +316,8 @@
 						"Gods",
 						"Gods of Planegea",
 						"Bestiary",
+						"Visitants, Celestial",
+						"Woolly Unicorn (Elasmotherium)",
 						"NPCs"
 					],
 					"ordinal": {
@@ -335,13 +337,6 @@
 					"ordinal": {
 						"type": "appendix",
 						"identifier": "B"
-					}
-				},
-				{
-					"name": "Index",
-					"ordinal": {
-						"type": "appendix",
-						"identifier": "C"
 					}
 				}
 			]
@@ -23043,7 +23038,16 @@
 											"name": "Priest",
 											"entries": [
 												"There are two types of priests, or Kelodhrosians who have Embraced many victims: hybrid priests—who select their preferred aspects from many forms—and monoform priests, who choose to only Embrace a single kind of favored creature, the better to emulate its perfection.",
-												"Both are menacing foes, for while hybrid priests have many strengths at their disposal, monoform priests represent discipline, focus, and absolute dedication to their chosen path of ascension."
+												"Both are menacing foes, for while hybrid priests have many strengths at their disposal, monoform priests represent discipline, focus, and absolute dedication to their chosen path of ascension.",
+												"A monoform priest has taken on nearly all the aspects of a singular creature. A monoform priest is represented by the embraced creature's stat block with the following changes:",
+												{
+													"type": "list",
+													"items": [
+														"The creature's type changes to monstrosity.",
+														"The creature adds Kelodhrosian to known languages.",
+														"The creature's eyes are bright blue."
+													]
+												}
 											]
 										},
 										{
@@ -23606,7 +23610,9 @@
 					]
 				},
 				{
-					"name": "Appendix A",
+					"type": "section",
+					"name": "Appendix A: Name Generator",
+					"page": 375,
 					"entries": [
 						{
 							"type": "entries",
@@ -24236,7 +24242,9 @@
 					]
 				},
 				{
-					"name": "Appendix B",
+					"type": "section",
+					"name": "Appendix B: Inspiration",
+					"page": 376,
 					"entries": [
 						{
 							"type": "entries",
@@ -31543,7 +31551,7 @@
 			"source": "SSSOP",
 			"page": 269,
 			"reqAttune": true,
-			"rarity": "rarity by mask",
+			"rarity": "varies",
 			"wondrous": true,
 			"entries": [
 				"This mask is carved and decorated to resemble a specific creature, and imbues its wearer with a measure of that creature's power. As a bonus action, you can put on or remove the mask. The mask has 5 charges. While wearing the mask, as an action you expend 1 of its charges and immediately take the mask's action. If the action uses an item such as a weapon or other held object, the mask projects a spectral version of the object, which disappears when the charge is expended.",
@@ -36809,24 +36817,6 @@
 								"Spike. Ranged Weapon Attack: +7 to hit, range 60/180 ft., one target. Hit: 8 (1d8 + 4) piercing damage."
 							]
 						}
-					]
-				}
-			]
-		},
-		{
-			"name": "Monoform Priest Template",
-			"source": "SSSOP",
-			"page": 342,
-			"_copy": null,
-			"isNpc": false,
-			"entries": [
-				"A monoform priest has taken on nearly all the aspects of a singular creature. A monoform priest is represented by the embraced creature's stat block with the following changes:",
-				{
-					"type": "list",
-					"items": [
-						"The creature's type changes to monstrosity.",
-						"The creature adds Kelodhrosian to known languages.",
-						"The creature's eyes are bright blue."
 					]
 				}
 			]
