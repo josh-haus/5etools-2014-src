@@ -4960,6 +4960,960 @@
 								}
 							],
 							"name": "Ancestries Of Obojima"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"The section below details eleven new subclasses intertwined with the island of Obojima, its culture, and its creatures. These variants of the classic archetypes are not the only character types you'll find on the island, but they do provide a playstyle that feels uniquely Obojiman.",
+								{
+									"type": "entries",
+									"entries": [
+										"These barbarians are masters of brewing potions on the fly—directly in their guts! Where others must painstakingly prepare potions with finesse, they channel their inner hunger to unlock the latent magic within raw ingredients without any prep.",
+										"Those born with the rumble in their belly often find that regular food can't quite satisfy. They require something more unusual. A generation ago, a handful of adventurous eaters with the appetite set out to find a way to appease their seemingly unappeasable appetites. This is how they discovered \"belly brewing.\" Certain morsels consumed together not only quieted the rumble for a time, but they also yielded the potion-like effects they've since come to be known for.",
+										{
+											"type": "entries",
+											"entries": [
+												"Starting at 3rd level, you learn the hard-earned skill of belly brewing, an arcane technique in which you swallow, mix, and brew magical concoctions inside your gut, creating a number of unique effects.",
+												"When you enter your rage, you focus your energy to harness and activate the effects of a belly concoction. Choose combat, utility, or whimsy. You gain the effects of the chosen belly concoction, as detailed below. You can change your belly concoction each time you rage.",
+												"{@b Combat.} Your body undergoes a unique change which magically alters your physical form, giving it the characteristics of rubber. While in this elastic state, you can use your reaction when you are hit by a ranged attack, deflecting it with your belly. When you do so, the damage you take from the attack is reduced by 1d12 + your Constitution modifier + your barbarian level.",
+												"Additionally, immediately before you make a melee weapon attack on your turn, you can use your bonus action to stretch your arms, increasing your reach by 5 feet for the rest of the turn. The first time you hit while your arms are stretched in this way, the attack deals an extra 1d6 damage of the weapon's type.",
+												"{@b Utility.} The bubbling elixir in your stomach is perfectly mixed to dissolve and absorb anything you can swallow. As a bonus action, you can consume any object you can fit in your mouth. When you do so, you can expend one of your Hit Dice as part of this bonus action to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of 1). Swallowing an object in this way destroys it, provided the object isn't magical. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.",
+												"{@b Whimsy.} You focus on the magical brew inside you, only to get an array of strange and unruly effects. While in this state, you gain one of the following effects at the start of each of your turns:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"You teleport to an unoccupied space within 10 feet of you that you can see.",
+														"You take 1d4 necrotic damage; the next ability check you make before the end of your turn gains a bonus equal to the number rolled.",
+														"You can immediately take the Help action as a bonus action."
+													]
+												},
+												"Additionally, you gain a random visual effect that accompanies the other whimsical features, such as your hair turns to moss, a spectral bird circles above your head, or a tattoo of a dancing man appears on your person and moves about your body."
+											],
+											"name": "Belly Concoction"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"At 3rd level, you gain a number of magical side effects due to the countless magical ingredients you've ingested. You learn the {@spell Prestidigitation} and {@spell Thaumaturgy} cantrips."
+											],
+											"name": "Side Effects"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Beginning at 6th level, you've learned how to better control the effects your belly concoction produces. Choose a common potion that you would normally consume. You can activate the effects of the chosen potion as a bonus action. Once you activate it, you can't do so again until you finish a long rest. If the potion's effects require a saving throw, the DC equals 8 + your proficiency bonus + your Constitution modifier.",
+												"Each time you gain a level in this class, you can swap your chosen potion with a different one.",
+												{
+													"type": "inset",
+													"name": "Limiting Quick Brew",
+													"entries": [
+														"An alternate way of using this feature is to only allow the player to choose from a list of potion recipes that they're aware of. If the belly brewer has yet to learn any potion recipes, then the GM should provide a list of 10 options to choose from."
+													]
+												}
+											],
+											"name": "Quick Brew"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"At 10th level, the ever-present concoction in your stomach is now so potent it grants you benefits even when you aren't raging. When you finish a long rest, choose one of the following conditions: blinded, charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, restrained, or stunned. You have advantage on saving throws against that condition until you choose a different one with this feature."
+											],
+											"name": "Lingering Effects"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Starting at 14th level, you learn an additional common potion as well as an uncommon potion, using your Quick Brew feature.",
+												"Each time you gain a level in this class, you can swap one of your chosen potions with a different one."
+											],
+											"name": "Mighty Quick Brew"
+										}
+									],
+									"name": "Path of the Belly Brewer (Barbarian)"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"To be a bard from the College of Masks is to be a theater actor capable of losing themselves in a role by using masks they imbue with magic. Through these masks, bards can mimic others and even take on attributes of the personas their masks depict.",
+										"To see the world through another's eyes. To show the world a face not your own. To become someone else. These are the actor's pursuits. Some local players might putter about on the stage as a hobby or distraction, but not bards of the College of Masks. Like liquid bronze being poured into a mold, these actors have turned their sense of self into a malleable thing able to transform themselves into someone else.",
+										{
+											"type": "entries",
+											"entries": [
+												"The College of Masks not only describes the bard, but it also refers to an Obojiman theater tradition where a solitary masked actor plays out a story from the island's myths and folktales, which feature a set of archetypal characters such as the Old Man, the Fish, and the Demon, among others. Throughout the show, the actor artfully shifts between masks depicting each character. Each performance is its own special thing, as no two are the same."
+											],
+											"name": "Tradition of Performance"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"When you join the College of Masks at 3rd level, you gain the ability to weave arcane boons into theater masks, which grant you abilities while you wear them. You craft two masks of your choice, which are detailed under the \"Masks\" section below. You're able to craft one additional mask of your choice when you reach 7th, 11th, and 15th level in this class. Each time you craft a new mask, you can also replace one mask you've already crafted with a different one.",
+												"While wearing a mask you gain the abilities granted by it. You can don or swap masks as an action or bonus action. If an ability from a mask requires a saving throw, the DC is equal to your bard spell save DC."
+											],
+											"name": "Tools of Performance"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Starting at 3rd level, you gain the ability to quickly shift your appearance to match that of a person. As an action, you can expend one use of Bardic Inspiration to cast the {@spell Alter Self} spell, using the spell's Change Appearance option to transform into another humanoid you have seen. When cast in this way, the spell has the following changes:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"It doesn't require your concentration, but you can still end the spell at any time (no action required).",
+														"You gain 5 temporary hit points, and the spell ends early if you lose all these hit points or die.",
+														"You gain new equipment that you would associate with the target and are aware of it possessing, such as its clothing, armor, weapons, and other small belongings. Any equipment gained in this way has no magical properties, even if the original object used by the target does.",
+														"Any equipment you were wearing or carrying merges into your new form and you can't activate, use, wield, or otherwise benefit from any of it."
+													]
+												},
+												{
+													"type": "inset",
+													"name": "Alter Self — Change Appearance",
+													"entries": [
+														"You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. You also can't appear as a creature of a different size than you, and your basic shape stays the same; if you're bipedal, you can't use this spell to become quadrupedal, for instance. At any time for the duration of the spell, you can use your action to change your appearance in this way again."
+													]
+												}
+											],
+											"name": "Copycat"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"At 6th level, you gain the ability to enthrall an audience with a dramatic performance. Over the course of 1 minute, you can engage in a captivating performance and attempt to cause nearby creatures to become charmed, frightened, or fall unconscious (your choice). Choose a number of creatures up to your bard level within 60 feet of you that can hear you. When the performance ends, each target must succeed on a Wisdom saving throw against your spell save DC or be subjected to the chosen condition.",
+												"Once you use this feature, you can't use it again until you finish a long rest."
+											],
+											"name": "Many-Masked Performance"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"At 14th level, you gain the ability to give one of your theater masks to an ally within 5 feet of you. As an action, you temporarily release the incantation that binds your theater mask to you, allowing one of your allies to use it. The mask can be used in this way for 1 minute and only one other creature can be designated to use it.",
+												"Once you've given an ally a theater mask, you can't do so again until you finish a short or long rest."
+											],
+											"name": "Gift of Theatre"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The masks are presented in alphabetical order.",
+												"{@b Demon (7th Level Required).} While wearing this mask you gain the abilities Arcane Memory and Demon Eye.",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"{@b Arcane Memory.} While wearing this mask, you can use an action and expend a spell slot of 1st level or higher to magically learn whether a creature or object you specify has been within a 20-foot radius of your current location in the past 24 hours. If you expend a spell slot of 3rd level or higher, you get a brief vision of the creature or object while it was there, and you learn the exact time the creature or object was present.",
+														"{@b Demon Eye.} As an action, you gain the ability to magically see through solid objects to a range of 15 feet. Your vision penetrates most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt."
+													]
+												},
+												"{@b Harpy (11th Level Required).} While wearing this mask you have a flying speed of 30 feet and resistance to psychic damage.",
+												"{@b Fish.} While wearing this mask you gain a swimming speed equal to your walking speed and the ability to breathe underwater. Additionally, you know the Water Bullet and Whelm Weapon spells.",
+												"{@b Fox.} While wearing this mask, you can move through a hostile creature's space, regardless of its size, and another creature's space isn't difficult terrain for you. Additionally, your AC increases by 1 and when you make a Dexterity saving throw, you can use your reaction to gain advantage on the roll.",
+												"{@b Golem (7th Level Required).} While wearing this mask, your weapon attacks deal an extra 1d8 damage on a hit. If you are Small, you don't have disadvantage on your attack rolls with weapons as a result of the heavy property. In addition, your attacks and spells deal double damage to objects and structures.",
+												"{@b Old Man.} While wearing this mask, you can cast {@spell Detect Magic} and {@spell Identify} at will, without expending a spell slot or material components.",
+												"{@b Protagonist.} When you roll initiative while wearing this mask, you gain temporary hit points equal to half your bard level (rounded up). As a bonus action, you can mark a creature as your antagonist for 1 minute. For the duration, you have advantage on ability checks involving your antagonist. Additionally, when you see your antagonist make an attack, you can use your reaction and expend a use of your Bardic Inspiration, rolling a Bardic Inspiration die to reduce the attack roll by the number rolled on the die.",
+												"{@b Sea Urchin.} While wearing this mask, you can use a bonus action and expend a use of your Bardic Inspiration, rolling a Bardic Inspiration die to heal yourself for a number of hit points equal to the number rolled plus half your bard level (rounded up).",
+												"{@b Spirit (7th Level Required).} While wearing this mask, you know the {@spell Speak with Dead} spell. Additionally, you can expend a use of your Bardic Inspiration to temporarily move through the Spirit Realm. Whenever you would move, you instead step through the veil and into the Spirit Realm in the area where it overlaps with your current plane. You remain in the Spirit Realm until you stop moving or your turn ends. If you occupy the same spot as a solid object or creature when this happens, you are immediately shunted to the nearest unoccupied space that you can occupy and take 1d10 force damage.",
+												"While on the Spirit Realm, you can only affect and be affected by other creatures on that plane. Creatures that aren't in the Spirit Realm can't perceive you and can't interact with you, unless a special ability or magic has given them the ability to do so. You ignore all objects and effects that aren't on the Spirit Realm, allowing you to move through objects you perceive on the plane you originated from. This effect lasts until the end of your turn.",
+												"{@b Stone Mask.} While wearing this mask, you gain proficiency in the Athletics skill and all bludgeoning, piercing, and slashing damage you take from nonmagical attacks is reduced by 2. Additionally, you have advantage on ability checks and saving throws against being pushed, pulled, or knocked prone while wearing the mask."
+											],
+											"name": "Masks"
+										}
+									],
+									"name": "College of Masks (Bard)"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"In the tranquil groves where nature's harmony sings loudest, there exists a circle of druids attuned to the delicate dance of petals upon the breeze. These druid guardians of the natural world, known as the Circle of the Petal, draw their power from the spirit of Obojima, the steady island breeze and the ephemeral beauty and resilience of flowers. Embracing these subtle powers, they harness the whispers of the wind and the gentle caress of petals to weave their enchantments and shape the world around them.",
+										"Members of the Circle of the Petal are revered for their deep connection to the sacred dawn petal tree and their ability to evoke its serene splendor in both peaceful sanctuaries and in dire situations. These druids become conduits of life energy, channeling the essence of blossoms into healing balms, protective barriers, and devastating bursts of floral fury. Guided by the eternal cycle of growth, bloom, and decay, they embody the ever-renewing vitality of nature, ensuring that even in the darkest of times, hope blossoms anew like petals on the wind.",
+										{
+											"type": "entries",
+											"entries": [
+												"At 2nd level, you become permeated with the spirit of Obojima and are now able to control a fraction of Obojima's magic that manifests as flower petals of the druid's choosing. As a bonus action, you can expend a use of your Wild Shape to call on this power and conjure a resilient cloud of petals that functions as an extension of your own being. This cloud lasts for 1 hour. While enveloped by the cloud, your AC increases by 1 and you gain the following benefits.",
+												"As a bonus action, you can cause your petals to lunge toward a creature you can see within 30 feet of you, slashing at its body. Make a ranged spell attack against the target using your spell attack bonus. On a hit, the target takes 1d6 slashing damage. This damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).",
+												"Additionally, when you or a creature you can see within 10 feet of you takes damage, you can use your reaction to reduce that damage by an amount equal to your druid level + your Wisdom modifier. Once you've used your petal cloud in this way, the cloud dissipates."
+											],
+											"name": "Petal Dance"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"At 6th level, you gain the ability to imbue life into your petals. As an action, you can summon a spirit that has the appearance of a creature of your choice. This spirit arrives as a great wind that overtakes the petals before transforming into the desired beast, which you control. The spirit uses the bestial spirit statistics, with the following changes:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Its hit points are equal to three times your druid level.",
+														"When it takes the attack action its attack modifier is equal to your spell attack modifier.",
+														"In addition to its walking speed, it has a flying speed of 20 feet and can hover.",
+														"It can move through the space of other creatures as if they were difficult terrain."
+													]
+												},
+												"The spirit appears in an unoccupied space of your choice within 30 feet of you and acts on your turn. The spirit can only take the Dash and Attack action. If the spirit is reduced to 0 hit points, it explodes in a stunning spectacle of cascading petals. Until the end of your next turn, all creatures within a 20-foot radius centered on the spirit are affected by the Faerie Fire spell. Alternatively, the spirit disappears after 1 minute or if you dismiss it early (no action required).",
+												"Starting at 11th level, you can expend two uses of this ability to summon two bestial spirits, instead of one, when you use this action.",
+												"You have two uses of this feature, and you gain an additional use of it when you reach certain levels in this class: 11th level (three uses) and 16th level (four uses). You regain all expended uses of this feature when you finish a long rest.",
+												{
+													"type": "statblock",
+													"tag": "creature",
+													"name": "Bestial Spirit",
+													"source": "OBOJIMA"
+												}
+											],
+											"name": "Petal Beast Mimicry"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Starting at 10th level, the spirit of Obojima comes to your aid in both subtle and grand ways. Whenever making a Wisdom ({@skill Survival}) check to find a path or creature, the wind carries a collection of brilliant white petals in the direction you seek. You have advantage when making these skill checks.",
+												"Additionally, you can use an action to magically call forth a massive swarm of petals, which create a great barrier. In a space that you can see, a wall of shifting petals forms. This wall is 1 foot thick, 15 feet tall, and up to 60 feet long. It appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (your choice which side).",
+												"Nothing can physically pass through the wall except for creatures designated by you. It is immune to all damage, as the petals magically heal any hole that would be created by an attack or effect. This wall lasts a number of minutes equal to your druid level.",
+												"Once you use the petal barrier, you can't use it again until you finish a long rest."
+											],
+											"name": "Spirit of Obojima"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Starting at 14th level, the spirit of Obojima comes to your aid in your times of greatest need. When you are reduced to 0 hit points, you instead regain half of your hit points and are lifted to your feet amidst a turbulent tempest of petals.",
+												"You can then immediately use your reaction to send a wave of concussive wind sweeping out from you. Each creature in a 10-foot radius centered on you must succeed on a Strength saving throw against your spell save DC or be pushed 15 feet away from you and suffer 2d8 slashing damage.",
+												"Once you use this feature, you must finish a long rest before you can use it again."
+											],
+											"name": "Winds of Revival"
+										}
+									],
+									"name": "Circle of the Petal (Druid)"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Even the life of a spirit must come to an end.",
+										"Those who take on the moniker of a spirit-fused fighter do not normally do so by choice but rather by circumstance. Because to become a spirit-fused fighter, you must first become the vessel of a dying spirit, a task that can't be accomplished by choice, as no one truly understands how or why this occurs.",
+										"All that is known is that the spirit's mind and body have passed on, and its essence now coexists within the fighter, granting them abilities beyond the capability of a normal spirit. Those who can harness this power can channel the latent energy into objects, which produce a magical quirk or powerful attacks. These arcane tricks are how these unconventional warriors fight and are the reason they have garnered so much attention and interest on the island.",
+										{
+											"type": "entries",
+											"entries": [
+												"As the host of a powerful spirit, the magic within you can be strange and unruly. Though you've learned to control your powers, the arcane energy can still spark to life, often creating strange effects.",
+												"Choose one or more of the Arcane Quirks listed below:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"When activating any of the features from this subclass, First Age technology around you begins to act haywire.",
+														"Whenever you make a weapon attack, a radio or cassette player on your person plays a snippet of a song.",
+														"Whenever you take damage you cough bubbles.",
+														"Spirits find your odor to be incredibly off-putting.",
+														"Spirits find your odor to be incredibly attractive.",
+														"When you are unconscious, your body floats 1 foot off the ground and can be carried by the wind.",
+														"When you successfully land a critical hit on a creature, your head randomly transforms into a strange visage such as an anthropomorphic pig head, a crimson-skinned version of yourself with flaming locks, the face of an Urugama, or a CRT TV. This transformation lasts until you transform again or take a long rest."
+													]
+												}
+											],
+											"name": "Arcane Quirk"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Starting at 3rd level, you gain the ability to channel spirit energy into your attacks. You have a pool of four d6s that you spend to fuel this ability, which are called essence dice.",
+												"When you make a weapon attack roll against a creature, you can expend a die from your pool to add it to the roll. Alternatively, you can expend a die from your pool to add it to the attack's damage roll. You can choose to do this either before or after making the attack roll, but before any effects of the attack are applied.",
+												"You regain all of your expended essence dice when you finish a short or long rest.",
+												"You gain an additional d6 for your essence dice pool at certain levels in this class: 7th level (5d6), 10th level (6d6), 15th level (7d6), and 18th level (8d6)."
+											],
+											"name": "Channel Essence"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Beginning at 3rd level, you gain the ability to channel your internal spirit energy into objects, creating an array of effects. You learn one Channeling Option of your choice (see \"Channeling Options\" below). In addition, you gain an object of your choice that you can use to channel the option through.",
+												"Once you use this feature, you can't do so again until you finish a short or long rest.",
+												"You also gain proficiency in the Salvage skill."
+											],
+											"name": "Object Channeling"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Starting at 7th level, you learn the Jolt cantrip with the following changes:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"When you target a machine with the spell, the machine is powered for 1 hour instead of 18 seconds.",
+														"Your spell attack modifier is equal to your Constitution modifier + your proficiency modifier."
+													]
+												},
+												"Additionally, once on each of your turns when you hit a target with a weapon attack as part of the attack action, you can replace its damage with that of the {@spell Jolt|OBOJIMA} cantrip. When you do so, you roll the Jolt cantrip's damage dice (which deals lightning damage) in place of the weapon's damage dice, and you can gain no other benefits to the attack's damage from other features or spells.",
+												"You count as the spirit creature type."
+											],
+											"name": "Spirit Battery"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"At 7th level, you learn an additional Channeling Option, and you can now use your Object Channeling feature a number of times equal to your proficiency bonus. You regain all of the expended uses when you finish a short or long rest."
+											],
+											"name": "Improved Object Channeling"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Starting at 10th level, you learn to channel your energy into objects you are wearing, causing them to become harder than steel for a brief moment. When you are hit by an attack, you can use your reaction to roll one of your essence dice, adding the number rolled to your AC for that attack, potentially causing the attack to miss you."
+											],
+											"name": "Improvised Armor"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"At 15th level, you learn to draw on the spirit energy within you to gain a quick rush of energy. You gain an additional use of your Second Wind feature. When your hit points drop below your fighter level while you have a use of Second Wind, you can choose to expend a use of Second Wind immediately (no action required)."
+											],
+											"name": "Backup Battery"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Starting at 18th level, you gain an additional channeling option from the Object Channeling feature.",
+												"In addition, when you roll initiative and have no uses of your Object Channeling feature left, you regain two uses of that feature."
+											],
+											"name": "Junk Master"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The channeling options are presented in alphabetical order.",
+												"{@b Ballooning Bag.} As a bonus action, you cause a bag (such as a canvas sack, backpack, fanny pack, or satchel) that you are holding or is on your person to rapidly inflate with air. The bag then floats upward, lifting you off the ground and carrying you up to 30 feet straight into the air. You hover in place there until you let go of the bag (no action required) or until the start of your next turn, at which point the bag gently floats back to the ground.",
+												"Alternatively, when falling you can use your reaction to cause the bag to inflate, granting you the benefits of {@spell Feather Fall}.",
+												"{@b Entangling Cord.} When taking the attack action, you can choose to replace one of your attacks with an entangling strike. Choose an object that features tendril-like properties (such as a tape measure, game controller, extension cord, rope, or chain). The object can be on your person or within 30 feet of you, provided you can see it.",
+												"When you do so, the object springs to life, stretching out towards a creature you can see within 15 feet of it. Make a ranged attack using your Constitution modifier + your proficiency bonus. On a hit, the target is pulled up to 15 feet towards the object.",
+												"{@b Find the Thing.} As an action, you focus your energy through a navigational object (such as a compass, GPS, or map). Doing so allows you to cast the {@spell Locate Object} spell with the following changes:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"The spell doesn't require you to concentrate on it.",
+														"The spell's duration is 1 hour.",
+														"The spell can detect an object within 1 mile of you instead of 1,000 feet."
+													]
+												},
+												"{@b First Age Steed.} You enact a ritual that creates a bond with a special vehicle of your choice (such as a bicycle, moped, or similar object you can sit on). This vehicle can only carry one creature, has a walking speed of 60 feet, and does not have a flying speed.",
+												"As an action, you can summon that vehicle to your side. While summoned the vehicle is indestructible and disappears in a puff of smoke after 1 hour.",
+												"{@b Goggled Vision.} While wearing an ocular covering (such as ski goggles, spectacles, sunglasses, or a welding mask), you can use an action to see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.",
+												"Additionally, you have advantage on Intelligence ({@skill Investigation}) checks to determine if something is an illusion. These effects on your goggles last for 1 hour.",
+												"{@b Leaping Sneakers.} While wearing a pair of shoes you can use a bonus action to add a spring to your step. For 1 hour, you gain the benefits of the {@spell Jump} spell.",
+												"{@b Pocket Voice.} You spend 1 minute enacting a ritual that binds your voice to an object you can see that looks as if it would produce a sound (such as a boombox, pair of headphones, statue with a mouth, portrait of a person, radio, or jewelry box).",
+												"Your voice stays bound to the object for 1 hour, or until you dismiss the effect as a bonus action. While bound, everything you say can also be heard through the object.",
+												"{@b Water Jettison.} As a bonus action, you spray a misty stream of water from a container on your person (such as a waterskin, soda can, squirt water bottle, or spray bottle). Doing so moves you 10 feet backwards in a straight line and grants you the benefits of the Disengage action."
+											],
+											"name": "Channeling Options"
+										}
+									],
+									"name": "The Spirit-Fused Fighter (Fighter)"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"You have become afflicted by the mysterious illness that haunts the island known as the Corruption. This same foul magic, which has stained the coastlines black, now resides within your body. It curses your skin and seeps from your pores, and in time it will even become difficult to distinguish you from it.",
+										"How this has happened is your story to tell. You may have been one of the first responders to the Corruption when it came to the shores of Obojima leaving you to possibly be the only survivor of that brave band of rangers. Perhaps you were an explorer, who stumbled on a pocket of Corruption and became infected, or maybe you were inflicted with this Corruption by an evil witch.",
+										"However this fate has befallen you, you now are both cursed and empowered by the Corruption's rotting, withering magic that is slowly taking you over bit by bit, replacing your own flesh with its unearthly power.",
+										"As a corrupted being you must choose your future wisely, it's hard to say what this illness will manifest in you.",
+										{
+											"type": "entries",
+											"entries": [
+												"Starting at 3rd level, the Corruption within begins to manifest in combat.",
+												"Whenever you take damage, you also receive a curse marker; if the damage was from a critical hit, you receive two curse markers instead. These markers will remain active until the end of your next turn, and the maximum number of curse markers you can accumulate at a time is 2. When you hit a creature with a weapon attack, all the curse markers you have gained are instantly consumed, dealing an extra 1d4 necrotic damage to the target for each curse marker consumed.",
+												"Alternatively, you can use a bonus action to call upon your Corruption to immediately gain the maximum number of curse markers available to you. When you use this ability, you can't gain more than your maximum number of curse markers.",
+												"The number of curse markers you can accumulate at once increases when you reach certain levels in this class: 3 at 5th level, 4 at 11th level, and 5 at 17th level."
+											],
+											"name": "1st Manifestation"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"At 3rd level, you start to observe peculiar happenings within your own body. At times you notice that your limbs and torso exhibit independent movements, seemingly acting of their own volition.",
+												"When you make a Strength or Dexterity check, you can choose to replace the result with a number equal to 10 + your ranger level. You can wait until after you roll the d20 before deciding to use this feature, but must decide before the GM says whether the roll succeeds or fails. You can use this feature a number of times equal to half your proficiency bonus (rounded up), and you regain all expended uses when you finish a long rest."
+											],
+											"name": "2nd Manifestation"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Starting at 7th level, when you make a weapon attack against a creature, you can expend one curse marker to roll a d4 and add it to the attack roll. You can choose to use a curse marker in this way before or after making the attack roll. You can expend a curse marker in this way only once per turn.",
+												"Additionally, whenever you take damage, you can use your reaction to reduce the damage taken by an amount equal to your ranger level. Once you reduce damage in this way, you can't do so again until you finish a short or long rest."
+											],
+											"name": "3rd Manifestation"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"At 11th level, your ailment is beginning to have side effects on your body. Gain one of the following ailments of your choice.",
+												"{@b Graying Vision.} Your eyes weaken and the world around you begins to lose some of its colorful luster. To adjust to your slowly worsening vision, you've gained blindsight out to a range of 15 feet. In addition, you automatically detect visual illusions if their Intelligence ({@skill Investigation}) check DC is less than or equal to your ranger spell save DC.",
+												"{@b Failing Lungs.} Your lungs have begun to ache and your days are filled with excessive coughing. At times you feel yourself gasping for air, and it's in those moments you've learned to steal another's breath. As an action, you pull your next breath from a creature you can see. The target falls prone and can't take reactions until the start of your next turn. Additionally, all of your curse markers are consumed, dealing 1d4 necrotic damage to the creature for each marker consumed in this way.",
+												"Alternatively, you can give your breath to another creature. Whenever a creature you can see makes a Dexterity saving throw, you can use your reaction to give it advantage on the saving throw and increase its speed by 15 feet until the start of your next turn.",
+												"{@b Losing Feeling.} Numbness creeps into your muscles and bones and across your skin. The vibrancy of feeling gives way to a broad antagonism. Your hands and arms instead burn with a cold ethereal flame, which only you can see. As a bonus action, you can target a creature you can see within 60 feet of you, enveloping it with the same cursed flames. When you deal damage with your curse markers to a creature that has been enveloped by your flames, each curse marker deals an extra 1d6 necrotic damage, instead of 1d4.",
+												"Once you use this feature, you can't use it again until you finish a short or long rest."
+											],
+											"name": "4th Manifestation"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Starting at 15th level, you gain the ability to call upon the Corruption which greatly alters your natural capabilities. As a bonus action, you can activate this feature, doubling your walking speed, increasing your AC by 2, and allowing you to make two additional attacks when taking the Attack action. In addition, all attacks are treated as if you have the maximum number of curse markers accumulated. The effects of this feature last until the start of your next turn. You can use this ability without negative effects once per long rest.",
+												"If you use this feature a second time before finishing a long rest, in addition to the effects wearing off at the start of your next turn, you also suffer one level of exhaustion and immediately drop to 1 hit point if you have more than 1 hit point at the start of your turn.",
+												"Once you use this feature a second time, you can't use it again until you finish a long rest."
+											],
+											"name": "5th Manifestation"
+										}
+									],
+									"name": "Corrupted Ranger (Ranger)"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Waxwork rogues have a long history on the island of Obojima in dealing with the dangerous and the arcane. They're known for having an array of tools and tricks to delve into the most perilous of places and almost always coming back with treasures and tales. To a Waxwork rogue, any challenge or danger can be solved with a bit of wax, a pinch of smarts, and a whole lot of magic.",
+										{
+											"type": "entries",
+											"entries": [
+												"The Courier Brigade was created to carry packages between villages as well as guard merchant wagons through treacherous areas. But there are some areas on Obojima that are rife with the arcane, spirit dangers, and uncanny occurrences.",
+												"Legend says that it was Lydia Starwright, Courier Brigade First Class, who, against all advice, sought out the aid of a powerful witch who was rumored to live within a hut of melted wax deep within the Land of Hot Water. It was there in that melted hut where the witch taught Lydia the arcane practices known only to certain spirits of the island, the ability to enchant wax and fire in wondrous ways. It was this knowledge that transformed Lydia into the first Waxwork Rogue.",
+												"Lydia brought back this knowledge to the Courier Brigade, and formed the Waxworks Division, a dedicated group of arcane rogues who would volunteer for the most perilous assignments and deliveries of the Courier Brigade.",
+												"In the present day, Waxwork rogues have transcended the ranks of the Courier Brigade, and their skill sets are practiced across the island."
+											],
+											"name": "In the Beginning"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"At 3rd level, you learn the {@spell Dancing Lights} cantrip (the lights appear as floating candles) and the {@spell Produce Flame} cantrip."
+											],
+											"name": "Conjure Flame"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"When you choose this archetype at 3rd level, you learn wax enchantments, which are fueled by your ability to pull and manipulate magic from the Spirit Realm. These are represented by a number of wick points.",
+												"{@b Enchantments.} You learn three enchantments of your choice, which are detailed under \"Enchantments\" below.",
+												"You learn two additional enchantments of your choice at 5th, 10th, and 15th level. Each time you learn new enchantments, you can also replace one enchantment you know with a different one.",
+												"{@b Saving Throws.} Some of your enchantments require creatures to make a saving throw to resist the enchantment's effects. The saving throw DC is calculated as follows: Enchantment save DC = 8 + your proficiency bonus + your Intelligence or Charisma modifier (your choice)",
+												"{@b Wick Points.} You have 3 wick points, which represent your current ability to harness the magic from the Spirit Realm. Manipulating the magic from another realm and pulling its energy into an object, even one as small and simple as a candle, can be both physically and mentally taxing. When you spend a wick point, it is unavailable until you finish a short or long rest, at the end of which you regain all of your expended wick points.",
+												"Whenever you gain a level in this class, you gain 1 additional wick point."
+											],
+											"name": "Wax Enchantments"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The enchantments are presented in alphabetical order.",
+												"{@b Blooming Light.} As an action, you can spend 1 wick point to ignite a dark green candle, which burns in a similar hue, shedding dim light in a 10-foot radius centered on itself. Creatures in the candle's light are hidden from divination magic, and they can't be targeted by such magic or perceived through magical scrying sensors. This effect lasts for 1 hour.",
+												"{@b Bocha Glue Wax.} Bocha glue is a delicate mixture of the finest waxes available and a collection of ingredients known only to the Waxwork Rogues. When enchanted properly, it can temporarily hold any two objects together. As an action, you can spend 1 wick point to create an adhesive bond between two objects using just a small amount of bocha glue. The two objects remain bound together for 24 hours, at which point the enchantment fades and the two objects are separated. A creature within reach of the objects can use an action to make a Strength ({@skill Athletics}) check against your Enchantment save DC, breaking the bond early on a success.",
+												"{@b Burning Delay (5th Level Required).} You can spend 3 additional wick points to simultaneously activate Burning Delay when you use one of the following candle enchantments: candle pop, fish fat candle, or detonate. When you do so, you delay that enchantment's activation by 1 round, 1 minute, or 10 minutes (your choice).",
+												"{@b Candle Pop.} As a bonus action, you can spend 2 wick points to ignite and hurl a misshapen yellow candle at a creature you can see within 60 feet of you. The target must make a Dexterity saving throw to avoid being partially encased in wax as the candle explodes on impact. On a failed save, the target is restrained by the wax. At the end of each of its turns, a restrained target can repeat the saving throw, ending the effect on itself on a success.",
+												"{@b Consuming Flame (10th Level Required).} When you see a hostile creature within 60 feet of you casting a spell, you can use your reaction and spend 3 wick points to quickly ignite the flame of a thin white candle and cast {@spell Counterspell}. If the spell was successfully countered and was 3rd level or lower, you can spend an additional 2 wick points to reactivate this ability and store the spell inside your candle.",
+												"While holding the candle, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack modifier, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. Once the spell has been cast, the candle is sundered and becomes unusable. A spell can be stored inside a candle for 24 hours, after which the spell fades and is no longer able to be used.",
+												"{@b Delicacy.} As an action, you can spend 1 wick point to imbue the tart flavor of a Pyramid Melon and the healing properties of a river spirit into your candle. As a bonus action, a creature can consume the candle, causing it to regain 1d6 hit points and providing enough nourishment to sustain it for one day. A candle holds this enchantment for 24 hours, after which the properties of delicacy fade. You can have no more than 2 candles with this enchantment at a time.",
+												"{@b Detonate (5th Level Required).} As an action, you can spend 3 wick points to ignite and throw a dark black candle at a point you can see within 60 feet of you. A brilliant eruption of flame sweeps out from the candle, causing each creature in a 20-foot-radius sphere centered on that point to make a Dexterity saving throw. A target takes 2d6 fire damage and 2d8 thunder damage on a failed save, or half as much damage on a successful one. When you use this enchantment, you can spend additional wick points to increase the fire damage dealt by 1d6 for each additional wick point spent.",
+												"The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.",
+												"{@b Fish Fat Candle.} As an action, you can spend 1 wick point to ignite and throw an oily brick of blubber candle wax that lands in an unoccupied space you can see on the ground within 60 feet of you. One round after the candle lands, it emits a cloud of colorful smoke that creates a heavily obscured area in a 20-foot radius centered on it. The candle continues to spew smoke for 1 minute and creates a visible trail in the sky that can be seen from 10 miles away.",
+												"{@b Flooding Abundance.} As an action, you can spend 2 wick points to ignite and throw a tea light candle into an unoccupied space you can see on the ground within 60 feet of you. After landing, the candle melts rapidly, bubbling and boiling with an overwhelming amount of wax, which flows over and fills a 15-foot-square centered on the candle. The wax remains for 1 minute. It is flammable, and a 5-foot square of wax exposed to fire burns away in 3 rounds, dealing 2d6 fire damage to any creature that starts its turn in the fire. All spaces covered in the wax are difficult terrain for the duration.",
+												"{@b Iron Seal.} As an action, you can spend 1 wick point to melt and press the wax seal of iron onto any door or object with a lid. Once imbued with your seal, the object becomes magically shut and can't be opened unless a creature makes a successful Strength ({@skill Athletics}) check against your Enchantment save DC, at which point the seal breaks. The iron seal lasts until it is broken or dispelled (as if it were a 1st-level spell). You can use an action to touch one of your iron seals and end its effects early.",
+												"{@b Lost Wax Carving.} Using the lost form of wax carving you craft a detailed replica of an object. When using the wax carving technique, you can spend 2 wick points over the course of 10 minutes to produce the effects of the Duplicate spell. The object you duplicate can be no larger than a 1-foot cube.",
+												"{@b Maker's Mark.} When you make an attack with a one-handed weapon as part of the Attack action on your turn, you can spend 1 wick point to make an unarmed strike as part of the same action using a signet ring. This attack deals bludgeoning damage equal to 1d4 + your Dexterity modifier, plus an extra 1d6 fire damage. This attack can benefit from your Sneak Attack, provided you haven't already dealt your Sneak Attack damage this turn.",
+												"You can use this enchantment once per turn.",
+												"{@b Shielding Seal.} As an action, you can spend 1 wick point to melt and press the wax seal of shielding onto a willing creature or object, protecting it from incoming damage. The target of the seal gains 5 temporary hit points, which last for 24 hours. You can grant an additional 5 temporary hit points for each additional wick point spent, to a maximum of 15 temporary hit points. You can only have one shielding seal active at a time. Creating a shielding seal while another seal of the same type is already active ends the effects of the initial seal early.",
+												"{@b Spark Shower.} As a bonus action, you can spend 2 wick points to bring your free hand to your mouth, igniting your next breath. Exhaling creates a dazzling shower of sparks aimed toward a creature within 5 feet of you. You have advantage on the next weapon attack roll you make against the target this turn, and the target can't make opportunity attacks until the end of your turn.",
+												"{@b Waxlings.} By reaching through the veil and into the Spirit Realm, you can temporarily pull and trap a minor spirit within a candle, granting the candle sentience. As an action, you can spend 2 wick points to summon a waxling, casting the {@spell Find Familiar} spell with the following changes:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"In place of an animal familiar, you instead imbue life into a candle, which causes it to grow appendages and eyes.",
+														"Your waxling familiar uses the statistics of a rat.",
+														"You can command the familiar to use its action to touch a flammable object that isn't being worn or carried and ignite it.",
+														"The familiar sheds bright light in a 5-foot radius and dim light for an additional 10 feet.",
+														"You can't temporarily dismiss the familiar.",
+														"The familiar is dismissed permanently after 1 hour or when it is reduced to 0 hit points.",
+														"You can have more than one of these familiars at a time."
+													]
+												},
+												"{@b Wick Whip.} As a bonus action, you can spend 3 wick points to ignite a 10-foot length of candlewick that has been soaking in the stomach acid of a dragon frog. The flames burn at an intense heat that warps the air around them, shedding bright light in a 15-foot radius and dim light for an additional 15 feet. The wick burns for 1 minute, during which you can use it as a melee weapon that you're considered proficient with. It deals 3d4 fire damage on a hit (adding your ability modifier to the damage roll as normal), and it has the finesse, light, and reach properties."
+											],
+											"name": "Enchantments"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Starting at 9th level, you can ignite your weapons in a flash of hot white flames when you successfully catch an enemy off guard. When you deal Sneak Attack damage on your turn, you can spend wick points to deal extra fire damage to the target, in addition to the weapon's damage. The extra damage is 1d6 for each wick point spent, to a maximum of 4d6."
+											],
+											"name": "Burn Cycle"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"When you reach 13th level, some of your enchantments become more potent. You now use the alternate enchantments features found below. If you have yet to learn any of the following enchantments, you may learn one as part of this feature.",
+												"{@b Blooming Light.} Starting at 13th level, the effects of blooming light lasts for 8 hours.",
+												"{@b Burning Delay.} Starting at 13th level, you can delay the effects of your candle enchantments by 1 round, 3 rounds, 1 minute, 10 minutes, or 1 hour.",
+												"{@b Candle Pop.} Starting at 13th level, candle pop affects the target and each creature within 5 feet of it.",
+												"{@b Delicacy.} Starting at 13th level, the creature regains 1d12 hit points, instead of 1d6, and you can have up to 4 candles with this enchantment at a time.",
+												"{@b Maker's Mark.} Starting at 13th level, maker's mark has no limit to the number of times you can use it per turn.",
+												"{@b Shielding Seal.} Starting at 13th level, you can have up to three shielding seals active at a time, instead of one.",
+												"{@b Waxlings.} Starting at 13th level, you can spend 3 wick points as an action, instead of 2, to summon two waxlings simultaneously."
+											],
+											"name": "Advanced Enchantments"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"At 17th level, you learn to craft a specialty candle made of pink wax. As a bonus action, you can ignite this candle, which burns for 1 minute. As long as the burning candle is on your person, you gain the following benefits:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"The wick point cost of your enchantments is reduced by 1.",
+														"You have immunity to fire damage.",
+														"Spirits have disadvantage on attack rolls against you."
+													]
+												},
+												"If you fall prone while the burning candle is on your person, you must succeed on a DC 15 Dexterity saving throw or the candle is extinguished early.",
+												"Once you use this feature, you can't use it again until you finish a long rest."
+											],
+											"name": "Spirit Flame"
+										}
+									],
+									"name": "Waxwork Rogue (Rogue)"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"In the realm of magic, there exists a lineage of sorcerers whose blood bears an ancient connection to the oni. These sorcerers, known as Oni Kin, harness the magic of their lineage to weave powerful spells. But, as they delve deeper into their arcane abilities, they find themselves gradually transforming, both physically and spiritually, into embodiments of the oni's fearsome might.",
+										"At the onset of their journey and as they use their powers, Oni Kin begin to see subtle manifestations of their lineage's traits—changes in appearance and temperament. However, as they channel their magic with more skill, these traits begin to intensify. Their skin may change, their eyes may glow with an eerie light, and their once-subtle features become more pronounced, bearing the unmistakable visage of an oni.",
+										"As their power reaches its zenith, Oni Kin reach a pinnacle where they can fully embrace their heritage and assume the form of a true oni. In this form, they stand as towering figures of terror, wielding unparalleled magical might and physical prowess. Yet, with this transformation comes a perilous temptation—the struggle to maintain control over the oni's insatiable hunger for chaos and destruction. This struggle is not unnoticed by islanders, most of which fear or distrust the Oni Kin.",
+										{
+											"type": "entries",
+											"entries": [
+												"Trapped inside of you is the essence of the First Oni, passed down through its children and stretched across a long and treacherous lineage. As you grow in strength, so does the spirit within you. It desperately wishes to bubble to the surface, and it does so when you're at your weakest. At 1st level, you gain the traits of the oni, which manifest as you expend sorcery points. Each oni trait becomes available to you based on how many sorcery points you're missing from your total, represented by the table below. Regaining sorcery points can cause you to lose one or more oni traits.",
+												"Each oni trait has both a physical and an arcane manifestation, which lasts until you finish a long rest.",
+												{
+													"type": "table",
+													"colLabels": [
+														"Sorcery Points Missing",
+														"Manifestation"
+													],
+													"colStyles": [
+														"col-4",
+														"col-8"
+													],
+													"rows": [
+														[
+															"0–1",
+															"Eyes"
+														],
+														[
+															"2–4",
+															"Horns"
+														],
+														[
+															"5–9",
+															"Skin"
+														],
+														[
+															"10–14",
+															"Tongue"
+														],
+														[
+															"15 or more",
+															"Hair"
+														]
+													],
+													"caption": "Oni Traits"
+												},
+												"{@b Eyes.} Your eyes shimmer with an almost mesmerizing quality. As an action, you can activate your innate ocular charm. For 1 minute, you have advantage on all Charisma checks directed at one creature of your choice that isn't hostile toward you, provided it can see your eyes. When the effect ends, the creature must make a Wisdom saving throw against your spell save DC. On a success, the target realizes that you used magic to influence its mood and becomes hostile toward you. A creature prone to violence might attack you. Another creature might seek retribution in other ways (at the GM's discretion), depending on the nature of your interaction with it.",
+												"{@b Horns.} You gain horns which rapidly grow and jut out from your head. When casting a cantrip that requires you to make a melee or ranged spell attack, you can instead make a melee spell attack using your horns, channeling the spell through them. When you hit a creature with a cantrip cast in this way, the target takes an extra 1d6 piercing damage.",
+												"Additionally, when a hostile creature's movement provokes an opportunity attack from you, you can use your reaction to cast a cantrip at the creature using your horns rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature.",
+												"{@b Skin.} The hue of your skin turns to a dull red, green, or blue color and you adopt the regenerative powers of the oni. Whenever you cast a spell of 1st level or higher, you regain a number of hit points equal to the spell's level + your Constitution modifier. You don't gain this benefit if you activate the Tongue trait for that casting.",
+												"{@b Tongue.} With every incantation cast, the twisted and demonic voice of the First Oni can be heard within your speech. When you cast a spell that requires a verbal component and targets a single creature, you can also use your bonus action to cause the target to recoil in fear. The target must make a Wisdom saving throw against your spell save DC. On a failed save, the target must use its reaction, if available, to move up to half its speed away from you or fall prone (your choice).",
+												"{@b Hair.} Your hair turns a shocking white and stretches towards the ground as it grows to cover your back. You gain a +2 bonus to your AC."
+											],
+											"name": "Arcane Prison"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Starting at 6th level, you can manifest one of your oni traits, regardless of how many sorcery points you're missing. As a bonus action, you can gain one of the oni traits you could normally obtain through the expenditure of sorcery points and draw it out early. This trait lasts for 1 minute, and you lose it if you haven't gained the trait by normal means in that time.",
+												"Once you use this feature, you can't do so again until you finish a long rest."
+											],
+											"name": "Ogre Manipulation"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"At 14th level, your oni traits grow in strength. The following changes apply to your traits:",
+												"{@b Eyes.} In addition to the benefits you normally have, you learn the {@spell Zone of Truth} spell, which you can cast without expending a spell slot. When you cast it, only one creature of your choice within 60 feet of you is affected by the spell. The target must make its saving throw against the spell at the start of each of its turns, provided it can see your eyes; the spell ends early if the target can no longer see your eyes.",
+												"{@b Horns.} The extra damage dealt by your horns increases to 1d12.",
+												"{@b Skin.} Whenever you cast a spell of 1st level or higher, you now regain a number of hit points equal to twice the spell's level + your Constitution modifier.",
+												"{@b Tongue.} When you activate the Tongue trait using a spell slot of 5th level or higher, in place of the trait's normal effects, you can instead cause the target to tremble in fear, becoming hyper fixated on you. The target's passive Wisdom ({@skill Perception}) score is reduced to 5 and it takes a −5 penalty to its AC against all attacks that aren't made by you. This effect lasts until the start of your next turn."
+											],
+											"name": "Boiling Power"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Beginning at 18th level, you can fully embody the fabled visage of your demon ancestor without needing to exhaust your sorcerous power. As an action, you can instantly manifest all of your oni traits, regardless of how many sorcery points you're missing. While manifesting your oni traits in this way, you gain resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks, and you can't be charmed or frightened.",
+												"This effect lasts for 1 minute, after which you lose any trait you haven't gained by normal means in that time. Once you use this feature, you can't do so again until you finish a long rest, unless you spend 5 sorcery points to use it again."
+											],
+											"name": "Transformation"
+										}
+									],
+									"name": "Oni Bloodline (Sorcerer)"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Warlocks who make a pact with a powerful spirit are able to tap into the magic that flows through the Spirit Realm. These warlocks are known by the special lanterns they carry—lanterns that burn with the essence of their patron. The illumination of this vessel carries with it the attributes of the spirit, granting the warlock an array of abilities.",
+										"When spirits enter pacts with people, there is often more to it than generosity. Spirits powerful enough to lend out bits of their magic do so for a variety of reasons. Perhaps the spirit is beholden to do so due to a bargain or curse. It could be that the spirit needs allies (though they might not readily admit it). Or maybe they simply see something in you that amuses them. The things that motivate spirits are as varied as they are. And truly powerful spirits can be inscrutable.",
+										{
+											"type": "entries",
+											"entries": [
+												{
+													"type": "table",
+													"colLabels": [
+														"Warlock Level",
+														"Spells"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"1st",
+															"Faerie Fire*, Identify*"
+														],
+														[
+															"2nd",
+															"Locate Object*, Swallow Magic"
+														],
+														[
+															"3rd",
+															"Daylight*, Nondetection*"
+														],
+														[
+															"4th",
+															"Guardian of Faith*, Locate Creature*"
+														],
+														[
+															"5th",
+															"Create Spirit Train Stop, Tamh Gon's Fiery Festival Feast"
+														]
+													]
+												}
+											],
+											"name": "Spells"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Starting at 1st level, the essence of your spirit patron is channeled into a lantern, where it appears as a minor form of itself. You can use your lantern as a spellcasting focus for your warlock spells.",
+												"As a bonus action, you can activate your lantern, causing it to shed bright light in a 20-foot radius and dim light for an additional 20 feet. This light lasts for 1 minute, or until you let go of the lantern or choose to end this effect early (no action required). For the duration, you gain the following benefits:",
+												{
+													"type": "list",
+													"items": [
+														"Whenever you see a creature in your lantern's bright light make a saving throw, you can use your reaction to grant that creature a bonus to the save equal to your Charisma modifier (minimum of +1).",
+														"Whenever a hostile creature within your lantern's dim light fails a saving throw, it takes radiant damage equal to half your warlock level (rounded up)."
+													]
+												},
+												"Once you use this feature, you can't do so again until you finish a short or long rest."
+											],
+											"name": "Illuminating Aura"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Starting at 1st level, you can use an action to cause your lantern to illuminate with a vibrant maroon light, which sheds bright light in a 10-foot radius and dim light for an additional 10 feet. Invisible creatures and objects are visible as long as they are in the lantern's bright light. The lantern sheds light in this manner for 1 hour or until you snuff it out early as a bonus action.",
+												"Once you use this feature, you can't do so again until you finish a short or long rest."
+											],
+											"name": "Revealing Light"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Starting at 6th level, your Illuminating Aura no longer ends if you let go of your lantern. While you aren't holding your lantern, you can magically take control of it for 1 minute (no action required), using it as if it were a {@spell Spiritual Weapon} cast as a 2nd-level spell. Your lantern continues to act as your spellcasting focus while using this feature, even though you are no longer holding the lantern.",
+												"The level at which {@spell Spiritual Weapon} is cast increases when you reach certain levels in this class, increasing to a 4th-level spell at 10th level and a 6th-level spell at 15th level.",
+												"Once you take control of your lantern in this way, you can't do so again until you finish a long rest, unless you expend a warlock spell slot to take control of it again."
+											],
+											"name": "Dangerous Tool"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Beginning at 6th level, you can spend an action to magically connect your mind to a light source such as a candle or torch that you can see or are familiar with. The light source acts as if it were the sensor created by the {@spell Clairvoyance} spell, granting you the same benefits. You can use the light source in this way for 10 minutes or until you use this feature again.",
+												"Once you use this feature on a light source, you can't use it on the same light source again until you finish a long rest."
+											],
+											"name": "Oracle Illumination"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Starting at 10th level, while your lantern's Illuminating Aura is active you can use an action to cause the light to flare with an overwhelmingly brilliant flash. Each creature other than you illuminated by either your lantern's bright light or dim light (your choice) must make a Constitution saving throw against your warlock spell save DC. On a failed save, a creature takes radiant damage equal to 2d8 + your warlock level and is blinded until the end of your next turn. On a successful save, the creature takes half as much damage and isn't blinded.",
+												"Once you use this feature, you can't do so again until you finish a short or long rest."
+											],
+											"name": "Brilliant Illumination"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"At 14th level, you gain the ability to activate your lantern's Illuminating Aura at will. Features such as Dangerous Tool and Brilliant Illumination that work in conjunction with Illuminating Aura are still limited to the number of uses described in their respective features.",
+												"Additionally, while holding your lantern, you can use an action to cause it to illuminate with a pale blue light, revealing a glowing arcane path to a location you're familiar with, as if casting the {@spell Find the Path} spell.",
+												"Once you use your lantern in this way, you can't do so again until you finish a long rest."
+											],
+											"name": "Brighter Still"
+										}
+									],
+									"name": "The Lantern (Warlock)"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Origami Mages are wielders of a unique form of magic that combines precision, creativity, and imagination. With a flick of their wrist and a whisper of arcane words, they transform simple sheets of paper into awe-inspiring manifestations of elemental forces, mystical beings, and fantastical creatures.",
+										"Drawing inspiration from the mysterious elegance of origami, these mages are not bound by traditional spell components but instead rely on the meticulous manipulation of paper to channel their magical energies. Origami magic is not without its challenges. Mastery of this arcane discipline demands patience, dexterity, and a keen eye for detail. Each fold must be precise, each crease exact, for even the smallest imperfection can disrupt the flow of magic and render a spell ineffective. Yet, for those who persevere, the rewards are boundless.",
+										{
+											"type": "entries",
+											"entries": [
+												"At 2nd level, you learn to weave magic into origami, allowing you to create magnificent moving art pieces, which act on your behalf. As a bonus action, you can fold and imbue life into a paper construct that takes a form you choose from the list below. When crafted, an origami construct becomes bound to you or another creature of your choice that you can see within 60 feet of you.",
+												"A creature with a bound origami construct gains the unique effects and features listed for that construct. A creature can't have more than one of the same origami construct bound to it at a time, unless stated otherwise. A bound construct occupies the same space as the creature it's bound to.",
+												"These constructs stay imbued with life for a number of hours equal to half your wizard level. Origami constructs have an AC equal to your spell save DC, are immune to poison and psychic damage, and are destroyed when they take any damage. You can use this feature to create an origami construct a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+											],
+											"name": "An Arcane Art"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The constructs are presented in alphabetical order.",
+												"{@b Bird.} While the origami bird is bound to your person, you gain proficiency in the Perception skill. Additionally, you deal an additional 2 slashing damage whenever you hit a target with a ranged attack.",
+												"{@b Cat.} While the origami cat is bound to your person, you gain proficiency in the Stealth skill. Additionally, once on each of your turns when you hit a target with a melee weapon attack, the origami cat can make a melee spell attack against the same target. Its attack modifier is equal to your weapon attack modifier, and on a hit, the target takes 1d6 slashing damage.",
+												"The origami cat's damage increases when you reach certain levels in this class: 1d8 at 5th level, 1d10 at 11th level, and 1d12 at 17th level.",
+												"{@b Crab.} While the origami crab is bound to your person, you gain a +1 bonus to your AC and proficiency in the Athletics skill. If the wizard that crafted this origami crab creates another, this origami crab is destroyed.",
+												"{@b Dragon.} While the origami dragon is bound to your person, you have disadvantage on Dexterity (Stealth) checks and can't benefit from being invisible. Additionally, you take 1d4 fire damage at the start of each of your turns. You can have multiple origami dragons bound to you at the same time.",
+												"When the construct is destroyed, it quickly pops in an audible explosion, dealing 2d6 fire damage to each creature within 5 feet of it.",
+												"{@b Frog.} While the origami frog is bound to your person, you gain proficiency in the Acrobatics skill. As a reaction, when you would fail a Dexterity saving throw, you can add a bonus to the roll equal to the spellcasting ability modifier of the wizard that crafted the construct; using this feature destroys the origami frog."
+											],
+											"name": "Origami Constructs"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"At 2nd level, you learn the {@spell Find Familiar} spell; you always have it prepared, and it doesn't count against the number of spells you can prepare each day. Your familiar appears as an origami version of itself, is immune to poison and psychic damage, and is a construct, instead of a celestial, fey, or fiend. In addition to the familiar's normal statistics, it also gains access to the following abilities.",
+												"{@b Camouflage.} You can command your familiar to shift into a flattened paper form. In this form the familiar looks nearly indistinguishable from a normal piece of paper. If a creature uses its action to examine the familiar, it can discern the familiar for what it is with a successful Intelligence ({@skill Investigation}) check against your spell save DC. The familiar can use an action to shift back into its origami form.",
+												"{@b Last Resort.} As an action, your origami familiar can dive toward a creature, unfurling itself and wrapping around the target's face, as if a sheet of paper blown by the wind. The target must make a Dexterity saving throw against your spell save DC or become blinded for 1 minute. A creature blinded by the paper or one that can touch the creature can use its action to make a Strength check against your spell save DC. On a success, the target is no longer blinded. When this effect ends, your familiar is destroyed.",
+												"{@b Reconnaissance.} As an action, you can command your familiar to spy. The origami familiar will then spend 1 minute listening to any and all sounds within 15 feet of itself, recording what it overhears on its paper body. It then returns to you and dispels its familiar form, leaving behind a transcript of its findings written in a language of your choice that you know."
+											],
+											"name": "Origami Familiar"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Starting at 6th level, you can use a bonus action to move one of your origami constructs to a creature that you can see within 30 feet of it."
+											],
+											"name": "Binding Release"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Also at 6th level, when you cast a spell with a range of touch, your origami construct can deliver the spell as if it had cast the spell. Your construct must be within 100 feet of you. If the spell requires an attack roll, you use your attack modifier for the roll."
+											],
+											"name": "Paper Path"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Beginning at 10th level, you learn the {@spell Unseen Servant} spell; you always have it prepared, and it doesn't count against the number of spells you can prepare each day. In addition, you can cast it without expending a spell slot, but the maximum number of servants you can have at a time is equal to half your wizard level (rounded up). When you cast it, it has the following changes:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"The spell lasts for a number of hours equal to your proficiency bonus, instead of 1 hour.",
+														"Your servant appears as a visible origami version of itself.",
+														"Your servant is immune to poison and psychic damage.",
+														"Your servant can move through a space as narrow as 1 inch wide without squeezing.",
+														"When you use your bonus action to command a servant, you can issue a unique command to each servant you have created as part of the same bonus action.",
+														"Your servant falls at a rate of 60 feet per round and takes no falling damage.",
+														"Your servant can see invisible creatures and objects as if they were visible.",
+														"As an action, while your servant is within 100 feet of you, you can see through your servant's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the servant has. During this time, you are deaf and blind with regard to your own senses."
+													]
+												}
+											],
+											"name": "Origami Servant"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"At 14th level, your origami constructs return the magic you lent them when you imbued them with life whenever they are destroyed. When one of your constructs is destroyed, you can regain 10 hit points or regain a spell slot of 2nd level or lower (your choice).",
+												"Additionally, when one of your constructs would take damage, you can use your reaction to negate the damage against it. Once you use this ability, you can't do so again until you finish a long rest."
+											],
+											"name": "Arcane Refresh"
+										}
+									],
+									"name": "Origami Mage (Wizard)"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The sheep dragon is often regarded as the epitome of goodness and authenticity on the island. These creatures are dedicated to freedom and unwavering kinship. Those shepherds living and training among the wandering sheep dragons learn to care deeply for those around them and understand how a flock works together to overcome obstacles. They must be ready to flee to safety yet know when to defend their herd. The role of a sheep dragon shepherd requires resilience, compassion, and a kind heart. Because of this, shepherds across the island are regarded by the people of Obojima as heroic and sometimes even mythic figures.",
+										{
+											"type": "entries",
+											"entries": [
+												"As the tale goes, the first shepherd was a wind spirit who went by the name Ventu. The spirit lived among the grass and called all that grazed the central fields of Obojima their friend, but of those creatures, none pleased Ventu more than the playful sheep dragon. In time Ventu and the sheep dragon became inseparable. The seasons would speed away, and still, the pair would frolic and parade the Gale Fields with careless glee. It's during this time that people say Ventu gifted the sheep dragon the ability to fly and control the winds.",
+												"One day, as Ventu explored the fields, they noticed something unsettling in the distance. A great pillar of black smoke split the horizon in two. Ventu rushed across the rolling hills, only to be met by terrible disaster. A raging fire had scorched the southern fields and slowly crawled northward. Ventu, heartbroken at the thought of what might become of the sheep dragon just beyond the hillside, made the heroic choice to stand against the inferno by themself.",
+												"To this day, it's unknown what became of Ventu, but the majestic sheep dragon stands as a testament to their kindness and bravery."
+											],
+											"name": "Historic Past"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"At 3rd level, you gain the ability to herd your allies, calling them closer or moving them out of danger. As a bonus action, you can spend 1 or more ki points to cause a willing creature that you can see within 60 feet of you to move toward you or in any other direction. This movement doesn't provoke opportunity attacks. If the creature moves toward you, it can move up to 15 feet per ki point spent; if it moves in any other direction, it can move up to 10 feet per ki point spent. A creature can't move in this way more than its speed would allow.",
+												"At higher levels, when you use this feature you can target additional creatures. At 5th level you can target 2 creatures, 3 creatures at 10th, and 4 creatures at 15th."
+											],
+											"name": "Herding Sheep"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"When you reach 6th level, you gain the ability to mimic the sheep dragon's wind pistol, blasting enemies with powerful gale forces at a distance. When you make an unarmed strike, you can instead choose to make a special attack, firing a compressed blast of air from your mouth. This ranged weapon attack has a range of 60 feet, and it uses the same attack bonus and damage die as your unarmed strike.",
+												"Additionally, when you hit a target with this special attack, you can choose to spend 1 ki point to force the target to make a Strength saving throw against your ki save DC. On a failed save, the target is knocked prone or pushed 10 feet away from you (your choice)."
+											],
+											"name": "Wind Shot"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Also at 6th level, your protective nature comes out in heightened moments of skillful deflection for a nearby ally. As a reaction, when a friendly creature within 10 feet of you is hit by an attack, you can spend 1 ki point to reduce the damage it takes by an amount equal to one roll of your Martial Arts die + your Dexterity modifier."
+											],
+											"name": "Intercepting Maneuver"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"By the time you reach 11th level, you've mastered a unique technique that lets you glide on the wind, just like a majestic sheep dragon. When you use your Step of the Wind, you also gain a flying speed equal to your walking speed. This flying speed lasts until the end of your turn.",
+												"Additionally, when you use your Step of the Wind, you simultaneously take both the Disengage and Dash action."
+											],
+											"name": "Take to the Skies"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"At 17th level, your vigilant watch of your companions while in the midst of combat allows you to give them cues as to when they should raise their defenses. Whenever you use your Patient Defense to gain the benefits of the Dodge action, you can spend 1 additional ki point to share that benefit with your allies. Each friendly creature that can see or hear you and is within 30 feet of you can immediately use its reaction to also gain the benefits of the Dodge action until the start of your next turn."
+											],
+											"name": "Guide to the Herd"
+										}
+									],
+									"name": "Sheep Dragon Shepherd (Monk)"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Those who commit themselves to the Oath of the River have found guidance in the shifting waters and the great creatures that live within them. These diverse individuals model their lives and the tenets they follow after the tranquil waters of a blue pool and the rushing rapids that spill over a great waterfall, always striving to flow around obstacles if possible, but ready to crash through them when left with no other option. As the river flows and bends, it seeks the path of least resistance in its travels to the ocean. Like the river, paladins who have sworn this oath remain adaptable but steadfast in their own course.",
+										{
+											"type": "inset",
+											"name": "Religious Archetypes",
+											"entries": [
+												"In Obojima, there are no deities of any sort, which means characters like clerics and paladins must instead draw their power from some other sources. Alternatively, these heroic characters draw their strength from their devotion to ideals and the natural magic that comes from a person who dedicates their life to their beliefs."
+											]
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The tenets of the Oath of The River vary by paladin, but all of them revolve around embracing the flow and adaptability found in water. Paladins who uphold these tenets must understand when it is best to dispatch justice through violence or through understanding and forgiveness. The core principles of the tenets are:",
+												"{@b The River Flows On.} Forgiveness can be as sharp as any blade.",
+												"{@b The River Quenches or Drowns.} Judgment is reserved for those truly deserving of it.",
+												"{@b The River Rages.} If I must battle, I will fight with all my passion and strength.",
+												"{@b The River Seeks the Sea…Always.} I will not abandon my duty, especially when others are counting on me."
+											],
+											"name": "Tenets of the River"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"You gain oath spells at the paladin levels listed.",
+												{
+													"type": "table",
+													"colLabels": [
+														"Paladin Level",
+														"Spells"
+													],
+													"colStyles": [
+														"col-2 text-center",
+														"col-10"
+													],
+													"rows": [
+														[
+															"3rd",
+															"Bless*, Whelm Weapon"
+														],
+														[
+															"5th",
+															"Find Steed*, Lesser Restoration*"
+														],
+														[
+															"9th",
+															"Water Breathing*, Water Walk*"
+														],
+														[
+															"13th",
+															"Control Water*, Freedom of Movement*"
+														],
+														[
+															"17th",
+															"Mass Cure Wounds*, Submerge"
+														]
+													]
+												}
+											],
+											"name": "Oath Spells"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"When you take this oath at 3rd level, you gain the following two Channel Divinity options.",
+												"{@b Rushing Rapids.} As an action, you can cause a forceful wave of water to erupt outward in a 20-foot radius centered on you. Each Large or smaller creature of your choice in the area must succeed on a Strength saving throw or be pushed 5 feet outside of it.",
+												"{@b Blessed Pool.} As a bonus action, you speak gentle yet courageous words that encourage your allies and heal them. Choose a number of creatures up to twice your Charisma modifier (minimum 2) that you can see within 30 feet of you. Each creature regains 2d6 hit points."
+											],
+											"name": "Channel Divinity"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Starting at 7th level, you emanate an aura that causes the area around you to feel as if wading into a body of water, slowing down your enemies as they approach. The area within 10 feet of you is considered difficult terrain for other creatures. You can designate any number of creatures you can see to be unaffected by it (no action required).",
+												"In addition, the first time you hit a Large or smaller creature on your turn with a melee attack, you can use your aura to move the target up to 10 feet to an unoccupied space you choose.",
+												"At 18th level, the area within 30 feet of you, instead of 10 feet, is considered difficult terrain for other creatures."
+											],
+											"name": "Aura of the River"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Beginning at 15th level, whenever you make a Dexterity saving throw, you can use your reaction to halve any damage you would take from the effect. When you do so, you can also expend a spell slot to extend this benefit to nearby allies. Choose a number of creatures within 10 feet of you equal to the level of the spell slot expended; the damage is also halved for each of those creatures."
+											],
+											"name": "Shielding Spirit"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Starting at 20th level, you can manifest the powerful visage of a river spirit around your body. As a bonus action, you gain the following benefits for 1 minute:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"You gain a swimming speed of 60 feet, and your walking speed increases by 15 feet.",
+														"You have advantage on all saving throws.",
+														"Whenever you successfully move a creature with your aura you can choose to deal 2d8 bludgeoning damage to it."
+													]
+												},
+												"Once you use this bonus action, you can't use it again until you finish a long rest, unless you expend a 5th-level spell slot to use it again."
+											],
+											"name": "Form of the River"
+										}
+									],
+									"name": "Oath of the River (Paladin)"
+								}
+							],
+							"name": "Subclasses"
 						}
 					]
 				}
@@ -5338,12 +6292,944 @@
 			]
 		}
 	],
-	"subclass": [],
-	"subclassFeature": [],
+	"subclass": [
+		{
+			"name": "Path of the Belly Brewer",
+			"shortName": "Belly Brewer",
+			"source": "OBOJIMA",
+			"className": "Barbarian",
+			"classSource": "PHB",
+			"page": 132,
+			"entries": [
+				"See \"Path of the Belly Brewer (Barbarian)\" under Subclasses in the Player Options chapter for the full subclass text."
+			]
+		},
+		{
+			"name": "College of Masks",
+			"shortName": "Masks",
+			"source": "OBOJIMA",
+			"className": "Bard",
+			"classSource": "PHB",
+			"page": 132,
+			"entries": [
+				"See \"College of Masks (Bard)\" under Subclasses in the Player Options chapter for the full subclass text."
+			]
+		},
+		{
+			"name": "Circle of the Petal",
+			"shortName": "Petal",
+			"source": "OBOJIMA",
+			"className": "Druid",
+			"classSource": "PHB",
+			"page": 132,
+			"entries": [
+				"See \"Circle of the Petal (Druid)\" under Subclasses in the Player Options chapter for the full subclass text."
+			]
+		},
+		{
+			"name": "The Spirit-Fused Fighter",
+			"shortName": "Spirit-Fused",
+			"source": "OBOJIMA",
+			"className": "Fighter",
+			"classSource": "PHB",
+			"page": 132,
+			"entries": [
+				"See \"The Spirit-Fused Fighter (Fighter)\" under Subclasses in the Player Options chapter for the full subclass text."
+			]
+		},
+		{
+			"name": "Sheep Dragon Shepherd",
+			"shortName": "Sheep Dragon",
+			"source": "OBOJIMA",
+			"className": "Monk",
+			"classSource": "PHB",
+			"page": 132,
+			"entries": [
+				"See \"Sheep Dragon Shepherd (Monk)\" under Subclasses in the Player Options chapter for the full subclass text."
+			]
+		},
+		{
+			"name": "Oath of the River",
+			"shortName": "River",
+			"source": "OBOJIMA",
+			"className": "Paladin",
+			"classSource": "PHB",
+			"page": 132,
+			"entries": [
+				"See \"Oath of the River (Paladin)\" under Subclasses in the Player Options chapter for the full subclass text."
+			]
+		},
+		{
+			"name": "Corrupted Ranger",
+			"shortName": "Corrupted",
+			"source": "OBOJIMA",
+			"className": "Ranger",
+			"classSource": "PHB",
+			"page": 132,
+			"entries": [
+				"See \"Corrupted Ranger (Ranger)\" under Subclasses in the Player Options chapter for the full subclass text."
+			]
+		},
+		{
+			"name": "Waxwork Rogue",
+			"shortName": "Waxwork",
+			"source": "OBOJIMA",
+			"className": "Rogue",
+			"classSource": "PHB",
+			"page": 132,
+			"entries": [
+				"See \"Waxwork Rogue (Rogue)\" under Subclasses in the Player Options chapter for the full subclass text."
+			]
+		},
+		{
+			"name": "Oni Bloodline",
+			"shortName": "Oni",
+			"source": "OBOJIMA",
+			"className": "Sorcerer",
+			"classSource": "PHB",
+			"page": 132,
+			"entries": [
+				"See \"Oni Bloodline (Sorcerer)\" under Subclasses in the Player Options chapter for the full subclass text."
+			]
+		},
+		{
+			"name": "The Lantern",
+			"shortName": "Lantern",
+			"source": "OBOJIMA",
+			"className": "Warlock",
+			"classSource": "PHB",
+			"page": 132,
+			"entries": [
+				"See \"The Lantern (Warlock)\" under Subclasses in the Player Options chapter for the full subclass text."
+			]
+		},
+		{
+			"name": "Origami Mage",
+			"shortName": "Origami",
+			"source": "OBOJIMA",
+			"className": "Wizard",
+			"classSource": "PHB",
+			"page": 132,
+			"entries": [
+				"See \"Origami Mage (Wizard)\" under Subclasses in the Player Options chapter for the full subclass text."
+			]
+		}
+	],
+	"subclassFeature": [
+		{
+			"name": "Belly Concoction",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Barbarian",
+			"classSource": "PHB",
+			"subclassShortName": "Belly Brewer",
+			"subclassSource": "OBOJIMA",
+			"level": 3,
+			"entries": [
+				"See \"Belly Concoction\" under the Path of the Belly Brewer (Barbarian) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Side Effects",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Barbarian",
+			"classSource": "PHB",
+			"subclassShortName": "Belly Brewer",
+			"subclassSource": "OBOJIMA",
+			"level": 3,
+			"entries": [
+				"See \"Side Effects\" under the Path of the Belly Brewer (Barbarian) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Quick Brew",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Barbarian",
+			"classSource": "PHB",
+			"subclassShortName": "Belly Brewer",
+			"subclassSource": "OBOJIMA",
+			"level": 6,
+			"entries": [
+				"See \"Quick Brew\" under the Path of the Belly Brewer (Barbarian) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Lingering Effects",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Barbarian",
+			"classSource": "PHB",
+			"subclassShortName": "Belly Brewer",
+			"subclassSource": "OBOJIMA",
+			"level": 10,
+			"entries": [
+				"See \"Lingering Effects\" under the Path of the Belly Brewer (Barbarian) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Mighty Quick Brew",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Barbarian",
+			"classSource": "PHB",
+			"subclassShortName": "Belly Brewer",
+			"subclassSource": "OBOJIMA",
+			"level": 14,
+			"entries": [
+				"See \"Mighty Quick Brew\" under the Path of the Belly Brewer (Barbarian) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Tools of Performance",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Bard",
+			"classSource": "PHB",
+			"subclassShortName": "Masks",
+			"subclassSource": "OBOJIMA",
+			"level": 3,
+			"entries": [
+				"See \"Tools of Performance\" under the College of Masks (Bard) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Copycat",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Bard",
+			"classSource": "PHB",
+			"subclassShortName": "Masks",
+			"subclassSource": "OBOJIMA",
+			"level": 3,
+			"entries": [
+				"See \"Copycat\" under the College of Masks (Bard) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Many-Masked Performance",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Bard",
+			"classSource": "PHB",
+			"subclassShortName": "Masks",
+			"subclassSource": "OBOJIMA",
+			"level": 6,
+			"entries": [
+				"See \"Many-Masked Performance\" under the College of Masks (Bard) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Gift of Theatre",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Bard",
+			"classSource": "PHB",
+			"subclassShortName": "Masks",
+			"subclassSource": "OBOJIMA",
+			"level": 14,
+			"entries": [
+				"See \"Gift of Theatre\" under the College of Masks (Bard) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Petal Dance",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Druid",
+			"classSource": "PHB",
+			"subclassShortName": "Petal",
+			"subclassSource": "OBOJIMA",
+			"level": 2,
+			"entries": [
+				"See \"Petal Dance\" under the Circle of the Petal (Druid) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Petal Beast Mimicry",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Druid",
+			"classSource": "PHB",
+			"subclassShortName": "Petal",
+			"subclassSource": "OBOJIMA",
+			"level": 6,
+			"entries": [
+				"See \"Petal Beast Mimicry\" under the Circle of the Petal (Druid) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Spirit of Obojima",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Druid",
+			"classSource": "PHB",
+			"subclassShortName": "Petal",
+			"subclassSource": "OBOJIMA",
+			"level": 10,
+			"entries": [
+				"See \"Spirit of Obojima\" under the Circle of the Petal (Druid) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Winds of Revival",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Druid",
+			"classSource": "PHB",
+			"subclassShortName": "Petal",
+			"subclassSource": "OBOJIMA",
+			"level": 14,
+			"entries": [
+				"See \"Winds of Revival\" under the Circle of the Petal (Druid) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Arcane Quirk",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "Spirit-Fused",
+			"subclassSource": "OBOJIMA",
+			"level": 3,
+			"entries": [
+				"See \"Arcane Quirk\" under the The Spirit-Fused Fighter (Fighter) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Channel Essence",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "Spirit-Fused",
+			"subclassSource": "OBOJIMA",
+			"level": 3,
+			"entries": [
+				"See \"Channel Essence\" under the The Spirit-Fused Fighter (Fighter) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Object Channeling",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "Spirit-Fused",
+			"subclassSource": "OBOJIMA",
+			"level": 3,
+			"entries": [
+				"See \"Object Channeling\" under the The Spirit-Fused Fighter (Fighter) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Spirit Battery",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "Spirit-Fused",
+			"subclassSource": "OBOJIMA",
+			"level": 7,
+			"entries": [
+				"See \"Spirit Battery\" under the The Spirit-Fused Fighter (Fighter) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Improved Object Channeling",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "Spirit-Fused",
+			"subclassSource": "OBOJIMA",
+			"level": 7,
+			"entries": [
+				"See \"Improved Object Channeling\" under the The Spirit-Fused Fighter (Fighter) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Improvised Armor",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "Spirit-Fused",
+			"subclassSource": "OBOJIMA",
+			"level": 10,
+			"entries": [
+				"See \"Improvised Armor\" under the The Spirit-Fused Fighter (Fighter) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Backup Battery",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "Spirit-Fused",
+			"subclassSource": "OBOJIMA",
+			"level": 15,
+			"entries": [
+				"See \"Backup Battery\" under the The Spirit-Fused Fighter (Fighter) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Junk Master",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "Spirit-Fused",
+			"subclassSource": "OBOJIMA",
+			"level": 18,
+			"entries": [
+				"See \"Junk Master\" under the The Spirit-Fused Fighter (Fighter) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Herding Sheep",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Monk",
+			"classSource": "PHB",
+			"subclassShortName": "Sheep Dragon",
+			"subclassSource": "OBOJIMA",
+			"level": 3,
+			"entries": [
+				"See \"Herding Sheep\" under the Sheep Dragon Shepherd (Monk) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Wind Shot",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Monk",
+			"classSource": "PHB",
+			"subclassShortName": "Sheep Dragon",
+			"subclassSource": "OBOJIMA",
+			"level": 6,
+			"entries": [
+				"See \"Wind Shot\" under the Sheep Dragon Shepherd (Monk) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Intercepting Maneuver",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Monk",
+			"classSource": "PHB",
+			"subclassShortName": "Sheep Dragon",
+			"subclassSource": "OBOJIMA",
+			"level": 6,
+			"entries": [
+				"See \"Intercepting Maneuver\" under the Sheep Dragon Shepherd (Monk) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Take to the Skies",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Monk",
+			"classSource": "PHB",
+			"subclassShortName": "Sheep Dragon",
+			"subclassSource": "OBOJIMA",
+			"level": 11,
+			"entries": [
+				"See \"Take to the Skies\" under the Sheep Dragon Shepherd (Monk) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Guide to the Herd",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Monk",
+			"classSource": "PHB",
+			"subclassShortName": "Sheep Dragon",
+			"subclassSource": "OBOJIMA",
+			"level": 17,
+			"entries": [
+				"See \"Guide to the Herd\" under the Sheep Dragon Shepherd (Monk) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Oath Spells",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Paladin",
+			"classSource": "PHB",
+			"subclassShortName": "River",
+			"subclassSource": "OBOJIMA",
+			"level": 3,
+			"entries": [
+				"See \"Oath Spells\" under the Oath of the River (Paladin) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Channel Divinity",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Paladin",
+			"classSource": "PHB",
+			"subclassShortName": "River",
+			"subclassSource": "OBOJIMA",
+			"level": 3,
+			"entries": [
+				"See \"Channel Divinity\" under the Oath of the River (Paladin) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Aura of the River",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Paladin",
+			"classSource": "PHB",
+			"subclassShortName": "River",
+			"subclassSource": "OBOJIMA",
+			"level": 7,
+			"entries": [
+				"See \"Aura of the River\" under the Oath of the River (Paladin) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Shielding Spirit",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Paladin",
+			"classSource": "PHB",
+			"subclassShortName": "River",
+			"subclassSource": "OBOJIMA",
+			"level": 15,
+			"entries": [
+				"See \"Shielding Spirit\" under the Oath of the River (Paladin) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Form of the River",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Paladin",
+			"classSource": "PHB",
+			"subclassShortName": "River",
+			"subclassSource": "OBOJIMA",
+			"level": 20,
+			"entries": [
+				"See \"Form of the River\" under the Oath of the River (Paladin) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "1st Manifestation",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Ranger",
+			"classSource": "PHB",
+			"subclassShortName": "Corrupted",
+			"subclassSource": "OBOJIMA",
+			"level": 3,
+			"entries": [
+				"See \"1st Manifestation\" under the Corrupted Ranger (Ranger) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "2nd Manifestation",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Ranger",
+			"classSource": "PHB",
+			"subclassShortName": "Corrupted",
+			"subclassSource": "OBOJIMA",
+			"level": 3,
+			"entries": [
+				"See \"2nd Manifestation\" under the Corrupted Ranger (Ranger) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "3rd Manifestation",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Ranger",
+			"classSource": "PHB",
+			"subclassShortName": "Corrupted",
+			"subclassSource": "OBOJIMA",
+			"level": 7,
+			"entries": [
+				"See \"3rd Manifestation\" under the Corrupted Ranger (Ranger) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "4th Manifestation",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Ranger",
+			"classSource": "PHB",
+			"subclassShortName": "Corrupted",
+			"subclassSource": "OBOJIMA",
+			"level": 11,
+			"entries": [
+				"See \"4th Manifestation\" under the Corrupted Ranger (Ranger) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "5th Manifestation",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Ranger",
+			"classSource": "PHB",
+			"subclassShortName": "Corrupted",
+			"subclassSource": "OBOJIMA",
+			"level": 15,
+			"entries": [
+				"See \"5th Manifestation\" under the Corrupted Ranger (Ranger) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Conjure Flame",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Waxwork",
+			"subclassSource": "OBOJIMA",
+			"level": 3,
+			"entries": [
+				"See \"Conjure Flame\" under the Waxwork Rogue (Rogue) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Wax Enchantments",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Waxwork",
+			"subclassSource": "OBOJIMA",
+			"level": 3,
+			"entries": [
+				"See \"Wax Enchantments\" under the Waxwork Rogue (Rogue) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Burn Cycle",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Waxwork",
+			"subclassSource": "OBOJIMA",
+			"level": 9,
+			"entries": [
+				"See \"Burn Cycle\" under the Waxwork Rogue (Rogue) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Advanced Enchantments",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Waxwork",
+			"subclassSource": "OBOJIMA",
+			"level": 13,
+			"entries": [
+				"See \"Advanced Enchantments\" under the Waxwork Rogue (Rogue) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Spirit Flame",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Waxwork",
+			"subclassSource": "OBOJIMA",
+			"level": 17,
+			"entries": [
+				"See \"Spirit Flame\" under the Waxwork Rogue (Rogue) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Arcane Prison",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Sorcerer",
+			"classSource": "PHB",
+			"subclassShortName": "Oni",
+			"subclassSource": "OBOJIMA",
+			"level": 1,
+			"entries": [
+				"See \"Arcane Prison\" under the Oni Bloodline (Sorcerer) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Ogre Manipulation",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Sorcerer",
+			"classSource": "PHB",
+			"subclassShortName": "Oni",
+			"subclassSource": "OBOJIMA",
+			"level": 6,
+			"entries": [
+				"See \"Ogre Manipulation\" under the Oni Bloodline (Sorcerer) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Boiling Power",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Sorcerer",
+			"classSource": "PHB",
+			"subclassShortName": "Oni",
+			"subclassSource": "OBOJIMA",
+			"level": 14,
+			"entries": [
+				"See \"Boiling Power\" under the Oni Bloodline (Sorcerer) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Transformation",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Sorcerer",
+			"classSource": "PHB",
+			"subclassShortName": "Oni",
+			"subclassSource": "OBOJIMA",
+			"level": 18,
+			"entries": [
+				"See \"Transformation\" under the Oni Bloodline (Sorcerer) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Illuminating Aura",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Lantern",
+			"subclassSource": "OBOJIMA",
+			"level": 1,
+			"entries": [
+				"See \"Illuminating Aura\" under the The Lantern (Warlock) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Revealing Light",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Lantern",
+			"subclassSource": "OBOJIMA",
+			"level": 1,
+			"entries": [
+				"See \"Revealing Light\" under the The Lantern (Warlock) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Dangerous Tool",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Lantern",
+			"subclassSource": "OBOJIMA",
+			"level": 6,
+			"entries": [
+				"See \"Dangerous Tool\" under the The Lantern (Warlock) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Oracle Illumination",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Lantern",
+			"subclassSource": "OBOJIMA",
+			"level": 6,
+			"entries": [
+				"See \"Oracle Illumination\" under the The Lantern (Warlock) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Brilliant Illumination",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Lantern",
+			"subclassSource": "OBOJIMA",
+			"level": 10,
+			"entries": [
+				"See \"Brilliant Illumination\" under the The Lantern (Warlock) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Brighter Still",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Lantern",
+			"subclassSource": "OBOJIMA",
+			"level": 14,
+			"entries": [
+				"See \"Brighter Still\" under the The Lantern (Warlock) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "An Arcane Art",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Wizard",
+			"classSource": "PHB",
+			"subclassShortName": "Origami",
+			"subclassSource": "OBOJIMA",
+			"level": 2,
+			"entries": [
+				"See \"An Arcane Art\" under the Origami Mage (Wizard) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Origami Familiar",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Wizard",
+			"classSource": "PHB",
+			"subclassShortName": "Origami",
+			"subclassSource": "OBOJIMA",
+			"level": 2,
+			"entries": [
+				"See \"Origami Familiar\" under the Origami Mage (Wizard) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Binding Release",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Wizard",
+			"classSource": "PHB",
+			"subclassShortName": "Origami",
+			"subclassSource": "OBOJIMA",
+			"level": 6,
+			"entries": [
+				"See \"Binding Release\" under the Origami Mage (Wizard) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Paper Path",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Wizard",
+			"classSource": "PHB",
+			"subclassShortName": "Origami",
+			"subclassSource": "OBOJIMA",
+			"level": 6,
+			"entries": [
+				"See \"Paper Path\" under the Origami Mage (Wizard) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Origami Servant",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Wizard",
+			"classSource": "PHB",
+			"subclassShortName": "Origami",
+			"subclassSource": "OBOJIMA",
+			"level": 10,
+			"entries": [
+				"See \"Origami Servant\" under the Origami Mage (Wizard) subclass in the Player Options chapter for the full feature text."
+			]
+		},
+		{
+			"name": "Arcane Refresh",
+			"source": "OBOJIMA",
+			"page": 132,
+			"className": "Wizard",
+			"classSource": "PHB",
+			"subclassShortName": "Origami",
+			"subclassSource": "OBOJIMA",
+			"level": 14,
+			"entries": [
+				"See \"Arcane Refresh\" under the Origami Mage (Wizard) subclass in the Player Options chapter for the full feature text."
+			]
+		}
+	],
 	"background": [],
 	"spell": [],
 	"baseitem": [],
 	"optionalfeature": [],
 	"item": [],
-	"monster": []
+	"monster": [
+		{
+			"name": "Bestial Spirit",
+			"source": "OBOJIMA",
+			"page": 137,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "spirit"
+			},
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				15
+			],
+			"hp": {
+				"average": 38,
+				"formula": "8d6 + 10"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"str": 15,
+			"dex": 15,
+			"con": 15,
+			"int": 9,
+			"wis": 12,
+			"cha": 9,
+			"skill": {
+				"intimidation": "+1",
+				"perception": "+3",
+				"stealth": "+4"
+			},
+			"senses": [
+				"passive Perception 13"
+			],
+			"passive": 13,
+			"languages": [
+				"Common"
+			],
+			"cr": "1",
+			"trait": [
+				{
+					"name": "Promising Threat",
+					"entries": [
+						"The bestial spirit has advantage on Charisma (Intimidation) checks if the target has seen it hit a creature with its chomp attack in the past minute."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Chomp",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}9 ({@damage 2d6 + 2}) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Devour",
+					"entries": [
+						"When the bestial spirit reduces a creature to 0 hit points, it consumes some of the creature's essence, regaining 1d10 hit points."
+					]
+				}
+			]
+		}
+	]
 }
