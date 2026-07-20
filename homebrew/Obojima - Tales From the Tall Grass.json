@@ -112,6 +112,20 @@
 						"type": "chapter",
 						"identifier": 8
 					}
+				},
+				{
+					"name": "Mysteries, History, and More",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 9
+					}
+				},
+				{
+					"name": "Adventures",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 10
+					}
 				}
 			]
 		}
@@ -10655,8 +10669,1030 @@
 										}
 									],
 									"name": "Stone Whale"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Stul are monstrous creatures that live in the central and eastern woodland. Known for their unsettling visage and mind-altering magics, they pose a serious threat to lone travelers or young children. Because of this, the islanders have worked tirelessly to run them out of the Gift of Shuritashi.",
+										{
+											"type": "entries",
+											"entries": [
+												"It's said that the first stul was cursed into existence after a young Nakudama mage abandoned his companion spirit deep underground within the winding caves in Mount Arbora. By the time the companion resurfaced, its hardship had permanently altered it, leaving it with no recollection of its previous life, except for an innate feeling to call for its old friend."
+											],
+											"name": "Myth"
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Stul",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Stul"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The Urugama are malevolent creatures that roam the countryside at night. Their terrifying laugh and wicked masks are so well known children's rhymes are written about them. These evil spirits have been said to attack travelers after their fire has gone out so a common superstition held by many merchants is to keep your fire burning all through the night.",
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Urugama",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Urugama"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"One of the most storied dangers of the Brackwater Wetlands comes in the form of a creature known as a vespoma. This canopy dweller resembles something between a bat and a monkey, and where there is one, there are often a handful of others. A vespoma is typically heard before it's seen, a fact that makes this creature so notorious, for the sound of its voice is laced with magic that compels its prey. Multiple vespoma harmonize, making their collective voice all the more potent. Vespoma are not simply hunters. They have a cruel nature and they are known to toy with their prey.",
+										"Many stories are told of the vespoma's origin, but the most common opinion is that some time ago, a witch who lived in the Brackwater Wetlands taught these creatures the rudiments of spellcraft, which they then passed on to subsequent generations. Whatever the truth is, rangers familiar with the wetlands are known to warn travelers to avoid the voices in the trees.",
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Vespoma",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Vespoma"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Vile Corruption is the name given to one of the dangerous manifestations of living sicknesses that plague the eastern side of the island—A shapeshifting aquatic thing that terrorizes the Brackwater Wetlands, mimicking the creatures that live within the woodland and striking without cause or hesitation. Since its introduction to the environment, factions such as the Toraf and Boulder's sword school and the Rangers of the Greenward Path have been adamant about warning travelers to avoid the creature at all costs. Both organizations share the opinion that it is best to not get where you are going if it means keeping your life.",
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Vile Corruption",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Vile Corruption"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Only a handful of people on Obojima have seen the enchanted moving doorway. Every now and then, a ranger spots a wandering door while deep in the forest or a postal knight sees one running across the Gale Fields. Since no one has got close enough to a door to give a solid description, there's a good deal of speculation around if there is only one door or if there are multiple doors. To this day, no one really knows who enchanted these doors and no one has been able to catch one to study it.",
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Wandering Door",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Wandering Door"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Appearing as one of the island's many deciduous trees, the watchwood is known for terrorizing small settlements and villages throughout the Gift of Shuritashi. Their presence alone is enough to stop trade and travel to a location, which is why skilled woodcutters are often employed all over the island. Though watchwood trees can be dangerous, they're more of a threat during the warmer seasons, as they're easily spotted during the winter, when they're the only tree with leaves still on it.",
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Watchwood Tree",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Watchwood Tree"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Witches are found all over Obojima and are well respected amongst the people. Both covens and their members play a major role in the economy and ecosystem of the island.",
+										{
+											"type": "entries",
+											"entries": [
+												"Witches are often seen as important members of the community, as they're understanding of magic is often desperately needed on an island full of magical happenings and peculiar occurrences. If a witch were to visit a town without a local magician, they would assuredly be buttered up and pampered during their stay."
+											],
+											"name": "Local Arcana Expert"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The six major covens of Obojima have lived harmoniously (for the most part) for the last 50 years, working alongside each other as allies in several major cities and settlements. Besides their regional ingredient expertise, each coven claims to have a unique set of skills that differentiates them from the others. But if you were to ask any islander, they'd probably struggle to tell you what those qualities are."
+											],
+											"name": "Covens"
+										},
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Witch",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Witch"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Yokario are fantastical beings with feathered bodies that revel in the joy of chaotic mischief. Known for their lively nature and aggressive behavior these goblin-like creatures are often hated by villages. Their unwavering passion for music can lead them to disrupt festivals and other celebratory events, earning them a reputation not always well-received amongst islanders.",
+										{
+											"type": "statblock",
+											"tag": "creature",
+											"name": "Yokario",
+											"source": "OBOJIMA"
+										}
+									],
+									"name": "Yokario"
 								}
 							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Mysteries, History, and More",
+					"page": 333,
+					"entries": [
+						{
+							"type": "entries",
+							"entries": [
+								"The following chapter is for Game Masters only. For all you Players who are intrigued to read this section on the mysteries of Obojima, heed this warning. There are moments in life when temptation beckons us with honeyed whispers to enter into domains that we know are not for our eyes—this is one of those moments. A huge part of adventuring in the world of Obojima is to relish its mysteries and delight in the unknown, and beyond here, the magic tricks are revealed, the illusions are dispelled, and the mysteries all laid bare. So, for those who tend to buckle under the weight of resisting the siren's call to lay eyes on forbidden texts (and you know who you are), go no further! Let the GM be the one to reveal these secrets to you and enjoy weaving many tales filled with surprises and revelations that are sure to tickle your cortex, warm your heart, and fill your mind with awe."
+							]
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"This book is the first in a series of books that we are planning in and beyond the island of Obojima. Not only do we have much more to reveal and elaborate on about Obojima itself, but we also have other islands that we are planning on revealing, each with its own cultures and intrigues.",
+								"If you are planning on telling a grand Obojima story (and we hope that some of you are) then to connect this Obojima book to the next book we're planning (that we've aptly named, \"Book 2\"), then we have left directions in the \"Author's Notes\" section, on how to reveal and solve the big mysteries and problems of Obojima in such a way that your story will seamlessly fit with what's coming in Book 2.",
+								"As stated, the answers to these mysteries are so that they make that seamless fit with the future material we're planning. But, if you have other ideas as to what the answers to these mysteries are or if you want to leave them mysterious, is completely up to you. Obojima is yours to do with as you wish and how you wind up changing it is entirely up to you.",
+								"With that, let us proceed into the mysteries of Obojima!"
+							],
+							"name": "Full Disclosure"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"Every village and location on Obojima has its own unique mysteries particular to that place—a missing magic wok, a strange wishing well, a mystical tree—but there are the main mysteries that almost all Obojimans are grappling with, and they are:",
+								{
+									"type": "list",
+									"style": "list-decimal",
+									"items": [
+										"The Island of Obojima",
+										"The earthquake and tsunami",
+										"The Corruption",
+										"What is beyond the horizon",
+										"The origins of the \"First Age\" technology",
+										"The origins of the dara",
+										"The apocryphal legends of the Nakudama",
+										"The wandering forest"
+									]
+								},
+								"While we are going to reveal what is behind the curtain, what you do with the information is up to you. There is power in leaving things a mystery, so these answers do not have to be revealed and can be just for your edification."
+							],
+							"name": "The Mysteries of Obojima"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"Like any island, most of Obojima is underwater, its base being much broader than the land that is above the surface. But what no one on the island knows is that Obojima, up until the earthquake, actually moved across the ocean floor, wandering the ocean.",
+								"How it moves is yet to be discovered as no one has gone out far enough beyond the Shallows or dived deep enough to see the base of the island. If someone was to make this journey, who knows what they would find?",
+								"Before it stopped moving, Obojima roamed in a migration pattern that kept it from colliding with other islands that are in the ocean of this world. Some places, like the AHA observatory, may have evidence of this motion, through observing the constellations. Other places, like the Coastal Diver's Lodge, may have observations about how the current has significantly slowed down.",
+								"Is Obojima alive? Obojima is magical and some say that the island has a spirit or is a spirit itself; how true that statement is, is entirely up to you."
+							],
+							"name": "What is Obojima?"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"The earthquake and the tsunami have seemingly caused strange things to occur on Obojima, and some have begun to speculate that the earthquake is responsible for many of the odd things that have happened to the island and its surrounding environment. Here are some of the most interesting observations:",
+								{
+									"type": "list",
+									"style": "list",
+									"items": [
+										"Obojiman astronomers and dedicated skygazers have noticed that since the earthquake, the star patterns that once migrated across the sky in all kinds of ways, sometimes disappearing for many years before emerging again, have now begun to rise and set in very predictable paths across the night's sky.",
+										"There once was a strong current that ran from the eastern side of the island to the west which suddenly stopped after the earthquake. There's evidence of this anecdotally from fisherfolk but there's also the story of Master Chen's Water Clock—a giant tower built in the Shallows outside of Sky Kite Valley where the current turned a wheel that ran a very precise clock. Since the earthquake, the current has slowed dramatically and the clock has ceased to keep time."
+									]
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The earthquake was the result of the island crashing into a massive tendril of Corruption deep underwater. The sudden stop caused the tsunami that swept across the eastern side of the island and eventually saw to the rise of the Corruption that is now affecting the land. This initial impact has also halted the island's momentum, as Obojima is now being held by that same tendril."
+									],
+									"name": "What Actually Happened"
+								}
+							],
+							"name": "The Earthquake and Tsunami"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"Most Obojimans that hear of the Corruption believe that it is the result of an angry spirit, so a traveler might see any number of coastal villages making apologies to the Great Sea Spirit or offering incense to the giant flying koi fish in hopes that their wrath will be appeased. Any other islanders, especially those in the midlands or even a very few westerners who have heard rumors, they are likely to believe the same, and even though they see no evidence of the Corruption, they most likely make offerings to the spirits \"just to be sure\"—an Obojiman motto is, \"It's always a good idea to make friends, especially with the Spirit Realm.\"",
+								"For those who have seen the Corruption first hand, the feeling of trepidation is more visceral and existential. Many of those who were first to the site of the Corruption, the rangers, now bear the mark of its magic and are the ones most likely to feel the urgency to spread word of this very real danger. Druids will fear for the forests and beasts as the Corruption spares no living thing. The elves will feel grave concern for the spirits as the Corruption's foul magic extends into the Spirit Realm as well, turning spirits into twisted demons.",
+								{
+									"type": "entries",
+									"entries": [
+										{
+											"type": "list",
+											"style": "list",
+											"items": [
+												"The Corruption is a fairly recent development that happened three months ago.",
+												"A great earthquake shook the entire island and then a tsunami hit the east coast of Obojima.",
+												"After the tsunami, the Corruption emerged from the ocean and piled up on the shore, despoiling the once pristine sands of Shusha Beach on the east coast of Obojima.",
+												"From there, it slowly began to spread across the land, transforming everything in its path. Lush and beautiful forests were turned into bizarre versions, nay, mockeries, of their former selves.",
+												"Creatures and spirits were not immune to the Corruption, and now huddle amid the twisted boughs and blighted canopies of corrupted forests—confused, bewildered, and some, enraged by the Corruption's weirding ways.",
+												"If exposed to its foul magic, humans, elves, Nakudama, and dara are affected by the Corruption in a variety of different ways, but all of them result in the Corruption staining the skin and seeping from the pores. Many of the rangers who first came to examine the Corruption were afflicted in this way, but along with the suffering of the flesh, many of them experienced supernatural powers.",
+												"Because the Corruption's arrival happened so suddenly and because many Obojimans are homebodies, not many locals west of Mount Arbora have even heard about it.",
+												"There are rumors that certain covens of witches foretold its coming and began to prepare—some covens bracing for the worst, and others cackling with delight at the potential for a wondrous new ingredient for their virulent brews and ghastly potions.",
+												"Nobody seems to know where it came from or what it is."
+											]
+										}
+									],
+									"name": "Corruption in a Nutshell"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The Corruption is a toxic substance from another world. It's bubbled up from the ocean floor, growing to the point of being large enough to bring the island of Obojima to a complete halt, unable to move further unless it is reduced in size or removed entirely.",
+										"The Corruption has no more consciousness than a slime mold or a fungus that blindly seeks its food in a freakishly efficient manner and it has as much of an agenda as a tornado or a lava flow—it is a neutral force of nature with no inherent malice.",
+										{
+											"type": "inset",
+											"name": "Author's Notes",
+											"entries": [
+												"Ultimately, how you use the Corruption in your story is up to you. The truth will be revealed by us in time. In anticipation of the expansions to Obojima and its story, we have two suggestions that deal with the Corruption and how to best end your story to properly set up for the next book. Here's what you'll need to set up:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"The Corruption needs to be severed from the island and a portion of it must remain dormant within the Brackwater Wetlands.",
+														"The Corruption can't be caused by a person or a creature. It's a natural force that has existed in the ocean for some time."
+													]
+												}
+											]
+										}
+									],
+									"name": "What is the Corruption, Actually?"
+								}
+							],
+							"name": "The Corruption"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"Most Obojimans are very content with their pastoral lives on the island and think little about what is out beyond the horizon of the seemingly endless ocean. They are more interested in cooking their next amazing dish, herding their sheep dragons for the seasonal shearing, or winning the pie eating contest in the upcoming festival. But there are legends and stories that abound of what's beyond the island. There are some archeologists who say that during the time of the ancient Nakudama, Obojima was once a part of a larger island and, in an attempt to save the kingdom from a terrible downfall, a wizard cast a spell that broke Obojima off and saved it from a fate worse than death.",
+								"In the past, intrepid Obojiman explorers, adventurers, and oddballs have indulged their curiosity in knowing what lies beyond the Shallows by taking leave of Obojima's shores and sailing beyond the outer reef in makeshift ships, arcane flying devices, and even spirit-powered vessels. Most of them get far enough to feel the overwhelming immensity of the oceanic horizon and quickly return. Any small boats or ships that have sunk in the deep waters beyond the outer edge of the Shallows disappear into the depths and are never recovered.",
+								{
+									"type": "inset",
+									"name": "Author's Notes",
+									"entries": [
+										"Obojima best suits adventures that are of smaller stature. Our intent is for stories told here to be about its people, its magics, and its mysteries. We wanted to have everything contained so that the stories told here could be small, cozy, magical, and compact—little charming tales of witches, quirky occurrences, and strange events. For the purposes of this setting, we wanted to keep the adventures on the island and not about setting out on the open ocean to go somewhere other than Obojima.",
+										"To keep curious players and adventurers on the island, feel free to tell tales of monsters out in the open ocean that can swallow whole ships the way a seagull scarfs down a sandwich or give them a strong emotional connection to someone or something on the island. There are many fun ways to keep your players from wandering too far."
+									]
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The world is an ocean planet on which many islands exist. Most of the islands on this archipelago world move the way Obojima does, travelling on a set migrational path, never to connect with each other. Each of these islands have their own cultures, some of them—like Obojima—have developed in relative isolation, their island always wandering and rarely or never crossing near enough to another island to see it on the horizon.",
+										"Although there are multiple islands moving across the planet's oceans, they somehow don't collide, as if there is some spirit or instinct at work that keeps them apart.",
+										"Obojima is one of this world's smallest islands."
+									],
+									"name": "What is Actually Beyond the Horizon"
+								}
+							],
+							"name": "The World Beyond the Horizon"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"It's one of the first questions any player who comes to Obojima is going to be wondering. What is known is that these items appeared long before the Nakudama first set a webbed foot on the island. The most ancient wood carvings, cave paintings, and temple murals show images of this technology existing during the beginning of recorded history. Sacred scrolls written by Nakudama sages speak of these strange and wonderful objects and describe some of their myriad uses by harnessing spirit energy.",
+								"As a GM telling an Obojima story, you will have to have answers to questions like: Where did all this 80s tech come from? Can we use it? Is there electricity on the island? What do the people of Obojima think of this stuff?",
+								"As the GM, you can make all the player's dreams come true, or you can leave them with more questions than answers, but here are some speculations of how this strange occurrence came to be.",
+								{
+									"type": "entries",
+									"entries": [
+										"On Obojima, no one knows how it all got there, but everyone has an opinion about these devices and buildings that have always been a part of Obojima's landscape ever since anyone can remember. Part of the fun is inventing all the various myths, legends, and tall tales that locals have to explain the mysterious origins of the 80s tech.",
+										"Even though these random artifacts of the 1980s have been on Obojima for millennia, they are all in pristine condition—somehow magically preserved. A vending machine might have been passed down for centuries and still show no wear and tear, a small convenient storefront might look as if it was built yesterday while a building in the next village is moss-covered and decrepit. No one knows why these artifacts do not age and decay, but that is a part of the magic mystery that is Obojima.",
+										"As to where it all came from, well, Obojimans are happy to voice their wide array of opinions on the matter. Here are a few examples:",
+										{
+											"type": "list",
+											"style": "list",
+											"items": [
+												"An extra-dimensional rift barfed these strange objects on the island.",
+												"A wizard's spell that went awry.",
+												"The Nakudama queen, Okumi, brought them with her from another world millennia ago.",
+												"A collection of otherworldly objects left by an elder spirit.",
+												"The spirits were bored and created these toys to keep themselves busy while in the mundane realm.",
+												"Long ago a great empire built these tools and structures, but have since fallen from grace."
+											]
+										}
+									],
+									"name": "In-World Theories"
+								}
+							],
+							"name": "Why Is There 80s Technology on Obojima?"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"Long before the Great Earthquake that brought the Corruption, the first of the dara walked out of the forest of Roa Kala. This being was initially thought to be a spirit by the people of Obojima, but they soon found out that \"Dara\", as the being called itself, was as flesh and blood as they were and not a spirit at all.",
+								"As to who the First Dara was, the details are few, and most of what is known is anecdotal, handed down through several generations, but this being known as Dara, wandered the island of Obojima, telling stories and spreading wisdom. To this day, it is widely held that Dara was an avatar of the island spirit, and many humans, elves, and Nakudama hold the First Dara in high regard as a being to be revered.",
+								"In their wanderings, Dara was known to have inscribed magic glyphs into certain trees that were instructions to future dara that would soon emerge from the forest like their predecessor. The First Dara said that all those who followed would gain knowledge by being in this world and by reading the magic glyphs that the First Dara was inscribing into trees across the island.",
+								"After wandering for several years, Dara returned to their forest from where they emerged and built a village called Roa Kala. This was to become the first place a dara would see when they came to be from within one of the sacred trees.",
+								"Where dara came from before emerging from a tree is still a mystery, even to the dara themselves, but, as they do, Obojimans speculate. Many still believe that, on some level, the dara are connected to the spirit of the island, and thus they are instinctually treated with respect by the locals. Because of this belief, some Obojimans will ask dara questions of a spiritual or shamanic nature such as: \"Will it be a good season for growing beans this year?\" \"Will my prized ox get better?\" or \"What is happening with all the sky fish?\" erroneously thinking that all dara somehow know the secrets and mystical ways of the island.",
+								{
+									"type": "entries",
+									"entries": [
+										"Where dara come from is a true mystery. As the GM, you are free to invent any possibility that fits your version of Obojima, but for now, the origin of the dara is firmly within the realm of the unknown."
+									],
+									"name": "What is Actually the Case?"
+								}
+							],
+							"name": "Who Was the First Dara?"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"Nakudama legend says that in ancient days, the queen of the Nakudama, Okumi, came to Obojima as a tadpole, having swum across the great cosmic ocean to reach the tip of Mount Arbora. Once atop the mountain, she transformed herself by absorbing her magic tail that had propelled her across the cosmos, and with that power, she lifted the rest of the island of Obojima above the surface of the waves.",
+								"She then created within herself 1000 eggs and sought out a suitable place to spawn them. It is said that, after she laid her eggs, a shower of falling stars fell upon them and from these came the first royal dynasty of demi-god-frogs, from whom the rest of the Nakudama would spawn. She taught the first of the Nakudama the sacred tongue of Naku-Naku, taught them how to plant crops and till the soil. She taught them laws of how to conduct themselves and to seek out what is best in life.",
+								"From the primordial waters many beasts and foul monsters coveted her island paradise and emerged to destroy Obojima or take it for themselves. The 10,000 Headed Hydra was the first of her challengers, which she decapitated with one great lash from her magic tongue. The second to emerge from the abyss of the ocean was the Great Terror Crab, which she crushed in a cleverly devised trap. This ingenuity would be a trait greatly admired and fostered in all her children.",
+								"Legend says that it was the queen who first discovered the strange artifacts from another world and sought to gather them. She sent her best warriors across Obojima to collect a cache of these prizes for her most erudite wizards to study. To this day, the fabled cache of First Age objects has never been discovered.",
+								"She is said to have allowed her favorite consort, Okka, to perish so that all Nakudama could benefit from a healing mushroom that is now found all across Obojima, a mushroom that was named the Queen's Dilemma in honor of her sacrifice. From this fabled act, the Nakudama derive their sense of community and selflessness, that all joys should be shared, not hoarded.",
+								"At some point in the historical record, the queen was no more. Some legends say she vanished, others say she died, some say she went back to the cosmic sea and will one day return to Obojima. After her departure, the royal dynasties of the Nakudama began their rule, building an empire that spanned the island and would stand for a thousand years before it fractured at the hands of Oghmai.",
+								{
+									"type": "entries",
+									"entries": [
+										"Legend says that the demon emperor, Oghmai, orchestrated the kingdom's fall by sowing the seeds of division among the Nakudama, preying on tribal grievances and petty squabbles until it boiled over into all-out war. Oghmai claimed a brief, brutal reign, however, under the guidance of sage Shalwin, a growing band of resilient Nakudama eventually overthrew Oghmai, and thereafter disbanded the monarchy to forge a new, peaceful society in the lands untouched by the war."
+									],
+									"name": "The Demon Emperor"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"In the present day, the first queen and the ancient royal lineage of the Nakudama has fallen into legend and myth. There are many Nakudama ruins dotted around the island where one can study and see evidence of this once great dynasty. The Nakudama themselves have varied feelings about their past. Some are curious about their heritage and are avid adventurers and archaeologists, while others are content to let the past drift into the past and simply enjoy the pleasures of the present."
+									],
+									"name": "Nakudama Now"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Are these legends true? Nakudama myth sure says they all are, but we all know how nakudama like to stretch the truth."
+									],
+									"name": "What is Actually the Case?"
+								}
+							],
+							"name": "The History of the Nakudama"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								"Malgrotha was once a twin spirit, a crow of darkness and a rabbit of light, that lived within the Spirit Realm. They were like two sides of the same coin, each balancing the other. But one day the rabbit was shot in the heart by a cursed arrow. This wound split the twin spirit, and while the rabbit writhed in agony in the Spirit Realm, the crow was thrust into the Physical Realm, warped into a ravening demon, and became Malgrotha.",
+								"No one knows who wounded the rabbit spirit or why, but while the wounded rabbit remained in the Spirit Realm, the material manifestation of the spirit's pain and rage—the shambling crow-thing—began to terrorize Obojima, expressing its anguish.",
+								{
+									"type": "entries",
+									"entries": [
+										"Malgrotha is mindless with rage and because of this, it cannot scheme or devise a way out of its ever-changing prison—the Crawling Canopy. Thus, it is doomed to wander within the woods, never finding freedom.",
+										"Malgrotha cannot be reasoned with and will tear apart anything within its path. Every so often, it will claw at its body in rage, tearing off a chunk of its own flesh which then turns into a smaller mutated version of itself. These \"children\" also roam the forest, compelled to search for Dara, who is long since gone from this world."
+									],
+									"name": "Nature of Malgrotha"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The story of the forest's origin is not widely known among Obojimans, however, there are a few on the island who know its origin and purpose: that the Crawling Canopy was created by the First Dara 300 years ago as a prison to contain a demon—a hideous crow-like monster known only as \"Malgrotha\"."
+									],
+									"name": "Origin of the Crawling Canopy"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"After the First Dara emerged from the forest of Roa Kala to explore Obojima, they left behind a multitude of glyphs for those dara who would come after. But around that same time, as if bound by fate, the demon, Malgrotha, was also terrorizing the land and would eventually come head to head with the wandering nomad.",
+										"The First Dara and Malgrotha engaged in a fierce battle that lasted days, both of them dealing horrendous wounds to one another, but due to its demonic nature, Malgrotha's wounds would swiftly heal while those of the First Dara would not. In a final act, the First Dara imprinted his life force into a copse of trees with a pure, powerful magic. Instantly, the trees awakened and encircled Malgrotha, and from then on, wherever Malgrotha would go, the trees would form a natural barrier around it. The forest became known as the Crawling Canopy, and it took Malgrotha to the Gale Fields and has been a mobile prison for Malgrotha to this very day."
+									],
+									"name": "What is Actually the Case?"
+								}
+							],
+							"name": "Malgrotha: A Spirit in Two Realms"
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Adventures",
+					"page": 340,
+					"entries": [
+						{
+							"type": "entries",
+							"entries": [
+								{
+									"type": "entries",
+									"entries": [
+										"\"The Curious World Within\" is intended for 2 to 4 2nd-level characters.",
+										"The adventurers have decided to help out a young postal knight and find themselves shrunk to the size of a mouse when they infiltrate a witch's workshop in hopes of procuring a letter. As they navigate the strange landscape, they'll have to fend off bora bugs, handle pixie tricksters, talk to a giant cat, and perhaps even fight a giant Venus fly rat that calls the witch's bizarre workshop home."
+									]
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"As they wander through Okiri Village, the party hears the sound of weeping. When they investigate, they find Lomi, a 13 year old boy, sitting on a stone across from a small, wooden house with his head in his hands. Next to him is a sad-looking pack mule loaded with several sacks, each marked with the insignia of the Courier Brigade.",
+										{
+											"type": "entries",
+											"entries": [
+												"Lomi is the younger brother of Ashi, a knight of the Courier Brigade. All his young life, he's wanted to be a postal knight and impress his older sister. When one of the postal knights fell ill, Ashi entrusted her little brother to deliver their packages and letters as a first test of his commitment to the organization—it was Lomi's big chance!",
+												"Unfortunately for Lomi, he has delivered the letter to the wrong residence, and now he can't get inside to retrieve the goods. Lomi laments that if he returns and admits that he's delivered the letter to the wrong address, his dreams of being a postal knight are sure to be over.",
+												"If asked, Lomi says that all he knows about this place is that it is the workshop of Miss Lindley, but the letter was intended for Mrs. Linfrey—an honest mistake, that's now led to a giant dilemma.",
+												"There's a chance (DC 14 Intelligence check) that one of the adventurers might have heard of Miss Lindley—the local witch of the small village and the resident fixer and mender of goods. You can read more on Miss Lindley in the Locations Chapter under \"Okiri Village—NPCs\" section. Any witch or warlock in the party will have advantage on the roll."
+											],
+											"name": "Lomi's Dilemma"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Although Lomi has little to offer as a young boy away from his home, he's absolutely desperate and at this moment is willing to offer more than what he has. Lomi can't give the adventures much besides a few sea petals and a couple of non-magical First Age trinkets. He will however offer his services as an assistant for a short time, and if he really needs to, the gold flowers he would earn for delivering the letter."
+											],
+											"name": "Lomi's Offer"
+										}
+									],
+									"name": "Adventure Begins!"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Miss Lindley's workshop is a small and humble wooden house in Okiri Village. There is a little cobble path that leads to the front door, which is painted a bright green. A sign that hangs above the door reads \"closed\" written in faded cursive. On either side of the front entrance are Boom Beri bushes, which have been picked clean of fruit. The windows all across the house have been frosted over, and numerous birds have begun to nest on the tiled roof.",
+										"Some facts about the workshop:",
+										{
+											"type": "list",
+											"style": "list",
+											"items": [
+												"Although it looks seemingly mundane, the workshop is magical. Beside the fact that it is invulnerable, it has a variety of spells and enchantments that Miss Lindley has placed on it over the years.",
+												"Besides the doors and windows there are no other entrances into the house. The house has no chimney or other small entrances.",
+												"A powerful enchantment keeps the home's entrances fully locked. This enchantment only lifts when Miss Lindley is on the premises. This is true for all windows and doors besides the padlocked double door to the cellar, which is found in the back of the house. Many years ago Miss Lindley had heaps of potion ingredients delivered to her home regularly, letting them in through the cellar doors when she wasn't around. These deliveries stopped some time ago, which is why the cellar doors now see little use and are covered in ivy."
+											]
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"There are three main ways to enter the workshop:",
+												{
+													"type": "list",
+													"style": "list-decimal",
+													"items": [
+														"Through the ivy-covered double door that leads into the cellar.",
+														"Through one of the windows.",
+														"Through the front door."
+													]
+												},
+												"Although any of these options are available to the adventurers, the padlocked double door to the cellar is the easiest route inside. It is non-magical and takes a successful DC 13 Dexterity check to pick the lock. It can also be broken off with a successful attack vs. AC 13.",
+												"The windows and front door are magically locked and require some method of dispelling magic to briefly enter. It is difficult at their level, but it is not impossible, so be prepared for clever adventurers to skip past the cellar, staircase, and Emerson the cat, as they would jump straight to the workshop's Main Floor."
+											],
+											"name": "Entering the Workshop"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"As soon as all the party members enter the house, they are shrunk down to Tiny size via a powerful magic trap left by Miss Lindley while she's away. When that happens, all the open doors and windows shut themselves, and the house magically re-locks itself.",
+												"If party members stay outside on guard, then they will remain their normal size unless they decide to enter, at which time, they will become Tiny sized.",
+												"The stat blocks in this adventure are all designed to be relative to the character's Tiny size."
+											],
+											"name": "The Shrink"
+										}
+									],
+									"name": "Approaching Miss Lindley's Workshop"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"If the party enters from the double door outside, they see a flight of wooden stairs going down. As they begin to walk down, read the following:",
+										{
+											"type": "inset",
+											"name": "Read Aloud",
+											"entries": [
+												"This shadowy cellar smells of damp earth and some pungent, unrecognizable odor—perhaps from the centuries of bubbling concoctions that now stain the earthen floor. Magic flames flicker within soot-caked lanterns that hang on the walls, each casting an eerie glow upon old wooden crates and rows of sagging shelves that hold all manner of dust-covered bottles and curios—some of which are covered in sackcloth. As the last of you steps off the staircase, the ground illuminates in sporadic arcane glyphs that cover the cellar floor. In an instant your perspective warps, your eyes blur before focusing once more on the world around you. As you look about you quickly conclude that you've either shrunk down to the size of a mouse or this house is a lot more spacious inside than you initially anticipated."
+											]
+										},
+										"Moments after the adventurers shrink down to Tiny, the doors magically shut and lock behind them, dust falling from the ceiling above as they do.",
+										{
+											"type": "entries",
+											"entries": [
+												"The cellar serves as Miss Lindley's catch all room. It stores old projects, spare supplies, and potion ingredients she rarely uses.",
+												"A search of the crates and shelves reveals:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Paw prints and claw marks from what appears to be a cat, which as a Tiny creature seem massive.",
+														"Spoiled and unfinished elixirs and potions.",
+														"An uncommon ingredient from a region other than the Gift of Shuritashi.",
+														"An old, broken First Age trinket."
+													]
+												},
+												"If the adventurers are not overly cautious and make a ruckus, their activity will alert Emerson, the Witch's Cat (see Emerson the Cat later on this page). Once alerted, Emerson will (depending on how hungry he is) either skulk over to investigate or wait lazily atop his cushion while idly licking a paw."
+											],
+											"name": "Inside the Cellar"
+										}
+									],
+									"name": "Entering the Cellar"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"To leave the cellar, the adventurers must travel up the staircase opposite to where they came in from, read the following:",
+										{
+											"type": "inset",
+											"name": "Read Aloud",
+											"entries": [
+												"What would ordinarily be a normal staircase is now a series of towering steps, each one about 15 feet tall that lead up to a landing piled with books and boxes.",
+												"This flight of rickety wooden stairs connects the cellar and the main floor of the workshop. At the top of the stairs is the hallway and Emerson's cushion."
+											]
+										},
+										{
+											"type": "inset",
+											"name": "Bug Attack!",
+											"entries": [
+												"If you choose, while the adventurers strenuously climb the stairs they are ambushed by 1d4+1 bora bugs (see \"Monsters\" below for stat block) that crawl from cracks in the walls."
+											]
+										}
+									],
+									"name": "The Staircase"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"Emerson is an imperious cat who boasts a portly paunch, crooked whiskers, and a coat of thick fur that sticks out at all angles which makes him always look as if he's just woken up. Emerson has the run of the workshop, but prefers the hallway and basement where he can be away from the pesky pixies and stalk any vermin that try to invade his domain.",
+										"Emerson generally can be found sleeping at the top of the stairs, which connect the cellar to the hallway that leads to the workshop. Like a dragon guarding its lair, Emerson sits atop a comfortable cushion embroidered with his name.",
+										"Emerson uses the stats of a {@creature Lion|mm} with an intelligence of 11.",
+										{
+											"type": "entries",
+											"entries": [
+												"Emerson has a strained relationship with the pixies that live on the main floor, as each tries to be the favorite of Miss Lindley. Miss Lindley heaps oodles of attention to both the pixies and Emerson, but once she leaves, the feuding between the pixies and Emerson begins.",
+												"In the most recent episode of the feud, the pixies have taken Emerson's treats and hid them atop the bookcase in the main workshop—a place that Emerson can't get to."
+											],
+											"name": "Emerson and the Pixies"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"If Emerson is befriended, he barters knowledge. He knows which potion on the work table upstairs will restore the adventurer's size, and he may even know what some of the other items in the workshop do.",
+												"If Emerson trusts the party, he will give his information up front so that once the party is restored to normal size, they can get him his treats. If he doesn't trust the party, Emerson holds back his knowledge of the potion, only telling the party once his treats are safely in his paws."
+											],
+											"name": "What Emerson Knows"
+										}
+									],
+									"name": "Emerson, the Witch's Cat"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"This is the main area where Miss Lindley fixes all kinds of farm tools and some First Age artifacts like bicycles and sunglasses. Although there are no such items in here now, there are an array of tools hanging from the walls which are used by Miss Lindley in her craft.",
+										"There are three areas on the workshop's main floor: The Hallway, The Bookcase, and The Witch's Worktable. There is also a small end table, on top is a cage that contains a venus fly rat (see \"Monsters\" below).",
+										{
+											"type": "entries",
+											"entries": [
+												"Miss Lindley is helped by a turnip spirit called Tabitha. Tabitha is chronically grumpy and dour and only reveals herself to clean up spills, put out fires, or deal with any such forms of chaos that could cause damage or destruction to the workshop. Tabitha does her tasks in a slow and deliberate manner, all the while paying no mind to the world around her. She responds (if at all) with eye rolls, sighs, and side long glances of mild displeasure. Even the pixies fail to get under her thick skin.",
+												"Tabitha is the only one who knows beyond all doubt, every magic item in the workshop. Getting her to help identify every one is a task worthy of the greatest of heroes."
+											],
+											"name": "Tabitha Turnip"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"There are two giant pixies (see giant pixie stat block in \"Monsters\" section below) here named Teena and Meena, and they are essentially tricksy agents of mischief and mayhem who may taunt and tease the adventurers if it pleases them or lead the party astray and cause doubt. You can also have the pixies be less mischievous and actually help the party to identify the scores of magic trinkets here (although they make stuff up half the time).",
+												"Once they become aware of the adventurers, the pixies are overjoyed and immediately begin to invent games to play with them, casting spells (like {@spell Confusion}) at the party as they try to navigate the giant workshop.",
+												"Tina and Meena might take bets on who Emerson will eat or who will get to the table top first. All the while their buzzing wings and invisible laughter can be heard from all corners of the workshop, adding another level of irritation for the party.",
+												"With a word, the pixies can magically close all the shutters and douse the candles, plunging the workshop into darkness."
+											],
+											"name": "Pesky Pixies"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The narrow hallway is piled with old books, papers, jars, and other various clutter. To a tiny creature, traveling along here would be a perilous affair, like crossing through a canyon with unstable cliffs.",
+												"If the party irks the pixies and gets on their bad sides, they are not above causing a cascade of heavy books to fall on them for the fun of it.",
+												"Emerson may also knock a stack of books over by accident (especially if he's startled) causing an avalanche that could damage a tiny party.",
+												{
+													"type": "inset",
+													"name": "Avalanche!",
+													"entries": [
+														"If an avalanche of books, crates, jars, or papers happens, any creature in the affected area falls prone, and they must make a DC 15 Strength saving throw, taking 1d10 bludgeoning damage and restraining the character on a failed save.",
+														"If you chose to not have the bora bugs attack on the stairway, they could also attack after an avalanche in the hallway."
+													]
+												}
+											],
+											"name": "The Hallway"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"This is a tall bookcase that is filled with papers, notebooks, and dusty tomes that Miss Lindley has amassed over the years. Most of the books are heady manuscripts about the art of witchcraft.",
+												"Also on the bookcase is:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"1 cassette with the spell Vegetable Blade stored inside it (as if a scroll).",
+														"The potion recipe for Elder Elixir. (Ingredients needed: Spindle Leg Spider Webs, Origami Crane, and Brush Reed.)",
+														"The letter addressed to Mrs. Linfrey that Lomi has misplaced. The pixies have put it here.",
+														"At the top of the bookcase is a sachet embroidered with the name \"Emerson\" on it. Inside are a cluster of pungent smelling cat treats."
+													]
+												}
+											],
+											"name": "The Bookcase"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"In the center of the room is a large work table that is covered with the tools of Miss Lindley's arcane trade. It is here that the adventures will find the elixir that will return them to normal. Though to find it amongst the collection of potions is no easy task. By trial and error, or through the help of the Pixies or Emerson, the correct bottle can be identified. However the real danger of the workshop is lurking just around the corner.",
+												{
+													"type": "entries",
+													"entries": [
+														"To get on to the table where the elixer is, the party will have to climb up the (relative to them) 60-foot tall wooden table legs and navigate the overhang to get onto the surface of the table top. Any player character with a climbing speed can make it to the top without issue, all other characters must succeed a DC 14 Strength Athletics check.",
+														"Getting on to the table should be fraught with difficulty, but to make it even harder you can have the pixies cause all kinds of mayhem during the climb. Going as far as a brief and playful combat."
+													],
+													"name": "Getting on the Table"
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"Hiding amongst the mess is the recently freed Venus Fly Rat (see giant venus fly rat stat block in \"Monsters\" section below), a creature originally intended to be used as an ingredient that now serves as a dangerous threat for the adventurers as they search for the potion on top of the workshop table.",
+														"Player characters with a Passive Perception of 14 or higher will notice the venus fly rat before it notices them. Otherwise the fly rat attacks the moment an unsuspecting adventurer gets close to the center of the table."
+													],
+													"name": "The Venus Fly Rat"
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"A small iron cauldron bubbles over a low heat from a First Age propane burner. Inside the cauldron is an arcane mixture of herbs, liquids, and magic. It smells aromatic and changes with every inhalation so that exactly what herb or spice was used can never quite be grasped.",
+														"When approached by a Tiny creature, the cauldron sits atop a large, metal platform from the center of which a circle of blue flames hiss and lick the underside of the cauldron making it hot to the touch. The rim of the cauldron is 15-feet (relative) off the table top.",
+														"If an adventurer drinks the brew or finds themselves inside of the liquid, they must roll a d6.",
+														{
+															"type": "list",
+															"style": "list",
+															"items": [
+																"{@b On a 1: Everything is Funny.} For the next hour, the character can't help cracking up. They have disadvantage on any roll unless they can succeed on a DC 13 Intelligence check to keep from laughing like a hyena.",
+																"{@b On a 2-4: Harness the Wind.} The character is surrounded by billowing gusts of wind that they can use like a feather fall spell to cushion a fall. The potion's effects last for 5 minutes.",
+																"{@b On a 5-6: Touch of Nature.} The character becomes infused with what some might say is the spirit of Obojima, allowing them to cast the spell Pillar of Force once before the effects of the potion fade. The spell casting modifier for pillar of force is Intelligence, Wisdom, or Charisma (whichever is higher)."
+															]
+														}
+													],
+													"name": "Bubbling Cauldron"
+												}
+											],
+											"name": "Witch's Work Table"
+										}
+									],
+									"name": "Workshop Main Floor"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"If all goes well, the adventurers return to normal after drinking the correct potion, they retrieve Mrs. Linfrey's letter, and escape the workshop without a hitch. Lomi is overjoyed and thanks the party profusely.",
+										"If you wish to continue the adventure and spin it into your next story plot, then Lomi could mention that Mrs. Linfrey's letter still needs to be delivered and ask if the party would deliver it for him as he has lost his confidence. You can also have Lomi accompany the party as an NPC until the letter is delivered. In either case, this can set up your next adventure as Mrs. Linfrey can live in another city and take the party on a new adventure.",
+										{
+											"type": "entries",
+											"entries": [
+												"If the party chooses to open the letter, Lomi will be horrified and do his best to dissuade them from doing such a dishonorable act. He will report them to the Courier Brigade which will have consequences in later adventures.",
+												"The letter could have several options of what it contains.",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Could be a letter that hooks into your next adventure.",
+														"It could be a confession (of love or a misdeed) that leads to a new tale.",
+														"Could be an invitation to a secret witch's costume ball."
+													]
+												}
+											],
+											"name": "Mrs. Linfrey's Letter"
+										}
+									],
+									"name": "Escape!"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"The following are the creatures that are found in this adventure. The stat blocks have been adjusted relative to the party being Tiny creatures.",
+										{
+											"type": "entries",
+											"entries": [
+												"Mostly found in dense forests, Bora Bugs are natural engineers, using their sharp horns and spiked wing casings to carve out intricate paths on the earth. They work in large colonies, scouring smooth, winding trails. These paths often lead to hidden clearings, ancient ruins, or secret groves where forest spirits dwell. But bora bugs can also carve a path through houses and stone walls which is why many Obojimans see them as pests.",
+												{
+													"type": "statblock",
+													"tag": "creature",
+													"name": "Giant Bora Bug",
+													"source": "OBOJIMA"
+												}
+											],
+											"name": "Giant Bora Bug"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The pixies that inhabit the workshop are sweet as pie when Miss Lindley is around, but when she leaves for town, they get up to all kinds of mischief—especially with Emerson, who they love (and love to tease).",
+												{
+													"type": "statblock",
+													"tag": "creature",
+													"name": "Giant Pixie",
+													"source": "OBOJIMA"
+												}
+											],
+											"name": "Giant Pixie"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The Venus Fly Rat is a bizarre blend of rodent and carnivorous plant that is usually found in woodlands and marshes.",
+												{
+													"type": "statblock",
+													"tag": "creature",
+													"name": "Giant Venus Fly Rat",
+													"source": "OBOJIMA"
+												}
+											],
+											"name": "Giant Venus Fly Rat"
+										}
+									],
+									"name": "Monsters"
+								}
+							],
+							"name": "Adventure: The Curious World Within"
+						},
+						{
+							"type": "entries",
+							"entries": [
+								{
+									"type": "entries",
+									"entries": [
+										"\"Below The Shallows\" is intended for 2 to 4 4th-level characters.",
+										"The adventurers are called to help a young boy recover his grandfather's kite-plane, which was hijacked by fish folk and crashed into the Shallows. The adventurers must now dive to the ocean floor, explore a mysterious sunken town, find the kite-plane, and then bargain (or fight) with a host of fish folk pirates, before returning to the young boy before his grandfather finds out."
+									]
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"This adventure's inciting incident doesn't actually occur until later in this chapter. Still, to make for a more impactful story we recommend having the adventurers meet some of the supporting characters before they're asked to help them.",
+										"To do this, the prologue should take place on a dirt road leading to Sky Kite Valley. Perhaps the adventurers are going to the village to attend one of the grand kite festivals, to see the mass migration of floating jellyfish, or perhaps even deliver the letter given to them at the end of \"The Curious World Within\" adventure. Whatever the reason, it is on this dirt road where the story begins.",
+										{
+											"type": "entries",
+											"entries": [
+												"As the adventurers are traveling, a band of harpies are tracking them, waiting for the right time to strike. The number of harpies should be enough to make the party think twice about fighting (2 to 3 harpies per player). As the harpies swoop down they land on the road in front of them and then try to intimidate the adventurers to give up their loot without a fight."
+											],
+											"name": "Attack of the Harpies"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Whether a fight breaks out or the adventurers are considering handing over their valuables, a noise comes from overhead as a flying machine—a kite-plane—comes to the party's aid. The kite-plane is piloted by a young boy, Tokko (human, male, {@creature commoner|mm}), and his grandfather known as Gramps (human, male, {@creature commoner|mm}).",
+												"The combat goes as follows:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Gramps hurls down Bottled Bombs (common combat potion) as Tokko skillfully navigates the kite-plane.",
+														"For non-lethal combat, you can have Gramps using bottles filled with scented oil or some other substance that the harpies loathe and causes them to fly away spitting curses and shaking their feathers."
+													]
+												},
+												"If this combat becomes lethal, the harpies will flee if two or more of their comrades perish.",
+												{
+													"type": "inset",
+													"name": "GM Guidance",
+													"entries": [
+														"No matter how Tokko and Gramps interact with the harpies, their arrival should feel like an assistance, not a rescue. Although a quirky kid and old man coming to save the day is fun in books and films, most players still want to feel like the heroes of their own story. So be cautious in this."
+													]
+												}
+											],
+											"name": "Aerial Assistance"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"After the harpies are driven off, the kite-plane circles above the adventurers as Tokko and Gramps wave down shouting and cheering, eventually taking off in the direction of Sky Kite Valley before an unfortunate and audible clacking can be heard. Read the following text:",
+												{
+													"type": "inset",
+													"name": "Read Aloud",
+													"entries": [
+														"The delighted laughter and shouts of the flying duo can be heard over their kite-planes rhythmic hum as they circle above. The young pilot tilts the aircraft's wings at a dramatic angle, to better see you below. With an exaggerated wave and brimming smile, he bids you all farewell—straightening the plane once more before taking off towards Sky Kite Valley. It's at that moment that a resounding clank and pop can be heard from the front of the plane. This is shortly followed by a sudden plume of smoke which begins to billow from the front of the craft as they slowly begin to lose altitude. Moments later, the once excited duo meets the earth as their kite-plane sputters to a sad and underwhelming halt."
+													]
+												}
+											],
+											"name": "Victory!"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"If the party asks Tokko for money to recover the kite-plane, he agrees, stating he has something very valuable he can give them as a reward. The truth of the matter is, Tokko, when put on the spot, panicked and promised something he doesn't have. So, despite his better judgment he steals a gold statue of a sun panther from the Sun Panther temple near Sky Kite. While the gold statue is worth far more than the party is asking to recover the kite-plane, it is also an item sacred to the Sun Panther druids—an order of shapeshifters near Sky Kite Valley. They will eventually track down Tokko and then find whoever is holding their sacred item—perhaps delivering a stern moral lesson in the process.",
+												"Stealing from the Sun Panther temple could cost Tokko his reputation and a chance at joining Rock Raley's team if word gets out about the theft."
+											],
+											"name": "Payment"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The fish folk who have taken Tokko's kite-plane are a band of exiles from the Lionfish King's domain. The exiles have made their headquarters in a sunken First Age town and are led by Bloodfin the Foul, a cunning fish folk captain who sees the kite-plane as her way to get back into the Lionfish King's good graces as an offering of tribute.",
+												"All the while, Bloodfin is being swayed into deeper waters of evil by a sea hag known as Slurpgill, who is urging her protege to join forces with Venomous Rex. Slurpgill wishes Bloodfin to fully embrace evil so she can turn Bloodfin into a sea hag and build her coven. Slurpgill uses Bloodfin's painful past to manipulate her into leaving the Lionfish King.",
+												"Morris, the giant seahorse spirit that stole the kite-plane, was intimidated into doing so by Bloodfin."
+											],
+											"name": "Undersea Thieves"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"After crashing their kite-plane Tokko and Gramps laugh it off and quickly begin to prepare the craft to be dragged back to the city. After officially meeting everyone, Gramps asks the adventurers for some assistance getting the kite-plane back to the city, with a promise of dinner for their troubles.",
+												"The dinner with Gramps, Tokko, and their family can be whatever you envision. You can have Tokko's family be a large one with all kinds of quirky relatives or it could be just Tokko and his grandfather. Either way, the goal of the dinner party is to get the players attached to Tokko and Gramps, as that will be what draws them into helping Tokko when the kite-plane is stolen and crashed into the Shallows.",
+												"Possible dinner party topics of conversation include:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"The family is divided in their opinions about Rock Raley and his efforts to fly to the Sky King (read \"Sky Kite Valley\" in the Locations chapter). They would love to know what the adventurers thoughts on Rock Raley are.",
+														"The kite-plane is an innovative new design prototype that Gramps and Tokko have built together. Gramps believes the design might finally get Tokko on Rock Raley's team of aeronauts—a dream of Tokko's. Gramps believes that to get Rock Raley's team to the Sky King.",
+														"One of the player characters could be challenged by Tokko or a relative to cook a dish for the dinner party as a friendly competition to see whose dish is the tastiest."
+													]
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"After the dinner party, everyone's free to go about their business and there's some breathing room before the adventure continues.",
+														"The adventurers can explore Sky Kite Valley and maybe catch a jellyfish sighting, frequent one of the taverns, or go on a mini quest. Meanwhile Tokko works on the kite-plane with help from Gramps in hopes of winning Rock Raley's Top Kite Competition."
+													],
+													"name": "After the Party"
+												}
+											],
+											"name": "Dinner Party"
+										}
+									],
+									"name": "Adventure Prologue"
+								},
+								{
+									"type": "entries",
+									"entries": [
+										"When you're ready to begin the second part of the adventure, read the following:",
+										{
+											"type": "inset",
+											"name": "Read Aloud",
+											"entries": [
+												"It's a bright and sunny day in the town of Sky Kite when suddenly you see what looks like Tokko's plane coming dangerously low across the village, clipping one of the tall buildings as it erratically swoops down the hillside toward the ocean. Tokko can be seen running down the hill, chasing after the plane with his notes and schematics flying everywhere as he begins to wave his arms frantically and shout. You can see what looks like a giant seahorse spirit in the cockpit of the kite-plane. As the plane goes overhead, the seahorse yells, \"Sorry! I didn't want to do this!\""
+											]
+										},
+										"Even if the adventurers shoot or cast spells at the kite-plane or its seahorse pilot, they can't stop it from careening out over the Shallows. Once it is clear that nothing can be done, read the following:",
+										{
+											"type": "inset",
+											"name": "Read Aloud",
+											"entries": [
+												"Tokko finally arrives, gasping for air. Villagers cluster around as everyone helplessly watches the kite-plane get smaller and smaller over the waves. Then, everyone lets out a gasp and Tokko puts his hands to his head as the kite-plane suddenly tilts and crash-lands into the ocean with a splash."
+											]
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Tokko knows where the kite-plane went down, near a reef at the far edge of the Shallows, a place where sailors say that there's a sunken town. No one goes there as it is notorious for snagging fishing lines and rumored to be a hideout for fish folk pirates. Some even say it is haunted.",
+												"To get there, the party will need a boat, preferably a barge large enough to recover the kite-plane. There are many potential ways for the party to accomplish its mission.",
+												"As they are formulating their plan, keep the following in mind:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Dock workers and ship pilots will warn them of the dangers of the Shallows—whirlpools, sea monsters, hammer gulls, and fish folk pirates. Getting out to the reef should feel dangerous.",
+														"The party could also choose to hire a sea-glider out there or a hot air balloon. To accomplish this, you could make up a place like Old Jimbo's Seaplane Shop or Belinda's Balloonery which could spawn a fun side quest or earn a valuable (and possibly quirky) ally for future adventures in Obojima. How they would then use those methods to get the kite-plane back is up to their ingenuity.",
+														"If they are not already familiar with the Mariners' Guild, the party should be made aware of them for access to information and equipment (see \"Holly and the Mariners' Guild\" below)."
+													]
+												},
+												{
+													"type": "inset",
+													"name": "GM Guidance",
+													"entries": [
+														"Whatever means the party chooses to get out to the reef and the sunken town can be fraught with peril. Monster attacks, natural dangers, or a comically malfunctioning boat or plane can turn up the drama."
+													]
+												}
+											],
+											"name": "Preparing for the Mission"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The Mariners' Guild can help with underwater exploration providing information, equipment, potions, and other magic items. You can have the characters meet and talk with a Mariners' Guild member in Sky Kite Valley.",
+												"You can also open a larger adventure by having the party travel to the Northern Branch of the Mariners' Guild to meet Holly Clintock herself. There, they will learn about her quest to rebuild the Pointue (see \"Coastal Divers' Lodge, Northern Branch\" in Locations) which can continue the adventure after this one is completed.",
+												"Mariners' Guild members are generally friendly and helpful. They are of course operating on their love of the ocean environment, boundless enthusiasm, and a shoestring budget. Any assistance is always greatly appreciated.",
+												"The Mariners' Guild can offer:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"{@b Diving Armor.} This specialty diving suit is made from a heavy metal as has been painstakingly crafted by the divers lodge. While wearing divers armor your movement is reduced by 10, unless your Strength score is equal to or greater than 18. Additionally, whenever the spell {@spell Water Breathing} is cast on you while wearing the divers armor, the duration of the spell is doubled for you. There is only one diving suit.",
+														"{@b Goatskin Balloons.} These are balloon-like leather sacks, made from a whole goatskin, that magically inflate. They are mainly used for buoyancy in an emergency. As an action, the user can pull the chord on the balloon, magically filling it with air and sending a character holding the balloon rocketing towards the water's surface at a speed of 100 ft. per round. There are as many goatskin balloons as there are members of the mission.",
+														"{@b Fishfins.} These are fish-like fins that an adventurer can put on their hands and feet. When worn, fishfins grant the wearer 40-foot movement while underwater. The lodge only has 1 set of fishfins.",
+														"{@b Flarestones.} When struck underwater, these little stones sputter with a bright light in a 20-foot radius and dim light for an additional 20 feet. Flarestones last for 15 minutes and the lodge can give up to 3 per adventurer. Above water, they are normal stones.",
+														"Enough potions of water breathing to give each character 1 potion.",
+														"{@b Diver's Candy.} A hard candy specially made by the Mariners' Guild that you can bite down on to release a puff of air that gives an adventurer 1 turn of {@spell Water Breathing}. Each character is given 1."
+													]
+												}
+											],
+											"name": "Holly and the Coastal Divers' Lodge"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"Once preparations are made, Tokko directs the party to the reef where the kite-plane went down. Tokko is not a sailor, so if they choose to go via boat, the party must hire a captain or try to pilot the boat themselves.",
+												"The trip to the reef can be perilous or smooth sailing. But once the party arrives, they can see a colorful reef wall below the crystal clear waves that goes down 200 feet to a white sand bottom. After a brief search over the reef, they can see, far below, a bit of torn cloth caught on an outcropping of coral that Tokko recognizes as a piece of the fabric cover of the kite-plane.",
+												"Once the adventurers go underwater and get to the bottom of the reef, they can see in the distance, strange outlines of the sunken town as well as a path leading from their current location towards it."
+											],
+											"name": "The Sunken Town"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The waters of the Shallows are magically clear allowing for 200-foot visibility before details begin to get fuzzy due to particles floating in the water.",
+												"As adventurers dive beneath the waves, colors begin to get lost, but the Shallows are magical and colors remain longer due to their crystal clear waters.",
+												"Colors are lost in the following order:",
+												{
+													"type": "list",
+													"style": "list",
+													"items": [
+														"Red at 100 feet",
+														"Orange at 150 feet",
+														"Yellow at 200 feet",
+														"Green at 300 feet",
+														"Blue at 500 feet"
+													]
+												},
+												"Rarely are the Shallows deeper than 500 feet.",
+												{
+													"type": "entries",
+													"entries": [
+														"To sink in salt water, characters need to be counterweighted—usually a 20-pound sack of stones worn on the belt. If they lose this counterweight during their journey underwater, they will pop to the surface like a balloon at a movement rate of 40 feet. Because characters are not breathing compressed air, they will not suffer any ill effects like the bends, but being highly buoyant can make for some interesting (and difficult) situations."
+													],
+													"name": "Buoyancy"
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"While words are not understandable underwater, sounds are highly audible—especially metallic, buzzing, and sharp clicking sounds—which travel through water at a much higher speed than air. Because the ears of surface dwellers are designed for an air environment, sounds made underwater are difficult to locate. This can create an unsettling mood when a character hears a crunching or strange buzzing noise but can't locate exactly where its origin is."
+													],
+													"name": "Sound"
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"If a fight occurs on the seafloor or if a character thrashes around at the bottom, you can choose to impair their visibility due to silt and sand being kicked up. After a round of combat or if someone uses the dash action, or otherwise disturbs the seafloor, a cloud of silt 15 feet in diameter is created. Anyone within it suffers the blinded condition. This area of poor visibility lasts for 1 minute after all movement has ceased.",
+														"If you choose to use this in your game, a character must be at least 5 feet off the seafloor to not incur this effect."
+													],
+													"name": "Visibility"
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"Generally, the waters of the Shallows are relatively calm, but occasionally (if you want to throw in a bit of chaos) there are strong currents that flow across the sea floor powerful enough to blow a character over and send them flying. When a current comes along, each player rolls a d6. On a roll of 5 or 6, their character gets blown 30 feet in a direction of your choice unless they succeed at a DC 13 Strength saving throw and hold on to something stationary.",
+														"If they are not anchored to the floor, loose objects (such as a kite-plane) can get carried away in the current."
+													],
+													"name": "Currents"
+												},
+												{
+													"type": "inset",
+													"name": "GM Guidance",
+													"entries": [
+														"You can make the experience of being underwater as much a part of your game as you want to. Having players deal with the 3D environment, ambient noises, potentially blinding silt, and other underwater anomalies can either be a source of fun or frustration. Make sure you have the kind of players who enjoy these challenges and limitations before putting them into play as they are all easily removed due to \"the magic of the Shallows\", which can be the excuse for why being underwater here is just about the same as being on land."
+													]
+												}
+											],
+											"name": "Diving in the Shallows"
+										},
+										{
+											"type": "entries",
+											"entries": [
+												"The sunken town is from the First Age and can therefore be as magical as you need it to be to explain any anomalies or quirks of physics and reality. There might be weird magic effects like an anti-magic zone where potions of water breathing are nullified or areas that are perfectly dry and free of water. It's all your call.",
+												"You can also have the adventurers discover how this place became submerged, plunging them into a deeper mystery that leads to an adventure after this one.",
+												"Before the adventurers near the town, figure out what direction they are approaching it from. Then describe what they see as they move onto the map.",
+												"The following locations are keyed to the Map of the Sunken Town.",
+												{
+													"type": "entries",
+													"entries": [
+														"Because it is a First Age site, the asphalt road shows little sign of wear or erosion and is fairly clear of any encrustation by marine life like coral and barnacles. There are some clusters of Knobble Leaf Seaweed growing through the small cracks in the pavement that wave in the current and can provide some cover for a small or tiny character but mostly the main road is clear of debris."
+													],
+													"name": "1. Main Road"
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"This metal train car has a wood and fabric paneled interior and can be entered through one of the small hatches in the roof or through one of the windows or doors on the side of the car. To allow the characters to enter silently, one of the windows could be broken.",
+														"Inside the train cars are eerie rows of empty seats amid waving clumps of Tangle Weed.",
+														"If you would like, the tracks and depot can also be a stop for the Wandering Line (see \"Wandering Line\" in Locations)."
+													],
+													"name": "2. Train Car"
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"This is a well-built wooden structure that has arrival and departure times for the train still visible that are posted within a glass-covered frame. Behind the ticket counter is a large cluster of Witch's Eye Coral. Underneath the coral cluster is a tiny burrow that is home to a mischievous sea sprite (use the elemental spirit stat block) companion spirit named Sligo.",
+														"Sligo wants the pearl inside of the giant clam that lives in area 9 (Bloodfin's Lair). If Sligo is promised the pearl, it will tell the party all it knows about the fish folk pirates including some idea of the relationship between Bloodfin and Slurpgill.",
+														"If you would like, Sligo can also give the party a ticket for the Wandering Line that it keeps buried deep within its burrow."
+													],
+													"name": "3. Train Depot"
+												},
+												{
+													"type": "entries",
+													"entries": [
+														"This was once a First Age ice cream parlor that is now home to 1d6+2 Blue-Back Salmon.",
+														"The stainless steel ice cream machines are still here although they no longer work and are covered in Knobble Leaf Seaweed. Inside the cash register are a handful of Seashells."
+													],
+													"name": "4. Jolly Cone"
+												}
+											],
+											"name": "Exploring the Sunken Town"
+										}
+									],
+									"name": "Crash of the Kite-Plane"
+								}
+							],
+							"name": "Adventure: Below the Shallows"
 						}
 					]
 				}
@@ -20247,6 +21283,900 @@
 					"name": "Bite.",
 					"entries": [
 						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}22 (5d6 + 5) bludgeoning damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Stul",
+			"source": "OBOJIMA",
+			"page": 326,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "monstrosity"
+			},
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				16,
+				"natural armor"
+			],
+			"hp": {
+				"average": 52,
+				"formula": "8d8 + 16"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 16,
+			"dex": 8,
+			"con": 15,
+			"int": 2,
+			"wis": 8,
+			"cha": 7,
+			"cr": "3",
+			"senses": [
+				"darkvision 60 ft.",
+				"passive Perception 9"
+			],
+			"languages": [
+				"-"
+			],
+			"trait": [
+				{
+					"name": "Hallucinatory Chatter.",
+					"entries": [
+						"If a creature starts its turn within 30 feet of the stul and can hear it, the stul can force the creature to make a DC 12 Wisdom saving throw if the stul isn't incapacitated. On a failed save, the creature becomes charmed for 1 minute. An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. The effect ends early for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Bite.",
+					"entries": [
+						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}12 (2d8 + 3) piercing damage plus 4 (1d8) poison damage."
+					]
+				},
+				{
+					"name": "Beckon.",
+					"entries": [
+						"The stul commands any number of creatures charmed by its Hallucinatory Chatter to approach it. Each creature must spend its action on its next turn to move as close to the stul as it can."
+					]
+				},
+				{
+					"name": "Mental Invasion.",
+					"entries": [
+						"One creature the stul chooses that can see it must succeed on a DC 13 Wisdom saving throw or be forced to use its reaction to move its full speed in the opposite direction of the stul."
+					]
+				}
+			]
+		},
+		{
+			"name": "Urugama",
+			"source": "OBOJIMA",
+			"page": 327,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "spirit"
+			},
+			"alignment": [
+				"NE"
+			],
+			"ac": [
+				15
+			],
+			"hp": {
+				"average": 90,
+				"formula": "12d10 + 24"
+			},
+			"speed": {
+				"walk": 0,
+				"fly": {
+					"number": 120,
+					"condition": "(hover)"
+				}
+			},
+			"str": 9,
+			"dex": 20,
+			"con": 14,
+			"int": 14,
+			"wis": 10,
+			"cha": 6,
+			"cr": "6",
+			"senses": [
+				"darkvision 60 ft.",
+				"passive Perception 10"
+			],
+			"immune": [
+				"poison"
+			],
+			"resist": [
+				"lightning",
+				"thunder",
+				"bludgeoning, piercing, and slashing from nonmagical attacks"
+			],
+			"conditionImmune": [
+				"exhaustion",
+				"grappled",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained",
+				"unconscious"
+			],
+			"languages": [
+				"Common"
+			],
+			"trait": [
+				{
+					"name": "Severed Body.",
+					"entries": [
+						"Urugama has four spectral bodies, each of which urugama can take actions from. These different bodies can't move more than 100 feet away from each other, and Urugama divides its movement among its four bodies as it chooses."
+					]
+				},
+				{
+					"name": "Shifting Form.",
+					"entries": [
+						"At the start of Urugama's turn, one of its bodies is randomly selected as the true urugama. Only the true body can take damage or suffer effects that round. The other bodies can still be targeted with attacks and effects, but they are unaffected and pass through the bodies without harm."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"Two of urugama's forms make a spectral pass attack."
+					]
+				},
+				{
+					"name": "Spectral Pass.",
+					"entries": [
+						"{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}14 (2d8 + 5) necrotic damage."
+					]
+				},
+				{
+					"name": "Haunting Chuckle.",
+					"entries": [
+						"If at least three of urugama's bodies are within 20 feet of each other, they can release a haunting chuckle. All creatures within 30 feet of an urugama body that can hear them must succeed on a DC 13 Wisdom saving throw or suffer one level of exhaustion. On a failed save, the creature is immune to urugama's Haunting Chuckle for the next 24 hours."
+					]
+				}
+			]
+		},
+		{
+			"name": "Vespoma",
+			"source": "OBOJIMA",
+			"page": 327,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "monstrosity"
+			},
+			"alignment": [
+				"CN"
+			],
+			"ac": [
+				12
+			],
+			"hp": {
+				"average": 33,
+				"formula": "6d8 + 6"
+			},
+			"speed": {
+				"walk": 20,
+				"climb": 40,
+				"fly": 20
+			},
+			"str": 12,
+			"dex": 14,
+			"con": 12,
+			"int": 7,
+			"wis": 10,
+			"cha": 13,
+			"cr": "1",
+			"senses": [
+				"passive Perception 10"
+			],
+			"languages": [
+				"understands Common but doesn't speak"
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The vespoma makes two attacks: one with its chomp and one with its claws."
+					]
+				},
+				{
+					"name": "Chomp.",
+					"entries": [
+						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 (1d4 + 2) piercing damage."
+					]
+				},
+				{
+					"name": "Claws.",
+					"entries": [
+						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}7 (2d4 + 2) slashing damage."
+					]
+				},
+				{
+					"name": "Master's Voice.",
+					"entries": [
+						"The vespoma can cast the {@spell Command} spell at will, using Charisma as its spellcasting ability. This spell has a save DC of 12, and it increases by 1 for each vespoma within 30 feet of it (to a maximum of 20)."
+					]
+				}
+			]
+		},
+		{
+			"name": "Vile Corruption",
+			"source": "OBOJIMA",
+			"page": 328,
+			"size": [
+				"L"
+			],
+			"type": {
+				"type": "monstrosity",
+				"tags": [
+					"shapechanger"
+				]
+			},
+			"alignment": [
+				"CN"
+			],
+			"ac": [
+				16,
+				"natural armor"
+			],
+			"hp": {
+				"average": 127,
+				"formula": "15d10 + 45"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 18,
+			"dex": 16,
+			"con": 16,
+			"int": 11,
+			"wis": 7,
+			"cha": 9,
+			"cr": "8",
+			"skill": {
+				"acrobatics": "+6"
+			},
+			"senses": [
+				"blindsight 90 ft. (blind beyond this radius)",
+				"passive Perception 8"
+			],
+			"languages": [
+				"-"
+			],
+			"trait": [
+				{
+					"name": "Flammable.",
+					"entries": [
+						"The Vile Corruption is considered flammable and ignites as if it were a flammable object. If the Vile Corruption takes more than 35 fire damage from a single attack or effect, or if it is on fire for 3 or more rounds, it explodes in a black ball of flames. Each creature within 20 feet of the Vile Corruption when it explodes must make a DC 14 Dexterity saving throw, taking 35 (10d6) fire damage of a failed save, or half as much damage on a successful one."
+					]
+				},
+				{
+					"name": "Magic Resistance.",
+					"entries": [
+						"The Vile Corruption has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				{
+					"name": "Shapechanger.",
+					"entries": [
+						"The Vile Corruption can change its shape to match that of any beast, demon, elemental, monstrosity, or spirit at will. Its statistics, other than its size, are the same in each form. While in this form the Vile Corruption still keeps its watery appearance."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack.",
+					"entries": [
+						"The Vile Corruption makes three attacks: one with its bestial bite and two with its claw mimicry."
+					]
+				},
+				{
+					"name": "Bestial Bite.",
+					"entries": [
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}11 (2d6 + 4) piercing damage. The target must then succeed on a DC 14 Constitution saving throw or have putrid water forced down its throat. On a failed save, the water enters the creature's stomach and nullifies any potions currently affecting it."
+					]
+				},
+				{
+					"name": "Claw Mimicry.",
+					"entries": [
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}7 (1d6 + 4) slashing damage."
+					]
+				},
+				{
+					"name": "Avian Mimicry.",
+					"entries": [
+						"Waterlogged copies of songbirds burst from the Vile Corruption and soar toward up to 3 creatures that are within 30 feet of it. Each target must make a DC 14 Dexterity saving throw, taking 11 (2d10) necrotic damage on a failed save, or half as much damage on a successful one."
+					]
+				}
+			]
+		},
+		{
+			"name": "Wandering Door",
+			"source": "OBOJIMA",
+			"page": 329,
+			"size": [
+				"L"
+			],
+			"type": {
+				"type": "construct"
+			},
+			"alignment": [
+				"LN"
+			],
+			"ac": [
+				12
+			],
+			"hp": {
+				"average": 8,
+				"formula": "1d10 + 3"
+			},
+			"speed": {
+				"walk": 150,
+				"climb": 150
+			},
+			"str": 17,
+			"dex": 14,
+			"con": 16,
+			"int": 14,
+			"wis": 16,
+			"cha": 10,
+			"cr": "0",
+			"save": {
+				"str": "+11",
+				"dex": "+10",
+				"con": "+11",
+				"int": "+10",
+				"wis": "+11",
+				"cha": "+8"
+			},
+			"skill": {
+				"acrobatics": "+10",
+				"athletics": "+11",
+				"perception": "+11",
+				"stealth": "+10"
+			},
+			"senses": [
+				"blindsight 300 ft.",
+				"passive Perception 21"
+			],
+			"immune": [
+				"all"
+			],
+			"conditionImmune": [
+				"blinded",
+				"charmed",
+				"deafened",
+				"exhaustion",
+				"frightened",
+				"grappled",
+				"incapacitated",
+				"paralyzed",
+				"petrified",
+				"poisoned",
+				"prone",
+				"restrained",
+				"stunned",
+				"unconscious"
+			],
+			"languages": [
+				"understands all languages but can't speak"
+			],
+			"trait": [
+				{
+					"name": "Dispel Susceptibility.",
+					"entries": [
+						"The Wandering Door becomes a mundane pile of rubble if it's targeted by a {@spell Dispel Magic} spell of 7th level or higher."
+					]
+				},
+				{
+					"name": "Doorway.",
+					"entries": [
+						"A creature that enters the Wandering Door can teleport to any doorway on any plane as if the doorway was planted directly in front of the location. If a creature is not aware of how the door's magic works, it is instead teleported to a random doorway."
+					]
+				},
+				{
+					"name": "Immutable Form.",
+					"entries": [
+						"The Wandering Door is immune to any spell or effect that would alter its form."
+					]
+				},
+				{
+					"name": "Legendary Resistance (7/Day).",
+					"entries": [
+						"If the Wandering Door fails a saving throw, it can choose to succeed instead."
+					]
+				},
+				{
+					"name": "Like the Wind.",
+					"entries": [
+						"The Wandering Door's movement doesn't provoke opportunity attacks."
+					]
+				},
+				{
+					"name": "Magic Resistance.",
+					"entries": [
+						"The Wandering Door has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				{
+					"name": "Special Feet.",
+					"entries": [
+						"The Wandering Door can walk on all surfaces, including vertically up walls and on top of water."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Leap!",
+					"entries": [
+						"The Wandering Door leaps 60 feet vertically into the air."
+					]
+				},
+				{
+					"name": "Shake!",
+					"entries": [
+						"The Wandering Door shakes violently. All creatures on top of the Wandering Door must succeed on a DC 19 Strength saving throw or be thrown away from the door, landing prone in an unoccupied space within 10 feet of it."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Flee!!!",
+					"entries": [
+						"If a creature moves within 30 feet of the Wandering Door, it moves up to 100 feet."
+					]
+				},
+				{
+					"name": "Shake!",
+					"entries": [
+						"When a creature lands on top of the Wandering Door, the door shakes violently. All creatures on top of the Wandering Door must succeed on a DC 19 Strength saving throw or be thrown away from the door, landing prone in an unoccupied space within 10 feet of it."
+					]
+				}
+			]
+		},
+		{
+			"name": "Watchwood Tree",
+			"source": "OBOJIMA",
+			"page": 330,
+			"size": [
+				"L"
+			],
+			"type": {
+				"type": "plant"
+			},
+			"alignment": [
+				"NE"
+			],
+			"ac": [
+				13,
+				"natural armor"
+			],
+			"hp": {
+				"average": 25,
+				"formula": "3d10 + 9"
+			},
+			"speed": {
+				"walk": 10
+			},
+			"str": 15,
+			"dex": 6,
+			"con": 16,
+			"int": 5,
+			"wis": 10,
+			"cha": 3,
+			"cr": "1/2",
+			"skill": {
+				"perception": "+4"
+			},
+			"senses": [
+				"darkvision 60 ft.",
+				"passive Perception 14"
+			],
+			"vuln": [
+				"fire"
+			],
+			"conditionImmune": [
+				"deafened",
+				"prone"
+			],
+			"languages": [
+				"-"
+			],
+			"trait": [
+				{
+					"name": "False Appearance.",
+					"entries": [
+						"If the watchwood tree is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the watchwood tree move or act, that creature must succeed on a DC 18 Intelligence (Investigation) check to discern that the watchwood tree isn't an ordinary tree."
+					]
+				},
+				{
+					"name": "Unruly Earth.",
+					"entries": [
+						"The ground within a 15-foot radius centered on the watchwood tree is considered difficult terrain for all creatures besides the watchwood tree."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Root Slam.",
+					"entries": [
+						"{@atk mw} {@hit 4} to hit, reach 15 ft., one target. {@h}9 (2d6 + 2) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Watching Eye (Recharge 6).",
+					"entries": [
+						"The terrifying gaze of a watchwood tree can leave a creature frozen in its tracks. Each creature of the watchwood tree's choice within a 15-foot cone must succeed on a DC 12 Wisdom saving throw or become restrained; a creature that can't be frightened automatically succeeds on its saving throw. The watchwood tree can then immediately make a Root Slam attack against each creature that failed its saving throw. A creature restrained in this way can use its action to make a DC 12 Wisdom check, freeing itself on a success."
+					]
+				}
+			]
+		},
+		{
+			"name": "Witch",
+			"source": "OBOJIMA",
+			"page": 331,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"any race"
+				]
+			},
+			"alignment": [
+				"A"
+			],
+			"ac": [
+				10
+			],
+			"hp": {
+				"average": 33,
+				"formula": "6d8 + 6"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 11,
+			"dex": 13,
+			"con": 12,
+			"int": 14,
+			"wis": 13,
+			"cha": 14,
+			"cr": "2",
+			"skill": {
+				"history": "+4",
+				"survival": "+5",
+				"persuasion": "+4"
+			},
+			"senses": [
+				"passive Perception 11"
+			],
+			"languages": [
+				"any one language (usually Common)"
+			],
+			"trait": [
+				{
+					"name": "Coven Member.",
+					"entries": [
+						"The witch has advantage on Charisma (Persuasion) checks involving a witch coven."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Unarmed Strike.",
+					"entries": [
+						"{@atk mw} {@hit 2} to hit, reach 5 ft., one creature. {@h}1 bludgeoning damage."
+					]
+				},
+				{
+					"name": "Spellcasting.",
+					"entries": [
+						"The witch is a 4th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The witch has the following wizard spells prepared:",
+						{
+							"type": "list",
+							"style": "list-hang-notitle",
+							"items": [
+								"{@i Cantrips (at will):} {@spell Light}, {@spell Mending}, {@spell Message}, {@spell Retrieve}, {@spell Task}",
+								"{@i 1st level (4 slots):} {@spell Bubble Lift}, {@spell Detect Magic}, {@spell Duplicate}",
+								"{@i 2nd level (3 slots):} {@spell Levitate}, {@spell Shared Vision}"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Yokario",
+			"source": "OBOJIMA",
+			"page": 332,
+			"size": [
+				"S"
+			],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"yokario"
+				]
+			},
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				14,
+				"natural armor"
+			],
+			"hp": {
+				"average": 13,
+				"formula": "3d6 + 3"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 10,
+			"dex": 14,
+			"con": 12,
+			"int": 10,
+			"wis": 8,
+			"cha": 8,
+			"cr": "1/4",
+			"skill": {
+				"performance": "+3"
+			},
+			"senses": [
+				"darkvision 60 ft.",
+				"passive Perception 9"
+			],
+			"languages": [
+				"Common"
+			],
+			"trait": [
+				{
+					"name": "Drum Line.",
+					"entries": [
+						"If the yokario makes an attack against a creature that has been hit by one of its allies' Drum Mallets since the end of the yokario's last turn, its Drum Mallet has an attack bonus of +6 instead of +4."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Drum Mallet.",
+					"entries": [
+						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 (1d6 + 2) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Sling.",
+					"entries": [
+						"{@atk rw} {@hit 4} to hit, range 30/120 ft., one target. {@h}4 (1d4 + 2) bludgeoning damage."
+					]
+				}
+			]
+		},
+		{
+			"name": "Giant Bora Bug",
+			"source": "OBOJIMA",
+			"page": 348,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "beast"
+			},
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				12,
+				"natural armor"
+			],
+			"hp": {
+				"average": 22,
+				"formula": "4d8 + 4"
+			},
+			"speed": {
+				"walk": 30,
+				"climb": 20,
+				"fly": 30
+			},
+			"str": 12,
+			"dex": 14,
+			"con": 13,
+			"int": 4,
+			"wis": 12,
+			"cha": 6,
+			"cr": "1/2",
+			"skill": {
+				"perception": "+3"
+			},
+			"senses": [
+				"darkvision 60 ft.",
+				"passive Perception 13"
+			],
+			"languages": [
+				"-"
+			],
+			"trait": [
+				{
+					"name": "Bioluminescent Glow.",
+					"entries": [
+						"The Giant Bora Bug emits a soft light from its spiked wing casing, shedding dim light in a 10-foot radius around it."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Horn Strike.",
+					"entries": [
+						"{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 (1d8 + 1) piercing damage."
+					]
+				},
+				{
+					"name": "Spike Flurry (Recharge 5-6).",
+					"entries": [
+						"The Giant Bora Bug releases a flurry of spikes. Each creature within 10 feet of the Giant Bora Bug must make a DC 12 Dexterity saving throw, taking 7 (2d6) piercing damage on a failed save, or half as much damage on a successful one."
+					]
+				}
+			]
+		},
+		{
+			"name": "Giant Pixie",
+			"source": "OBOJIMA",
+			"page": 348,
+			"size": [
+				"L"
+			],
+			"type": {
+				"type": "spirit"
+			},
+			"alignment": [
+				"NG"
+			],
+			"ac": [
+				14,
+				"natural armor"
+			],
+			"hp": {
+				"average": 22,
+				"formula": "4d10"
+			},
+			"speed": {
+				"walk": 30,
+				"fly": 30
+			},
+			"str": 10,
+			"dex": 18,
+			"con": 10,
+			"int": 14,
+			"wis": 15,
+			"cha": 16,
+			"cr": "1/2",
+			"skill": {
+				"perception": "+4",
+				"stealth": "+8"
+			},
+			"senses": [
+				"passive Perception 14"
+			],
+			"languages": [
+				"Sylvan",
+				"Common"
+			],
+			"trait": [
+				{
+					"name": "Magic Resistance.",
+					"entries": [
+						"The Pixie has advantage on saving throws against spells and other magical effects."
+					]
+				},
+				{
+					"name": "Innate Spellcasting.",
+					"entries": [
+						"The Pixie's innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:",
+						{
+							"type": "list",
+							"style": "list-hang-notitle",
+							"items": [
+								"{@i At will:} {@spell Druidcraft}, {@spell Jolt}, {@spell Root Grab}, {@spell Transparency}",
+								"{@i 1/day each:} {@spell Confusion}, {@spell Control Animal}, {@spell Detect Thoughts}, {@spell Entangle}, {@spell Obscure Object}, {@spell Pacify Person}, {@spell Sleep}, {@spell Whelm Weapon}"
+							]
+						}
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Gift of Flight.",
+					"entries": [
+						"The Pixie magically grants a creature it can see a flying speed of 30 feet. The creature keeps its flying speed, as long as the Pixie is holding its breath. The Pixie can hold its breath for a number of minutes equal to 1 + its Constitution modifier (minimum of 30 seconds). The Pixie can only grant this effect to one creature at a time, and when the effect ends, it must wait 1 minute before using it again."
+					]
+				}
+			]
+		},
+		{
+			"name": "Giant Venus Fly Rat",
+			"source": "OBOJIMA",
+			"page": 349,
+			"size": [
+				"L"
+			],
+			"type": {
+				"type": "beast"
+			},
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				14,
+				"natural armor"
+			],
+			"hp": {
+				"average": 34,
+				"formula": "4d10 + 12"
+			},
+			"speed": {
+				"walk": 30,
+				"climb": 20
+			},
+			"str": 15,
+			"dex": 15,
+			"con": 12,
+			"int": 12,
+			"wis": 14,
+			"cha": 7,
+			"cr": "1/2",
+			"skill": {
+				"stealth": "+5"
+			},
+			"senses": [
+				"blindsight 30 ft.",
+				"darkvision 60 ft.",
+				"passive Perception 11"
+			],
+			"resist": [
+				"poison",
+				"bludgeoning, piercing, and slashing from nonmagical attacks"
+			],
+			"conditionImmune": [
+				"blinded",
+				"charmed",
+				"frightened"
+			],
+			"languages": [
+				"-"
+			],
+			"action": [
+				{
+					"name": "Snap Jaw.",
+					"entries": [
+						"{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}4 (1d4 + 2) piercing damage. If the target is a creature, it is also grappled (escape DC 12) as the Venus Fly Rat clamps down with its powerful jaws. While grappled in this way, the target takes 4 (1d4 + 2) piercing damage at the start of each of its turns."
+					]
+				},
+				{
+					"name": "Tail Strike.",
+					"entries": [
+						"{@atk mw} {@hit 4} to hit, reach 10 ft., one target. {@h}5 (1d6 + 2) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Pollen Burst (Recharge 5-6).",
+					"entries": [
+						"The Venus Fly Rat releases a burst of pollen in a 15-foot cone. Each creature in that area must succeed on a DC 11 Wisdom saving throw or be affected by the {@spell Confusion} spell for 1 minute. An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
 					]
 				}
 			]
