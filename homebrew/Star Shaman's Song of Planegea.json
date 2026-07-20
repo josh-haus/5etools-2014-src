@@ -372,7 +372,7 @@
 						{
 							"type": "flowchart",
 							"name": "A Star-Shaman's Tale",
-							"entries": [
+							"blocks": [
 								{
 									"type": "flowBlock",
 									"name": "The Star-Shaman Speaks",
@@ -10091,7 +10091,7 @@
 								}
 							]
 						},
-						"Spell Descriptions. The spells below are born from the primal fury of the world of Planegea, but can easily be used to add excitement to any 5th Edition campaign. The spells are presented in alphabetical order in this book; see the {@filter spell list|spells.html|source:SSSOP} to see which classes can access each spell."
+						"Spell Descriptions. The spells below are born from the primal fury of the world of Planegea, but can easily be used to add excitement to any 5th Edition campaign. The spells are presented in alphabetical order in this book; see the {@filter spell list|spells.html|source=SSSOP} to see which classes can access each spell."
 					]
 				},
 				{
